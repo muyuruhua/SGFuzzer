@@ -1,0 +1,24 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audi  ideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRUSPClient (LKVE555 Streaming Media v4036.08.28)
+Cccept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes28)
+Transport: RTP/AVP;unicas                                                      t;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.055 Streaming Media v2018.08.PARAMETERssion: 000022B8
+
+PLAY rtsp://SSSSSSssion: 000023b8
+
+PLAY rtsp://127.0.0.1:855O/mpeiog1or2AudioVideo000-
+
+
+User-Agent: ~/testRTSPClient (LIVE555 Streaming Media v2018.Range)
+TransTEARDOWN rtsp://127.0.0
+User-Agent: ./testRTSPCport:  SETUPAVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mp!eg1or2AudiovideoTest/tr`ck2 RTSP/1.0
+CS00022B8
+TEA                                                          RDOWNpt=0.000-
+li

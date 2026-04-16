@@ -1,0 +1,14 @@
+D        ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudoiTEARDOWNVideoTest RTSP/1.0
+CDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2y   AudioVideoTest RTSP/1.0
+CSe'Seq: 2
+User-Agent: ./testRTSPClient (LIVE556 Streaming Media v2018.08.28)
+Accept: app      Ad/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: /et.stRTSPClient (LIVE/track2 RTSP/~1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 S v2018.08.28)
+Transport:"RTP/AVP;unicast;client_port=45GET_PARAMETERssion: CS q: 2
+User-Agent: ./testRTSPClient (LIVE555 Streami _@  > ng Media v2018.08.28)
+Accept:e

@@ -1,0 +1,7 @@
+D      G2Z       ESCRIBE rtsp://127z t RTSP/1.0  G2Z       ESCRIBE rtsp://127z t RTSP/1.0
+CSeq: .02
+08.28)
+.0.1:8Tr
+CS    eq: .02
+08.28)
+.0.1:8Tr      554 

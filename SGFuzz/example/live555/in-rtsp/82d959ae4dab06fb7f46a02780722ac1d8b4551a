@@ -1,0 +1,17 @@
+D8
+Rang rtsp://127.0.0.1:8554/mpeg1or2Au~io ideoTest RTSP/1.0
+CSeq: 2
+User-Ag/ .:enttContent-Length:LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+UAcceptent: ./testRTSPClient (LIVE555 Streamg Miad ev2st/ RTSP/1.0cept: applicaac3AudioTest,ETUP rtsp://127.0.0.100022B8
+
+PLTSPClient (LIVE555 Stz t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:8554/mperg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Useeaming Mr

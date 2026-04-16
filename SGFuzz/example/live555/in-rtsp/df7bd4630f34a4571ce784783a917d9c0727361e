@@ -1,0 +1,34 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RwebmFileTeTtsSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+    CSeq: 3
+User-Agent: ./testRTSPJlient (LIVE%55 Streaming Media v2018.08.28)
+Transport: RTPjAVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVide +  t/track2 RTSP/1.0r2AudioVide +  t/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVidStreaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: apphication/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022Trania v2    08.28)  @cept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v20    17.09.28)
+eaming Media v20    17.09.28)
+Transport: R0//A1P;unicast;client_port=50778-eoTestTCP/track2 `TSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE t5S55reamingstRTSPClient (LIVE555 Streaming Med8
+Range: npt=0.000-
+
+TEARDOWN rtsp:LIVE5
+S-Agevn@Scale:2B8
+

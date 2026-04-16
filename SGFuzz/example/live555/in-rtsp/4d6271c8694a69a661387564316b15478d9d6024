@@ -1,0 +1,15 @@
+DESCRIBk2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClien?Content-Length:t (LIVE555 Streaming Media v2018.08.28ent_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/0.0
+CSeq: 5
+UseAudioVi: ./testRTSPClient (LIVE555LStreaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtspH//127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555eStr555 Streamia v2018.08.28)
+Session: 000022B8
+

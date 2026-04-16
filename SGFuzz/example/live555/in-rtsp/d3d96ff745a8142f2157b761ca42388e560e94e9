@@ -1,0 +1,15 @@
+D    IBE rtsp:z//127.0.0.5541:8/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UserSP/1.0
+CSer-Agent:  /teUser-AgentstRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Au-Agent: ./testRTSPClient (LIVE555 streaming Media v2018.08.28)
+Accmpt: application/sdp
+
+SETUP rtsq://127.0.0.1ia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClieDESCRIBEnt (LIVE972 Streaming Media v2018.08.29)VP;unicast;client_pestRTSeoTest/track1 RTSPPC[ient (LIVE5/15.

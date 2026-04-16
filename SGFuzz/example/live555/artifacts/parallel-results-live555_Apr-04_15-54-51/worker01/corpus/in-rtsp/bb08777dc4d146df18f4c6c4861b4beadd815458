@@ -1,0 +1,6 @@
+DE.       tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: edia v18.08.27)
+Session: 000022B8
+

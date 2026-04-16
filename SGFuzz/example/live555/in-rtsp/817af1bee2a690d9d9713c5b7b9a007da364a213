@@ -1,0 +1,13 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq:                                                                                                                                   2
+User-Agent: ./testRTSPClient (LIVE555 StDSATUP WN tsp://127 =h.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent:                         2
+User-Agent: ./testRTSPClient (LIVE555 StDSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient reaming Media 
+User-(LIVE555 Streaming Media v3    2B8
+
+PLAY rtsp://127.0.0.1:85
+
+SETUv201P8

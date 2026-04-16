@@ -1,0 +1,35 @@
+DSET_PARAMETERESCRIBE rtspon: 000022Trania v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 3
+matroskaFileTejtstRTSPClient (LYVE555 Streami~g Media v20    17.09.28)
+Transp
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:Range8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+Us:+/127.0.0.1:8554/mpeg1or2AudioVi    fst RTSP2/1.0_port=507oTfst RTSpt=0.000-
+
+TEA)DOWN rtsp://127.0.0.1:8554/mpeg1or20.0.1:8554/mpeg1or2lAudioVideoT P   k1RTSP/1.0
+CS]eq: 3
+.User-Acast;client_port=50778-!50779
+
+SE55 Streaming Media v2018.08.28)
+TranLspoOPTIONSwavAudioTest(/Rangenicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.gent:18.08.28)
+Transport: RTP(/Rangenicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.gent: ./testRTSPClient (LIVE555 StreaSession: 000022B8
+

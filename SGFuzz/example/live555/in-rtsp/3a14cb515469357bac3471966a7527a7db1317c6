@@ -1,0 +1,24 @@
+D  AVIBE vtsp://127.0.0.2:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE555 St7554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: %2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:85H4/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.2)8
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022Trania v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY5
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v20    17.09.28)
+Transport: R0//AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sd0VideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTestst              six-playNow:on: 000022B8
+

@@ -1,0 +1,12 @@
+Dst RTSP/1.0
+CSeq: 2
+User-Agent: ./tesSET_PARAMETER v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Use (LIVE5g Media v20stRTSPClientr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018PO8.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://12 (LIVE555 Streaminept: applica7.0.0.tion/sdp
+1:85

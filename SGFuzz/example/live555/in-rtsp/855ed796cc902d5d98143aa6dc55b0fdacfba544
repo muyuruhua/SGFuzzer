@@ -1,0 +1,34 @@
+Dd)     rtsp://1ange:sdp
+
+SETUP r1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2SETUP rtspDESCRIBE rts:p//1oVideoTest/ RTSP/1Range.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v201018.08.28)
+Accept: application/sdp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RSPT/1.0
+CSeq: 5
+User-Agent: ./testRTSP>lient (LIVE555 StremMignea dia v2018.08.28)
+Session:  000022B8 
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp
+SETUP rtspDESCRIAgent: ./testRTSPClient (LIVE55

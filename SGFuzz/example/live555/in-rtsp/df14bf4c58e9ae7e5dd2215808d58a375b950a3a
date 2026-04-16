@@ -1,0 +1,34 @@
+DwebmFileTest://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVid8-0POOD2B8
+Accept:eoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPlClient (LYVE555 Streaming Media v2017.08.28)
+Transport: RTP/AVP;usiccatn;lient_port=5077                                                                                                      8-0POOD2B8
+Accept: application/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022TransportB8
+
+PLAY rtsp://127.0.  / 8554/mpeg1oroTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE555 ot8554/mpeg1or2AudioVideoTest RRange: npt=9TSP/0.0
+CSeq: 2
+User-Agent: ./liveMedia755314(LIVE555 Streaming Media v2    08.28)
+Accept: alient_port=45GET_PAR METERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2Audipplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESC                     six-playNow:on: 000022B8
+

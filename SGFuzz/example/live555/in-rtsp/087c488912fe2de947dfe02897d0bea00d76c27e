@@ -1,0 +1,20 @@
+DESCDE.       tsp:                                                                                                                                      `______Y                                                                           //127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTS%/1.0ent (LIVE555 Streaming Media v2018.08.28)ser-Agent: ./testRTSPClient (LIVE555 Streaming M Streaming Media v2018.08.28)RTP/AV);uincast;client_port=45GET_PARAMETE
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AulioVidejTest/ RTSP/1.0
+CSelient_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming0 Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN r.tsp://127.0.0wq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000)22B8
+Rang
+Accept: application/sContent-Length:p://1er-Agent: ./testRTSPClient (LIVE555 SbbbbbbbbbbbbSP/2.0
+CSeq: edia v18.08.27)
+Session: 000022B8
+

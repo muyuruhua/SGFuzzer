@@ -1,0 +1,13 @@
+ Transport:                                                                    DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming  edia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://126.0.0.peg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRT2PClient (LIVE555 Streaming Media                                                                                    v2018.08.28)
+Sesion: 008)
+Transport: RTP/AVP;unic                                 ast;client_port=50777-50779
+
+SETUP rtsp://127.0.0.1:85~4/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq:                                                            `W     0 $RT            tRTSPClient (LIVE556 Stre        aming Media v2 

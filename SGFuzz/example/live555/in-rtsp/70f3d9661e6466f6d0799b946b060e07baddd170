@@ -1,0 +1,17 @@
+DDEREGISTER ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioViIedoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 S5546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/.10
+CSeq: 5=
+User-Agent: ./testRTSPClient (LIPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPVE555 Streaming Media v2018.09.28)
+Session: 000022B8
+Range: npt90.000-
+
+TEARDORWN rtsp://12^^^^^^^^^^^^^7.HHHHHHHHH0.0.1:8554/mpeg1or2Audi8
+Range: npt=0.000-
+
+TEARIVE5
+Sessivn@ 000022B8
+

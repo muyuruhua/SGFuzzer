@@ -1,0 +1,15 @@
+Dsion]]] rtsp://127.0.0.1:85edia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50779-50779webmFileTestsp://127.0.0.1:8554/mpig1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20$Q      pSET_PARAMETER47
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:85n: ./testRTSPClient (LIVE555 Streaming Media v2017.08.28)
+Session: 000022B8~
+Range: npt=1.000-
++
+TEARDtpO sWrN://-27.0.0.1:8554/mpeg2or2AudioVideoTest/ RTSP/1.0~
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 001022B8
+

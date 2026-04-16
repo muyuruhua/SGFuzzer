@@ -1,0 +1,18 @@
+DESCRIBE(rtsp://1DHQO.0.1:8554/mpeg1or2AudioVideoTfst RTSP 
+User-Agent: ./testRTSPClwavAudioTestudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tbstRT554/mpeg1or2AudioVideoTest/ TRSP/1.0
+CSeq: 5 
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TE:855oVideoTest/ RTSP/1.0
+CSeq: 5 
+User-Agent: ./testRTSPClie/mpeg1or2AudioVideCseqoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tbstRTSPClient (LIVE555 Streaming Media v2018.   .1:8554/mpeg1or2AudioVideoTeTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE554eStr555 Streamia v2018.08.28)
+Session: 000022B8
+

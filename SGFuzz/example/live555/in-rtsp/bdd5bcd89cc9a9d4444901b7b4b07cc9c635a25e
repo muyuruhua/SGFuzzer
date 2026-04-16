@@ -1,0 +1,26 @@
+zOPTIONS/1.0
+CSeq: 2
+User-Agent: ./testRTSPClieContent-Length:nt (LIVE555 S#reaming Media v2018.08.28)
+Accept: apulicatiomAVPp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE556 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe               st/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCliedia v2018.08.p  `__b 28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVidwoTest/ RTSP/1.0
+CSeq: 6
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+UserP;uni: ./testi 4
+User-AgenContent-Length:ient PAUSE110 St8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 3
+User-At/ RTSP/1.0
+CSe 

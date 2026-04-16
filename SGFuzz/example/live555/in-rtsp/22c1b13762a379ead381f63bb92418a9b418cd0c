@@ -1,0 +1,21 @@
+Dac3AudioTest      : application/sdmatroskaFileTest//127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 TRSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVAgent: ./testRTSPClient (Lw~ IVE556 Strea                  
+P.0.1:8554/mack	h v2018.08.28)
+Accept: a pp.CamiudioVieeoTem.Cniagng MedE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_povt=50778-50779
+
+SETUPsrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+Use2-Agent: ./testRTSPClient (LIVE555 Streaming Medi2 0av18.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMTiEsEsRon: 0000    ent_povt=54778-50779
+
+SETUPsrtsp://127.0.0.1:8554/mpeg1or2AudixVide
+
+P.0.1:8554/mack1
+
+.0.1:8554/mack1
+
+Te.Cami.0
+Cdeoseq/tudioVideoTe.CamiudioVideoTem.Cniagng  Media8
+

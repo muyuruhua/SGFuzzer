@@ -1,0 +1,3 @@
+DARAMEBE(rtsp:DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVid        eoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE554 Streaming M//127.0.0.1:85edi5

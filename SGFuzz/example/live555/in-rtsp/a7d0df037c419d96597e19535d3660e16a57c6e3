@@ -1,0 +1,25 @@
+D0
+CSeq: 2
+UsAr-eaming Media v2018.0W	  8.28)
+Acq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0mmmmmmmmmmmmmmmmmmmmmmmmmmmmmimmmmmmmmmmmmmmmmmmmmm (LIVE555 S                                                                                            ETSATUP WN tsp://127.0.0.1:855Accept1or2AudioVideoTest RTSP/1.0
+CSestRTSPClient (LIVE555 Streaming Media v2018.0mmmmmmmmmmmmmmmmmmmmmmmmmmmmmimmmmmmmmmmmmmmmmmmmmm (LIVE555 S                        eg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVaaaaaaaaaaaaaaaaaaaaP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eamg       a v1009.08.28)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://1g       :8554/mpeg1or                                          2Au33333d000022B8ioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClnt (LIVE277 S5 Streaming M0779
+
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2Aud.08.28)
+Transport.28) 
+Transprt33333333333r2ntnt

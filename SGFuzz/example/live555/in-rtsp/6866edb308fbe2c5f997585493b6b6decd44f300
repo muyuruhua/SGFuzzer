@@ -1,0 +1,32 @@
+DESCRIBE rtsp://127.0.0.1:8matroskaFileTest554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Use r-Agent: ./webmFileTestsevtRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudD   'IBE rts^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^p://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE5022B8
+RanioVideoTest/track1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSer-Agent: ./testRTPClient (LIVE555 Streaming Media v2017.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transpoeq: 4
+User-Agent: .//testRTxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx1 RTSP/1.0
+NSB8CSeq: 3
+Use-reAgnt: ./testRTSPClient (LIVE555 Streaming Media v2AVP.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://254.0.PAUSE554/mpe?1or2Aud                                                                                                 ioVideo Test/track2 RTge: npt=0.000-SP/1.0
+CSeq?_Kru* SEoVideoTest RTSP/1.0
+CSeq: 2
+Use r-Ag
+
+TEARDOWN ertsp:nt:

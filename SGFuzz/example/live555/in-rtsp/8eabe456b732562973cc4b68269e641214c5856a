@@ -1,0 +1,26 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE277 St |. @`  Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+TranspoTransportVP;unicast;cl ent_port=5077LR50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CmatroskaFileTestestRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Ag     ./testSeq./testRTSPClient (LIVE972 Streaming0Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=05778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.AR?2:-ERssion: 000022OPTIONSB8Scale:                  PLAY rtsp://128.0.0.1:8554/mpeg1oR2AudioVideoRange: npt=9Test/ RTS  1.4
+CSDESCRIBE rtsp://127.0.0.1:8554/mpeg1orRange2Audio ideoTest RTSP/1.0
+CSeq: 2
+User-Ag/ .:enttestRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUUser-A_ent27.0.0.1:8554/mpe
+eg1or2AudioVideoTent: ./testRT(PClient (LIVE555 Streaming Medi# v2018.08.28)

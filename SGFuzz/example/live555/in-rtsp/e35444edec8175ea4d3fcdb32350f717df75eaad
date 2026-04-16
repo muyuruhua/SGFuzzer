@@ -1,0 +1,12 @@
+DTransporttsp:/ent"(LIVE555 S/track2 RTSP/1.0
+CSeq: 4
+UseSession: ./testRTSPia v20[54/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range:   npt=0.000-
+
+TEARDOWN rtsp:/%128.0.0.1:8L55/mpeg1or2AudioVideoTest/ RTSP/1.0
+C[eq: 6
+User-Agent: ./SET_PARAMETERt
+User-Agent: .ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooDESCRI/SET_PARAMBE 

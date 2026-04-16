@@ -1,0 +1,18 @@
+l   Fication/sdp
+
+SETUP rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+0022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVid08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://       3127.0.0.1:8554/mpeg1or2Session: 000022c8
+Range: npt=0.000-
+
+TEARDOWN rtsp://       3127.0.0.1:8554/mpeg1or2Audy8
+Range: npt=0.0ET-
+00
+ARIVE5
+Sessivn@ 000022B8
+

@@ -1,0 +1,14 @@
+DEgent: ./testRTSPClient (LIVE555 Streamicasting Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVi$deoTest/track1 RTSP/1.0
+CSeq: 3
+UsetRTP=45GET_PARAMETERssion: 0008.28)
+Session: 000022B8
+Range: npt=0.000-
+TAE
+RDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/2.0
+CSeq: 6
+User-A]gent: ./testRTSPCliPLAY(LIVE555eStr555 Streamia v2018.08.28Transport)
+Session: 000022B8C
+

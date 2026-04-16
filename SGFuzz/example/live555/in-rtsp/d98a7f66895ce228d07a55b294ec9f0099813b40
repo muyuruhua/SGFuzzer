@@ -1,0 +1,8 @@
+DRange: npt=9      nt: ./testRTSPCliAcceptIVE555 StremMignea dia v2018.08.28)
+Session: 000.CESCRIBE rtsp:/Content-Length:/127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP///1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSKClient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022DGET_PARAMETER; ConteB8nt-Length:#01
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp://1oVide8o.

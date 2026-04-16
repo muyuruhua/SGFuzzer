@@ -1,0 +1,23 @@
+D     
+PnIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0Cseqeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.07.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClie
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMEIVE555 Streaming Media v2018.08.28!
+Session: 00002B28
+Rang%: npt=0.000-
+/
+TEARDARAMETERssi127.0.0.1:&8554/mpeg1or2AudioVideo0est/ RTSP/0.0
+KCeq: 6
+Us}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}B28
+Range: npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:&8554/mpeg1or2AudioVideoDest/ RTSP/0.0
+CCeq: 6
+Us}}} }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}]}}}}}}}000022B8}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}e>r-Agent: ./testRTSPClient (LIVE555 Streaming Media v20tra08.28)-
+Session: 000022B8
+

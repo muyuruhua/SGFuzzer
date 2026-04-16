@@ -1,0 +1,11 @@
+z t RT/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient RCIBEnt (LIVE972 Stoeaming Media v021.808.29)
+Transpoeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming MGdia v2018.08.28)
+Transport: ATP/AVP;unicast;client_port=45GET_PARAMETERssi  : 000022OPTIONSB8
+
+PLYr Atsp://128.0zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.0.1:8554/mpeg1or2AudioVideoRange: npt=9Test/ RTSP/1.0
+CSe

@@ -1,0 +1,11 @@
+Dunicast rtsp://127.0Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 0000230 /     B8
+
+PLAYmrtsp://7.1.020.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+SessionTest/track2 RTSP/1.0ent_port=50778-0POOD2B8
+Accep a:ptplication/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022TratestRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

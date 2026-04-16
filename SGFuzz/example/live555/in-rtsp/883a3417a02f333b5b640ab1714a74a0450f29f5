@@ -1,0 +1,23 @@
+D- CRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest \SPR/1.0
+@;     
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tracktreaming Media v127.0.0.18)
+Transport: R        TP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.G.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=90GET_PARAMETERssion: 000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AuTEARDOWNTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNr555 Streaming Aedia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000npt=0.000-
+
+022B8
+

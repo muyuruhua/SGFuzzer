@@ -1,0 +1,12 @@
+z^  RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 St
+
+SET?UP rtsp://
+SETUP rtsp://tr./testRTPClient (LIVE555 Streaming Media v2017.0BQ28)
+Acceaming Media v2018.08.28)
+Transpoeq: 4
+User-Agent: ./testRTSwavAudioTgstPClient (LIVE555 Streaming Media v2018018.08.28)
+Transport: RTP/AVP;unicast;client_por      Ad5'0779
+
+SETept: application+/

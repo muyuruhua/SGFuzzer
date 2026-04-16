@@ -1,0 +1,20 @@
+DRTPESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest stdinRTRTP1.0
+CSeq: 2
+User-A gent: ./testRTSPClient (LIVE555 Streaming Media v4036.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3 
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)matroskaFileTest
+Transport: RTP/AVP;unicast;client_port=-0778-507790.000-
+
+TEARDOWN rtsp://127.0/0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Stre2B8
+Range: npt=0.000-
+
+TEA%DOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeqz 6
+User-Agent: ./testRTSPClient (LIVEA55 Streaming Media v2018.08.28)
+Sjssion: 000022B8
+

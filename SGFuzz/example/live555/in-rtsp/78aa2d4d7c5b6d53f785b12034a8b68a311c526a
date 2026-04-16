@@ -1,0 +1,24 @@
+D   CIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accepr-Agpplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq1.0
+CSeq: 3
+User-Agunt: ./testRTSPClient (LIVE555 Streaming Media v123.0.0.18)
+Transp~ort: RTP/AVP;unicast;client_port=50778: 6
+User-Agunt: ./testRTSPClient (LIVE554 Streaming Med           a v127.0.0.18)
+Transport: RTP/AVP;unicast;client_port=50778-50771.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Med
+CSeq: 5
+User-Agen : ./testRmatroskaFileTest10 Streaming >   a v2018.08sion: 000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVidTTTTTTTTTTTTTTTTTTTTTeoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRmatroskaFileTest55 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000 r  DESCR-
+
+IBE TEARr

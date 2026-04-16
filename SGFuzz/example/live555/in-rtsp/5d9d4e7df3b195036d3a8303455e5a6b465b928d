@@ -1,0 +1,29 @@
+D@,CRIBE rtsp://127.0.0.1:8554/mpeP;unicast;client_port=505785-7097
+
+SETUP rtspAudioVideoTest/track1 RTSP/1.0://127.0.0.1:8554/mpeg1or2AudioVideoTDESCRIBEk2 RTSP/1.0
+CSeq: 4
+User-Agent: ./tes&tRTSP Streahing Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=507785-7097
+
+SETUP rtspAuent (LIVE555 Streaming Mcdia v2018.08.2g1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5R5 Streaming Media v2018.08.28)                                        llllllllllllllllllllllllllllll                                                                  
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.0:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:wavAudioTest ./testRTSPCRange: npt=9linte (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unic
+Ue
+r-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.28)
+Session:Session:8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideient (LIVE555 St#eaming Media v2018.Scale:K    yyyyyyyyyyyyyyyyyyyyyyyyyyyyya v2018.08.28)
+Transport: yyyyy         V22B8
+

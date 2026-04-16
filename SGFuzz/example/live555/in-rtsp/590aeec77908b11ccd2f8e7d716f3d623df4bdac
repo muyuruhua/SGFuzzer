@@ -1,0 +1,32 @@
+DG       PLAYIBE rtsp://stRTSPClient (LIVE26 (LIVEl55 Streaming Media v2018.08.2User-Agent: ./testRTSPClient (LIVE555 St  aming Media v2018.08.28)]Transport: RTGET_PARAMEccept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioViteeoTds/wavAudioTest RTSP/1.0
+CCseq 5
+UsGET_PARAMETER||||||||||||||||||||||<|estRTSPClient (L27)
+Accept: a2:8554/mpeg1or2AudioViddoTest54/mpeg1or2AudioVideoTest/ )+,/PNQO
+CSeq:
+OPTIONS-Agent: /track1 RTSP/1.0
+CSeq: 3
+User-A#ent: ./testRTSPClient (LIVE555 Streaming Media v201DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTudioVidepeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AgunRange: npt=9t: ./testRTSPClient (LIVE555 Streaming Media v127.0.0.18)
+Transport: RTP/AVP;unicast;client_port=50q: 3
+U778-50779
+
+SETUP rtsp://iatc1ion/sdp
+
+SETUP rtsp://458.0.0.1:7108/mpeg1or2AudioVideoTERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session:`000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.0:8554/mpeg1or2AudioV	A  Test/RTS: npt=0.000-
+
+TEARDOWN rtsp://127(0.0.0:8554/mpeg1or2AudioVideoTest/RTSP/1.00
+CSeq: 6
+User-Agent: ./testRT!!!!SPClioVideoTest/ RTSP/1.0127.0.0.1
+UserRange-Agent !      2B8
+

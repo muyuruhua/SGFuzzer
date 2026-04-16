@@ -1,0 +1,14 @@
+DOPTIONSESCRIBE rtsp://127.0.0.1:8554/mpeg2or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-AgentDSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: applicatio: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Accept: application/sdp*
+
+SETUP rtsp://127.0.0.185:54/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v1009.08.28)
+Tnransport: RTP/AVP;unicast;client_port=50778-50779
+
+SE/sdpTUP

@@ -1,0 +1,14 @@
+D        rtsp://127.0.0.1:8554/mpeg1or12AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 55 Streaming Media v2018.08.28)
+Transport: RTP/AVP;  icast;clieDESCRIBE rtsp://127.0.0.1:8554/mpeg1or                                                                                                                     2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agegent: ./testRTSPClient (LIVE555 55 Streaming Media v2018.08.28)
+Transport: RTP/AVP;  icast;clieDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554nt_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8553/mpeg1or2AudioVideoTest/track2 R    TSP/1.0matroskaFileTest
+CSeq: 4/mpeg1or2AudioVid
+User-Agent: ./testRTSPCleient (LIoTes

@@ -1,0 +1,17 @@
+DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE515 StrtRTSPClient (LI&VE555 Streaming Media Content-Length:ransport: RTPIAVP;unicast;c    lient_port=45GET_PARAMETERssion: 0000#2B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: a v2018.08.28)
+Transport: RTPIAVP;unicast;c    lient_port=45GET_PARAMETERssion: 00                             0000225
+User-Agen :.tt/estRTSPClient (LIVE555 Streaming Medi? v2018.08.28)
+Session:   ./testRTSPClient (LIVE555 StrtRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;c    lient_port=45GET_PARAMETERssion: 00                             000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8555/mreaming Media 
+v2018.8.)280
+Trans Streaming Media v2018.08.28)
+S:::::::::::::ession: 000022B8
+

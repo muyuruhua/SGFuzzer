@@ -1,0 +1,3 @@
+DESCRIBE rtsp://128.0.0.1:8554/mpeVTSP/1.0
+CSeq: 5
+User-D127.0.0.1esAgent: ./testRt T S

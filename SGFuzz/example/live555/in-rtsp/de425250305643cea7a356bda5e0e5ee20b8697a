@@ -1,0 +1,11 @@
+D      ^ ESCRIBE rtsp://127.0.0.1:8554/mpegRange: npt=9xeoTest RTSP61.0
+CSeq: 2
+User-A4444444444444444444444444                                 rtsp://127.0.0.1:8554/mpeg1or2Audidp
+
+SETUP rt  nt (LIVE26           Content-Length:    	J08.2VE26           Content-Length:    	J08)2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN                                             rtsp://127.0oVidContenN           t (LIVE555 Streamingaming Media v2018.08.28)rt.28)n
+Tr00022B8
+

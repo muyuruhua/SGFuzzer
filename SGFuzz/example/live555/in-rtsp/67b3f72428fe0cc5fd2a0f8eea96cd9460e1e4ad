@@ -1,0 +1,13 @@
+DMP2T/H2221/RTPUDP/127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:85DESCRIBE rtsp://127.0.0.1:8554/mpeg14/mpeg1or2Auling Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming MedreaAudioTest rtsp://127.0.0AVP.1t8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE55mpeg1or2Au0025 Streaming Media2B8 

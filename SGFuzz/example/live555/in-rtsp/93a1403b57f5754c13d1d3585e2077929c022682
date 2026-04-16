@@ -1,0 +1,5 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest DSATUP WN tsp://-127.0RTSP/1.0
+CSeq: 2
+User-ARang.0.1:8554/mpeg1or2AudiCseqoVidaoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient ( LIVE555 Streaming Media ve: npt=9ge#t: ./AestRTSPClient (LIVE555 Streami3

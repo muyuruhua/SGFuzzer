@@ -1,0 +1,12 @@
+DESCRIBEliveMedia617097 rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCli%nt (LIVE555 StreYming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mv2018.08.28)
+Transport: RTPIAVP;unicast;clDESCRIBE rtsp://127.0.0.1:8554/mpegient_port=451or2AudG

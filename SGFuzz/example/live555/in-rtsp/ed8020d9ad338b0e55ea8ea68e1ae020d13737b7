@@ -1,0 +1,19 @@
+z t RTSP/1.0
+CSeq: 2User-Agentt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming z FGf    Er oskaFileTest
+Sess-on: 000022B8
+tion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Useb-Agent: ./testRTSPClient (LIVE972 Str018.08.28)
+Transport: RT1PAVP;unicast;client_port=50))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDE&<__  udoTeistPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_2orDESCRIBEedia v2018.ion:
+CSeq:  000022.1:8554/mpeg1or2PLAYoVide128.0.051:4.85/mpeg1or2AudioVideoRange: npt=9TesSET_PARAMETERCS+e

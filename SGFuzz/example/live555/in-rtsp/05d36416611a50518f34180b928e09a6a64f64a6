@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User        ./testRTSPClie t (LIVE555 Streaming Media v2018.08.28)
+AContent-Length:ccept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1orSETUP rtsp://127.0.0.1:8554/mpeg1ont: ./testRTSPClien15 0                            ia v2018.08.28)
+Sess                             rtsp://127.0.0.1:Media v2018.08.28)
+Accet (LIVent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

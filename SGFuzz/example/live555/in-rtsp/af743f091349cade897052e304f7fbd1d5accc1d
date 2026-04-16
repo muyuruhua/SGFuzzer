@@ -1,0 +1,9 @@
+DESCRIBE rtsp://127DESCRIBE rtsp://1                 27.0.0551.84:/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE55r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.68)
+Transport: RTP/AVP;u                                                                                                     nicast;client_por4=t5546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ Rv2018.08.28)
+Transport: dTP/AVP;unicast;cli}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}ent_port=5.0.0551.84:/0W 
+     9mpeg1o

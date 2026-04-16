@@ -1,0 +1,26 @@
+DESCRIBE rtsp:/VE555 Streaming Media stRTSPClient- (LIVE555 Streaming v2018.08.28)
+Accept: applicaton: 000022B8
+.    E_ pt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVidContent-Length:0
+CSeq: 6
+User-Agent: ./GET_PARAMETERtestRTSPClient (LIion/sdp
+
+SETUP rtsp:4/1er-Agen-:OPTIONestRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoS ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVidContent-Length:0
+CSeq: 6
+User-Agent: ./GET_PARAMETERtestRTSPClient (LIVE110 Streamingaming Media v2018.08.28)
+Session: 00002Scale:

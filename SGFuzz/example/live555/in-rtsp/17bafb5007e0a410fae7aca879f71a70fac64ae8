@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVhdeoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE554 Streamnd eigiMa v2018.08.28)
+Accept: application/sdp
+
+SETU0brtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/0.1
+CSeq: 3
+User-Agent: ./testRTSPClie@nt (LIVE++++++++++++++++++++++++++++++++++++++++++++++++++++++++++%55 Streamin _Media v20   d8.28)
+Transport: RTP/AVP;unDESCRIBEicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tr ack2 RTSP/1.0
+CSeq: 4QQQQQ
+User-Agent:eq: 5
+User-Agent: .~/testRTSPClie ./testRTSPClient (LIVE555   1:8554/mpeg1or2AudioVtestt: ./testRTSPCl ni(etLIVE5
+Sessivn@ 000022B8
+

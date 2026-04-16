@@ -1,0 +1,13 @@
+D)
+SessiESCRIBE rtsp://127.0.0.SETUP4/mpeg1or2AudiDESCRIBE rtsp://127.0.0.1:8554/mpeg1omatroskaFileTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.oVideoTest R                       TSP/1.0
+CS|q: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminep28)
+Accept: at: application/sdp
+
+SETUP rtsp:/h/127.0.0.1:8554/mpeg1or2Audiopplication/sdp
+
+SETVideoTesUP rtspt/track1 RTSP/1 /SP/1.0
+CSeq: 6
+User-S.e

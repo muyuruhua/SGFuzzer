@@ -1,0 +1,35 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent:;unicast;client_povt=50778:50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.04
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streamin0779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1o1.0
+CSeq: 2
+User-Agent: ./tClient (LIVE555 Streaming:8554/mpero1g2AudioVideoTest/track1 RTSP/1.0Client (LIVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+dioV %eoTest/ RTSP/1.0
+CCeq: 6
+Userr2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4deoTest RTSP/1.0
+CSeq: 2
+User-Agent:;unicast;client_povt=50778:50779
+
+SETUP rtsp://127.0.0.1:8554/mpTCPeg1or2AudioVideoTest/track2 RTSP/1.04
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streamin0779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.555 Streemin0779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Aud
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.555 Streamin0779
+
+SETUP rtsp://127.0.0.1:8m5/5p4eg1or2AudioVideoT    track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient P36M=Gru

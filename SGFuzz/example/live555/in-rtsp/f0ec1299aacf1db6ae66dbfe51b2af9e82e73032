@@ -1,0 +1,21 @@
+SETUPDion: 0000 O22B8    54/mpeg1or2AudioVide    t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..3      
+CSeq: 3
+User-A>ent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent:`QPestCPTlSRient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TE+ARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes / RTSP/1.AudioVideoTes / RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming M: RTP/AVP;unicast;clieonpt_rt=50778-49nt (LIVE555 Streaming Media v201827             ideoTesd

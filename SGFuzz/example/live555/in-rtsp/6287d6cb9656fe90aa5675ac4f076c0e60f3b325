@@ -1,0 +1,25 @@
+D      iSESCRIBE rtsp:/e(tLn IVE555 Streamingsport: RTPIAVP;unicast;client_p rt=45GET_PARAMETERssion: 000.02M2Bsssssssssss8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.        5.08.28)
+Transport: RTPIAVP;unicast;client_p rt=45GET_PARAMETERssion: 00002M2B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 TCPStreamPLAY      v2018.08.28)
+Session: 000022B8
+Rgena: npt=0.000-
+
+TEARDOWN rtsp://127W.0.0.1:8555/mpeg  r50779
+
+SETUP rtsp://127.0.0ient (LIVE555 Streaming Media v127.0.0.18)
+Transport: RTP/AVZ;unicast;client_port=50778-5077G|
+
+SETUP rtsp://127.0.G.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming                            _port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CS        ser-Agent: ./testRTSPCtline (LIVE555 Stre2B8ession: 000022B 
+

@@ -1,0 +1,21 @@
+DRTSP/1.0t=0.000    e: npt=9://127.0.0.1ession: 00002eg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+127.0.0.1User-Agent: ./tes RTSPClient (LIVE554 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+U45GET_PARAMETERssion: 000152B8
+
+PLAY rts E//127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient 1Z     (LIVE554 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEn: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpaSessClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

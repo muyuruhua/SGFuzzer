@@ -1,0 +1,11 @@
+DRTPESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest st: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)matroskaFileTest
+Transport:VideoTe$s(t/ RTSP/2.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Stre2B8
+Range: npt=0.000-
+
+TEA%DOWN rtsp://127.0.0.1:8           ./testRTSPClient (PIVE555 Stre2B8
+Range: npt=0.000-
+
+TEA%DOWN rtsp://127.0.0.1:8                               022B8
+

@@ -1,0 +1,14 @@
+DUser-ESCRIBE rtsp://1VideoTest/ RTSP/1.0
+CSe28)
+Session: 000022B8icast;client_port=45GET_PARAMETERssion: 00002      B4 
+8 
+PLAY rtsp://127.AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v4036.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+													|vvvvvvv																																																																	TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./  stRTSPClient (LIVE555 St#eaming Media v2018.08.28 DESCRIBEn: 000022B8
+

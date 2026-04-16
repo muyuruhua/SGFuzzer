@@ -1,0 +1,29 @@
+D ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2y   AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE277 1Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/AVP;unicast;client_port=455SET_PARAMETERsion: 000022b8
+2b8
+
+PLAY rtsp://254.0.0.1:8554/mepg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSP.08.]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2Audist/ RTSP/1.0        
+U ser-Ag
+UsContent-Length:tRTSeg1or2AudioVideoTest RTSP/1.5
+CSeq: 2
+User-Agent: ./testRTSPClie022B8nt (LIVE npt=0.000-
+
+TEARDOsp://127.0.0.1:8554/mpeg1oCseqdist/ RTSP/2.0o
+CSeq: 6
+User-Ag
+UsConten:t-Length:tRTSPClient (LIVE110 StreUser-Agent: .DESCo08.28)1
+Sessivn@ 000022B8
+

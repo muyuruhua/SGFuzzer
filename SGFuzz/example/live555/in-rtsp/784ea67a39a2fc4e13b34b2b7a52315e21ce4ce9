@@ -1,0 +1,24 @@
+ScSCDE.       tsp:                                                                                                               p               //127.0.0.1:8554/mpeg1or2AudioVideoTest0RTStion/sdp
+
+SETUP rt                sp://1er-Agent: ./testRTSPClient                                                                        (LIVE555 Streaming Media PLAY rtsp://0Content-Length:27.0.0.1:8554/mpeg1v2018.08.00022B8
+Range: ept=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq: 6
+User-Agent: ./teKRKBE
+#
+stRTSPClient (LIVE555 Streaming Media vDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest liveMedia150603 2
+User-Agent: ./testRTSPClient (LIVE51:5584/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08ssion: 000022B8 
+PLAETERssion: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testR2118.08.28)
+SessiTSPCon: est/ RTbbbbb!!!!!!!!!!!!!!!!!!!lient (LIVE555 Sqreaming Media v2018.08.2dioVideoTest/ RTSP/0.0
+CSeq: 6
+User-Agent: ./teKRKBE
+#
+stRTSPClient (LIVE555 Streaming Media vDESCRIBE rtsp://127.0.0.1:855lient_por!!!!!!!!!!!SETUP!!!!!!!!!!!!!!S@      !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!t!!!!Media=4 v2018.08.28)
+Session: 5546-45547

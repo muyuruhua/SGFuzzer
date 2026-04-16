@@ -1,0 +1,9 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClieng Media v2018.08Y28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE55R_,reaming Media v2018.08.28)
+Transport: RTP/AVP;unicsaleg1or2AudioVideoRange:GET_PARAMETERi;tent_port=45GET_PARAMETERssionSe

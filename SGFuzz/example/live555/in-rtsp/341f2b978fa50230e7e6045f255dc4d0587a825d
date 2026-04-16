@@ -1,0 +1,41 @@
+DCseqESCRIBE rtsp://1      [ :8554/mpeg1or2AudioVideoTeqt RTSP/1.0
+CSek: 2
+User-Age8554/mpeg1or2AudioVideoTest RwebmFileTestTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClit: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022Trania v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioViE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast&clien////////////////////////////////////////////////////////////t_port=45546-45547
+Session: 000unicast;client_port=50778-50779
+
+SETEP rtsp://127.0.0.1:8554/mpeg1or2AudstSP/1.0
+CSe    q: 5
+User-Agent: ./testi 4
+User-AgenC~    \=eontent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.28)
+TMedia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:LIVE5nt: ./testRTSPClient (LIVE110 Streaming MediaRange:  v20D 0000ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSe/tesTtSPRClient (LIVE555 Streaming Media v20RTSP/1.0)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:0-
+
+TEARDOW                                                                                               N rtsp://127.0018.08.28)
+Transport.18.08.21:8554/mpeg1or2AudioVideoTest/tra8Wru4ccckep1 RTSP/1.0

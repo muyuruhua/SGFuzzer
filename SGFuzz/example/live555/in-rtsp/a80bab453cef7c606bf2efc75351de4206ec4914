@@ -1,0 +1,12 @@
+DESCDE.       2sp:           $                    (                             eg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien.1:8000022B81or2AudioViderTor2AudioVideoTest RTSP/1.0ent (LIVE555  Struaming Media )v2017.08.28)
+Accept: application/sdp
+
+SETUP r                                                            28)           
+Accept: n/sdapplicatDESCRIBE rtsp://127.0.0.1#:    lient_pion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/trac5k1 RTSP/1.0
+CSeq: 3
+User-ovt=50778-504/mpeg1or2AudioVideoTest RTSP/1.0
+CSe

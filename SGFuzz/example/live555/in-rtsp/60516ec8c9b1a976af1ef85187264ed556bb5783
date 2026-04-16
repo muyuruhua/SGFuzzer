@@ -1,0 +1,19 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media v3    08.28)
+AContent-Length:ccept: application/sdp
+
+SETUP rtsr-Agent: ./testRTSPClieni (LIVE555'9  eSETUP Iedia v1009.08.28)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or                          #                2Au3J333d000022B8io!ideseo,P_-+,+/ p:/sp://127.0.0.1:8554/mpeg1or2A dioViDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE55TCPTfst RTSP/1.0
+CS5 Streamieq: 2
+User-Agent: ./testRT5 Streaming Med
+
+SETUP rng Media v2018.08.28)
+Accept: application/st33333333333333333333dp
+
+SE3TUP rtsp

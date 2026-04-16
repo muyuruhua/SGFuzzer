@@ -1,0 +1,17 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: appl2ication/sdp
+
+SETUP rtsp://        1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StreamSETUPedia v20E555 St18.08.28)
+Transport: Rming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://254.udioVideoTest/ RTSP/1.0
+CCeq: 6
+U45GET_PARAMETERssion: 000022B84T  
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVid`eoTest/ RTSPt/ RTSP/1.0
+CSe

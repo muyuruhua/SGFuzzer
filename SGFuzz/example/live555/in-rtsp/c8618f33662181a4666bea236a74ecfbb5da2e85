@@ -1,0 +1,8 @@
+DESKRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0Cseqeq: 2
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media v2018.08.2                                                                                                       8)
+Accept: application/sdp
+
+SETUP rtsp://127.OPTIONS554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCliDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVidee
+User-Agent: PAUSE./testoTesR

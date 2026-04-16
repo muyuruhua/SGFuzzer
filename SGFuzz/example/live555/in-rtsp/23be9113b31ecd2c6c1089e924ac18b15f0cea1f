@@ -1,0 +1,22 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE554a v2018.01.0
+CSeq: 4
+User-Agent: ./testRTSPClient vLIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port-45GET_PARAMETERssion: 0000matroska0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: ng Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port-45GET_PARAMETERssion: 0000matroskaFileTestp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1oStreaming Media v2018.08.28)
+Session: 00554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

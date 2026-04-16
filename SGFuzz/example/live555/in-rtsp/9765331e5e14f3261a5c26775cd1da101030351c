@@ -1,0 +1,7 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1UOru<,  : 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MediaZv1009.08.28)
+AccepSession: 000Range: Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVtestt: ./testRTSPCl ni(etLIVE5
+Sessivn@ 000022B8
+

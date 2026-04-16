@@ -1,0 +1,24 @@
+Dac3AudioTestESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Usre-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Acwavept: application/mdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVi%%%E]RTP/AVP;unic%deoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./t application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Audio (LIV.0.1:8554/mpeg1or2AudioVi%%%E]RTP/AVP;unic%deoTest/track1 RTSP/1.0
+CSeq: 3
+User-Alient (LIVE277 Streaming Media v2018.08.28)
+Acc	    application/mdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVi%%%E]RTP/AVP;unic%deoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./t application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 R#TSP/&.0
+CSeq: 3
+User-Agent: .TSPClient (LIVE277 Streaming Media 02v18.08.28)
+Acceptn: ./t applicattrack1 RTSP/1.0: .//testRTSPClient (LIVAContent-Length:edia         v2018.08.28)
+Session: 000022B8
+

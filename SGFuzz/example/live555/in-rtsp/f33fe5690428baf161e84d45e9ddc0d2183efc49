@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User//127.AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./
+Transport: RTP/AVP;uniccte56-54:447
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq:			webmFileTest																																																																			TEARDOWN rtsp://125.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/q:																																																														1.0
+CSeq: 6
+User-Age!nt: ./te stRTSPClient (LIVE555 St#eaminSession:v2018.08.28 DESCRIBEn: 000022B 6
+User-Age!nt: ./te stRTSPClient (LIVE555 St#eaminSession:v2018.08.28 DESCRIBEn: 000022B8
+

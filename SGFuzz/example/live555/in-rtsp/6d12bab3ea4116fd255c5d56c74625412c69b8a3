@@ -1,0 +1,7 @@
+DESCDE.       tsp:                                                                                                                              //127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTSP/1.0ent (LIVE55sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track                                                              ;          7G08.28)
+Session: est/ideoTeSP/1.0
+C*

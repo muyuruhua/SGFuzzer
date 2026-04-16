@@ -1,0 +1,9 @@
+z t RT/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1estRTSPClieDESCRIBEnt (LIVE972 Streamii    dia v2018 v2018.08.28)poeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming MedG(ET_PARAMETERssion 2:00002OPTIONSB8
+
+PLAY rtsp://128.0zzzzzzzzzzzzzzzzzzzzzz:0000Range: npt=92OPTIONSB8
+
+PLAY rtsp://128.0zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.0.1:8554/mpeg1or2AudioVideoRange: npt=9Test/ RTSP/1.0
+CSe

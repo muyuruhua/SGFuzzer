@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AuiioVideoTest RTSP1or2AudioVideoTest/ RTSP/0.0
+CSeq: 5
+Use/1.0
+CSeq1:Us
+ e2r-Ack2 RTSP/1.0
+CSeq: 4
+User-Age:t.n /testRTSPClient Ack2 RTSP/1.0
+CSeq: 4
+User-Age:t.n /testRTSPClient (LIVE555 St00022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://8554/mpeg2or2AudioVideoTest/ RTSP/1.0 RTSP/1.0
+CSeq: 6
+n

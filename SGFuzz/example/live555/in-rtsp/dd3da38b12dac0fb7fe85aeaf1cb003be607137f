@@ -1,0 +1,18 @@
+SETUPE.       tsp:                                                  `__a                                                                        //127.0.0.1:8554/mpeg1or2AudioVideoTest ccccccccccccccRTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTSP/1.0ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://1er-Agent: ./testRTSAPClient (LIVE555 Streaming Media v2018.08.2 8)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN r|sp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./teKRKBE
+
+stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: est/ RTSP/1.0
+CSeq: edia v18.08.27)
+Session: 000022B8
+

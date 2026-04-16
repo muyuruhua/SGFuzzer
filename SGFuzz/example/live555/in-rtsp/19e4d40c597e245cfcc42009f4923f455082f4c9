@@ -1,0 +1,23 @@
+DScale:E rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accepwwwwwwwwwwwwwwwwwwng Media v2018.08;28)
+Transport: RTP/AVP;unicast;client_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/2.0
+CSeq: 4
+User-Agent: ./esSKttRPClient (LIEV277 Streaming Media v2018.08.28)
+Transport: $TP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AuQdioVideoTest/ RTSP/1.0
+CSeqs
+ e:5Ur-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0OPTIONSS+ssion: 00002B28
+Range: npt=0.300-
+
+TEARDOWN rtsp://254.0.0.8.08.28)
+Transport: RTP/AVP;unicast;client_por/t=45GET_PARAMETERssion: 0);     
+
+PLAY rtsp://127  .0.0.1:8554/mpeg1or2AudioVideATest/ RPSP/2.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555/tesCseqtRTSPCli=ent (LIVE555 Streaming Media v2018.08.28)1:8@54/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCe02B28      ession> 000022B8ideo

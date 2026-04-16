@@ -1,0 +1,14 @@
+DESCRIBE
+Us                              er-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+A       0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: r2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient 'LIVE555 Streaming Media v2018 npt=0.000-
+
+TEARDOWN rt<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<sp://127.0.0.1:8554/mpeg1or2      wseoTest/ RTSP/1.0
+CSAccepteq: 6
+User-Agent: ./testRTSPClieOPTIONSnt (LIVE55RTPtreaming M$ RTP/AVP;unicast;client_port=50778-50S
+28)
+Accept: apppI  lication/sdp
+
+SETUP unic://2nt

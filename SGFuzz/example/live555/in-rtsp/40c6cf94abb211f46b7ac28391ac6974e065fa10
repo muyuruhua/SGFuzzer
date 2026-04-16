@@ -1,0 +1,11 @@
+DUser-AgentESCRIBE rtsp://763.0.0.1:8554/mpeg1 2AudioVhdeoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming st;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tracon: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq:  RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming 000022B8
+

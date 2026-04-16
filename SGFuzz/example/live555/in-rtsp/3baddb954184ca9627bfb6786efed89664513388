@@ -1,0 +1,38 @@
+z   RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MediaideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE277 Stream ng Media v2018.n/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:`./testRTSPClient (LIVE385 Stre iaengMmdia v2018.08.:8)
+Transport: RTPdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE277 Stream ng Media v2018.n/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agunt:`./testRTSPClient (LIVE385 Stre iaengMmdia v2018.08.:8)
+Transport: RTP/AVP;unicast;cliRange: npt=-989-5-779
+
+SED    ESCRIrspEt B://127.0.0.1:J[54/mpeg1or2Audio.1:8554/mpeg1or2AudioVideoTest+VideoTest RTSP/1.0
+CSq :
+2                                                                                                                         eUser-Agent: ./testRTSPClient (LIVE555 Streaming MedUP rtsp://1 27.0.0.1:8554/mpeg1or2Au Media v4029.00-
+
+TEARDOpt: applica v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8754/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE973 Streaming Media v1009.08.28)
+Transport: RTP/AVP;unicasO;client_port=50778-50779
+
+OETUP rtsp://127.0.0.1:8554/mpAMETERssion:       {
+CSeq:  0000.0207.0.1B8
+
+PLAY rtsp://128 8.0.0.1:8554/mpeg1or2Aueaming MedioVideoRange: npt=9Tyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyye  {
+CSSP/1.0
+CSe

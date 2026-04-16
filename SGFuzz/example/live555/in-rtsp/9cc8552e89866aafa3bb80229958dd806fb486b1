@@ -1,0 +1,8 @@
+zSET_PARAMETERCSeq: 2
+User-Agent: ./testRTSPClient (LIVE578-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+sreU-Agent: ./testRTSPCl[ent (LIVE555 Streaming Media v2018.08.28)
+Tranicsalci;tent_port=90GET_PAac3AudioTestRAMETERssige: npt=9Test/ RTSP/2.0
+CSe

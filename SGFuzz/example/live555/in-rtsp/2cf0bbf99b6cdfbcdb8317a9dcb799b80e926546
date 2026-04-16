@@ -1,0 +1,11 @@
+DESCRIBE rtsp rtsp: rtsp://12ETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudAoVideoTest/ RTSP/1.0
+CSeq: 5
+User-Mgent: ./
+User-Mgent: ./t&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&estRTSPClient GET_PARAMETERaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or20.0.1:9ession: 000022B8
+

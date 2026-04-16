@@ -1,0 +1,34 @@
+D-
+
+TEESCRIBEUser-Agent rtsp://127.0.0.18:554AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v4036.08.28)[
+Accept: application/sdp
+
+SETUP rtsp://127.2AudioVideoTe0.0$1:8554/mpe                                                     g1or2AudioVideoTest/track1  RTSP/1.0
+CSeq: 3
+User-Agent: ./testAcceptient (LIVE555$Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2017.08.289
+Transport: RTP/AVP;uDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVnicaE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.100022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28st;client_port=45GET_PARAMETERssion: 0);     
+
+PLAY rtsp://254.0.0.128554/mp)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0cept: application/sdp
+
+SETUP rtsp://007.0.0.100022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ Reg1or2AudioV  eoTest/ RPSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StrTSP/1.0
+CSeq: 5
+User-Agent: ./tesea

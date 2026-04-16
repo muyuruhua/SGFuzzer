@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AufioVideD127.0.0.1est      : application/sdmatroskaFileTest//127.0.0.1:8554/mpeg1or2Audcast;client_povt=50778LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL-50779
+
+SETUPsrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+Use2-Agent: ./testRTSPClientW (LIVE555 Streaming Medi2 0av18.08.28)
+Transport: RTP/AVP;unicast;client_port=22GET_PARAMTiEsEsRon: 000022B8ent_povt=5077/-50779
+
+SETUPsrtsp://127.0.0.1:8554/mpeg1oreoTt sRTSP/1.0
+CSeq: 2
+User-Age:t: ./testRTS      PCli            ent (LIVE

@@ -1,0 +1,17 @@
+DCSeq:127.0.0.1tsp://127.0.0.1:8554/mpeg1o"r2Auk2 RTSP/1TCP.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Stre$aming Media v2018.08.28)
+Transport: R: Media v2018.08.2TP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+DEREGISTER 554/mpeg1or2AudioV===track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Stre$aming                                                                                                        @                     Media v2018.08.28)
+Transport: R: Media v2018.08.2TP/AVP;proxy_url_suffix=unicaclient_port=45546-45547
+Session:rt: RTP/AVP;unicast;client_povt=50778-50779
+
+SETUP rtsp://127V.0.0.1:8554/TEARDOWNAudioVideoTesz/tracest RTSP/1.0 000022B8
+
+DEREPISTER 554/mpeg1or2AudioV===================}===========================================ideoTest/track1 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient dioVideoTest/ R

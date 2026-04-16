@@ -1,0 +1,12 @@
+D127.0.0.1tsp://127.0.0.1:8554/mpeg1o"r2Auk2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Stre$a@ming Media v2018.08.28)
+Transport: R: Media v2018.08.2TP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+DEREGISTER 554/mpeg1or2AudioV===track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Stre$aming                DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVidenTest RTSP/1                                                        .0
+CSeq: 2
+UseerRange-r-Agent: ./testRTSPClient (LIVE555 Streaming Media 55 Streaming Media                         v2018.08.28)
+Trorspnta: RTP/AVP;unicast;cl           ient_port=507       78 - 

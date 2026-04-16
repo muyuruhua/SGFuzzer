@@ -1,0 +1,33 @@
+D        rtsp://127.0.0.1:Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tastRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP@rtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/tr8eq: 3
+User-Agent: ./testRTSPClient (IIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.055 Strest;aming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpTCPor2AudioVideoTest/track1 RTSP/1.0: 000022OPTIONSBwavAudioTest8
+
+P554/aL   OPTIONSdioVideoTest RTSP/1.0
+CSent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554$$$$$$$$$$$$$$$/mpeg1or2AuLIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554$$$$$$$$$$$$$$$/mpeg1or2Audio 'VideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTwavAudioTestVE555 Streaming Media v2018.0(.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+ Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554$$$$$$$$$$$$$$$/mpeg1or2AuLIVE555 Streaming Media v2018.08.28)rt: RTP/AVP;unicast;cli  #port=45GET_LIVE555 Streaming Media v24$$$$018.08.28)Content-Length:22B8
+

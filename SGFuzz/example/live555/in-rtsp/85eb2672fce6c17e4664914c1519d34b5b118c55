@@ -1,0 +1,3 @@
+DESCRIBE rtsp://1D      UMrtspD      UMrtsp:RTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.2:RTSPClient (L8)
+Transport:IV 

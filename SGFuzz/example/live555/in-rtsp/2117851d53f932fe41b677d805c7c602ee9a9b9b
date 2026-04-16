@@ -1,0 +1,57 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Au                                  dioVideoTest TSPR/1SETUP.0
+CSeq5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sesion: +00022B8
+
+PLAYst/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPCli  t (LIV018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq:U                                                    a v2018.08.28)
+Sesa v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPCli  t (LIV018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq:U                                                    a v2018.08.28)
+Sesion: +00022B8
+
+PLAYst/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEAion: +00022B8
+
+PLAYst/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPCli  t (LIV018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq:U                                               b___                                           )
+Session: 000023B:
+

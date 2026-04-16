@@ -1,0 +1,29 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming oVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./teN     rtsp://127.0 7.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming /sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming oVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./teN     rtsp://127.0 7.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming /sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StreaminVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;clien04.28)2018.08.Content-Length:00022B8
+Range: npt=0.8.Content-Length:00022B8
+Range: npt=0.000-
+
+TEAi RDOWN         rtsp://127.0.0.1:8554/mpeg1or2AudioVidContenN                           t-Length:0
+CSeq: 6
+User-Agent: ./GET_PARAMETERtest    ./tes8
+

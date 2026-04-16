@@ -1,0 +1,32 @@
+D      >#rtsp://127.0.0.1:8554/mpeg1or2AudioVideo                                                               Test RTSP/1.0
+CSeq: 2
+User-Ag?nt: ./testRTSPClient (LIVE555 StreawebmFileTest2018.PGQT8)
+Accept:apil pcation/sdp
+
+SETUP rtsp0-)
+Accept:apil pcation/sdp
+
+SETUP rtsp0-
+
+TEARDOWN rtsp://127.0.0.1:0
+CSeq: 3
+Ustttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttter-Agent: ./testRTSPClient (LIVE55ent z      Mu1.0
+C
+
+TEARDOWN rtsp://1ing Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50IHGRJOHH9
+
+ RTSP/ng Media v2018.ser-Agent: ./testRTSPClien\\\\\\\\\\\\\\\\\\\\\\\t (LIVE277 Streaming Media v2018.08.)28
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-OPTIONS./+27.0.0.1:0
+: appli ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 010022B8
+Range: npt=0.000-
+
+TEARDOnicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1User-AgentdeoTest/track2 RTS(P/1.0
+CLIVE55

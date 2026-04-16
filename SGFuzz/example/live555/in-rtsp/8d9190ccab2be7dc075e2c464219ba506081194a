@@ -1,0 +1,13 @@
+DESCRIBE rtsp://123.0.0.1:8554/epe        ioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tesRTP/AVP;unicast;client_port=50778-50779
+
+SETUv rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tracU2 RTSP/1.08)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:`./testRTSPClient (LIVE555 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;u             /SET_PARAMETERt (LIVE555 Streaming Mediac3AudioTest8)
+Session: 000022B8
+

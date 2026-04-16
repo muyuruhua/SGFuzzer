@@ -1,0 +1,12 @@
+DwebmFileTest://127.0.0.1:8554/mpeg1orPAUSE2Au    ident: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: appltsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient   hVE555 Streaming Media v1009.08.2?8)
+Session:$000022B8
+nagRe: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.
+:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: SETUP
+Session: 000022B8
+

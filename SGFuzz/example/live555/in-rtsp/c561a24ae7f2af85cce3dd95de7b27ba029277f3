@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVSession:ideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClienDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe st RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2=018.08.28)
+Accept: at (LpplI

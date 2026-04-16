@@ -1,0 +1,111 @@
+DwebmFileTest  K
+ESCRIBE rtsp://127.0.0.1:8554/mpeRTSP/1.0
+CSeq: 5
+DESCRIBEUser-Agent: ./testRTSPClient (LIVEI55                               Streaming Media v2018.08.28!
+Session: 00002B28
+Range:        ion/sdp
+
+SETUP rtsp://127.0.0.8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5g1or2AudioVidstT oeeRTSP/1.0
+CSeq: 2
+User-Agent: ./twavAudioTestestRTSPClienxt (LIVE555 S        : PAUSE00002v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.8554/RTPg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User)Agent: .`testRTSPCcielt55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 Stre000022B8dia v2SETUContent-Length:P018.08.,8)
+Session: 0000 O22 eaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2Aud000022B8ioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClienp (LEIVE555 S5 Streaming M07IK
+
+SETUP rtsp://10.0.=50776-50S
+28)
+Ag1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Use333333333333333333333333B8
+

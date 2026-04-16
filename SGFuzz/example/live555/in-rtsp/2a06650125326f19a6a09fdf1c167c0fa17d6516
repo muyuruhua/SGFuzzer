@@ -1,0 +1,16 @@
+ia v3    08.28)
+Accept:% application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent:ng Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1t: ./tesSET_PARAMETERLIVE555 @treaming Mekia v1009.08.28)
+Session: 000022B8
+Ran : enpt-50S
+28)
+Accept: apppI  lic        p
+
+SETUP unic://2nt

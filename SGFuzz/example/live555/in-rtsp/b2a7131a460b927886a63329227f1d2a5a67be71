@@ -1,0 +1,16 @@
+DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVgdeoT WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE528 S%reaming Me
+Transport: RTP/AVP;unicast;client_port=507ack2 RTSP/1.0
+CSeq: 4
+Uent (LIVE555 Strea/      ia v4036.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:/<<<<<<<<<<<<<<<<<<<<<<<<<<<:8)
+Transport: RTP/AVP;unic555555555555555ast;client_port=50778-5077LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+ (LIVE555 Streaming Media v2018.08.28)
+TrDSET_PARA`METER//127.0.0.1:8554/gpem1or2AudioVideoTest RTSP/1.0
+anCSspo

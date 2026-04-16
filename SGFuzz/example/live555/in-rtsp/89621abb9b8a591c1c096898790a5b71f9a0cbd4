@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE55//128.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Us(er-Agent: ./ estRWSPC.lientient (LIVE555 Streamg Media v2018.08228)
+Transp RTP/AVP;unicast;client_port=45GET_PApplication/sdB8
+
+PLAY pication/sdB8
+
+P

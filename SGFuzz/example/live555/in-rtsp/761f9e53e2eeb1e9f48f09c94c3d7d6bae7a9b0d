@@ -1,0 +1,21 @@
+D  ^fIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0Cseqeq: 2
+User-Agent: ./testRTSPClient       45 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AgentContent-Length:: ./testRTSPClie
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v4711.08.28)
+Transport: QTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2Au                             IVE277 Streaming Media v2018.28.28)
+Accept: application/sdp
+
+SETUP rtsp://1pt: applicationpeg1or2AudioVideoTest/tt: ./testRATSPCl  nt (LIVE555 Streamingnt: ./testRTSPCli0002B28
+Range: npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:8554/mpeg2or2AudioVideoTestW8:+ />-AMETER9RTSP/0.0
+CCeq: 7
+User-AgentF_QJtCSeq:estRTSPClientRTSP/1.0.28)-
+Session: 000022B8
+

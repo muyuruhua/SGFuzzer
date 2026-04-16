@@ -1,0 +1,23 @@
+DSET_PARAMETERESCRIBE rtsp://128.0.0.1:8554/mpeg1orPAUSE2AudioVldent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sdt RTSP/1.0ation/sdt RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 streaming Media v2018.08.28)
+Accept: aETUP rtspp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+Qser-Agent/e:t. stRTSPClient (LIVE555 Streaming Media v2018>08*.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCl@ent (LIVE555 Streaming Media v1009.08.28)
+Session:$000022B8
+naRangegRe: npt=0.000-
+
+TEARSETUPrtsp://127.0.0.1:8554/mpegr1o2AudioVideoTest/ RTSP/0.0
+CSeq: (LIVE555 Streaming M SETUP
+Session: 000023B8
+lllllllllllll

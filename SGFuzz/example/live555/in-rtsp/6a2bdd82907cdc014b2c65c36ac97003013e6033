@@ -1,0 +1,13 @@
+D      9SESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2017.08.28)
+Accept: application/sd127.0.0.1p
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agunt: ./testRTSPClient (LIVE555 Streaming Media v127.0.0.18)
+Trans*port: RTP/AVP;uni/sdp
+
+SETUP rt    /127.0.0.1:8554/mpeg1or2AudioVideoTest/traE555 Streaming                                                                        `                                       npt=0.000 r  DESCRScale:-
+
+IBE TEARr

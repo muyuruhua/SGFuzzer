@@ -1,0 +1,28 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg0or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agen4: p./teion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideo.Test/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTS1Client (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP r        7.0.0.1:855./mpeg1or2AudioVideoTest/track2 RTent: ./testRTSPClient (LIVE555 Streaming Media v2018.0PClient (LIVE555TSP/1. Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5 
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000z
+
+TSP/1.0
+CSeq: 4
+]ser-Agent: .?testRTSPClient (LIVE555 StreTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCliming Media v1lient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range: -pt=0.00@0-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideient (LIVE555 St#eaming Media v2018.Scale:K      "      V22B8[
+

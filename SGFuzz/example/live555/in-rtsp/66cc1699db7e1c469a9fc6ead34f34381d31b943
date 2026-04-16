@@ -1,0 +1,9 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSP7.0.0.1:8554/mpe28)
+Transport: RTP/AVP;unicast;client_port=50778-5077      'KUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Stast;client_port=45546-lient (LIVE555 Streaming Media v2er-AgentDESCRIBESET_PARAMETERLIV: 000022B8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSe

@@ -1,0 +1,24 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest TS/R/1.0
+CSeq: 2
+User-A.28)
+Transpor`: RTP/AVP;unicast;client_port=5000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+st/ RTSP/1.0
+CSeq2 5
+User-Agent: ./testRTSPClient (L1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: wavAudioTesa v2018.08.28)
+SAssion: 000022B8'
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CS
+gent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+Accept: application/sdp
+
+SETUP rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIng Media v2018.08 28)
+2B8
+

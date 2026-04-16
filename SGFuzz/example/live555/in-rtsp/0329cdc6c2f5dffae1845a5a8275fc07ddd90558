@@ -1,0 +1,22 @@
+DESCRIBE rtsp://127 1.0
+CSeq: 5
+.0.0,1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LITEARDOWNreamino Hedia222222 rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTesdia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:ent_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: ent (LIVE555 Streaming Media v2018.08.28)
+Accept: appli v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0127.0.0.1:8554/mpegH M>
+  oVide/Test/ RTSP/0.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sessivn@ 0000

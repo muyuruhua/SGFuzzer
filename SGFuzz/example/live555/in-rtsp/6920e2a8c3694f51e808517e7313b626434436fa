@@ -1,0 +1,43 @@
+DOPTIONSKRIBE rtsp://127.0.0.1:ation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+977
+ETUP rtsp://127.0.0.1:8554/mpeg1oreaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.2:8554/mpeg1or2AudioVt: ./testRTSPClient (LIVE555 Streaming Media v2019.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:854/mpeg1or2AudioVideoTelt/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTS        PClient (LIVE555 Streaming Media v1z  AV t RTSP/1.0
+CSeq: 2User-Agentt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+UsAe-rgent: ./testRTSPClient (LIVE972 Streaming z FGf    Er   Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-79228
+
+SETUP rtsp://128)
+Accept: application/sd/1..ort=50778-0POOD2B8
+Acce
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2 t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClien009.08.28)
+Session: 0t (LIVE972 Str018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://023.0.0.1:85 RTSCoDE&<__  udoTeistP00022Client (LIVE555 Streaming Media v2018.08.28)
+TrB8ansport: RTP/AVP;unic&st;client_2AVP;unicast;client_2ort=mi

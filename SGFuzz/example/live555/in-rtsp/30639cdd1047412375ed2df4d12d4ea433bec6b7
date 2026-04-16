@@ -1,0 +1,29 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:/. testRTSPClient 1LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERange: npt=922OPTIONSB8
+*PLAY rtsp:PLAY//128.0.0.1E8554/mpeg!or8554/mpee1or2AudioVideo:Range: npt-92AudioVideoRange: npt=9Te        /1.DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5R5 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+ SETUP rtsp://127.ent (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or02AudioVideient (LIVE555 St#eaming Media v2018.
+Scale:K    yyyyyyyyyyyyyyyyyyyyyyyyyy00-a v2018.08.28)

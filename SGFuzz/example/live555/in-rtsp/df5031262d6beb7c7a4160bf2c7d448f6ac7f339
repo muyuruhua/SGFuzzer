@@ -1,0 +1,23 @@
+D    ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVidenTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media 55 Streaming Media v2018.08.28)
+Trorspnta: RTP/AVP|;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Staerming Media v2018.08.28)
+Transport: RTP/t (LIVE555 Streaming Media v2018.08.28)
+Trorspnta: RTP/AdP;unicast;client_por}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}t=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streamin gMedic v2018.08.28)
+RTSP/1.0    TP(LIVE5 5 Streameaming M`dia v201MQ0                                                                                                                   8.28)
+Session: 000021B8
+Session:RanGe: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: 8)
+Session  000022B8
+

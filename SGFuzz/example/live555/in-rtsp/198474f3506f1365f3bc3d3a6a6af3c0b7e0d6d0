@@ -1,0 +1,26 @@
+DCSET_PARAMETERSeq:SCR*IBE rtsp://127*IBE rtsp://127.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08'.23)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2                  RTSPP;uni
+.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0/sdp
+
+SETUP rtsp://127.0.0.1:85555555555555554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tContent-Length:LIVE555 Streaming Media v2018.08.23)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://1027.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0ac3AudioTest
+CSeq: 4
+User-Agent: ./test8)
+Transport: Rtreaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:855LP    N r2AudioVideoTest/ RTS`/1.0
+CSeaming Media v2018.08.28)
+Wrazsport: RTPx-playNow:/AVP;uni
+

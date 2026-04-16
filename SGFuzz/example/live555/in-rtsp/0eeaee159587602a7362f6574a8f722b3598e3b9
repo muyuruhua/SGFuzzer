@@ -1,0 +1,23 @@
+z  _@  kPdia41996 t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SIETUP rtsp://127.0.0.1:8554/mpeg1o r2AuddiioVeoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtoTest/track2 RTSP/1.0mpeg1or2AudioVideoTest/track1 RTSP/1.udioVident:mmmmmmmmmmmmmmmnicast;client_port=45GET_PARAMETERssion:
+CSeq:  00002TP/AVP;unicast;client_pqrt=50778-50779
+
+SETTP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4  P{
+User-Agent: ./testRTSPClient (LIVE555 Stre=======ideoTest/track2 RTSP/1.0
+CSeq: 4
+Uzer-Agent:47
+Session: 000022B8
+
+PLAY rtsp://PClient (LIVE972 Streaming Media v2018.08.28)
+Transpoeq: 4
+User-Agent: ./testRTSPClient (LIVE555 127.0.0.Str1:eam85ing 5

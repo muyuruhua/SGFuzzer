@@ -1,0 +1,9 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest`RTSP/1.0
+CSeq: 2
+User-Agent: ./tClient (LIVE555 Streaming:8554/mpero1g2AudioVideoTest/track1 RTSP/1.0Client (LIVE555 Streaming Media v1009.08.28)nt (LIVE555 Streaming Media Ce        er-Agent022B8
+
+: ./testRTSP	lientDESCRIBE rtsp://123.0.0.1:8554/mpeg1or2IudioVideoTest RTSP/1.0
+CSqU:         gent: ./testRTSPC./teCeq: 6
+User-Agent: ./tes0
+CCeqstRTSPCliCont: 6
+User-Agent: ./testRTSPClient entJ-Le

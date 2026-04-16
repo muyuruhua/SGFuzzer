@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127DESCRIBE rtsp:/HNMHQO+//AVP;u                                                                                                     nicast;client_por4=t5546-45547
+Session: 000022B8port: RTP/AVP;u                                                                                                     nicast;client_por4=t5546-45547
+Session: 000022B8
+
+PLAY rtsp://128.0.0.1:8554/t_port=5.0.0551.84:/0W 
+     9mpeg1o

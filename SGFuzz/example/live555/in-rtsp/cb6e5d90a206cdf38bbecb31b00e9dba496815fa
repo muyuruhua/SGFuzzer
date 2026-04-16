@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audio ideoTest RTSP/1.0
+CSeq: 2
+User-Ag/ .:enttestRTSPClient (LIVE4g Media v2
+                                         `                                                                 0  a.ge: npt=00-
+
+JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJDESCRIBE rtsp://127.0.0.1:8554/mp    eg1or2AudioVideoTest/ RTSP/1.0
+oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCleint (LIVE555 Streaming Medi# v2018.08.28`r
+Session: 000022B8
+Range: npt=00-
+
+DESCRIBE rtsp://127.0&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&.0.1:8554/mp    eg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPon: 000022B8
+

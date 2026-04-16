@@ -1,0 +1,30 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVid,oTest TSPR/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 St=eaming Media v2018.08.28)t: RTP/AVP;unicast;client_port=45GET_PARAMETERssioContereaming Media v2018.08.28!
+Session: 00002B28
+R
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 6ku* R>gent: ./testRTSPClient (LI=   VEA55 Streaming Media v20stRTSPClient (LIVE555 Strgaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssioContereaming Media v2018.08.28!
+Sess on: 00002B28
+Range: npt=0.        000-
+
+ EARDOWtestRTSPClient (LIVE555 Streaming Aedia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000eq: 2
+User-Agent: ./testRTSPClient (LIVE555 St=eaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClient (LI=   VEA55 Streaming Media v20stRTSPClient (LIVE555 Strgaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssioContereaming Media v2018.08.28!
+Session: 00002B28
+Range: npContent-Length:-
+
+ EARDOWtestRTSPClient (LIVE555 Streaming AematroskaFileTest
+Session: 00npt=0.000-
+
+PMM=8
+

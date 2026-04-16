@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Au4/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Me            dia v2018.08.28!
+Session: 00002B28
+Range: npt=0dioVideoTck1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medi` v2018.PQ.28)
+TraD        ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LI       !reaming Media v2018.08.28)
+Accept: application/sdp
+
+hETUP rtsp://127.0nsport: RTP/AVP;unicast;client_.0.1:8554/mpeg1or2AudioVideoTepovt=50778-50779
+
+SETst/

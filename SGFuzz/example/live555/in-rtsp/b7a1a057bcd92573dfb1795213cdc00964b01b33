@@ -1,0 +1,10 @@
+DESCDE.       tsp:                                                                                                                              //127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0{<,  E_M
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2Audio VideoTest RTSP/1.0ent (LIVE555 Streaming Media v2018.08.28)
+Accept: applicatioESCRIBE rtsp://127.0.0.1:8554wavAudimTest/mpeg1or2AudioVideoTest RTSP/1.0
+C rtsp://127.0.0.1:8554/mpeg1or2AudioVdeioTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 S.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0cept: application2or/AudioVideoTest/ RT ./testRTSPClient (LIVE555 S.000-
+
+TEARDOWN rtsp://127.0.0.1:100t/er-Agent: .02/

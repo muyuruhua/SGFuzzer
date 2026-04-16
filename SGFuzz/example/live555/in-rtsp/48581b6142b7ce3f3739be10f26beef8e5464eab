@@ -1,0 +1,14 @@
+DESCRIBE rtrp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRHE  lient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127n: 000022B8
+
+PLAY rtsp://12ioDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audiocep   aContent-Length:
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVide$Test/track1 RTSP/1.AVP0
+CSeq: 3
+User-Agent: VideoTest/track1 RTSP/1.0
+CSe M 3 
+User-Agent: ./te./tests

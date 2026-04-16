@@ -1,0 +1,32 @@
+D    ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audio ideoTest RTSP/1.0
+CSeq: 2
+User-Ag/ .:enttestRTSPClient (LIVE4g Media v2
+ange: npt=00-
+DESCRIBE rtsp://127.0.0.1:8554/mp    eg1oreoTest/ RTSP/1.0
+oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medi# v2018.08.28`r
+Session: 000022B8
+Range: npt=00-
+
+DESCRIBE rtsp://127.0.0.1:8554/mp    eg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (=00-
+
+DE,<-6=:_tsp://127.0.0.1:8553/mp    eg1or2AudioVOPTIONSt/ /track1 RTSP/1.0
+CSeq: 3
+User-Ag     ./testSeq./testRTSPClieng Media v2018.08.28)
+Ant (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779RTSP/1.0
+oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medi# v2018.08.28`r
+Session: 000022B8
+Range: npt=00-
+
+DESCRIBE rtsp://127.0.0.1:8554/mp    eg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE798LIVE798 Streaming Meyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyydia v2019.08.28)
+S
+Session: 000022B8
+

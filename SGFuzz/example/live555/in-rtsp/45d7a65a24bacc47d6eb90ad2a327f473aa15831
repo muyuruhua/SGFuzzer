@@ -1,0 +1,32 @@
+D        rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTS]   ent (LIVE555 Streaming Media v2018.88.28)
+Accep?: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:DESCRIBE rtsp://127.0.0.1:8554/mpeg1 r2AudioVideoTest RTSP/1.0
+C]eq: 2
+USETUP ent: ./settRTSP Client (LIVE555 Streaming Media v2018.08.28-
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2A ./testRTSPClient (LIVE555 StreXming Media v2018.08.28N
+Transport: RTP/AVP;uni`ast;client_port=50778-50779
+
+SERTP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LI#E555 Streaming Media v2018      60
+Transport: RTPIAVP;unicast;client_port?45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient0(LIVE555 Streaming Media v4032068.8.)
+Session: 000022B8
+Range: npt=0.000-
+
+				ing Media v4036.08.28)
+Transport: RTP/AVP;unicast;cl_enSl_opacte56-54:447
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq:																																						udi															Content-Length:							oVideoTest/	

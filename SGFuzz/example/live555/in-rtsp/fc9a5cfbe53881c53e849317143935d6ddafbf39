@@ -1,0 +1,13 @@
+D      UPClieContent-Length:eaming M: RTP/AVP;unicast;client_port=87618-50S
+28)
+Ac7ept: apppI  lication/sdp
+
+SEMrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest ZTSP/1.0
+CSeq: 2
+User-Agent: .0.1:8554/mpeg1or2AudioVideo 	JpTest/ RTSP/1.0
+CSeq: 5ming Media v
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.2on: 000022B8
+Range: npt=0.000-
+
+CseqDOWN rtsp://DliveMedia17e: npt=9npt=0.0://127IVE555 Streaming Media v2018.08.28)
+SesRTSP/1.0.0

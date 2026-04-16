@@ -1,0 +1,8 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tia v3   0 08ansport: RTP/AVP;unicast;client_por
+B/mpeg1o.0.1:85 RTSCoSC         dp
+
+SETUP rtsp://063.0.0.1:85 RTSCoSC                     six-plaM0779
+
+SETUP rtsp:/sp://126.0.0.1:8554/mpeg1or2AudioVileoTfst RTSP/1.033333333333333333334r4nt

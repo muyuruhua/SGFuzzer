@@ -1,0 +1,18 @@
+DESCRIBPLAYE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./test 	SPClient (LIVE555 streaming Media v2018.08.28)
+Acc ept: application/sdp
+
+SETUP rtsp://127.0lin: 000022Bia v2018.08.28)
+Session:"008022B8[Range: npt=0.000-
+ (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPE960 Streaming Media v2018.08.28;
+Session: 00[022B8
+Range: npt=5.000-
+
+TEARD1-N rtsp:./testRTSPClient (LIVE555 Streaming Medi(((((((((((((((((((((((((((((((((((((((((((((((((((((((((((a v2018 08.28)
+Accept: application/sdp
+
+SETUP rtsudioVident: .
+
+PLAY rtsp://127/testRT

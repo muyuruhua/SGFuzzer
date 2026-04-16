@@ -1,0 +1,13 @@
+D       [k2 RTSP/1. 
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Stream                                                    ing Media v2018.08.28)
+Transport: RTP/UPDESCRIBGE   'IBE rtsp://127.0&0.or2AudioVideoTest/track1 RTSP/0.       estRTSPClient (LIVE555 Streaming 3 dia v2018.08.28)
+T1ansport: RT                                         PIAVP;unicast;client_port=45GET_PASAMETERssion: 000046B8
+
+PLAY rtsp://127.0.0p1:8554/mpgg1or2AudioVideoTest/ :RTSP61.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaminming RTSP/1.0018.0.8)82
+Session: 000022B8
+Range: npt=0.000DESCR-
+
+IB;_+DARr

@@ -1,0 +1,12 @@
+DESCRIBE rtsp://127.0.0.18:554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MedDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT  t RTSP/1.546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: .'/test TSPClient (LIVE555'9  eaming Media v1009.08.28)
+Session: 000022B8
+Range:unicast;client_port=45GET_PARAMETERssion: 0);     
+
+PLN rtsp://127.0AY rtsp://12,.0.0.1:8554/mpeg1or2AudioVideoTest/ RPUserAegt-n: ./.0.1:RTSP/1.0testRTS855P4C

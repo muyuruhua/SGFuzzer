@@ -1,0 +1,24 @@
+D       SSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-AgentM ./testRTSPC00022 (LIVE555 Streaming Media v3    08.28)
+Accept: application/sUUUUUUdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media Qnt_port=50778-50779
+
+SET?UP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/trac^  RTSP/1.0
+CSer-Agent: zRange: npt=9 t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Stream!ing Media v2018.08.28)
+Accept: applOPTIONS/sdp
+
+SETUP rts-C      p:DESCRIBE//127.0.0.1:8554/mpeg1or2AudioVidegTest/track1 RTSP/1.0
+CSeq: 3M
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.Clienp (LIVE555 S5 Streaming M0779
+
+SETUP rtsp://10.0.=50778-50S
+28)
+Ag1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Use333333333333333333333333333333333333334444444444444444444444444444444444444444444444444444444444444333333333333333333316666666666666r2nt

@@ -1,0 +1,14 @@
+DAcceptE rtsp://127.0.0.1, :8554/mze: npt=9npt=0.0eq: 2
+User-Agent: ./testRTS>Client (LIVE555 Streaming Media v2018.08.28)
+Accept:   peg1or2AudioVideoTest RTSP0S
+./C1eq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)  applicationAVPp
+
+pt:          !                                                          applicationAVPp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streahing Media v2018.08.28)
+Transport: 
+Accep
+: appliRTP/AVP;unicast;catclient_port=507785ion/sd

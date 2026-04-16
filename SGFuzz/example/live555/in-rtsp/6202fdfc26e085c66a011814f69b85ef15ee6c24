@@ -1,0 +1,6 @@
+DESCRIBE rtsp://123.0.0.1:8554/mpe        ioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicatijn/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideD CESCRIBE rtsp://1 27.0.0.1:8554/mpeg1omatroskaFileTest RTSP/1o.

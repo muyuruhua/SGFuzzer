@@ -1,0 +1,31 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIVE555 Streaming MedTSP/1.0t: ./testRTSPClient (LIVE:55 Streaming Media v2018.08.28)
+Session: 000022B8
+RanGe: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVid oTest/ RTSP/1.0
+CSeq: 6
+UserIAgent: n/test
+User-Agent: ./testRTSPClient (LIVE:55 Streaming Media v2018.08.28)
+Session:&000022B8
+RanGe: npt=0.000-
+
+TEARDOWN rtsp://127//127.0.0.1:8554/m/ RTSP/1.0
+CSeq: 5
+User-AgenRTSP/1.0t: ./testRTSPClient (LIVE:55 Streaming Media v2018.08.28)
+Session: 000022B8
+RanGe: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVid oTest/ RTSP/1.0
+CSeq: 6
+UserIAgent: n/test
+User-Agent: ./testRTSPClient (LIVE:55 Streaming Media v2018.08.28)
+Session:&000022B8
+RanGe: npt=0.000-
+
+TEARDOWN rtsp://127//127.0.0.1:8554/mpeg1or2AudioVid oTest/ RTSP/1.0
+CSeq: 6
+UserIAgent: n/test
+User-Agent: ./treaming28)
+Session:&000022000022B8
+RanG22B8
+

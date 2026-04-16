@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1orRange2Audio ideoTest RTSP/1.0
+CSeq: 2
+User-Ag/ .:enttestRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUUser-Agent27.0.0.1:8554/mpeg1or2AudioVideoTent: ./test5+(PClient (LIVE555 Streaming Medi# v2018.08.28)
+Session:: 000022B8
+Range: npt=00-
+
+DESCRIBE rtsp://127.0.0.1:8554/mp    eg1or2AudioVideoTeR /tsTSP/1.Content-Length:0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE798 Streaming Media v2019.0l.28)
+Sz
+Session: 000022B8
+

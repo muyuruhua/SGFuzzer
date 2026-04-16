@@ -1,0 +1,19 @@
+DContent-Length:d2uAioVideoTest/ RTSP/1.0st/ RTSP/1.0
+CSeq: 5127.0.0.1
+User-Agent: ./testRTSPClient (LIVEI54 Streaming Media v82Range: npt=9ession: 00002B28
+Range: $      ion/sdp
+
+SETUP rtsp://127.0.0.8554/mpeg1or2Aud0ioVideoTest/ RTSP/1.8
+CSeq: 5
+User-AgS1008.28!
+Session: 00002B28
+n aRge :      ion/sdp
+
+SETUP rtsp://254.0.0.8554/mpeg or2Aud0ioVideoTest/  RTSP/1.8
+CSeq: 5
+User-AgSPClient SETUP 55 Streaming Media v2018.08.      2         0002B28
+Rang%/ RTSP/..0
+CCeq: 6
+User-Agent: ./tewavAudioTest (LIVE555 Streaming Media v2SETUP018.08.,8)
+Session: 0000 O22B8
+

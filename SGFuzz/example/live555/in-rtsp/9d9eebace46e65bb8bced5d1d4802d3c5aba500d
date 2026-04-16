@@ -1,0 +1,17 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClienUser-Agent Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVTransporttracRange: npt=9
+CSeq: 3
+Qser-Agent: ./teContent-Length:IVE555 Streaming Media v201: RTP/AVP;unicast;client_pkvt=50778-50779
+
+SETUP rtsp://1DESCRIBE rtsp://127.0.0.1:8554/mp27.0.0peg1oreg1or2AudioVi
+       VideoTest RTSP/1.0
+CS                  #N                2Au3J333d000022B8io!idescoTt/ RTSP/ p:/sp://127.0.0.1:8554/mpeg1or2A dioViTCPTfst RTSP/1.0
+CSeq: 2
+User-Agent:3333333RT5 Streqe: U2s
+r-Agent: ./testRTSPClient (LIVoTest/track2 RT0/SP1.
+CSeq: 4
+User-Agent: ./testRTSE555 SPt

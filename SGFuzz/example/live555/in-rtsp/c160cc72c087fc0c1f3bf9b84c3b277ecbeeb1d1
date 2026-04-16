@@ -1,0 +1,20 @@
+DESCRIBE rtsp:/ent (LIVE555 Streaming Media v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp:I/127.0.0.1:5845/mpeg1or2AudioVideoTe     	&st/track1 RTSP/1.0
+CSeq: 3
+User-A)ent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unikast;client_port=50778-50779
+
+-ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/t27.0.0.1:8554/mpeg1or2Audio(LIVE555 Streaming MedGET_PARAMETER8)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./mtestRTSPClient (LIVE555 Streami0-
+
+TEARDOWN rtsp://127.0.0.1:8555/mpqg1or2~AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./SET_PARAMETERt (LIVE555 Streaming MedContent-Length:ia v2018.08.28)
+Session: 000022B8
+

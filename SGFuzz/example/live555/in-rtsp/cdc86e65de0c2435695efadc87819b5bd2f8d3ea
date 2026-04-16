@@ -1,0 +1,9 @@
+zS[ale:P/1.0
+CSeq: 											Range: npt=9							1
+UsOPTIONSer-Agent: ./tetestRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transpoeq: 4
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media       a v20 sport:18.08.28)
+Accept: sport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1or2Audio2ideoRange: npt=9Test/ R                                                             TSP/1.0
+CSe

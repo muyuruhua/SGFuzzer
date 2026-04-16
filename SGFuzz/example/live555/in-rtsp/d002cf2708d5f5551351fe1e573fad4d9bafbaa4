@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideo./testRTSPClient (LIVE555 Streaming Media v2018.  8 8)
+Session: 000022B8
+Range: npt=0.000-
+ (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=4MG@T_PARAMETERssio@ 00004n: 000022BLAY rtsp://127.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE960 Streaming Media v2018.08.28)8.28)
+Session: 0,,,,anspo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,y,,,,,,,00011B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1ob2AudioVideoTest/ RTSP/0.0
+CCeq: 6
+L er-Agent: ./testRTSPClient (LIVE555 Streaming MediTransport08.28)
+#essio: 00PR22B8
+

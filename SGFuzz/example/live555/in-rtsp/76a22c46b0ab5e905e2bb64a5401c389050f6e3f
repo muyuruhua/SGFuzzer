@@ -1,0 +1,10 @@
+Ds       ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agenu: ./testRTSPClient( LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP r0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPilCent (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unic~ast;client (VIEL555 Streaming Media v2018.08.28)
+SessionwavAudioTest

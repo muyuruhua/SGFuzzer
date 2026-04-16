@@ -1,0 +1,27 @@
+D    IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Mia v3    08.28)
+Accept:% application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-A1ent: ./testRTSPCli ent (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45Z546-45547
+Session: 000022Bedia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg2or2AudioVideoTest/track2 RTSP/1.0
+CSeq:                                                          4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;c8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVilient_port=45GET_PARAMETERsshon: 000022B8
+
+PLAY rtsp://127deoTest/ RTSP/1.0.
+CSeq0

@@ -1,0 +1,19 @@
+D  SCRIBE2? application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE277 Stream ng Media v2018.n/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:`./testRTSPClient (LIVE385 Stre iaengMmdia v2018.08.:8)
+Transport: RTPdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTS  7ientDESCRIBE rtsp://127. (LIVE277 Stream ng Media v2018.n/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:`./testRTSPClient (LIVE385 Stre iaengMmdia v2018.08.:8)
+0.0.1:8554/mpeg1or2AudioVideoTTransport:e

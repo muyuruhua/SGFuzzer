@@ -1,0 +1,9 @@
+D        rtsp://127.0.0.1:Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1D   'IBE rtsp://127.0OPTIONS.0.1:8554/mpeg1or2oiVduA99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999.0
+CSeqideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: ,a: 3ppl
+User-Agent: ./tastRTSPClient (LIVEication/sdp55

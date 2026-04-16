@@ -1,0 +1,7 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LI               VE555 StrPAUCEg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1owavAudioTestTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: .DESCRIBE redia v2018.08.28)
+Transport: RTP/A/testRTSPCVP;unicast;lient (LIVEclient_po555  S

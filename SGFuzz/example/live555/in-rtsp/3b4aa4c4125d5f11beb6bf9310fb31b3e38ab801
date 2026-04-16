@@ -1,0 +1,24 @@
+D !      ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audio ideoTest RTS `      Seq: 2
+User-Ag/ .:enttestRTSPClient (LIVE5g Media v20stRTSPClimnt (LIVE555 Streaminept: applicat    ion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Str\eamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERsXXXXXXXXXXXXXXXXXXXXXXXXXXXideoTest/ Vi/odeeTts RTSP/1.0
+CSeq:
+U5 s$er-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000024B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0cept: application/sdpsru,ETUP rtsp://127.0.0.100022B8)
+
+PLTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 00002  Ol2B8
+Range: npt=15-
+
+TEARDOW9_rtsp://127.0.0.1:8554/mp    eg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE798 Streaming Media v2019.08.28)
+S
+Session: 000022B8
+

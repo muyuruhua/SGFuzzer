@@ -1,0 +1,21 @@
+DESCRIBE rtsst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Str28)cast;client_port=50778-50S
+977
+ETUp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Str28) ast;client_port=50778-50S
+97r7
+ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioTideoTest/track2 RTSContent-Length:
+k2 RTSContent-Length:
+User-Agent: ./testRTSPCRange:ideoTest/ RTS0/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Ralient_port=50778-50S
+977
+ETUp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Ageing Media v2018.08.28)
+Session: 000022B8
+

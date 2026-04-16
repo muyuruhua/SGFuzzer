@@ -1,0 +1,22 @@
+DESCRIBE rtsp://127.0.0.rt=45GET_PARAMETERssion: 000022B8
+ient (LIVE555 Streaming MeRange2018.08.28)
+Session: 000:::::::::::::::::::::::::::::::022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554        2AudioVideoTest/ RTSP/0.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.5 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:85: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medi v2018.08.28)
+Session: 000022B8
+xRange: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: ./SET_PARAMETERt (LIVE522B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://063.a v2018.08.28)
+Sjjssion: 000022B8ssion: 000022B8
+

@@ -1,0 +1,13 @@
+DESCRIBE rtsp:+/127.0.0.1:8554/mpeg1or2AudioVi    fst RTSP/1.0_port=507oTfst RTSP/1.0_RTPport=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRT  ClaP rtsp://                               127.0.0.1:8554/ipeg1or2Audio.08.28)
+Transport: RTP(/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.gent: ./tlient_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.gent: ./testRTSPClient (LIVE555 StreestRTSPClient (LIVE555 StreaSession: 000022B8
+

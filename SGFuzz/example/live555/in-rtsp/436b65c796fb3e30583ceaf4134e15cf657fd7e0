@@ -1,0 +1,30 @@
+DESCRIBE rtsp://127.0.0.1:8554/m$ g1or2AudioVidentContor2AudioVidentContent-Length:: ./testRTSPClient (LIVE555 SurPAUSEg Media v2018.08.28)
+T ransport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08  .28)
+Transport:
+
+PLA.0.0.1:8554/DESent-Length:: ./testRTSPClient (LIVE278                                                                                           StrPAUSEg Media v2018.08.28)
+Tr.ansport: RTP/AVP;cnaiust;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Transport:
+
+PLA.0.0.1:8554/DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2TSP/1.0
+CSeq: 2
+User-testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/3
+User-Agent: ./te0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Transport:
+
+PLA.\\\\\\\\\\\\\\\\\\\\\0.0.1:8554/DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2TSP/1.0
+CSeq: 2
+User-testRTSPClient (LIVE555 Streaming Media v2018.08.28)stRTSPClient (LIV        E555 StreaminAVP;g

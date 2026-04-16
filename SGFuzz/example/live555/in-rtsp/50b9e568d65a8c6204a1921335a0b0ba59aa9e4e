@@ -1,0 +1,29 @@
+D   Ke: npt=9://127.0.0.1:8554/mpeg1or2Au,ioVideoTest RTSP/1.0
+C Streaming Media v2018.08.28)
+Session: 010022B8
+Range: npwavAudioTestt=0.000-
+
+DEREGISTER t;client_port=50778-50779SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq* 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent-50771SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq* 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideSETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq* 4
+User5 St85RTPmpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent:!./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: UP rtsp./testRTSPClient (LIVE555 StreaminDSATUP WN gestRTSPClient (LIVor2AudioVideSETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.T
+CSeq* 4
+User5 St85R554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq* 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideSETUP rtsp://127.0.0.1:855                                                                                     4/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq* 4
+User5 St85RTPmpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent:!./testRTSPClient (LIVE555 Streaming Media v2    08.TPmpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 3PLA.0.0.1
+User-Agent: ./teswRTSPClient (LIVE555 Streaming Media v3  JJJJJJJJJJJJAgent:!./testRTSPClient 

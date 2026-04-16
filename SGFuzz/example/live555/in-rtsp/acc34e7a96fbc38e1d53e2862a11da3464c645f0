@@ -1,0 +1,16 @@
+DEnt: ./testRTSPClient (LIVE555 streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtswebm: 000022B8
+
+PLAY rtsp://127.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIV1E960 Streaming Media v2#018.08.28)
+Session: 000022B8
+Range: npt=5.000-
+
+TEARDOW1or2AudioVideoTest/ R SP/1.0: 08)
+SessionB8
+Range: npt=0.000-
+ (LIVE555 Streaming MAudioVideoTest/ R P/S1.0: 000022B8
+

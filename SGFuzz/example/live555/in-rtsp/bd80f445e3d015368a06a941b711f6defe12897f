@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./settRTSPClienSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: R        nicast/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ,/testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50779-50779webmFileTestsp://127.0.0.1:85rrrrrrrrrrrrrrrrrrrrrrr127.0.0.1:8554/mpeg1or2An: 000022B8
+

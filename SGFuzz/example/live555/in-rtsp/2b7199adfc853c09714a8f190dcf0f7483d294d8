@@ -1,0 +1,12 @@
+cast;cli.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 S*treaming /sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AurdioVideoTest/track1 RTQP/1.0
+SPClient (LI   127.0.0.1 127.0.5.1:8554/mpeg1or2AudioVideoTest/trac#k1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LI E555 Streaming Media v2018.08.28)
+Transport.2    Transport: RTP/AVP;unicast;client_port=45546-lient (LIVE555 Streaming Media v2er-Agent?: ./tesSET_PARAMETERLIVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+Range: nnicast;clienia v1009.08.28 K  0881)n: 0J./tes8Range: nn: 0J./tes8Range: npt=9
+

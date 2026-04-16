@@ -1,0 +1,37 @@
+D  SCRIBE2? appl   Pion/sdp
+
+SETUP rtsp://127.0.0.1:8554/ peg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE277 Stream ng Media v2018.n/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:`./testRTSPClient (LIVE385 Stre iaengMmdia v2018.08.:8)
+Transport: RTPdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE277 Stream ng Media v2018.n/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:`./testRTSPClient (LIVE385 Stre iaengMmdia v2018.08.:8)
+Transport: RTP/AVP;unicast;cliRange: npt=-989-5-779
+
+SED    ESCRIBE rtsp://127.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0
+CSq :
+2eUser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+AcceTUP rtsp://1 27.0.0.1:8554/mpeg1or2Au Media v4029.00-
+
+TEARDOpt: application/sdp
+WN rtsp://127.0.2.1:8  555/
+SETUm/AVP;unicast;cliRange: npt=-989-5-779
+
+SED    ESCRIBE rtsp://127.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/2.0
+CSq :
+2eUser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+AcceTUP rtsp://1 27.0.0.1:8554/mpeg1or2Au Media v4029.00-
+
+TEARDOpt: application/sdp
+WN rtsp://127.0.2.1:8  555/
+SETUmpeg1or2AudioVAP

@@ -1,0 +1,11 @@
+D    ESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 1
+User-Agent: ./testRTSPClient* (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 St;reaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;clia v2018.08.:8)
+Transport: RP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClieSETUPIVent: ./testRT8554/mpeo12ArgudioVideoTSPest/ 

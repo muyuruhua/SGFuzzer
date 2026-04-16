@@ -1,0 +1,16 @@
+z   9 tAVP RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08."8)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554        2AudioVideoTest/track1 RTSP/1 0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rts%p://127.0.0.1SETUP/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 8
+User-Agent:/. testRTSPCLient 1LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERange: npt=922OPTIONSB(
+
+PLAY rtsp://128.0.0.1E8554/mpeg1or8554/mpee1or2AudioVideoRange: npt=92AudioVideoRange: npt=9Te        /1.0

@@ -1,0 +1,29 @@
+DESCRIBE r
+Qser-Agent: ./testRTSPClient (LeoTest RTSP/1.0ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://1er-Agent: ./testRTSPClient (LIVE555
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0A.0.1:8554/mpeg1or2AudioVideoTest/ RTSPL/0.0
+CSeqAudioVideoTest/ RTSP/1.0
+CSeqIVE555 StreaAudioTest rtsp://127.0.0                                             AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+ (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;llient_port=4MGET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOtNWr sp://1HHHH27.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v10059.08.28)
+Sessio: 000022B8
+

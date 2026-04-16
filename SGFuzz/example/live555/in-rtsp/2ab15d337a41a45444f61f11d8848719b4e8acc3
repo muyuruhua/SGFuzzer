@@ -1,0 +1,6 @@
+DESCRIBE rsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1Content-Length:                                                     User-Agent                 st/ RTSP/1.0
+CRTP: 6
+User-Agent: ./testRDSPClient (LIVE110 Streami~g M: RTP/AVP;unicast;clSP/0.0
+CSeq: 5
+User-Agent: ./testRTSPCla v2018Content-Length:n: 0PS022B8
+

@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpe8.08.28)
+Transport:TPR /AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAp
+:SETUP rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTesGET_PARAMETER/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE%55 Streaming Media v2017.
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 00002Range: npt=9npt=0.000-
+
+TEARDOWN rtsp://        1:8554/mpeg1or2AudioVtestt: ./testRTSPCl ni(etLIVE5
+Sessivn@ 000022B8
+

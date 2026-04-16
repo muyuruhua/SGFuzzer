@@ -1,0 +1,6 @@
+DE.       tsp://12 tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE
+55 Streaming Media v20
+Session:rrrrrrrrrrrrrrrrrrrrwavAudioTestrrr        rrrrrrrrrrrrr 0020127.0.0.102B8
+

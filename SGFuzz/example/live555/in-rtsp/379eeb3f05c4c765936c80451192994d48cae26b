@@ -1,0 +1,8 @@
+DESCRIBE rtsp://127.0.0551.84:/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-A    SETUP rtmatroskaFileTestsp://126.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0JCSeq: 4
+User-Agent: ./testRTSPClient (LIVE555r Streaming Media vCSeq:2018.08.28)
+Transport: RTP/AV@P;unicast;client_port=45545-45547
+Sessiolient (LIVE555 Streaming Media v2018.00.28)
+Sessivn@ 000022B8                                                                                     Cseq  ??????                      
+

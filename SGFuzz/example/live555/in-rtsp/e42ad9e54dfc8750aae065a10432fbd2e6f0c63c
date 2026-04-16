@@ -1,0 +1,8 @@
+DETEARDOWNtsp://127.0.0.1:8554/mpe2Acceptcept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/m                          peg0o 2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCliSETUPLIVE555 Streaming Med8)
+Acce  Cseq                                                    sdp   
+
+SETUP 

@@ -1,0 +1,15 @@
+DESCRIBE                    rtsp://127.0.0.1:8554/mpeg1or2AudioPARAMETERssion: 000022B8
+
+PLAY                                              rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5 
+User-Agen555 Streaming Media v2018VideoTest RTSP/1.0eC
+Sq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MediaSETUP v2018.08.28.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq)
+Accept: application/sdp
+
+SETUP : 3rtsp:/
+User-Agent: ./testRT/127.0SPCli.0.1:8

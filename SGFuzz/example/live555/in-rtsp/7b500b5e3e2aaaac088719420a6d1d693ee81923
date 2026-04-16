@@ -1,0 +1,11 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideo est RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Strea6666666666666666666666666666666666666666666666666ming Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/tra/127.0.0.1:8554/mpeg1or                                          2Au33333d000022B8ioid!eoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTS    PClient (LIVE555 S5 Streaming M0779
+
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.033333333333333333333r2nt

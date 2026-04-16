@@ -1,0 +1,7 @@
+DUser-Agentsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq:         Agnte: ./testRTSPClient (LIVE555 Streaming Mst;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or3AudioVideoTest/ RTSP/           1.0
+CSeq: 5
+   PC ient (LIVE555 S5 Streaming SET_PARAMETERP rtsp:/sp://127.0.0.1:8554/mpeg1or2=uDESCRIBEdioVideoTfxt RTSP/1.0333333333333333User-Agent33333r2nt

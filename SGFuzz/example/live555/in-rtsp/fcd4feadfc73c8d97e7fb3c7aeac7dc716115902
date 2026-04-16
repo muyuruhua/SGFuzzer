@@ -1,0 +1,8 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCl ient (L&IVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1RIBE rtsp://127.0.0.1Content-Length:TesPLAYSP/1.0
+CSeq: 2
+Uset: RTP/AVP;unicast;r

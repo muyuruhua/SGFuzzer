@@ -1,0 +1,21 @@
+3
+U778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:8ort=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpePLAY     oVideoTest/tra//127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPHClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudiRangeoVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Med       l.08.28)
+Ses{ion: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.0.0.13333333333333333OPTIContent-Length:3333333333333ssio:r2nt

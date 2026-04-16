@@ -1,0 +1,29 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe,t RTSP/1.P|
+                                                                                                                      CSeq: 2
+User-Agent: ./testRTUser-AgentLIVE555 Streaming Media v2018.08.28)
+Accept: applic        hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh                     ation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.1
+CSeq: 3
+User        ./tnstRTSPClient (LIVE575 Strea+ming Media     v2019PO8.28).1DES.RIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-AgendioV  e                                oTest(LIVE555 Streaming Media v2018.08.28)
+Ses ion: 000022B8
+Ran2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/t|rack2 RTSP/1.0
+CSer-k2 RTSP/1.0
+CSer-Agent: ./testRTSPCAgent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.289
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClieDESRCIBE~t (LIVE972 Stoeaming Media v021.808.29)
+Transpoeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming MGdia v2018.,8.28)
+Transport: ATP/Age: npt=-.000-
+
+TEARDOWN peg1or2Au RTSP/1.0entdi (LoViId

@@ -1,0 +1,8 @@
+DESCRIBU rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSSPClientGET_PARAMETER (LIVE555 Streaming Media v2018.08.28)
+Sesion: 000022B8
+
+PLAac3AudioTest: npt=985   ?__@_> e-Agent: ./RTSPClient (LIVE555 SAVPam   _2 Content-Length:  a v2019..4.28)
+Session: 000022B8
+

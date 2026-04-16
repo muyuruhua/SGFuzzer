@@ -1,0 +1,14 @@
+DAVPESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSe;q: 3
+User-Agent: ./testRTSPClient (LIVE555r aiSetmng MediCseqTN8.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+                                                                      :QPNQ9.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555eStreaming Media v2018.08.28)
+Session: 000022B8
+

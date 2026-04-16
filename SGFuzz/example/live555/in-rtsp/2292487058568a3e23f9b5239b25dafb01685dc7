@@ -1,0 +1,31 @@
+DESCRIBE rtt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/stp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testR/M      t (LIVE5U5 SOPTIONSg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=5edia v2018.08.2=8GET_PARAMETER RTP/AVP;unicast;client_=rt5op45-5546447
+'ession: 00VideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=25389-50779
+
+SETUP rtsp://SET_PARAMETER127.0.0.1:8554/mpeg1or2AudioVideosp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User(Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/stp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testR/M      t (LIVE5U5 SOPTIONSg Media v2018.08.28)PLAY
+Transport: RTP/AVP;unicast;client_port=5edia v2018.08.28GET_PARAMETER RTP/AVP;unicast;client_=rt5op45-5546447
+'ession: 00VideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=25389-50779
+
+SETUP rtsp://SET_PARAMETER127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent :./testRRange: npt=8I v2018.08.28)
+Sessivn@ 000022B8
+

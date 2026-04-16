@@ -1,0 +1,19 @@
+DESCRIBE rtsp://127.0.0.1:8554    g1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.185:34/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient :7108/mpeg1or2AudioVideoTest/t2ack1 RTSP/1.0o
+CSeq:`H
+User-Agent: ./testRTSPClien7 (LIVE575 Strea  ng Media     v2018PO8.28).1DES.RIBE rtsp://127.0.0.1:8554/ +mpeg1or2AudioVideoTest RTSP/1.0
+CSSET_PARAMETEReq: 2
+User-AgendioV  e                                oTest(LIVE555 Strent (LIVE972 Streaming z FGf    Er   Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-79228
+
+SETUP rtsp://128)
+Accept: application/sd/1..o                                                      rt=50778-0POMD2B8
+Acce
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 StreRTPIAd`#     st;client_port=45GET_PARAMETERssiompeg1Aud

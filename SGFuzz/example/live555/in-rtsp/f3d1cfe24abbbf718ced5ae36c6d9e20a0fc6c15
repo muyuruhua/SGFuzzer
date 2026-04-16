@@ -1,0 +1,16 @@
+D       	ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./mestRTSPClient (LIVE555 Streaming Media v4036.08.28)
+Transport: RTP/AVP;unicast;client_port=50778RTP779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LCVE286 StRTSP/1.0re=======oTest/ RTSP/1.0
+CSeq: 5
+User-Mgen     t: ./testRTSPClient (LIVE554 Stkeaming Media v2017.08.28)
+Session: 000022B8
+Range: npt=0.00 E        ARDOWN rtsp://127.0.0.1:855/4mpeg1or20.0t/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medi3a v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=4ion: 000022B8
+Range: npt=0.000-
+
+TEAR/OWN rtsp://564.0.0.1:8554/mpg1eor2AudioVide=t/Teos R

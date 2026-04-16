@@ -1,0 +1,18 @@
+DESCRIBE rtsp://127(0.0.1:8554/mpeg1or2Audi  ideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClidnt (LKVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:8554/mpeg1or2AudioVideoTest/track0 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Range: npt=9dia- v2018.08.28)
+Transport:   RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudhoViFdeoTest/track2 RTSP/1.0
+CS00022        B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://12---------------------------------------7.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClie   (LIVE555 St#ea=ing Mmdia v2018.08.28 K 00002     on: 0 ./tes8
+

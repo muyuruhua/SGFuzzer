@@ -1,0 +1,36 @@
+DPLAYESCRIBPLAYE rtsp://127.pplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 StreaAudi RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE55S r5ameting Media v2018.08@.28)
+Session: 000022B8
+Range: np40.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 StreaAudi RTSP/1.0
+CSeq: 5
+UsMedia v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/@dp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022Trania v2 AYVE555 Streaming Medessio 
+
+PLAY rtsp://127.0.0:1.8554   08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.10..0:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 5
+ma|roskaFileTestsrRTSPClient (LYVE555 Streaming Media v2017.09.J8)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/s  dp
+
+SETUP rtsp://063.0.0User-AYVE555 Streaming Medessio 
+
+PLAY rtsp://127.0.0:1.8554/mpeg1or2AudioVideoTest/ R SP/RssCseqion0000x22B8
+

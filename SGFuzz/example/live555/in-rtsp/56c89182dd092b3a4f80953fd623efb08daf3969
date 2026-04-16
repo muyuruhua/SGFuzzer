@@ -1,0 +1,13 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./: npt=9: SETUPtRTSPClient (NIVE555 Ste8)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B(
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+Use #  ent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 0//127.0.0.1:8554/mpeg1or2AudioVideoTest) RTSP/1.0
+CSeq: 6
+        ntRang        e: npt=9: ./testRTSPClient (NIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

@@ -1,0 +1,7 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streami08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000021OPTIONSB8
+
+PLAY rtsp://128.0zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIz.0.1:8554/mpeg1or2AudioVideoRange: npt=9TcI      est/ RTSP/1.0
+CSe

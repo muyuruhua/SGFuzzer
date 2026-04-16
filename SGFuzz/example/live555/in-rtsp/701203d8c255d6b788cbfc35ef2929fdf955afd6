@@ -1,0 +1,36 @@
+DRange: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C Streaming Meming Media v2018.08.28)
+Session: 010022B8
+Range: npt=0.000-
+
+DTCPEREGISTER t;cDScale:E rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.p
+CSeq: 2
+Us      .08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8   08.28)
+Accept: application/sdpDScale:E rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.p
+CSeq: 2
+Us      .08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8   08.28)
+Accept
+
+SETUP rtsp://127.0.5.1:8554/mpewebmFileTestg1or2AudioVideoTest/track: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpewebmFileTestg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (\IVE555 Streaming Media v1009.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp:/SEKUP/127.0.0.1:8554/mpeg1or2Audi
+Accept: apppI  lication/sdp
+
+SETUP un1 RTSP/1..
+CSeq: 3
+Useric:/-Agent: ./testRTSPClient (\IVE555 Streaming Media v1009.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp:/SEKUP/127.0.0.1:8554/mpeg1or2Audi
+Accept: apppI  llient_p/ort=25389-50779SETUP rtsp://127.20.0.1:8554/mpeg0or2Aud780SETUP rtsp://127.nt0.0.1:8

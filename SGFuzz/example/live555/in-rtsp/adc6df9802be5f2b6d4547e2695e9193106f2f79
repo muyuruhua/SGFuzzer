@@ -1,0 +1,33 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsTransporteRange: npt=9estRTSPClient (LIVE110 Streaming MediaRange:  v2018.08.28Wru4ccept: application/sdp
+
+SETUP rtsp://458.0.0.1:7108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SET2UP rtsp://127108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP r[[[[[[[[/mpeg1or  udioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Age./te54/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsTransporteRange: npt=9estRTSPClient (LIVE110 Streaming MediaRange:  v2018.08.28Wru4ccept: application/sdp
+
+SETUP rtsp://458.0.0.1:7108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SET2UP rtsp://127108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP r[[[[[[[[/mpeg1or  udioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Age./testRTSPClient (LIVE556 SGET_PARAM78-50779
+
+SETUP rtsp://;27.0.0.1:8554/mpeg1or2AudioVideoTest/traa v2018.08.28)          FFFFFFstRTSPClient (LIVE555 SGET_PARAM78-50779
+
+SETUP rtsp://;27.0.0.1:8554/mpeg1or2AudioVideoTest/traa v2018.08.28)          FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFOPTIONSFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF    ck 

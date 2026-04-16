@@ -1,0 +1,30 @@
+DESCRIBE rtsp://127.0.0.18:554/mpeg1or2AudioV   FTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0$1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testAcceptient (LIVE555$Streaming Media v20stRTSPClient (LIVE555 Streaming ;Media v2018.08.28)
+Transport: RT        icast;client_port=45GET_PARAMETERssion: 0);     
+
+PLAY rtsp://12,.0.0.1:8554/mpeg1or2AudioVideoTest/ RPSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVDESCRIBE rtsp://127.0Cseq:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpegE555/testRTSPCli=ent (LIVE555 Streaming Meda i21v08.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TE1or2Audio{ideoTest/t-rack1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (L    IVE555 Streaming MeDTransporttsp:/ent"(LIVE554 Streaming Media wavAudioTestv4038.08.2Range8)
+Accept: applicationdia v2018.08.28E555 Streaming Media v2018.08.28)
+Sesskon: 000022B8
+Range: npt=0.000-
+
+TE1or2Audio{ideoTest/track1 RTSP/1.0
+CSeq: estRTSPClientVP;unicast; (LIVE555 Streaming Medllient_port=ia 

@@ -1,0 +1,20 @@
+DETransportsp://127.0.0.1:8554/mpeg1or2AudioVideoTepeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tesContent-Length:VE555 Streaming Media v2017.08.28)
+Sessionapplication/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/ RTSP/1.0
+CSeq: +
+User-Age+nt: ./testRTSPClient (L27)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:855N4/mpeg1or2AudioVi2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: 000022B8 
+Range: npt=0.000-
+
+TEAR0.1:8554/mpeg1or2AudioVi54/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6IVE555 Streaming Media v1009.08.28)
+SesContent-Length:sion: 000022B8
+Range: npt=0.000-ion: 000022B8
+

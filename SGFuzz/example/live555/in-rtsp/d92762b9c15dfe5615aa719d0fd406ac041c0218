@@ -1,0 +1,4 @@
+D?       rtsp://127.0.0.1:8554/mpeg1or2DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testAudioVideoTfst RTSP/1RTSPClie t (LIVE555 S.0
+tre

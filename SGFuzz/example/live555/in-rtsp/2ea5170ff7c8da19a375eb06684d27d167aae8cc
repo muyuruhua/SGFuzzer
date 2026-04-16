@@ -1,0 +1,15 @@
+D@ 00004       /127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClientAVPIVE555 Stre      0aming Media v2010.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.185:54/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE110 Str*aming ppppppppppppppppppppppppppptpppppppppppppppppppppppppppppppppppppppMedia v2018.08.28)
+TraRTPort: RTP/AVP;RAW/RwavAudioTestAWunicast;client_port=50389-50779
+CSeq:UP rtsp://12                                                7.0.0.5:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+8.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1"ud

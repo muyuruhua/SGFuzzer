@@ -1,0 +1,31 @@
+DRange: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.5
+C  (  3
+Use?-Agentrt: RTPIAVP;unicast;client_port=45GET_PARAMETERssYion: 000022B8
+
+PLAY rtsp://12UP rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE%55 Streaming Media v2018.Range08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp:/?127.0.0.1:8554/mpeg1or2AudioVidioVideoTes/ttrack1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2018.08.28)
+Transport: Transportnicas                                    or3AudioVideoTest RTSP/1.5
+C  (  3
+Use?-Agentrt: RTPIAVP;unicast;cli)22B8
+
+PLAY rtsp://12UP nt_port=45GET_PARAMETERssYion: 000022B8
+
+PLAY rtsp://12UP rtsp://45800...1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE%55 Streaming Media v2018.Range08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp:/?127.0.0.1:8554/mpeg1or2AudioVidioVideoTes/ttrack1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2018.08.28)
+Transport: Transportnicas                                                                                                                  t;client_port=506                                                                      eoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE%55 Streaming Media v2018.Range08.28)
+Transport: RTP/ion: 000022B8
+

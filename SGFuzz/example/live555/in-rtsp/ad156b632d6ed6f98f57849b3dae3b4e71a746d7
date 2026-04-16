@@ -1,0 +1,10 @@
+z  K
+TSP/1.0
+CSeq: 2
+User-A  ]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]           Range:          unicast;client_port=57778-50779
+
+SETUP rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Str,eaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;clienTSP/1.0
+4/mpeg1or4AudiVeoodiTest/ RT~P/1.0@CSeTEARDOWN

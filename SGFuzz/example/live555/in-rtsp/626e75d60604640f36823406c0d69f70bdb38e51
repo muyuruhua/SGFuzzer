@@ -1,0 +1,26 @@
+D  ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVi eoTest RTSP/1. 
+CSeq: 2
+UsAr-Agent: 
+SETUP rtsp://126.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSmatroskaFileTestPClient (LIVE555 Streaming Media v127.0.0.18)
+Transport: RTP/AVP;unican: 000023B8
+
+PLAY rtsp://127.05:..01854/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AgentUser-Agent: ./testRTSPClient (LIVE555 Streaming Media v20.2.808TEARDOWNsion: 000022B8
+Range: npt=0.000D./testRTSPClTSP/1.0ac3AudioTest
+CSeq: 4
+User-Agent: ./testR                                   TSPClient (LIV/sdp
+
+SETUP rtsp://127.0
+User-Agent: ./testRTSmatroskaFileTestPClient (LIVE555 Streaming Media v127.0.0.18)
+Transport: RTP/AVP;unican: 000023B8
+
+PLAY rtsp://127.05:..01854/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AgentUser-Agent: ./testRTSPClient (4/mpeg1or2AudioViLIVE555 Streaming Media v20.2.80881)
+Session: 000022B8
+Range: npt=0.000DESCR-
+
+IBE TEARr

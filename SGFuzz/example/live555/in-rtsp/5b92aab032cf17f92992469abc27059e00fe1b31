@@ -1,0 +1,19 @@
+DGET_PARAM
+
+SETUP rtsp://127.0.0.1:855LP  eg1or2Au-Agent .P/t  : dioVideoTest/track1 R: npt=0.000O+   CRIBE rtsp://127x-playNow:4/mpeg1or2AuETER//127.0.0.1:8554/mp 000022B8
+
+PLAETERssion: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRT PClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtTIONSARDOWN rtsp:1/2/7.0.0.1:8554/mpeg1or2Asp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Agent: ./testRT6PClwebmFileTest5 St reaor2AudioVideoTest/Cseqk2 RTSP/1.0
+CSeq: 4
+UserudioVideoTest/ RTSP/1n0
+        
+User-Ag-Ageent:n 

@@ -1,0 +1,5 @@
+DESCRIBE rtsp://127.0.0.1:8554GET_PARAMETER/DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfstmatroskaFileTest 1
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpegmpeg1or2Au1dioVideoor2AudioViTes

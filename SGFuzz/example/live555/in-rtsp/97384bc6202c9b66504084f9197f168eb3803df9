@@ -1,0 +1,11 @@
+DESCRIBE rtsp://1TSPt;cl       fient_port=45GET_PARAMETERssion: 00002.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport:  RTP/AVP;unicast;clienestRTSPClient (LIVE555 StreamingM edia v2018.08.28)
+Session: 000022B8
+8
+Rangnpt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2Audist/ RsTSP                                                                  =                                       Sessivn@ 00ming Media v2018.08.28)
+Sessivn@ 00020022B8
+

@@ -1,0 +1,9 @@
+D    IBE rtsp://127.0.0.1:K554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClien00022b8
+
+PLAY rtsp:hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh//127.0.0.1:855#4/mpeg1TSP/1.0
+CSeD        q: 3
+User-Age EW./test018.08.28)
+Transport: RTP/AVB8
+

@@ -1,0 +1,20 @@
+DESCRIBE rtsp://127.0.0.1:8554Y peg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Use8
+
+r-Agent: ./testRT8
+
+r-Agent: ./testRTSPClient (LIVE110 Stre2//:7.0.0.1:8554/mpeg1or2Audio @      VideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTS$Client (LIVD    IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTesE5dia v (LIVE5dia v2018.08.28)
+Transport: RTP/AVP;unicast;cl/ent_povt=50778-50779
+
+SETUP rtsFp://127.0.0.1:8554/mpegSPClient (LIVE110 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rts1p2//:7.0.0.1:8554/mpeg1or2Audio @      VideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTS$Client (LIVD    IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTesE5dia v2018.08.28)
+Transport: RTP/AVP;unicast;cl/ent_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2DmatroskaFileTe RTSP/t 1.0

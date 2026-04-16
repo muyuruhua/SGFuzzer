@@ -1,0 +1,36 @@
+DE       KSCRIBE rtsp://127.0.0.1:5548m/peg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+PAUSEAgent: ./testRTSPClient (LIVE55SETUPeaming Media v2018.08.28)
+9ccept: applica: ./SETUPtestRTtion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StreaRTP/AVP/TCPv2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+18.0: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unic
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+8)
+9ccept: applica: ./SETUPtestRTtion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: )./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track20RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unic
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideient (LIVE555 St#eaming Media v2018.Scale:K           Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideient (LIVE555 St#eaming Media v2018.Scale:K             V22B8
+

@@ -1,0 +1,6 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIac3SETUPTesting Media v201'''''''''''''''''''''''''''''''''''''''''''8.08.28)
+Accept: application/sdp
+
+SETUP rtDESCRIBE rtssp:/p:///127.0.0.1:8554/mpeg1or2AudioVideo127.0.0.1:8554

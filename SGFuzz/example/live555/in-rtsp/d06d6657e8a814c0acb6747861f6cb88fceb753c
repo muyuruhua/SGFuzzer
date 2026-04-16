@@ -1,0 +1,13 @@
+DESCRIBE rtsp://127.0.0aming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://126.0.0.1:8554/mpeg1or2AudioVideoTesDES=RIBE rtsp://127.0.0.webmFileTestor2AudioVideoTest RT./testRTSPClient (LIVIVE;55 Streaming Media v2018.08.28)
+Transpor`: RTP/!AVP;unicast;client_port=50778-5Streaming Media v2018.eg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./0779
+
+SETUP rts2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AIVE555 Streaming Media v2018.eg1or2AudioVideoTfst RTSP/1.0
+CSeq: t/track2 2
+User-Agent: ./testRTRSPClT

@@ -1,0 +1,15 @@
+D+       SATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeqDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audio ideoTest RTSP/1.0
+CSeq: 2
+User-Ag/ .:enttestRTSPClient (LIVE6g Media v20stRTSPClient (LIVE555matroskaFileTestplication/sdp
+
+SETUP : 3PLA.0.0.1
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+Crtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARSeq: 3
+User-Agent: ./testRAMETERsXXXXXXXXXXXXXXXXXXXXXXXXTSPClient (LIVE555 SXitrXeamX

@@ -1,0 +1,10 @@
+DESCRI
+Transport: RTP/AVP;unicas       St;client_port=50778-50779
+
+SETUP rtsp://127.0.1.1:8554/mpeg1or2AudioTideoTest/track2 RTSP/1.0
+CSeq: 4
+Userpeg1or2AudE555 Streaming Media v2018.08.28)
+Se LIVE555 Streaming Media v2018.08.28)]   
+r-Agent: ./testR^SPClient (LIVE555 Str`eaming Media v2018.07.28)
+Session: 0000 PLAY
+

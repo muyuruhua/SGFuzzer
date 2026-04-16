@@ -1,0 +1,19 @@
+DAVPRI@E rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User(Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/stp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testR/M      t (LIVE5U5 SOPTIONSg Media v20:18.08.28)
+Transport: RTP/AVP;unicast;client_port=5edia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=455-55     #]xession: 00VideoTest/tr"       P/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE554 Streaming Mediadddddddddddddddddddddddddddddddddddddd v2018.08.28)
+Transport: RTP/AVP;unicast;client_po=tr25389-5077lication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Aud/track2 RTSP/1.0
+CSeq??????????????????????????????????????????: 4
+User-         Cseq       Agent :./testORanwe: npt=9I v2018.08.28)
+Sessivn@ 0&0022B8
+

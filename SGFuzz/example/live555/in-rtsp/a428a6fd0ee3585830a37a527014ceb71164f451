@@ -1,0 +1,23 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tesrt=4%546-45547
+Session: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Med       l.08.28)
+Sessiobn: 000022B8
+Range: npt=1.0DE554/mpeg1or2AudioVideoTest R0SPT/1.
+CSeq: 2
+User-Agent: ./tesrt=4%546-45547
+Session: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./  	&RTSPClient (LIVE555'9  eaming Med       l.08.28)
+Sessiobn: 000022B8
+Range: npt=1.0DESCRIBE 00-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2Aud000022B8ioVideoTest/ RwavAudioTest33333333333333333333333333OPTIContent-Length:33SCRIBE 00-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2Aud000022B8ioVideoTest/ RwavAudioTest33333333333333333333333333OPTICont'nt-Length:3333333333333ssio:r2nt

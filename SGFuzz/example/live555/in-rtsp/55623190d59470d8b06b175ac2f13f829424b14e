@@ -1,0 +1,14 @@
+ia v3    08.28)
+Accept:% application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-AoV,deoTest/track1 RTSP/1..
+CSeq: 3
+]ser-Agent: ./testRTSPClllllllllllllllllllllllllllllllllllllllllllllllllllGET_PARAMETERllient (LIVE555 Streaming Media v20st/ RTSP/1.77777777             70
+CSeq: 5
+User-Agent: ./tesSET_PARAMETERLIVE555 Streami    ng Media v1009.08.28)
+Session: 000022B8
+Rgane: ac3 ac3AudioTestnpt=0.000-
+
+TEARDOWN rtsp://12TEARDOWN: ./tesSET_PARAMETERLIVE555 Streamooooooooossssssssssssssssssssssssssssssssssssssssssssssssssssssssssoooooooooo PLAYooooooootspt   :/

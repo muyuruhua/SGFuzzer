@@ -1,0 +1,25 @@
+D    ESCRIBE rtsp://127.1.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0Cseqeq: 2
+User-Agent: ./testRTSPClient (LIVE555 S)reaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.GET_PARAMETER1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClie
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMEIVE555 Streaming Media v2018.08.28!
+Session: 00002B2
+8Range: npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:&8554/mpeg1or2AudioVideo0est/ RTSP/0.0
+CCeq: 6
+Us}}}}}}}}}}}}}}}}}}}AudioVideoDest/ RTSP/0.0
+CCeq: 6
+Us}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}|}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}er-Agent: ./testRTSPClient (LIVE554 Streaming Media v20tra08.28)-
+S}}}}}}}}}}}}}}}}}}}}}}}}}}B28
+Range: npr=0.000-
+
+TEARDARAMETERshsi127.0.0.1:&8554/mpeg1or2AudioVid  ; P_RTSP/0.0
+CCeq: 6
+Us}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}!er-Agent: ./testRTSPClient (LIVE555 Streaming Media v20tra08.28)-
+Session~: 000022B8
+

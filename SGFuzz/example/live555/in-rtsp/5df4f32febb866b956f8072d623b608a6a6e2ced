@@ -1,0 +1,54 @@
+DESCRIBE rtsp://11.0
+CC q: 6
+User-Aor2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User Agent: ./testRTSPClient (La v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-AorContent-LengDOWN rtsp:10$
+
+TEARDOWN rtsp:1/02./7.0.1:855 q: 6
+User-Aor2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User Agent: ./testRTSPClient (La v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+UseSP/1.0
+CSeq: 5
+User AgARDOWN rtsp:1/02./7.0.1:855 q: 6
+User-Aor2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User Agent: ./testRTSPClient (La v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+UseSP/1.0
+CSeq: 5
+User Agent: .  eV/testRTSPClient (La v2018.08.28)
+Session: .28)
+S28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Aor2AudioVideoTest/ RTSP/1.0GEent: .  eV/testRTSPClient (La v2018.08.28)
+Session: .28)
+S28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Aor2AudioVideoTest/ RTSP/1.0GET_PARAMETER
+CSeqContent-Length:a v2018.08.28)
+Session: 000022B8
+

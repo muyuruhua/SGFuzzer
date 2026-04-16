@@ -1,0 +1,19 @@
+DESCRIBE r sp://127.0.0.1:8514/:127.0.0.1:8554/mpeg1or2AudioVideoTest/ g       
+CSeq: 5
+User-Agent: ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C  ./0002B28   Test/ RTSP/0.0
+CC
+User-Agent: ./0002B28
+Range: n+t=0.000-
+
+TEARDARAMET	C  ./0002B28   Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP000022b8
+
+PLAY rtsp://127&0.0.1:8554/mpeg1or2AudioVideoTeslient (LIVE555 Stgent: ./testRTSPClient (LIVE555 Streaming testR    Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v6666666666666666666666666666666666666666666666666666620tra08.28)-
+Session: 000022B8
+

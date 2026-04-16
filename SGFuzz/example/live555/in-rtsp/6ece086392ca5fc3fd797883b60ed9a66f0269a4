@@ -1,0 +1,24 @@
+D        ESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Med   v2018.08.28)
+AcceLt: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:855488888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888/mpeg1or2AudioVideoTest/tracU2 RfSP/1.08)
+Accept: applic\\\\ation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:`./testRTSPClient`(LIVE555 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=25389-5-DESCRIBE rtsp:/ent (LIVE555 StrRange: npt=9 v2019.08.28)cp:e
+Atc application/sdp
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AudioVideoTest/testRTSPClient (LCSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.:8)
+Transport: RTP/AV779
+
+SETUP r

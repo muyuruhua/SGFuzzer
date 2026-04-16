@@ -1,0 +1,25 @@
+DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVgdeoT WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq:'2
+User-Agent: ./testRTSPClien rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPia v20[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[18.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Mediq v2018.08.28)
+Session: 000022B8
+RanJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJge: npt=0.000-
+
+TEARDion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJge: npt=0.000-
+
+TEARDaon: 000022B8
+
+PLAY rtsp://127.018.08.28)
+Session: 00((((0022B8
+RanJJJJJJJJJJJJJ018.08.28)
+Session: 000022B8
+Range: npt=0.00022B8
+

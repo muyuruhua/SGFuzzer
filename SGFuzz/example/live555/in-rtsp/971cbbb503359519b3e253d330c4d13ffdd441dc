@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.18:554/mpeg1or2AudioVidex-plt RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0$1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testAcceptient (LIVE555Don: 0ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest ESCRIBE rtsp://127.0.0.18:554/mpeg1or2AudioV$StreaminideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: ag Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVPpplication/sdp
+
+SETUP rtsp://127.0.0$1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1;uni

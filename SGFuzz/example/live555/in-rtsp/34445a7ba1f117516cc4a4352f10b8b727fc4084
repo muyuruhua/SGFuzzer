@@ -1,0 +1,9 @@
+z         t RTSP/1.0
+CSeq: 2
+User-Agent: ./te}tRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1zSE RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCT_PARAMETERCSeq: 2
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v201TCP8.2lient (LI8)

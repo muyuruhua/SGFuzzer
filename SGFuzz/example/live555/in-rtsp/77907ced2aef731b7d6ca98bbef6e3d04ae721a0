@@ -1,0 +1,17 @@
+D  ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2.0
+CSeq: 2
+User-Agent: ./teRtsTSPClient (LIVE5g Media v20stRTSPideoTest/ RTSP/1.0
+CS        ser-AgentTranRTPsportTSZPClient (LIVE555 E555 Streaming Media v2018.08.28)
+SessionSession:B8
+Range: npt=0.000-
+
+TEARDOWN                                                                                                                     0
+CSeq: 2
+User-Agent: ./teRtsTSPClient (LIVE5g Media v20stRTSPideoTest/ RTSP/1.0
+CS        ser-AgentTranRTPsportTSZPClient (LIVE555 E555 Streaming Media v2018.08.28)
+SessionSession:B8
+Range: npt=1.00                                                `__e   rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6//127.0.0.1:8554/mperA21goudioVideoTest/ RUser-AgentTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCliB8
+

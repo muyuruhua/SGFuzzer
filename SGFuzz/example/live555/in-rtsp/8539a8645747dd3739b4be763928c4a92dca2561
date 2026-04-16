@@ -1,0 +1,17 @@
+D        rtsp://127.30.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C  (  2
+User-Agentrt: RTPIAVP;unicast;client_port=45GET_PEARMATERoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (AgenContent-Lengthzient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq^: 2
+User-Agent: ./testRTSPClient (LIVE555 StrePLAYg Media v2    08.28)
+Accept: appli ]tion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+mattoskaFileTeststRTSPClient (LYVE555 Streaming Media v2018.08.28)
+Transport: Transportnicast;clien _port=50778-0POOD2B8
+Accep555 St8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq^: 2
+User-Agen               sion: 000022B8
+

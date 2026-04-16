@@ -1,0 +1,27 @@
+DESCRIBE rtsp:/ent (LIVE555 Streaming Media v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2118.p8.:8)
+TranspoMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpegsp://127.0.0.1:8554/mpeg1or2AudioVideDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-oTTransport2 RTSP/1.0
+CSeqdeoTest/ RTSP/1.0
+testRTSPClient (LIVE555 Streaming Media v20[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[DESCRIBE[[[[[[[[[[[[.16.28)
+Session: 000022B8
+Range: np   t=0.000-
+
+TEAgent: ./testRTSPClient (LIVE555 Str000022B8eaming Media v2018.08.28)
+Accept: appARDOWN rtsp://OMHQOQOQ1:85 5/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+Uslicainot/sdp
+
+SEer-Agent: ./SET_PARTUP dia v2018.08.28)
+Transport: RTP/rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (AMETORt LIVE5dia v2018.08.28)
+Tra(LIVE555 Streaming Media v2018.08.2nsport: 8)
+Session: RTP/AVP;unicast;00002        2B8 c

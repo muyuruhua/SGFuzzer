@@ -1,0 +1,20 @@
+DESCRIBE vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSe    q: 5TEARDOWNlllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllgent: ./testi 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg0or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rts    p://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1Content-Length: RTSP/1.0ac3AuoTdiest
+CSeq: 4
+User-Agent: ./testRTSPClient (webmFileTestLIVE556 Streaming Media v//128.0.i   0.1:8554/mpeg1or2AudioVideoRange: npt=9TeSET_PARAMETERst/ RTSP/1.0eg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTccept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideo           siTSP/OnY.
+CSeq:79
+matroskaFileTeststRTtest.ent (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.matroskaFileTest0.0.1:85 RTSCoDESC                     six-playNowPAUSE000022B  PLA  s  7
+

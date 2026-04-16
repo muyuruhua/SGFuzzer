@@ -1,0 +1,21 @@
+z t RT/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_pestRTSPC[ient (LIVE555eStreaming Media v2018.08.28): 6
+User-Agent: ./testRTSPC[ient (LIort=50778-50779
+
+SETUPstpr ://127.0. .1:8554/mpeg1or2AudioVideoTest/t|rack2 RTSP/1.0
+CSer-Agent:  /teUser-AgentstRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClieDESCRIBEnt (LIVE972 Streaming Media v2018.08.29)
+Transpoeq: D "ESCRIBE 7IGRS0779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq2: 4
+User-Agent: ./testR4
+User-Agent: ./testRTSPClTSPClii

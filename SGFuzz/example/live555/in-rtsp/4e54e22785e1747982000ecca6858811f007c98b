@@ -1,0 +1,13 @@
+Dac3Audie   tosT   : application/sdmatroskaFileTest//126.0.0.1:8554/mpeg1or2AudioVideoTest/track2 TRSP/1.0
+CSeq: 4
+User )gent: ./testRTSPClient (LIVE555 Streaming Media v20z18.08.28)
+Teq: 4
+User=Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicsa;  FileTest//126.0.0.1:8554/mpeg1or2AudioVideoTest/track2 TRSP/1.0
+CSeq: 3
+User-)gent: ./testRTSPClient (LIVE555 Streaming Media v20z18.08.28)
+Teq: 4
+User-Agent: ./testRTSPClient (LIVE555 Stra7
+
+Te.Caming Media8
+

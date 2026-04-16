@@ -1,0 +1,42 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tClient (LIVE555 Streaming:8554/mpero1g2AudioVideoTest/track1 RTSP/1.0Client (!IVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+dioV wavAudioTestP/1.0
+CCeq: 6
+Us022B8
+
+: ./testRTSPClient (LIVE555 Streaming Media v1009.08Accept.28)
+Session: 000022B8
+RVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVange: npt=0.000-
+
+dioV %eoTest/ RTSP/1.0
+CCeq: 6
+User-Agent022B8
+
+: 
+: ./testRTSPClient (LIVE555 Streaming Media v1009.08.28)
+Session: GET_PARAMETER000022B8
+RVVVVVAVPVVVVVVVE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tClient (LIVE555 Streaming:8554/mpero1g2AudioVideoTest/track1 RTSP/1.0Client (!IVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+dioV wavAudioTestP/1.0
+CCeq: 6
+Us022B8
+
+: ./testRTSPClient (LIVE555 Streaming Media v1009.08Accept.28)
+Session: 000022B8
+RVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVange: npt=0.000-
+
+dioV %eoTest/ RTSP/1.0
+CCeq: 6
+User-AgenVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVange: npt=0.000-
+
+dioV %eoTest/ RTSP/1.0
+CCeq: 6 User2B8
+

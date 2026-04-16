@@ -1,0 +1,15 @@
+D
+Session: 0000127.0.0.1:8554/mpeg1or2AudioVideoTest Rt=45GET_PRARAMETERssion: TEARDOWN
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testicast;client_port!
+Session: 00002B28
+Range: npt=0.000-
+
+ EARDOWtestRTSPClient.000-
+
+TEARDOWN rtsp://127.0.0.1:
+User-Agent: ./testicast;client_port!
+Session: 00002ser-Agent: ./testRTSPClient (LIVE555 St#eaming Mmdia v2018.08.28 K      on: 0 ./tes8
+

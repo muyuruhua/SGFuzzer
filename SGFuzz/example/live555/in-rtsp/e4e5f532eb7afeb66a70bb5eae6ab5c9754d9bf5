@@ -1,0 +1,39 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2y   AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rts54/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://574.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE554 Straaming Media v154.0.0.18)
+Transport: RTR/AVP;uniing Mclient_port=36176-50779
+
+SETUP rtsp://127.0.G.1:8554/mpmg1or2AudioVideoTest/track 2 RTSP/1.0
+ CSeq: 4
+User-Agent: ./testRp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/AVP;unicast;zclient_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN         rtsp://127.0.0.1:5ioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE55GET_PARAMETERedia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVi485/mpeg1or2Audist/ matros                                                                                        '                                  kaFileTest2
+User-Ag
+UsContent-Length:tRTSPClient (LIVE110 Streaming ?edia v20       T)1
+Sessivn@ 0[00022B8
+(

@@ -1,0 +1,23 @@
+D CRIBE rtsp://127.0.0.1:ation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+977
+ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioTideoTest/track2 RTSContent-Length:
+User-AgentDRange: npt=0.00127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: application/sdp
+
+SETUP rtsp://127.0.5.1:Range8554/m: ./testRTSPClient (Lpeg1or2AudioVideoTest/trkc 1aRTSP/1..IVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERisson: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2uAdioVideoTest/ RTS  P/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient                                                                                                                     (LIVE555 atmSireng Med.....................................ia v2018.08.28)
+Session: 000022B8
+Range: npt=c0.000-
+
+TEARDOtrnW sp://12
+CSeq: 3
+User-Agent:7. ./test[0TSPCli.

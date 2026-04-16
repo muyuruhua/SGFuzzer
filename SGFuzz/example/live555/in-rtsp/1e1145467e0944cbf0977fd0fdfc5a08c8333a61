@@ -1,0 +1,7 @@
+D      o; tsp://127.0.0.1:8554/mpeg1Content-Length:st RTSP/1.TCP0
+CSeq: 3PLA.0.0.1
+User-AgeDTEARDOWNEgent: ./testRTSPClient (LIVE555 Streamicasting Media v2108.08.28)
+Accept: application/xdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: nt: ./testRTSPClient (LIVE3555 St

@@ -1,0 +1,40 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agen://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2oVideoTest RTSP/1.0
+CSeq: 2
+User-Agen://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSHClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicatiE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;  icast;client_povt=76909-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AxdioVideoTest/track2`RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCltRTSPClnt_port=5sport:tresst: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/t ack1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;  icast;client_povt=50777-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2`RT
+User-Agent: ./testRTSHClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicatiE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;  icast;client_povt=76909-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AxdioVideoTest/track2`RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCltRTSPClnt_port=5sport:tresst: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/t ack1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;  icast;client_povt=50777-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2`RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCltRTSPClient (LIVE555 Stression: 000022B8
+

@@ -1,0 +1,15 @@
+DSEBIERC rtsp://123.0.0.1:8554/m/12.0.30.1:8554/mpeg1or2AudioVideoTest RTStreaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://12720.0.1:8555/mpDSET_gent: ./testRTSPClient (LIVE555 Streaming Media veg1or2AudioVideoTest/ RTSP/1.0
+
+CSeq: 6
+User-Agent: ./SET_testRTSPClient (SETUPLI201:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+st/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v9994.08.28)
+Session: 0.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 0022B8
+
+PLAY rtsp://127.0.0.1:855//mpe'000221or2

@@ -1,0 +1,22 @@
+DESCRIBE rtsp:Media v2018.08.28)
+Transport: RTPoTe        st RTSP/1 rtsp://127.0.0.1:8554/mpeg1or2zudioVideoTest RTSP/1.0
+CSeq: VE555 StreamDESCRIBEa v2018.08.28)
+Accept: application/      ETUP rtsp://254.0.0.1:8554/mpeg1osion: 000022B8
+Range                        : npt=1.000-
+
+TEARDOWN rtsp://127.0.:81:8554.0
+CSeq: 2
+User-Agent: ./testRTSPClieotI(L VE555 0treaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq:aL
+SETUPAgent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+28)
+Accep                                                                                                          rtsp://127.0.0.1:8554/mpeg1or2zudioVideoTest RTSP/1.0
+CSeq: VE555 StreamDESCRIBEa v2018.08.28)
+Accept: application/      ETUP rtsp://254.0.0.1:8554/mpeg1osion: 000022B8
+Range                        : npt=1.000-
+
+TEARDOWN rtsp://127.0.:81:8554/mpeg2or2AudioVideoTe1p://1nt

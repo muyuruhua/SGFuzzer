@@ -1,0 +1,34 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 1
+                                                                       User-Agent: ./testRTSPCl  eni5 Streaming Media v2018.08.28)
+AccmatroskaFileTestept: application                                             /sdp
+
+SETUP rtETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tr ck1 RTSP/1.0
+CSeq: 1
+                                                                       User-Agent: ./testRTSPCl  eni5 Streaming Media v2018.08.28)
+AccmatroskaFileTestept: application/sdp
+
+SETUP rtsp://1702..0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3se-
+UrAgent: ./testRTSPClient (LIV 555 Streaming Media v2018.08.28)sp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3se-
+UrAgent: ./testRTSPClient (LIV 555 Streaming Media v2018.08.28)
+Tac3AudioTestP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-AgenContent-Length:lent (LIV>555 Streami/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-AgenContenx-playt-Length:ient (LIVE555 Streaming Media v2018.08.28)
+Trans  port: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+iendia  v2018.eq: 4
+UseSET_PARAMETERstRTSPClient (LI000-
+
+VE55PAUSE                                       5 Streami$g Media v2018AY rpts://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+Usex-playNow:/testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Ses[ion: 000022B8
+Range: 

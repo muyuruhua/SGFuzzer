@@ -1,0 +1,15 @@
+DESCRIBE rtsp:                                          A;unicast;client_port=45GET_PARAMETERssion.28)
+ac3AudioTecast;client_port=45GETestAcceptient (LIVE110$Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/VPA;unicast;client_port=45GET_PARAMETERssion.28)
+ac3AudioTesRTSP/1.0tSdsion: 000022B8
+
+PLAY rtsp://127.0.0.1_:8554/mxeg1or2AudioVideoTert/ RTSP/1.0
+CSeq: 5
+User-dia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.4/mpeg1or2AudioVideoTest/       .CRTSP/1.0
+CCeq: peg1or2Au RTSP/dia v2018.08.28)
+Session: 000022B8
+

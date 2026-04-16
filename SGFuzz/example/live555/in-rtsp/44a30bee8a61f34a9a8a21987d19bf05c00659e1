@@ -1,0 +1,7 @@
+DESCDE.       tsp:                           b                                `                                                                  //127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 1
+User-/1.0ent (LIVE55sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./ion: 000022B8*

@@ -1,0 +1,24 @@
+D 00002B28
+RangESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest TSPR/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media     v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMET18.08.28)
+SessB8
+
+PLAY rtsp:/client_port=90GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT
+U Per-Agent: ./testRTSPClie|nt (LIVE555 Streaming Media v1009.08.28)
+
+CSeq: 6
+User-Agent: ./testRTSPClieB28
+Range: npt=0.000-
+
+TEARDOWtestRTSPCliser-Agent:55 Stremaing Media v2018.08.28)
+2B8
+

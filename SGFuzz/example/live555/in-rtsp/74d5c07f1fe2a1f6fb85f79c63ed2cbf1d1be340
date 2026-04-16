@@ -1,0 +1,35 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeRTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVEI55 Streaming Media v2018.08.28!
+Session: 00002B28
+RangeB        ion/sdp
+
+SETUP rtsp://127.0.0.8554/mpeg1or2AudioVideoTest/ RTS>/1.0st/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tes|RTSPClient (LIr
+Session: 000022B22B8
+Range: npt=00g1or2AudioVideoTeudioVideoTest/track1  ./testR55555555555555555555555555555555TSPClient (LIVE555 Streaming Medi# v2018.08.28`r
+Session: 000022B8
+Range: npt=00-
+
+DESCRIBE rtsp://127.0.0.1:8554/mp    eg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE798 RTSP/1..
+C8
+Range: npt=00g1or2AudioVideoTeudioVideoTest/track1  *./testRTSPClient (LIVE555 Streaming Medi# v2018.08.28`r
+Session: 000022B8
+Range: npt=00-
+
+DESCRIBE rtsp://127.0.0.1:8554/mp    eg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE798 RTSP/1VEI55 Streaming Media v2018.08.28!
+Session: 00002B28
+Range:        ion/sdp
+
+SETUP rtsp://127.0.0.8554/%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%PClient (LIVEI55 Streaming Media v2018.08.28!
+Session: 00002B28
+Rang%/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2SETUP018.08.,8)
+Session: 0000 O22B8
+

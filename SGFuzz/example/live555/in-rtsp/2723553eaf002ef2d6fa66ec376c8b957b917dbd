@@ -1,0 +1,16 @@
+DESCRNBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCliekkkkknt (LIVTEAzDOWNeaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Age)nt: ./testRTSPClient (L27)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:855N4/mpeg1or2AudioVi2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE277 Str1aming Media v2018.08.28)
+AD      `ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVidcOPTIONSpplication/sdp
+
+SETUP rtse

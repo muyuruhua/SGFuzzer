@@ -1,0 +1,9 @@
+D        rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tesgent: ./test018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+SessDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-fPent: .ion: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1orNAudioVideoTest/tliveeMes

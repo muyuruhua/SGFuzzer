@@ -1,0 +1,25 @@
+DOPTIONSContent-Length:27.0.0.1:8554/mpeg1or2Audio                                                                                                      VideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://574.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (_port=36176-50779
+
+SETUP rtsp://127.0.G.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agemmmmmmmmmmnt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;User-Agentient_port=45GET_PARAMETERss  n: VP;unicast;client_port=50778-50779
+
+SETUP rtxp://127.0.0.1:855S/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User Streaming RTSP/1.0018.08.28)
+Session: 000022B8matroska        
+Range: npt=0.000DESCR-
+
+IBE TEARr

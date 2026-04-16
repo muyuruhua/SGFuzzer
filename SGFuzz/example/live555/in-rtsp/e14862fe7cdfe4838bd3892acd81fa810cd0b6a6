@@ -1,0 +1,15 @@
+z t RT/sdp
+
+SETUP rtsp://126.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: .
+User-n /testRTSPClient (LIVE9
+SETUP rtsp://127.0.0.1:8554/mpeg1or2A   )   oTest/t|rack3 RTSP/1.0
+CSer-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: appliMedia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSsp://128.0zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.0.1:8554/mpeg1or2AudioVideoRange: npt=9Testj
+      .0
+CSe

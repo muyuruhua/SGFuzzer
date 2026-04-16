@@ -1,0 +1,9 @@
+D      UMrtsp://127.0.0.1:sdp
+
+SETUP rtsp://127.0."5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;        client_porDSATUP WN tsp://127.0.0.1:855t=45546-4558554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 4/mpeg1or2A2
+User-

@@ -1,0 +1,18 @@
+DESCRIBE r=0.000tsp://127g1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVEE rtsp://127                                                                           .0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0Cseqeq: 2
+User-Agent: ./testRT27? treaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000011B8
+
+PLAETERssion: client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideo&est/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 St@reaming Media v4036.08.28)
+Transport: RT/PVAP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLA.0.0.1:8554/ peg1or2AudioVideoTest/track8)
+Transport: RTP/Ant (LIVE555 Streaming Media v2018.08.28)
+Sessio00:n0 022B8
+

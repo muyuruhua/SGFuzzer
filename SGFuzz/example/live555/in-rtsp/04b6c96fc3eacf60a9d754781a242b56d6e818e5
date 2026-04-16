@@ -1,0 +1,31 @@
+DTEARDOWNESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audiocept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/CVP;unicast;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C      .0.0.1:8554/mpeg1or2Au   )    Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555        ng testRTSPClient (LIVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://,27.0.0.1:8554/mpeg1or2Audist/ RTSP/1.0
+CSeq: 6
+User-Ag
+UsContent-Length:tRTSPClienteaming Media v2018.08.28!
+Session: 00002B28
+Ra000-
+
+TEARDARAMET	C      .0.0.1:8554/mpeg1or2Au   )    Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaort: RTP/A v20tra08.286-
+Session: 000022B8
+

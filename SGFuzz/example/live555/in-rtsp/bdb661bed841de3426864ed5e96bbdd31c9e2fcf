@@ -1,0 +1,42 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeRTSP/1.0
+CSeq: 5
+CseqUser-Agent: ./testRTSPClient (LIVEI55 Strea?       ia v2018.08.28!
+Session: 00002B28
+Range: PAUSE  ion/sdp
+
+SETUP rtsp://127.0.0.8554/mpeg1or2AudioVideoTest/ 5+,//1.0st/ RTSP/1.0
+CSeq: DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSP5
+User-Agent: ./testRTSPClient (LIVEI55 S reaming Media Client (LIVE555 Streaming Me$iaA v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport:SET_PARAMETER RTP/AVP;unicast;clicept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVv2018.08W28!
+Session: 00002B2DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Me$iaA v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport:SET_PARAMETER RTP/AVP;unicast;clicept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport:SET_PARAMETER RTP/AVP;unent_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 08.28)
+Transport:SET_PARAMETER RTP/AVP;unicast;client_por8
+Range:        ion/sdp
+
+SETUP rtsp://127.0.0.8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Aget=50778-50A7nt9:  

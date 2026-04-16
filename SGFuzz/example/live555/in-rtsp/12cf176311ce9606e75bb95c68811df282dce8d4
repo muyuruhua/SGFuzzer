@@ -1,0 +1,20 @@
+DTEARDOWN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTS]   ent (LIVE555 Streaming Media v2018.88.28)
+Accep?: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent::::::: ./testRTSPClient (LIVE555 StreXming Media v2018.08.28N
+Transport: RTP/AVP;uni`ast;client_port=50778-50779
+
+SERTP rtsp://127.0.0.1:8554/mpeg1or2A~dioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LI#E555 Streaming Media v2018      60
+Transport//127.0.0.1:8554/mpeg1or2AudioVideoTest/ 0   /1.0
+CSeq:																																																					Content-Length:									PAUSE			 																TEARDOWN r tsp://126.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent:                                     														TEARDOWN r tsp://126.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent:                                                            ./testRTSPClient (LIVE555 St#eaminSession:v2018.08.29 DESCRIBEn: 000022B8
+

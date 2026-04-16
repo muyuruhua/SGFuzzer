@@ -1,0 +1,25 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tClient (LIV;JJJ_, eaming:8554/mpero1g2AudioVideoTest/track1 RTSP/1.0Client (LIVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+dioV %eoTest/ RTSP/1.0
+CCeq: 6
+Us022B8
+
+: ./testRTSPClient (LIVE55edia v1009.08.28)
+Session: 000022B8
+RVVVVVVVVVVVRange: npt=9VVVVVVVVVVVVVVVVVVVVVVVVange: npt=0.000-
+
+dioV %eoTest/ RTSP/1.0
+CCeq: 6
+User-Agent022B8
+
+: ./testRTSPClient (LIV.1:8553/mpeg1or2AudioV %eoTest/ RTSP/1.0
+CCeq: 6
+User-Agent: ./tes0
+CCeq: 6
+User-Agent: ./testRTSPClient J(LIVE555 S1reaming Media v2018.08.28)
+Session: 000022B8
+

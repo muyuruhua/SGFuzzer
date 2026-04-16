@@ -1,0 +1,51 @@
+[run 1/1] LD_PRELOAD: /tmp/profraw_flush_preload.so
+[run 1/1] Starting Live555 SGFuzz target...
+[run 1/1] Binary   : /home/ubuntu/experiments/live555-sgfuzz-profraw/testProgs/testOnDemandRTSPServer
+[run 1/1] Corpus   : /work/in-rtsp
+[run 1/1] Artifacts: /results/worker01/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/artifacts
+[run 1/1] Log      : /results/worker01/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/run.log
+[run 1/1] Port     : 8554
+[run 1/1] LLVM profraw: /results/worker01/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/artifacts/llvm-profraw/1_%p.profraw
+[run 1/1] Timeout  : 15m
+[run 1/1] -max_total_time : 900s (from Fuzzer object creation)
+[run 1/1] Watchdog timeout: 1500s (from process start, margin=600s)
+[run 1/1] NOTE: Watchdog must exceed startup (~60s) + seed corpus loading (~270s) + max_total_time.
+[run 1/1] NOTE: Normal exit path: TimedOut() break → exit(0) → atexit → profraw flush.
+[run 1/1] NOTE: If watchdog fires first: SIGINT → _Exit() → profraw flush via LD_PRELOAD (if loaded).
+[precheck] Checking Live555 SGFuzz setup...
+[precheck] Skipping TCP port availability probe because the run is isolated in its own namespace.
+[precheck] conda not found; make sure sgfuzz_env is already active.
+[precheck] OK
+[precheck] Binary: /home/ubuntu/experiments/live555-sgfuzz-profraw/testProgs/testOnDemandRTSPServer
+[precheck] Dict:   /home/ubuntu/experiments/rtsp.dict
+[precheck] Corpus: /work/in-rtsp
+[precheck] Port:   8554
+Honggfuzz Net Driver (pid=38): No '--' was found in the commandline, and therefore no arguments will be passed to the TCP server program
+Honggfuzz Net Driver (pid=38): The server process is ready to accept connections at '::1/8554'. Fuzzing starts now!
+Dictionary: 24 entries
+INFO: Seed: 3494975403
+INFO: Loaded 1 modules   (15550 inline 8-bit counters): 15550 [0x9ee24a, 0x9f1f08), 
+INFO: Loaded 1 PC tables (15550 PCs): 15550 [0x9f1f08,0xa2eae8), 
+INFO:    20924 files found in /work/in-rtsp
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 4096 bytes
+INFO: seed corpus: files: 20924 min: 1b max: 1310b total: 18098244b rss: 48Mb
+#2048	pulse  cov: 1562 ft: 5925 corp: 644/284Kb exec/s: 682 rss: 523Mb states: 995 leaves: 171
+#4096	pulse  cov: 1630 ft: 6399 corp: 969/499Kb exec/s: 107 rss: 709Mb states: 1856 leaves: 352
+#8192	pulse  cov: 1715 ft: 7236 corp: 1289/751Kb exec/s: 54 rss: 841Mb states: 2477 leaves: 486
+#16384	pulse  cov: 1726 ft: 7636 corp: 1452/896Kb exec/s: 36 rss: 904Mb states: 2666 leaves: 525
+#20925	INITED cov: 1744 ft: 8066 corp: 1557/1012Kb exec/s: 34 rss: 1175Mb states: 2688 leaves: 531
+#21023	REDUCE cov: 1744 ft: 8066 corp: 1557/1012Kb lim: 1270 exec/s: 34 rss: 1175Mb states: 2688 leaves: 531 L: 1088/1260 MS: 3 ChangeASCIIInt-ManualDict-EraseBytes- DE: "matroskaFileTest"-
+#21074	REDUCE cov: 1744 ft: 8066 corp: 1557/1011Kb lim: 1270 exec/s: 34 rss: 1175Mb states: 2688 leaves: 531 L: 697/1260 MS: 1 EraseBytes-
+#21128	REDUCE cov: 1744 ft: 8066 corp: 1557/1011Kb lim: 1270 exec/s: 34 rss: 1175Mb states: 2688 leaves: 531 L: 973/1260 MS: 4 ManualDict-ChangeASCIIInt-EraseBytes-ManualDict- DE: "wavAudioTest"-"Transport"-
+Loaded 1024/20930 files from /work/in-rtsp
+Loaded 2048/20930 files from /work/in-rtsp
+Loaded 4096/20930 files from /work/in-rtsp
+Loaded 8192/20930 files from /work/in-rtsp
+Loaded 16384/20930 files from /work/in-rtsp
+#32768	pulse  cov: 1745 ft: 8111 corp: 1585/1036Kb lim: 1270 exec/s: 33 rss: 1442Mb states: 2743 leaves: 543
+#40508	RELOAD cov: 1745 ft: 8136 corp: 1593/1042Kb lim: 1270 exec/s: 34 rss: 1534Mb states: 2744 leaves: 544
+#40508	DONE   cov: 1745 ft: 8136 corp: 1593/1042Kb lim: 1270 exec/s: 34 rss: 1534Mb states: 2744 leaves: 544
+Done 40508 runs in 1180 second(s)
+[run 1/1] Finished
+[run 1/1] Profraw listing for /results/worker01/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/artifacts/llvm-profraw:
+389416 /results/worker01/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/artifacts/llvm-profraw/1_38.profraw

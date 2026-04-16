@@ -1,0 +1,32 @@
+DESCRIBE rtsp://127.0.0.1:8558.28)
+Traansport: RTPIAVP;unicast;client_port=45GET_PARAMETEPLAYon: 000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User Streaming RTSP/1.0018.08.28)SETUP
+Session: 000022B8matroskaFileTest
+Range: npt=0.000DESCR-
+
+IBE TEAmmmmmmmmnt: ./testRTSPClient (LIVE555 Str                                 OPTIONS8)
+Transport: RTPIAVP;Uzer-Agentient_port=45GET_PARAMETERss  n: 000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioV4/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Acceptpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28.
+Session:  000022R8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2Audist/ RTSP/1.0
+CSe   ;q: 6
+User-Ag
+UsContenRTSP/1.0:tRTSPClient (LIVE1: RTP/AVP;unicast;client_port=50778-50779000021B8
+

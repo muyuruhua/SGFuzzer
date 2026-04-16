@@ -1,0 +1,19 @@
+D      : application/sdmatroskaFiRanget//127.0.0.1:8554DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User=Agent: ./testPlCRTSient (LIVE555 Streaming Media v2018.0/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_povt=8.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/)1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE5550778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeqmpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User=Agent: ./testPlCRTSient (LIVE555 Streaming Media v2018.0/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: 0.1:8554/m2018.\!  8)
+Transport: RTP/AVP;uniCseq;client_port=45GET_PARAMEpeg1or2AudioVideoTERssiTest/traconk: 

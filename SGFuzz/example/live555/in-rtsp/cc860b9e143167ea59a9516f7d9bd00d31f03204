@@ -1,0 +1,34 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C Seq: 2
+User-Agent: .or2Aui
+Range: npt=0.
+Accept:% application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: . Transport: RTP/AdioVideoTest/track2 RContent-Length:TSP/1.0
+CSeq: 4~User-Agent: ./testRTSPClient (LIVE55? Streaming Media v2018.08.28)
+Transport: RTPIAVP;uniVP;unicast;client_port=45546-lient (LIVRTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session:npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1t: ./tesSETac3AudioTestVE555 @treaming Mekia v1009.08.28)
+Session: 000022Bsion: 00       G
+PLAY rtsp://127.0. .1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2019.08.28)
+Session: 00008
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1t: ./tesSETac3AudioTestVE555 @treaming Meki22B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoa v1009.08.28)Tes
+Session: 000022B8
+Ran : enpt-50S
+28)
+Accept: apppI  lic        p
+
+   o  zSSETUP t/ R SP/1  9 00022B8
+

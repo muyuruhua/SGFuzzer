@@ -1,0 +1,23 @@
+DESCRIBE rtsp://127AVP0.1:8554/mac3AudioTestVideoTest RTSP/1.P|
+CSeq: 2
+User-Agent: ./testRTUser-AgentLIVE555 Streaming Media v2018.08.28)
+Accept: applic                             ation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3%User-Agent: ./testRTSPClient (LIVE571 Streaming Media     v20182AudioVideoTest/track1 RTSP/1.0
+CSeq: 3%User-Agent: ./testmatroskaFileTestication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tesTSPClient (LIVE555 Streaming Media v2018.08.28)
+TTUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3%User-Agent: ./testRTSPClient (LIVE571 Streaming Me[ia     v20182AudioVideoTest/track1 RTSP/1.0
+CSeq: 3%User-Agent: ./testmatroskaFileTestication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tesTSPClient (LIVE555 S28)
+Ses ion: 000022B8
+Range: npt=-.0B00-
+
+TEARDOWN peg1or2Au RTSPQNQOentdi (LoViId

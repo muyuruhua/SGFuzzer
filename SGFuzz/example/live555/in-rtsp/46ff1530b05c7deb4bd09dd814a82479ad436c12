@@ -1,0 +1,14 @@
+D   127.0.0.1 P WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MedTia v4    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2Au,ioVideoTest/track1 RTSP/1..
+CSeq: 3.0
+CSeq: 5
+User-                                                   Agent: ./testRTSPClient (LIVE5%5 Streaming Media v201.8.TEARDOWNSession: 000022B8
+Rang
+DPLAYIBE rtsp://127.0.0User-Agent: ./testRTSPClie.1:8554/mpeg1or2Aunt (LIVE555 StdioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tereaming Media v2018.08.28)stR
+TTSPClr

@@ -1,0 +1,10 @@
+                                                                     DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2A Media                          `                              1                      udioVideoTest RTSP/1.0
+CSeq: 2
+User-Ag/16.0.0.peg1or2AudioVideoTese: npt=0.000-
+
+TEAR
+U                                                  ser-Agent: ./testRT2P 
+ient (LISETUP rTCP://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_por DRTPE.       ts 

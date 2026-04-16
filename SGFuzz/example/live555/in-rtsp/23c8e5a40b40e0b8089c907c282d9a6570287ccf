@@ -1,0 +1,3 @@
+DESCRIBE rtsp://127.0.DESCRIBE rtsp://127.0.0554/mpeg1or2AudioVideoTest TSPR/1.0
+CSeq: 2
+User-Agent: .TCP/testRTSPClient (LIVE555 Streaming Media Streamin

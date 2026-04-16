@@ -1,0 +1,13 @@
+DESCRIBE rtsp://User-Agent: ./testRTSPClient (LIVE554 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/1.   Seq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTewavAudioTest
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555eStreaming Media v2018.08.28)
+Session: 000022B8
+

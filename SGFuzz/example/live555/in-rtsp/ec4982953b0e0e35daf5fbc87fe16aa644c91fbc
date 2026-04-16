@@ -1,0 +1,23 @@
+DESCRIBE Rangertsp://127.0.0.1:8 54/mpeg1or2AudioVideDESC#ytreamin0    Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTesist/ RTSP/1.0
+CSeq: 6
+User-Agent: ./Media v2018.08.:o---------Test RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCl rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Stre8!
+Session: 00002B28 
+Range: npt=1.[00-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0     #ytreamin0    Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SE0nt (LIVE555 Stression: 000022B822
+SEB8
+TUP
+

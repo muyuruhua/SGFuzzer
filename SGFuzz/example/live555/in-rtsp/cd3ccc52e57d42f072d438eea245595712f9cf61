@@ -1,0 +1,14 @@
+DERCSIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0pplication/sdp
+
+SETUP dddddddddrtsp://127.0.0.1:8554/mpeg1or2Audioml      VideoTest/track1 RTSP/1.0RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;wnicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20a8.0z.2 8)
+Session: 00&022B8
+Rakge: npt=0.0dia vrGET_PARAMETERSession: 000DESCRI022BBE9 rts8

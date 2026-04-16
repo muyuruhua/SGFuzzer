@@ -1,0 +1,32 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RwebmFileTestTSP/1.0
+CS;eq: 2
+User-Agent: ./testRTSPClp://127.0.0.1:8554/  O
+1or2AudioVSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClp://127.0.0.1:8554/  O
+(1or2AudioVideoTest RTSP/1.0
+CSeSETU  BE r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.ped1or2AudioViteeoTds/wavAudioTest RTSP/1.0
+CSeq: 5
+UsGET_PARAMETEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaR||||||||||||||||||||||||estRTSPClient (L27)
+Accept: a1:8554/mpeg1or2AudioVideoTest54/mpeg1or2AideoTest RTSP/1.0
+CSeSETU  BE r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.ped1or2AudioViteeoTds/wavAudioTest RTSP/1.0
+CSeq: 5
+UsGET_PARAMETEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaR||||||||||||||||||||||||estRTSPClient (L27)
+Accept: a1||||||||estRTSPClient (L27)
+Accept: a1:8554/mpeg1or2AudioVideoTest54/mpeg1or2AideoTest RTSP/1.0
+CSeSETU  BE r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AuTransport: ./testRTSPCl ni(etLIVE5
+Sessivn@Scale#:2B8
+

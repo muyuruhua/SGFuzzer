@@ -1,0 +1,12 @@
+z t RTSP/1.0
+CSeq: 2
+Use.0.1:8554/mpeg1or2AudioVideoTest/0778-50779
+
+SETUP rtsp:/2B8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0r-Agent: ./testRTSP7.0.0.1:8554/mpeg1or2AudioVideoTest/0778-50779
+
+SETUP rtsp:/2B8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSe

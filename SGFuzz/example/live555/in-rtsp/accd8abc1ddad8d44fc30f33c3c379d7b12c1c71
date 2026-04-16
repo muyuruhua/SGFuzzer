@@ -1,0 +1,40 @@
+DESCRIBE rtsp://127.0.0.1:J554/mpeg1ent (LIVE555 Stor2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/AVP;unicast;client_port=4554v-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTg Media v2018.08z t RTSP/1.0
+CSeq: 2
+User-Agen                                        RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRoRRRRR[RRRRRRRRRRRRRRRRRRRRRRR         t: ./testRTSPClient (LIVE552 StreaRRRRRRRRRRRRRRRRR         t: ./testRTSPClient (LIVE556 Streaming MwavAudpt: applicationAVPp
+
+NSETUP r?sp://128.0.0.1:8>54/mpeg1or2AudioVide8554/mpeg1or2AudioVideoVPt (L.28)
+Session: 000022B8
+Range: npt=0.000-
+
+                               DESCRIBE rtsp:2/127.0.0.1:8554/mpeg1or2Audist/ RTSP/1.0
+CSeq: 6
+Usgr-Ag
+UsContent-Length:tRTSPClient (LIVE110 Streaming ?edia v2018.0I8.28SP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+DESCRIBE rtsp:6/127=0TEARDOWN4/mpeg1or2Audist/ RTSP/1.0
+CS%q: 6
+Usgr-Ag
+UsContent-Length:tRVE555 Streaming Media v2018.08.28)
+Accept: applicationAVPp
+
+SETUP rtsp://127TSPClient (LIVE110 Strea.0.0.1:8554RmingTSP ?edia v2018.08/1.0
+.28)1
+Sessivn@ 000CSeq.002
+CSe
+2B8
+

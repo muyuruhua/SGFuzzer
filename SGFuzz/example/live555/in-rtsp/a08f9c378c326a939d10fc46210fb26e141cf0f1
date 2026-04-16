@@ -1,0 +1,39 @@
+D    ESCRIBE rtsp://127.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: appli'cation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.22018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RERssion: 000022B8
+
+PLAY rtsp://127.02.0.s1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClieTransportnt (LIVE555 Streaming Media v2018.08.28)
+Sessip://12TSP/1.0                                                                                                                      
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.23)
+Transport: RTP/AOPTIONSasc;tlient_port=5077P/AVP;unicasc;tlient_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0ac3AudioTest
+CSeq: 4
+User-Agent: ./test8)
+Transport: RTP/AVP;ustdinnicast;client_port=45546-455dp
+
+SETUP rAudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRT8-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0ac3AudioTest
+CSeq: 4
+User-Agent: ./t
+8es)tTransport: RTP/AVP;ustdinnicast;client_port=45546-455dp
+
+SETUP rAudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Wransport: RTPx-playNow:/AVP;uni
+

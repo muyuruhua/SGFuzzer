@@ -1,0 +1,15 @@
+DUsTransporter-AgentESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVhdeoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming st;clPiAUSEort=50779-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 2B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSP    Client (LIVE5)55 Streamijg Media v2018.08.28)
+Session: 00002RaNge: npt=9npt=0.000-
+
+TEARDOWN rtsp://         1:8554s}	     2AudioVtestt: ./testRTSPCl ni(etLIVE5
+Sessivn@ 000022B8
+

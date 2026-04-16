@@ -1,0 +1,5 @@
+[parallel] worker02 container id: 7a5ff50957f95fa79a11e3bddf857b0382f8033bd2a09e6d9fff9b02109d5248
+[run] Launching 1 rounds with parallelism 1
+[run] Final results dir: /results/worker02/results-live555_Apr-04_07-54-51
+[run] Queueing round 1/1 -> /results/worker02/results-live555_Apr-04_07-54-51/Apr-04_07-54-51_run01_port8554
+[run] Final results archived to /results/worker02/results-live555_Apr-04_07-54-51

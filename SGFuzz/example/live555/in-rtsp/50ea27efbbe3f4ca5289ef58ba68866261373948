@@ -1,0 +1,8 @@
+DESCRIBE rts
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtspIPPN27.0.0.1:8554/mpeg1or20.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StreaSession: 000022B8
+

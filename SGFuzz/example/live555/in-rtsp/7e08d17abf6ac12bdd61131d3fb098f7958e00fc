@@ -1,0 +1,11 @@
+DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSey: 1
+User-Agent: ./testRTSPClient* (LIVE555 Streaming Media destina8.2                                                                                                 8)
+Accept: apPIAVP;unicast;client_port=rt: RTP/AVP;unicast;client_port=50778-25389
+
+User-Agent: ./testRTSPClient (LIVE555 SGET_PARAMETERa v2018.08.28)                                               t_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVi./SET_PARAMETERt (LIVE555 Streaming      Media v20J9.08.28)
+Sess$        ion: 0ET_PARAMETERt (LIVE555 Streaming      Media v20J9.08.28)
+Sess$        ion: 000021B8
+

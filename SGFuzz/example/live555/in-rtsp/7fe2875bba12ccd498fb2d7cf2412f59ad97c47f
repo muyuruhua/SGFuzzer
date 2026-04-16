@@ -1,0 +1,18 @@
+DES       $CRIBE rtsp://127.0.0.18:554AudloVideoTest RTSP/1.0
+CSBE rtsp://127.0.0.18:554AudloVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08SETUP
+Accept: application/sdp
+
+SETUP rtsp://127eq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08SETUP
+Accept: application/sdp
+
+SETUP rtsp://127.2AudioVideoTe0.0$1:8554/mpeg1or2AudioVideoTest/track1 RTS0.0.1:8554/mpeg1or2AudioVid                                                                   eoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SETURTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sessi-n: 000022B8
+

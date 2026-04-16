@@ -1,0 +1,5 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTez t RTSP/1.0
+CSeq: 2st RTSP/1.0
+CSeq: 2
+User-Agent: ./tes1tR
+UserTS

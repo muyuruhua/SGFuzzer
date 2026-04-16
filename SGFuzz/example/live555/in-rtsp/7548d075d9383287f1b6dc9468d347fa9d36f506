@@ -1,0 +1,25 @@
+D "ESCRIBE 778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssio0n :00022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/1.   Seq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0127.0.0.1:8554/mpeg1or2AulioVideoTest/ R00-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioieTAcceptVedost/ RTSP/1.0
+CSeq: 6
+User-AgCSeq:.ESCRIBE 778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssio0n :00022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/1.   Seq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0127.0.0.1:8554/mpeg1or2AulioVideoTest/ R00-
+
+TEARD/testRTSPC[ient (LIVE555eStrmatroskaFileTest18.08.28)
+Session: 0Accept8
+

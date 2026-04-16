@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoSPClient (LIVE555 Streamin-g Media v2/testRTSPClient (LIVE555 Streaming Media v2018.08.2pplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/traTest/ RTSP/1.0
+CSeq: 5
+User-Agen!: ./t"stRTSssivn@ 000GET_PARAMETER022B8
+

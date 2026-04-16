@@ -1,0 +1,19 @@
+DSATUP WN tsp://127.0.0.1:857.0.0.1:8554wavAudimTest/mPAUSEpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-At e:gn./testRTSPClient (LIVE555 Streamin  Vdia v20DESCRIBE rtsp://127.0.0.2:54/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://128.0.5.1:8554/mpeg1or2AudioVideoTREGISTER 1 RTSP/1..DESCRIBE PLAYrTsp://127.0.0.1:8554wavAudimTest/mPAUSEpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-At e:gn./testRTSPClient (LIVE555 Streamin  Vdia v20DESCRIBE rtsp://127.0.0.2:8018.08.28
+)mingLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tesTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming M: RTP/AVnu;Picast;client_port=50778-50S
+28)
+Accept: apppI  lication/sdp
+
+SETUP unic://2nt

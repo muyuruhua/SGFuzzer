@@ -1,0 +1,12 @@
+D/       SATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medhia v3    08.28)
+Accept: application/wdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioViDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (deoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555!Streaming Media v2018.08.28)2
+Transport.28)tRTSPCjlient (LIVE555 Stream;client_port=45546-45
+User-Agen0: ./testRTSPCjlient (LIVE555 StreamDuning M-

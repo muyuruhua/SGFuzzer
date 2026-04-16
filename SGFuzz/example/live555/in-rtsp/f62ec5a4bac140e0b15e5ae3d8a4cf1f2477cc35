@@ -1,0 +1,13 @@
+2B8
++PLAY r2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: . Streaming Media v2018.0a v2018.08.28)
+Trorspnta: RTP/AVP;unicast;client_port=treaming Media v20]0778-50779
+
+
+
+SETUP rtsp://12U7.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1   CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v1009a.8.)280
+Transpo E_RTP/AVP;unicast;client_port=2ET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8.2E18.08TUP r.2t

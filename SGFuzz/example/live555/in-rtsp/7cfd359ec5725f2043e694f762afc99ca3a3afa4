@@ -1,0 +1,22 @@
+DESCRIBE rtsp://1272018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioViteeoTds/wavAudioTest RTSP/1.0
+CSe                                               q: 5
+UsGET_PARAMETER||||||||||||||||||||||||estRTSPClient (L27)
+7 cept: a1:8554/mpeg1or2AudioVideoTest54/mpeg1or2AudioVideoTest/ )+,/PNQO
+CSeq:
+5U ser-Agent: /track1                RTSP/1.0
+CSeq: 3
+User-A'ent: ./testRTSPClient (LIVE555 Streaming Media v201DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.08.08.28)
+Trantent-Length:Z/AV555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0://1272018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioViteeoTds/wavAudioTest RTSP/1.0
+CSeck1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSP(LIVE972 Streaming Media v2018.08.28)       r4AudioVideoTe rm(atroskaFileTesttspq: ://127.0.0.5
+1:UMe

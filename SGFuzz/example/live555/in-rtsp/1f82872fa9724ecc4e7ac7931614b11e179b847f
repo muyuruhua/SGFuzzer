@@ -1,0 +1,37 @@
+D    IBE rtsp://127(0.0.1:8554/mpeg1or2Audi  ideoTest RTSP/1.0
+CSeqmmmmmmmmmmmmmmmmmmmmmmmP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;sp://063.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE110 Streaming Media- v2818.08.28)
+Transport:   RTP/AVP;unicast;client_port=5NHHG-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/           1.0
+CS        ser-Agent: ./testRTSPClient (LIVE555'9  eaming Media v1009.08.28)
+Session: 000022B8
+Range: npt   v00-
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or                                 mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm: 2
+User-Agent: ./testRTSPClidnt (LKVE555 Strdaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://063.0.0)1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3VE555 Strdaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE`10 Streaming Media- v2818.08.28)
+Transport:   RTP/AVP;unicast;client_port=5NHHG-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudhoViFdeoTest/track2 estRTSPClie   (LIVE555 St#ea=ing Mmdia v2018.08.28 K      on: 0 ./tes8
+

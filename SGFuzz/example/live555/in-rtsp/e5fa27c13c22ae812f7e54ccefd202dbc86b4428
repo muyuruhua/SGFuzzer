@@ -1,0 +1,10 @@
+D	   ESCRIBE SETUPrtsp://127.0.0.1:8554/mpeg1omatroskaFileTest RTSP/1.r-Ag  A ,/testRTSPClient (ILEV555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.RTP0.0.1:8554/mpeg1or2Audi      c_                "                             /AVP;unicastnt: ./testRTSPClient (LIVE555 St                       oVideoTest/track2 RTSP/ Streaming Media v2018.08.28),
+Trans 3      P/AVP;un%cast;client_port=35546-45547
+Session:e 00@0022B8
+
+(LIVE555 Streaming Media v2018.08.28)
+Session: 000022B:
+

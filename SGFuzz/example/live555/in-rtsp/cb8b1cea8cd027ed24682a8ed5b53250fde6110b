@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest R    |                  TSP/1.0
+CSeq: 2
+User-Agent: t R                       TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rtsp://127.0.0.1:8DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest TSPR/1.0
+CSeq: 2
+User-Agent: ./testRTSPClienp (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.V:8554/mpeg1or2AudioVkdeoTest/track0 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (554/mpeg1or2AudioVide p      ack1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPLIVE555C Strealienm

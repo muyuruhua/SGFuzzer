@@ -1,0 +1,44 @@
+DE5SCRIBE rtsp://127.0.0.1:8554/mpeg12roAudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MeditRTSPClient (LIVE555 Streaming Media v2018.08.28)
+AestRTSPClient (Lt: ./testRTSPClient (LIVE555 Streaming Media#}   v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.st/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (Lt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TE RDOWN rtsp://127.0.0.1:RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR8RR554/mpeg1or2AudioViSETUPst/ RTSP/1.0
+CSeq: 6
+User-Agent: ./SETUPtestRTSPClia v2018.08.28)
+AestRTSPClient (Lt: ./testRTSPClient (LIVE555 Streaming Media#}   v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.st/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (Lt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TE RDOWN rtsp://127.0.0.1:RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR8RR554/mpeg1or2AudioViSETUPst/ RTSP/1.0
+CSeq: 6
+User-Agent: ./SETUPtestRTSPClient (LIVE555 Streaming MedoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+AestRTSPClient (Lt: ./testRTSPClient (LIVE555 Streaming Media#}   v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.st/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (Lt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:ia v2018.08.28)
+Session: 000022B8
+

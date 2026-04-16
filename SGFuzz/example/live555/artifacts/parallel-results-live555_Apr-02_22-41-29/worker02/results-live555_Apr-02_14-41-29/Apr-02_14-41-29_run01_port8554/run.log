@@ -1,0 +1,54 @@
+[run 1/1] LD_PRELOAD: /tmp/profraw_flush_preload.so
+[run 1/1] Starting Live555 SGFuzz target...
+[run 1/1] Binary   : /home/ubuntu/experiments/live555-sgfuzz-profraw/testProgs/testOnDemandRTSPServer
+[run 1/1] Corpus   : /work/in-rtsp
+[run 1/1] Artifacts: /results/worker02/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/artifacts
+[run 1/1] Log      : /results/worker02/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/run.log
+[run 1/1] Port     : 8554
+[run 1/1] LLVM profraw: /results/worker02/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/artifacts/llvm-profraw/1_%p.profraw
+[run 1/1] Timeout  : 15m
+[run 1/1] -max_total_time : 900s (from Fuzzer object creation)
+[run 1/1] Watchdog timeout: 1500s (from process start, margin=600s)
+[run 1/1] NOTE: Watchdog must exceed startup (~60s) + seed corpus loading (~270s) + max_total_time.
+[run 1/1] NOTE: Normal exit path: TimedOut() break → exit(0) → atexit → profraw flush.
+[run 1/1] NOTE: If watchdog fires first: SIGINT → _Exit() → profraw flush via LD_PRELOAD (if loaded).
+[precheck] Checking Live555 SGFuzz setup...
+[precheck] Skipping TCP port availability probe because the run is isolated in its own namespace.
+[precheck] conda not found; make sure sgfuzz_env is already active.
+[precheck] OK
+[precheck] Binary: /home/ubuntu/experiments/live555-sgfuzz-profraw/testProgs/testOnDemandRTSPServer
+[precheck] Dict:   /home/ubuntu/experiments/rtsp.dict
+[precheck] Corpus: /work/in-rtsp
+[precheck] Port:   8554
+Honggfuzz Net Driver (pid=38): No '--' was found in the commandline, and therefore no arguments will be passed to the TCP server program
+Honggfuzz Net Driver (pid=38): The server process is ready to accept connections at '::1/8554'. Fuzzing starts now!
+
+"mpeg4ESVideoTest" stream, from the file "test.m4e"
+Play this stream using the URL Dictionary: 24 entries
+INFO: Seed: 3494879528
+INFO: Loaded 1 modules   (15550 inline 8-bit counters): 15550 [0x9ee24a, 0x9f1f08), 
+INFO: Loaded 1 PC tables (15550 PCs): 15550 [0x9f1f08,0xa2eae8), 
+INFO:    20924 files found in /work/in-rtsp
+INFO: -max_len is not provided; libFuzzer will not generate inputs larger than 4096 bytes
+INFO: seed corpus: files: 20924 min: 1b max: 1310b total: 18098244b rss: 48Mb
+#2048	pulse  cov: 1550 ft: 5560 corp: 637/280Kb exec/s: 682 rss: 523Mb states: 912 leaves: 162
+#4096	pulse  cov: 1628 ft: 6418 corp: 967/500Kb exec/s: 110 rss: 707Mb states: 1828 leaves: 350
+#8192	pulse  cov: 1717 ft: 7237 corp: 1257/730Kb exec/s: 54 rss: 841Mb states: 2374 leaves: 462
+#16384	pulse  cov: 1726 ft: 7640 corp: 1397/854Kb exec/s: 37 rss: 982Mb states: 2478 leaves: 489
+#20925	INITED cov: 1743 ft: 8100 corp: 1513/981Kb exec/s: 32 rss: 1130Mb states: 2517 leaves: 497
+#20941	NEW    cov: 1743 ft: 8103 corp: 1514/983Kb lim: 1280 exec/s: 32 rss: 1130Mb states: 2517 leaves: 497 L: 1108/1270 MS: 1 CrossOver-
+#20987	NEW    cov: 1743 ft: 8103 corp: 1515/984Kb lim: 1280 exec/s: 32 rss: 1130Mb states: 2519 leaves: 498 L: 1249/1270 MS: 1 ChangeByte-
+Loaded 1024/20932 files from /work/in-rtsp
+Loaded 2048/20932 files from /work/in-rtsp
+Loaded 4096/20932 files from /work/in-rtsp
+Loaded 8192/20932 files from /work/in-rtsp
+Loaded 16384/20932 files from /work/in-rtsp
+	NEW_FUNC[1/4]: 0x55b6f0 in WAVAudioFileSource::fileReadableHandler(WAVAudioFileSource*, int) /home/ubuntu/experiments/live555-sgfuzz-profraw/liveMedia/WAVAudioFileSource.cpp:263
+	NEW_FUNC[2/4]: 0x55b9e0 in WAVAudioFileSource::doReadFromFile() /home/ubuntu/experiments/live555-sgfuzz-profraw/liveMedia/WAVAudioFileSource.cpp:271
+#32768	pulse  cov: 1767 ft: 8246 corp: 1562/1031Kb lim: 1280 exec/s: 33 rss: 1303Mb states: 2600 leaves: 515
+#40621	RELOAD cov: 1769 ft: 8266 corp: 1574/1042Kb lim: 1280 exec/s: 33 rss: 1399Mb states: 2607 leaves: 516
+#40621	DONE   cov: 1769 ft: 8266 corp: 1574/1042Kb lim: 1280 exec/s: 33 rss: 1399Mb states: 2607 leaves: 516
+Done 40621 runs in 1197 second(s)
+[run 1/1] Finished
+[run 1/1] Profraw listing for /results/worker02/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/artifacts/llvm-profraw:
+389416 /results/worker02/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/artifacts/llvm-profraw/1_38.profraw

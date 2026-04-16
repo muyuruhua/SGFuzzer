@@ -1,0 +1,16 @@
+zg    t RTSP/1.0
+CSeq: 2
+User-Agen                                                                                   t: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVid<eoTest/track1 RTSP/1.0
+CSeContent-Length:t: .t;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2A                                                                          udioVideoTest/track1 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Tra@sport: RTP/AVP;unicast;webmFileTestclient_port=45GET_PARAMETERssion: 000022OPTIONSB8                                       
+
+PLAY rtsp://129.0.0.1:8554/m StreamwebmFileTestst/z  RTSP/!.0
+G>>t RTSP/1.0
+CS>>>>9>e

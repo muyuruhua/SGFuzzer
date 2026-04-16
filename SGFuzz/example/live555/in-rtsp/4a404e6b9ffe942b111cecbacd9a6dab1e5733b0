@@ -1,0 +1,32 @@
+D        ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 21
+User-Agent: ./testRTSPClient (LIVE555 StreamDESCRIBEa v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ,/testRTSPClient (LIVEu55 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779webmFileTestsr://127.0.0.1:x554/2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;  ic                                                  ast;client_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/*mpeg1or2AudioRangeTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTlSCeiPnt (LIVE277 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE110 Streaming Media v2018.08.28!
+Session: 00002B28 
+Range: npt=1.[00-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTXP/0.0
+CCeq* 6mpig1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testion: 000022B8
+

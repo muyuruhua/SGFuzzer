@@ -1,0 +1,15 @@
+z t RT/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Usast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+Userrack1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPmatroskaFileTest(LIVE972 Stoeaming Media v021.808.29)
+Transpoeq: 4
+User-Agent: ./testRTSPClient (L21 .808.29)
+Transpoeq: 4zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzTransport/mpeg1or2AudioVideoRange: npt=9Test/ RTSP/1.0
+CSe

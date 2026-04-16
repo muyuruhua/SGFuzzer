@@ -1,0 +1,12 @@
+DESCDE.       tsp:                                                                                                                              //127.0.0.1:8554/mDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+Us127.0.0.1 ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testSTSPClienCseqt (LIVEpeg1or2AudioVideoTest RTSP/1.0
+C eq:S2
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTSP/1.0ent (LIVE55sdp
+
+SETUP rtsp://127.0.0.1:85555 Streaming 5QP  2   a v201eg

@@ -1,0 +1,25 @@
+DETransportsp://127.0.0.1:8554/Range: npt=9oVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media vS"      "018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media Content-Length:v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rRRRng Media v2018.08.28)
+Sesstsp://127.0.0.1:8554/mpeg1or2AudioVideUser-AgentoTesOtrack2 RTSP/1.0
+CSeq: 4
+User-Agen3Content->ength:i" _(LIVE555 Streaming Media v2018.08.28)
+Transport: R.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2017.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN SETUP//127.0.0.1:8554/mpeg1or2Aud*ioVidwavAudioTesteoTest/ RTSP/1.0
+CSeq: 6
+U er-Agent: ./testRTSPClient (LIVE555 StreamiRRRRRRRRRRRRRRRng Media                       v2018.08.28)
+Session: 000022B8
+

@@ -1,0 +1,12 @@
+D       FESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0Cseqeq: 2
+Usenicast;client_port=45GET_PARAMETERssion: 000002B28
+Range: npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:8554  n /mpeg1or2AudioVideoTest/ RTSP/0.0
+CCeq: 6
+User-Agent: ./tEstRTSPClient (LIVE555 St eaming Media v20tra08.28)-
+SesDE~CRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/0.0
+sion: 000022B8CSeq: 2
+User-Agent: ./te
+
+stRTSPCli

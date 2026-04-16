@@ -1,0 +1,20 @@
+DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoT WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2W       ent: ./testRTSPClient (LIVE555 Sureaming Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClest RTSP/1.0
+CSIVE555 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+ RTSP/ng Media v2018.ser-Agent: . testRTSPClien\\\\\\\\\\\\\\\\\\\\\\\t (LIVE277 Streaming Media v2018.08.)28
+TransUser-AgentAVP;unicast;client_port=45GEA _TPMERATERssion:))))))))))),)))))))))))))/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPC 5
+User-Agent: e+./stRT)))))))))))))))))))0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPC 5
+User-Agent: e+./stRTSPClient (LIVE555 Streaming Mediliea v2018.n0t (

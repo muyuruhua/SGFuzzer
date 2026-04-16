@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTestTEARDOWN RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/  p
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClit (LIVE555 StreaminSETUPg Media v201PLAY.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWNstRTS.000-
+ (LIVE555 Streamign Media v20118.08.28i
+Sessio: 000002B8
+

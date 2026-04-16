@@ -1,0 +1,9 @@
+D        TransportESCRIBE rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+_ser-Agent:9
+
+SEP;unicast;client_port=45GET_PARAMETERsoV
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 0n: 000022B8
+
+n

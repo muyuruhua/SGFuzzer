@@ -1,0 +1,27 @@
+DESCRIBE rtsp://127.0Agent: ./testRTSPClient (LIVE555 Streaming Media0v2018.08.28)
+Accep00021B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.r8)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe000022B8st/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555eStreaming M.0RNEGJJKJmpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Ag                                                                         ent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accep00021B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.r8)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe000022B8st/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555eStreaming Media v2018.08.28)
+Session: 000022B8
+

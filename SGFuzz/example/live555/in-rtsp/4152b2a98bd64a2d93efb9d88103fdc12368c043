@@ -1,0 +1,151 @@
+zRange: npt=9 t RTSP/1.reaming Media v2017.08.28)
+Accept: applicat on/sdp
+
+SETUP rtsp://127.0.0.1:8                 .0.1:7108/mpeg1or2AudioVidmoTest/track1RTDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClienPSP/1.0
+CSeq: 3
+U778-50779
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yuuu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SETUP rtsp://2PAUSE/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp:TERange.0.1:8554/mpeg1or2AudioVideoTmpeg1or2Au  ac3AudioTeSeq: 4
+User-Agent:8ort=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track4`5TSP/1.                                                 0                                          0
+CSeq: 4
+User-Agent:8)
+Transport: RTP/AVP;unicast;client_port=50778-t (LIVE555 Streaming Media v2018.08.28)
+Accept25389
+
+SETUPent: ./test018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-455E47
+Session: 000022b8
+
+PLAY rtsp://Q127.0.0.1:8554

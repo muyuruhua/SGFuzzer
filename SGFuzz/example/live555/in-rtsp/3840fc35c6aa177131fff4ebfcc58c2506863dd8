@@ -1,0 +1,47 @@
+DESCRIBE vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE 55 St7554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+Use         ./liveMeStreaming Media v2017.09.J8)
+Transport: RTP/AVP;unicast;client_port=5077DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien;client_port4=45GET_PARA
+Accept: application/sdp
+
+SETUP rtsp://127SET_PARAMETERudint_port5=45GET_PARA
+Accept: application/sdp
+
+SETUP rtsp://127SET_PMARAETERudioVideoTest/wavAudioTest RTSP/1.0oVideoTest/wavAudioTest RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (8-0POOD2B8
+Accept        : application/s  dp
+
+SETUP rtsp://063.0.0.1:User-Agent                     six-playNcast;cIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien;client_port4=45GET_PARA
+Accept: application/sdp
+
+SETUP rtsp://127SET_PARAMETERudint_port5=45GET_PARA
+Accept: application/sdp
+
+SETUP rtsp://127SET_PMARAETERudioVideoTest/wavAudioTest RTSP/1.0oVideoTest/wavAu                             dioTest RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (L27)
+Accept: a1:8554]/m/testRTSPClient (LIVE555 Streamin0-
+
+TEARDOWN r018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wavAudioTest RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClipplication/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wRTPg Media v20118.08.28)
+Session: 000022B: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wavAudioTest RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClipplication/sdp
+;client_port=50778-0POO63.055
+SETUP r5 St

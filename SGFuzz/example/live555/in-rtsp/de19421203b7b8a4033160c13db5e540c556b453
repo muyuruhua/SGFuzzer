@@ -1,0 +1,15 @@
+DDESCRIBErtsPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: ap~lication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudiVoideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming ]edia v208.108.28)
+Session: 000022ser-Agent: ./testRTSPCietln (LIVE555 StreamIng ]edia v2018.08.28)
+Session: 000022B8
+

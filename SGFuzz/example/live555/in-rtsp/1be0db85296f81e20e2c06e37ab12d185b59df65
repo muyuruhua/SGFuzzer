@@ -1,0 +1,21 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpep://127.0.0.1:8554/mpeg1or2AxdioVideoTesttestRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;c rtsp://1         27.0.0.1:8554/mpeg1or2AudioViaming Meg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./teSPClient (LIVE555 Streaming Media v2Content-Length:018.08.28)
+Sjssion: 00002ient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;c rtsp://1         27.0.0.1:8554/mpeg1or2AudioViaming Meg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./teSPClient (LIV;JJJ_,eaming Media v2Content-Length:018.08.28)
+Sjssion: 0/track0 RTSP/1.0
+C[eq: es
+U3r-Agent: ./testRTSPClC[eq: es
+U3r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;c rtsp://1         27.0.0.1:8554/mpeg1or2AudioViaming Meg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./teSPClient (LIVE555 Streaming Media v2Content-Length:018.08.28)
+Sjssion: 00002ient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;c rtsp://1         27.0.0.1:8554/mpeg1or2AudioViaming Meg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./teSPClient (LIV;JJJ_,eaming Media v2Content-Length:018.08.28)
+Sjssion: 000022B8
+

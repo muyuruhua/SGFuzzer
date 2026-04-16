@@ -1,0 +1,13 @@
+DRTPESCRIBDESCRIBE rtsp://127.0.0.1:8554/mpcg1or2AudioVideoTeeg1oRange: npt=908.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/0.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streami g Media v2018.08.28)
+Transpoeq: 4
+User-Agent: ./testRTSPClient :::::Sc6::::::(L                                                                         IVE555 Streaming Media v2018.08.28)ort: RTP/AVP;unicast;client_port=45GET_PARAMETERssion:
+Transport: RTP/AVP;																																							)									unicast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLileTeststRTSPC ient (LYVE555 Streami0.0
+CSeq: 4
+E rtsp

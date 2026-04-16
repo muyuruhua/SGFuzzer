@@ -1,0 +1,16 @@
+DESCDE.       tsp:                                                                                                                              //128.0.0.1:8554/mpeg1or2AudioVideoTes       w.0
+CSeq: 2
+User-AgenttestRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicationAVPp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTSP/1.0ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://1er-Agent: ./testRTSPClient (LIVE555z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicationAVPp
+
+SETUP rtsp://12

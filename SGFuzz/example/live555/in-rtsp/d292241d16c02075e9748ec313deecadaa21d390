@@ -1,0 +1,5 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555  RTP/AVP;unicast;clie/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient/127.0.0.1: (LIV8554/mpeg1or2AudioVideoTest/track1 RE555 TSP/1.0DPAUSE                              BE rtsp://12S7.t

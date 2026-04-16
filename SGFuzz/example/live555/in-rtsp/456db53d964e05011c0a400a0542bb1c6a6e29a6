@@ -1,0 +1,34 @@
+DPLAYESCRIBPLAYE rtsp://127.pplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 StreaAudi RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE55S r5ameting Media v2018.08@.28)
+Session: 000022B8
+Range: np40.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 StreaAudi RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE55S r5ameting Me@dia v2018.08@.28)
+Session: 000022B8
+Range: np4=0.000-
+ (LIVE555 Streaming Media  v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=127.0.0.14MGET_PARAMETERssion: 000287B8
+
+PLAY rtsp://128.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE960 StAVPreaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=5.000-
+
+TEARDOWN rtsp://098.0.0.1:855reaming Media v20118.08.28)
+Sessio 
+
+PLAY rtsp://127.0.0:1.8554/mpeg1or2AudioVideoTest/ R SP/Rssion000022B8
+

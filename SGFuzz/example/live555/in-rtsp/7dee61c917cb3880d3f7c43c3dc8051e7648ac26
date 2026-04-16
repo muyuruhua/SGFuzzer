@@ -1,0 +1,22 @@
+D  ESCRIBE rtsp://127.e0.000.0.1:8554/mpeg1or2AudioViICseqest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20188.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/p1.0
+CSeq: 3
+User-Agent: ./testRTSPClie      f#%55 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 4
+User-Agent: ./test TSPClient (LIVE555`Streaming Media v2018.38.28)
+Transport: RTP/AVP;unicast;client_eq.: 5
+URange: npt=sp://4/mpeg2or2AudiCseqoVideoTest RTSP/1.0
+CSe0.000-
+
+TEARIVE5Media v2018.38.28)
+Transport: RTP/AVP;unicast;client_eq.: 5
+URange: npt=sp://4/mpeg1or2AudiCseqoVideoTest RTSP/1.0
+CSe0.000-
+
+TEARIVE5
+Sessivn@ 000022B8
+

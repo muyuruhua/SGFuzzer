@@ -1,0 +1,23 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tesrt=4%546-45547
+Session: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Med       l.08.28)
+Sessiobn: 000022B8
+Range: npt=1.0DE554/mpeg1oDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 [treaming Media v2018.08.28)r2AudioVideoTest R0SPT/1.
+CSeq: 2
+User-Agent:
+Accept: application/sdp
+
+SETUP"rtsp: k254.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Stream       /a v2018.08.28)
+Transport: RT ./tesrt=4%546-45547
+Session: 000022B8/tesrt=4%546-45547
+Session: 000022B8P/AVP;unicast;client_port=13388-50U779
+

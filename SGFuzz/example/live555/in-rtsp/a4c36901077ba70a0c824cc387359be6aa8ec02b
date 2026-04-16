@@ -1,0 +1,19 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVidenTe'st RTSP/1.0
+CSeq: 2
+User-Agen
+CSeq: 4
+User-Agent: ./testRTSPPCla v2018.08.28)
+Session: 000022B8
+Range@ npt=0.000-
+
+TEARDOWN rtsp://P;unica.1:8554/mpeg178-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or1AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCla v2018.08.28)
+Session: 000022B8
+Range@ npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or20.0.1:8554/mt: 8)
+Session: 000022B8
+

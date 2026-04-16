@@ -1,0 +1,17 @@
+DRTP 
+User-Agent: ./testRTSPClient (LRangeIVE555 Streamin gMedic v2018.08.28)
+Transport: RTP/AVP;unicansport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLA.0.0.1:8554/mpeg1or2AudTransport: RTP/AVP;unicast;client_port=45GET_PARAMETERssioVideoTest/track2 RTSP/1.0
+C      0tUser-Agent: ./testRTSPClient (LIVE110 Streaming Media v201 .08.28)
+Transport: RTP/AVP;unicast;client_port=45546-4554@
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Stream=ng Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARD        TEARDOWN                       E roR

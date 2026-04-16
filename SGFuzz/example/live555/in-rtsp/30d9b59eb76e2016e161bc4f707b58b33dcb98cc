@@ -1,0 +1,29 @@
+DSATUP WN tsp://127.0.0.1:8554/mpegoVideoTest RTSP/1.0
+CSeq: ,
+User-Agent: ./testGET_PARAMETERCSeq: 3
+User-Agent: .stRTSPClient (LIVEIVE555  treaming PAUSEMedia v2018.08.28)
+Sesion: 000022B8
+
+PLAY rtsp:/^V!     /127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session:Scale:2BE555 Streaming Media v2018.08.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\28)
+Session: 00002RTSPClient (LIVE
+55 Streaort: RTP/AVP;unicast;client_port=547   :0779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+U                                      888888888888888888882Au33332d0ser-/Aor2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (La v2018.08.28)
+Session: 000044B8
+Range: npt=0.000-
+
+TRange: npt=9:1/02./700022B8io!ideseoTt/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPC lient (LIVE555 S5 Streaming M0779
+
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/2.0
+CSeq: 2
+User-Agent: ./testRT5 Streaming Medi333333;Med0a v2018.08.28)
+Transport: RT  

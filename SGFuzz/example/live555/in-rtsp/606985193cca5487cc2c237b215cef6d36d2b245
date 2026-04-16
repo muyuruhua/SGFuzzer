@@ -1,0 +1,5 @@
+D=       rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Up://127.0.0.1:8554/mpeg1or2AudioVideoTest/track028)
+Session: 000022B8
+

@@ -1,0 +1,14 @@
+DESCRIBE rtsp:/=nt (LIVE555 StreamiRTPng Media v2019.08.28888888888888888888888888888888888888888888888888888888./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:  ClienCSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:     ./testRTSPClient (LIVE555 Streaming Media v20[[[[[[[[[[[[[[[[[[[[[[[[[[[08.28)
+Session: 000022B8$
+

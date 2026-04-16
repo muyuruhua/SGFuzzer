@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127.0.0.1:8553/mpegD sion]]]E rtsp://12DRange: npt=0.00127.0.0.1:8554/mpeg1or2AudioVideoTest                                                                                                      RTSP/1.0
+CSeq: 2est RTSP/1.0
+CSeq: 2rUser-Agent: ./testRTSPClient (LIVE555 Stream)
+Accept: application/sdp
+
+1or3AudioVSETUP r

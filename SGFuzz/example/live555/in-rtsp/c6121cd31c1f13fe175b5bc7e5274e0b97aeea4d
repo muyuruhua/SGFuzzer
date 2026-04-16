@@ -1,0 +1,8 @@
+D  CRIBErtsp ://127.0.0.1:8554/mpeg1or2AudioVideoTest RTent: ./testRTSPClient (LIVE555 Strdaming Media v2018.08.28)
+TranwebmFileTestsport: RTP/AVP;unicast;client_port=01556-50779
+
+SETUP rtsp://127.0.0.sport: RTP/AVP;unicast;client_poIt=01556-50779
+
+SETUP
+User-Agent: ./testRTSPClient (LIVE555 StreaAVPg 1 dia v2018.ast;client_port=01556-50779
+cast:;clie                    DESCRIBEt 

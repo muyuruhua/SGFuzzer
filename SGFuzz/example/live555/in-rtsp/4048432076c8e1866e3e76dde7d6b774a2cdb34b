@@ -1,0 +1,15 @@
+D127.0.0.1ESCRIBE rtsp://127.0.0.1Content-Length:Test RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE255 Stre                                                                                                                               aming Media v2018.08.28)
+Accept: applicationon/sdp
+
+SETUP rtsp://127.2AudioVideoTe0.0$1:8554/mpeg1or2AndioVideoTest/track2 RTSP/1.0
+CSeq: 3PLAY
+User-Agent: ./testAcceptient (LIVE555$Streaming Media v20stRTSCClient (LIVE555 Streaming Media v2018.08.28)LIVE591 Streaming Media v2019.08.28)
+Session: 0004/sdp
+
+SETUP rtsp://127.2AudioVideoTe0.0$1:8554/mpeg1or2AndioVideoTest/track1 RTSP/1.0
+CSeq: 3PLAY
+User-Agent: ./testAcceptient (LIVE555$Streaming Media v20stRTSCClient (LIVE555 Streaming Media v2018.08.28)LIVE591 Streaming Media v2019.08.28)
+Session: 000463B8
+

@@ -1,0 +1,14 @@
+DESRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./ estRWSPC.lient (LIVE555 Streamg MedD    ESCRIBE rtsp://254.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streamingia v2018.08.28)
+Transport: RTP/AVP;uniaas t;client_port= 	GET_PAB8
+
+PLAY rtsp://127!.0.0.1:8554/mpeg Mp
+
+SETUP rtsp:1or2AudioVideoT: ./testRTSc       PClient (  }//127.0.5.1:85        54/mp LIVE555 Streaming Media v2018eg1or2

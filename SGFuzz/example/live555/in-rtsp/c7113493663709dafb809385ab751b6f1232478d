@@ -1,0 +1,44 @@
+D  9 ES       $CRIBE rtsp://127.0.TransportudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)[
+Accept: application/sdp
+
+SETUP rtsp://127.       !2AudioVideoTe0.0$1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: METERssion.28)
+ac3AudioTestSdsion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mxeg1or2AudioVideoTert/ RTSP/1.0
+CSeq: 5
+User-:ia v2018.08.28)
+Sess   a 000022B8
+Range: n8)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+                                            CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSer-Agent: ./testRTSPClient (LIVE555 StreamingzMedia v201800022OPTIONSB8
+
+PLAY rtsp://128.0.0.1.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Ag     ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transpoeq: 4
+User-Agent: ./testRTSCiePnlt (LIVE555 StAcceptreaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR?2:-ERssion: 000022OPT IONSB8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1         or2AudioVideoRange: npt=9Test/| RTSP/1.0Ra-nge
+   pt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-A$ent: ./testRTSPClient (LHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHIVE555 S28)
+Transpoeq: 4
+User-Agent:ession: 000022B8
+

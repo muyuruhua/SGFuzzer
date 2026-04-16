@@ -1,0 +1,23 @@
+D        ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C  (  2
+User-Agentrt: RTPIAVP;unicast;client_port=m   45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.5/5841:mpe   ,2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sesn0o1: si0022B8
+Range: npt=0.000-
+
+TEARDOnicast;client_port=17734-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-AgenC   vnt-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTS
+RangePClient (L(LYVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESC                     sion: 000022B8
+

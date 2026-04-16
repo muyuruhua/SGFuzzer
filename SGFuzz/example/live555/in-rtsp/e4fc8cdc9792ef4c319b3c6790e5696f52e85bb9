@@ -1,0 +1,8 @@
+DESCRIBE rtsp://127.0.0.1:8DESCRIBE1or2AudiRTSP/1.0oVideoTesv RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Mediid\eoTest/tansporP RT/:tAVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tRTP/AVP;unicast;client_(port=45GET_PARAMET    ERssion: 000022B8
+ient (LIVE555 Streacing Media v2018.08.28)
+Session: 00001or2A22B8
+

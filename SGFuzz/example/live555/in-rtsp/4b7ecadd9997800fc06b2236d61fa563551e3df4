@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0)1:8514/mpeg1or2Audiocept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe
+User-Agent: st;client_t/ RTSP/1.0
+CSport=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./0002B28
+Range: npt=0.000-
+
+TEARDARAMETDESCRIBE rtsp://041.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 pp

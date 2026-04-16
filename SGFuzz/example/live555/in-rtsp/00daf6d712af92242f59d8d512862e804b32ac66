@@ -1,0 +1,36 @@
+DV-  IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RT/1.0
+CSeq: 4
+User-Agen      SP/1.0
+CSeq: 3
+User-Agunt: ./testRTSPClient (LIVE277 Streaming Media v127.08..)10
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.G.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agen                                                                                                                  t: ./tudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicati.n/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoUest/track1 RTSP/1.0
+CSeq: 3
+User-Agunt: ./testRTSPClient (LIVE277 Streaming Media v127.0.0.18)
+Transpor                                                                                   t: RTP/AVP;unicasn;client_port=50778-50779
+
+SETUP rtsp://127.0.estRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Tra nsport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Age0.1:8554/mpeg1Uor2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent8.28)
+Session: 000022B8
+Range: npt=0.000 r  DESCR-
+
+IBE TEARr

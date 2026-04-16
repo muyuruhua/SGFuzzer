@@ -1,0 +1,11 @@
+DESCRIBRange: ESCRIBE rt0.0.1:855OOOOOOOOOOOOl/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/EVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp:/clien   B?0GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CS
+User-Agent: ./testRTSPClient ://127.0.0.1:85t: ./testRTSPClient (LIVE555 Streaming Media v2018.08.25 ET_PARAMETER4/mpeg1or2Audi(LIVE555 Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+TransportoVideoT

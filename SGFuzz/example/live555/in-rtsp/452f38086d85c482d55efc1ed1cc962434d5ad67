@@ -1,0 +1,5 @@
+DESCRIBE rtsp://127&0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C q2eS:
+User-Agent: ./settRTSPClient (LIVE55.0.1:8555/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq:DRangeBE rtsp://127 5
+User-Agent: ./t.0.0.1:8554/mpeg1or2AestRTSPClient udi

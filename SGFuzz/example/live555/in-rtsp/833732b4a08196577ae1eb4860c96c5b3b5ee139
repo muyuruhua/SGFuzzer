@@ -1,0 +1,17 @@
+D       kRTSP/1.0ESCRIBE rtsp://127.0.0.1:8554/mGET_PARAMETERpeg1or2AudioVideoTestTEARDOWN RTSP/1.0
+CSeq: 2
+User-Agent: ./testR1or2AudioVideoTest/tvack1 018.08.28!
+Sesso0i0:n 002                                                                            B2
+TEARDARAMsETERsi1                  P/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 StreaIudioTest rtspRTP/AVP;un       [Aient_port=45GET_PARAMETERssion:000022B88
+
+PLAY rtsp://z127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: ./testRTSPClient 8LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-                                  
+
+TEARDOWNstRTSPClient (LIVE5PAUSEreaming Media v20118.08.28i
+Sessio: 000002B8
+

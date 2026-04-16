@@ -1,0 +1,27 @@
+DSET_PARAMETER//127.0.0.1:8554/mpeg1or2stSP/1.0
+CSesdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/0.0
+CSeq: 3
+Us                          er-Agent: ./testRTSPClient (LIAVPVE972 Str018.08.28)
+Transport:
+
+SETUP;client_port=45GET_PARAMETYERssion: 000022Trania v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 5
+ma|roskaFileTestsrRTSPClienRTPt (LYVE555 Streaming Media v2017.09.J8)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+A ccept: application/s  dp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDEtion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 5
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media CSeq:v2017.09.J8)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/s  dp
+
+SETUP rtsp://063.0.0.1:85 RTSCoSC          PAUSE           six-playNow:on: 000022B8
+

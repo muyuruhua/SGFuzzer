@@ -1,0 +1,7 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Us                              er-Agent: ./testRTSPClient (LIVE55DESCRIBE rtsp:/5 Streaming M78-507RF
+
+SETUP Zrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/trac:8554/mpeg1or2AudioVideoTest/track1/127.0. RTSP/1..
+CSeq: 3
+Us0.1

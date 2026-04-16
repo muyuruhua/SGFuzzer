@@ -1,0 +1,33 @@
+DESCRIBE rtsp://127.0.0.1:ation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2127.0.0.1CCCCCCCCCCCCCCCCCCCCCCCCCCGCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agen977
+ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioTideoTest/track2 RTSContent-Length:
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 0000ARDOWN rtsp:1/02./7.0.1:855RTSP/Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8558/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRT SPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+6
+TEARDOWN rt       ..0.0.1:8554/mp22B8    ..0.0.1:8554/mpeg1oUser-AgenteoTest/ RRang0022B8
+
+SP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient ULIVE555 Streaming Mediqa v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://254.0.DwavAu0.1:8554/mpeg1ordioTest://127.0.0.1:85ing Media54/mpeg1or2Aud v2018.08.28)
+Sessiioo

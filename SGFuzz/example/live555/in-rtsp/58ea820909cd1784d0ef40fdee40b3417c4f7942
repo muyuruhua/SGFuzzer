@@ -1,0 +1,37 @@
+DESCRIBE rtsp://127.0.0_port=45GET_PAR itraSem.9:8554/mpeg1or2AudioV5GET_PAR itraSem.9:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./settRTSPClient (LIVE555 Streaming Media v2018.08.28)
+1ccept: applicat/dniosp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE553/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSAClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR itraSemng Medi0011B8
+
+PLAY rtsp://127.0.0.1:8ideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./settRTSPClient (LIVE110 Streaming Media v2018.08.28)
+1ccept: apolicat/dniosp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE553/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSAClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR itraSemng Medi0022B8
+
+PLAY rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5@User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:85Content-Length:000022B8
+

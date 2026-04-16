@@ -1,0 +1,5 @@
+DESCRIBE rts                                                                                                                 p://127.0.0.1:8554/mpePClient (LIVE555 Streaming Media v2018.08.28)
+AcceptCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVRTSq: 2
+
+CSeq: 2
+User-Agent: ./testRTSPCl~ent (LidIVE555 Streaming Media ev201o

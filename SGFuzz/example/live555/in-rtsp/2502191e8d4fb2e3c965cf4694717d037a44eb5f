@@ -1,0 +1,12 @@
+DESCDE.       tsp:                                                                                                                              //127.0.0.OEGJJKP peg1or2AudioVideoTest RTSP/1.0
+CSeq: 1
+User-Agent: ./testRTSPClien.0:8554/mp*eg1or2AudioVideoTor2AudioVideoTest RTSP/1.0ent (LIVE55sdp
+
+SETUP rtsp: /127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP5 Streaming Media v2018.08aming Media v2018.08.28)
+Session: est/ RTSP/1.0
+C*eq: edia v13.08.27)
+Session: 000022B8
+

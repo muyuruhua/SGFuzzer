@@ -1,0 +1,22 @@
+DAVPESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+Userp::/ p      .1:8 555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StreAcceptient (LIVE555$Streamin_ Media v20stRTSPClient (LIVE555 S                                                                                                                   treaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 0);     
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2~AudioV  eoTest/ RPSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sdsion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2Audt (LIVE555 Streaming Media v2018.08.28)
+Twwwwwwwwwwwwwwwwwwwransport: RTP/ient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audiodp
+
+SETUVideoTest RTSP/1.0
+CSeJP rtsp::/ p      .1:8 2
+5User-5

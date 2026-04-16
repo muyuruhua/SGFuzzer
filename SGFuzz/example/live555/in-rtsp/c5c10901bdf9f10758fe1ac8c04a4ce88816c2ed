@@ -1,0 +1,13 @@
+DRange: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 StreaAudioTe 6
+User-Agent: ./SET_PARAMETERt (LIVE555 Streaming MeSP/1.0
+CSeq: 5
+User-Agent: ./tPLAYestR
+User-Agent: ./testRTSPClient (LIVE555 Streamin://127.0.0.1;8554/mpeg1or2AudioVideoTest/trackt=45G9+ /000022B8
+

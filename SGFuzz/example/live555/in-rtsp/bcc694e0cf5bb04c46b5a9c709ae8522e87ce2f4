@@ -1,0 +1,31 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1iaRange:  v2018.08.28Wru4ccept: application/sdp
+
+SETUP rtsp://458.0.0.1:7108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+S   .1:7108/mpeg1or2AudioVideoTest/trackClient (LIVE555 Stia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-25389
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+C  reaming Media v2(LIVE972 Streaming MCseqedia v2018. 8.28)
+A0cept: application/sdp
+
+SETUP rtsp://127.0.0.1:8DESCRIBE554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Use HAgent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SET&/_ E//127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8DESCRIBE108/mpeg1//127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Age    t_port=50778-50779
+4778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2BudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClientn@ 000044B8
+

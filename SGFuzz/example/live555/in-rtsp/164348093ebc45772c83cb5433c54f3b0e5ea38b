@@ -1,0 +1,8 @@
+DSETUPDESCRIBE   'IBE rtsp://127.0&0.or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSP                                                                       Client (LIVE555 Straaming Media v127.0.0.18)
+Tra ./testRTSPClient (LIVE555 Streaming RTSP/1.0018.0.8)82
+Session: 000022B8
+Range: npt=0.000DESCR-
+
+IBE TEARr

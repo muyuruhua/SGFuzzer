@@ -1,0 +1,7 @@
+DESCRIBE rtspS://127.0.0.1SETUP rtsp://127.0.0.1:8554/k2 RTSCoDP6      ESCRIBE rtsp://1nt: RTP/AVP;unicast;client_port=45GETAVP_PAR                                     AM: 4
+User-Agent: ./testRTS  PClient (LIVE555 Streaming Media v2018.08.28)
+Transp 4ort: RTP/AVP;unicast;client_port=45546-45547
+.Session: 000022B8
+
+PLAY rtsp127.0.0.1://127.0.0a v2018.08TEARDOWNssion: 0Scale:00022B8
+

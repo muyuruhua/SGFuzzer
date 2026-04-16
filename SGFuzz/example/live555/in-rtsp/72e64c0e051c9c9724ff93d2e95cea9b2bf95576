@@ -1,0 +1,8 @@
+D      	aESCRIBE rtsp://127.0.GET_PARAMET M0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: .RTP/testRTSPClient (L8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./te%tRTSPClient (LIVE555 Streaming Medma v280.018.28)
+Transport: RTP/AVP;unicast;client_povt=50778-50779
+
+SEDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTTUP rtSP/s1p

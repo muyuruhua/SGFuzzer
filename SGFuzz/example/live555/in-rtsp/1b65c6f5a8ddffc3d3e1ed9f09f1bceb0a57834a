@@ -1,0 +1,6 @@
+DAcceptSATUP WN tsp://127.0.0.1:8554/m  =Mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 3PLA.0.0.1
+User-AgeP WN tsp://127.0.0.1:8554/mpnt: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+AcceDSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 3
+User-Agent: .

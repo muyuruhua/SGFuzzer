@@ -1,0 +1,12 @@
+z     t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClNNNNNNNNNNNNNNNNNNNNNNNNNNN    NNNNNNN                                                                                                                         NNNNient (LIVE555 Streaming Medi4       08.28) (LIVE972 Stre    aming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-507?79
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudCseqdeoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.285)
+Transport:                   RTP/AVP;unicast;client_port=45GET_PARAMETERssion: t/ RTSP/1.0
+CSeq: 6
+Use_                ./testR+TSPClient (LeoRange: npt=9Test/ RT  /1.0
+CSe

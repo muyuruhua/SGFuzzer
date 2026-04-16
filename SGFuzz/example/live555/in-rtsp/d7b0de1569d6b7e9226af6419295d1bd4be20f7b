@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg0Seq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20Cseq8.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARD000022B8://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+        ntRange: npt=9: ./testRTSPClient (NIVE555 Streaming Media  5018.08.28)
+Session: 0p0022B8
+

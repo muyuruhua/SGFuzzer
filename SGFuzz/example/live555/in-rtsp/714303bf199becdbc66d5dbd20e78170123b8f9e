@@ -1,0 +1,149 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTst9client_port=45GET_PARAMETERssion: 000022B8 
+PLAETERssion: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Sqearming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/Media TEARDOWN.28)
+Transport: RTP/AVP;unicast;client_port=45547-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8558/mpeg1or2AudioVideoTeudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./Media v2018.08.:8)
+Transport: RTP/AVP;unicast08.28)
+S000022B8essRTSP/1.0
+CSeq: 4
+UserAgent: ./testRTSPClient (LIVE555 Streaming Media v20[[[[[[[[[[[[[[[[[[[[[[[[[[[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[[[[[[[[[[[[[[[[[[[[[[[[[[18.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoUest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClieUser-Agent5 StreaiiiiiiiiiiiiiiiiiiStreaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=st/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRT SPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 0022F8
+Range: npt=0.000-
+6
+TEARDOWN rt       ..0.0.1:8554/mpeg1oUser-AgenteoTest/ RRang0022B8
+

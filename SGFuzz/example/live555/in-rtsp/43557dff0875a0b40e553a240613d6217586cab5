@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0.0.1SETUP rtsp://127.0.0.1:8554/k2 RTSCoDESCRIBE rtsp://1nt: RTP/AVP;unicast;client_port=45GETATransportVP_PARAMETERssion: 000022B8
+
+PLAY rtsDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agentp://127.0.0.1:8554/mpeg1or2Audiost;client_port=45GET_PARAMETERssion  000022B8
+
+PLAY"rtsp://12g.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CdestinaS
+
+SE: ./testRTSPClient (LIVE555 StreamingTUP rtsp://127.0.0.1 Media v2018.08.28):8554/mpeg1or2Audi

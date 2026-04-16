@@ -1,0 +1,28 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident:port=46-45547
+Session: 0020022B8
+
+SET_PARAMETER PLA.0.0.1:855AY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-PLAYt: ./testRTSPClient DESCRIBE         rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: )2webmFileTest
+User-Agent: ./testRTSPClient (LIVE564 streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CS1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5U
+ser-Agent: ./testRTSPClient (L&VE555 Streaming Media v201<.08.28)
+Session: 000022B8
+Range: npt=0.000-
+ (LIVE555 Streaming Media v2018.08.:18553/mpeg1or2Aud(LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+RanioVideoTest/ RTSP/1&0
+CSeq: 5
+g                                                                              ming Media vUser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVi2018d (LIVE555 Streaming MeeoTest/ RTSP/1.0
+CCedia v2q: 6
+: 00
+0222Audio

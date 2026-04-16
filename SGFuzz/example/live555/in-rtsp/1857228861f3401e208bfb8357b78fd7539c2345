@@ -1,0 +1,31 @@
+D       brtsp:/ing Med1:8554/mpeg1or2Audiia v2018.08.28)
+Transport: RTRent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.23)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Audio                                                              User-Agent                                      uni
+.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0/sdp
+
+SETUP rtsp://127.0.0.1:85555555555555554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tContent-Length:LIVE555 Streaming Media v2018.08.23)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://1027.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0ac3AudioTest
+CSeq: 4::::::::::
+User-Agent: ./test8)
+Transport: RTP/AVP;ustdin     OPTIONSsK;client_port=45546-455dp
+
+SETUP rAudioV  eoTtste/rack2 RTSP/1.0
+CSeq              TPVP;un- ast;cliee^ia v2018.08.28)
+Transport: RTRTPVP;unicast;client_port=50778-50779
+
+SETUP rtsp:/000022B8.1:Test/ RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 0Test/ RTP/AVP;unicast;iltenc_port=45GET_PARAMETERssion: 000022B8
+
+PEAY rtsp:/ Media v/063.0.554/m0
+Range: npt=0.000-
+
+TEARDOWN rtsp:/(/127.0nt_port=50778-50779
+Range: npt=0.000-
+
+TEA00011B8
+

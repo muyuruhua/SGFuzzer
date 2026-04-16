@@ -1,0 +1,24 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RT(P/1.0
+CSeqRDOWN eg1or2AudioVideoTest/track2 RTSPstRTSPClient (LIVE555 555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;clment_port=45GET_PARAMETERssion: 000000022B8
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/PLAY r=sp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+ASeq: 5
+User-Agent: ./testRTSPClient (LIV$5E55 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range: npt=0.        TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudibVileRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;clment_port=45GET_PARAMETERssion: 000000022B8
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/PLAY r=sp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIV$E555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.0:8554/mpeg1or2AudioVileRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP                                rtsp://127.0.0.1:8554/mpient (LIVE555 Sy#eaming Media v2018.08.28 K             V22B8
+

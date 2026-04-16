@@ -1,0 +1,25 @@
+D-   IBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Use~r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+AcceLt: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User  gent: ./testRTSPCli#nt (LIVE555 Streaming Media v2018.n/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideVident: ./testRTSPClient (LIVE555 St;client_port=45548)
+TrSET_PARAMETERAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1ransp E_-+&/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or7 Streaming Media 
+MOJ8.08.28)
+Transport: RTP/AVP;unicast;cliknt_port=45GET_PARAMETERss on: 000022B8
+
+PLAY rtsp://127.0.0.185/45:mpeg1or2AudioVideoTest/ RTSP/1.on: 000liRange: npt=989-5-779
+
+SETUP rmatroskaFileTest:8554/mpeg1or2Au Media v4029.00-
+
+TEARDOWN rtsp://127.0.2.1:8  555/mpeg1or2AudioVAAAAAAAAAAAAAAAAAAAAAAAAAAideoTest/ RTSPAMETERt (LIVE555 Streaming Media v2269.08.28)
+Session: 000022B8
+

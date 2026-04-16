@@ -1,0 +1,27 @@
+z t RT/sdp
+
+SETUP rtsp://127.0.0.1:8554peg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClieDESCRIBEnt (LIVE972 Streaming Media v2018.08.29)
+Transpoeq: 4
+U2ser-Agent: ./testRTSPC)
+TranspoPLAYATP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.0.1:8554/mpeg1or2AudioVideoRange: nptAgent: ./testRT5 Streaming Media v2018.08.28)
+Accept: applicatPAUSEion/sdp
+
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RT=9Test/ RTSP/1.0 
+CSe

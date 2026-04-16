@@ -1,0 +1,19 @@
+DESCRIBE rtsp:/ent (LIVE555 Streaming Media v2019.08.28)
+Accept: application/sent: ./testRTSPClient (LIVE555 Streaming Media v2017.08.28)
+Session: 00002-B8
+RanGe: npt=0.000-
+
+TEARDOWN rt p://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: n/testRTSPClient (LIVE555 Streaming Media v201Content-Length:vn@ 000022BSession: 000404B8
+Range: n BI.000-
+JTEARDOWN rtsp://127.0eq: 5
+User-Agent: ./testRTSPClient (L27)
+Accept:DESeg1or2AudioVideo;unicast;client_povt-50778-50779
+
+SETUP 8tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClien        77 Streaming Media v2018.08.28)
+ application/sdp
+
+SETUPTransport: RTP/AVP;un rtsp://icast127.;

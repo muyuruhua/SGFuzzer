@@ -1,0 +1,15 @@
+DESC >      p://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTUser-AgentRDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20118.08.28)
+Sessio: 000022B/testRTSPClient (LIVE555 StreaDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeqAccept: 2
+User-Agent: ./testRTSPClient (LIVE555 streaming Media v2018.08.2)8A
+ccept: application/sdp
+
+ming Media vSETUP rtsp://127.0.0.1:8554/mp201CRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: qAccept: 2
+Use3
+Qser-Agent:RangestRTSPClient (LIVE555 StreaAudioTest rtsr-p:/Ag/

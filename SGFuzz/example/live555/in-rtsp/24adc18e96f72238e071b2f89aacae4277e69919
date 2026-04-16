@@ -1,0 +1,30 @@
+DESCRIBE vtsp://127.0.0.1:8554/mpeg1or2AudioViDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UseRange: nptFFestRTSPClient (LIVE110 Streaming MediaRange:  v2018.08.28Wru4ccept: application/sdp
+
+SETU.0
+CSeq: 3
+U778-5077deoTest RTSP/1.0
+C  (  2
+User-Agentrt: RTPIAVP;unigast;client_port=45GET_PARAMETERssion: 000022B8
+
+)PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTS9
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudiooI  VideoTest/track2 RTSP/1.0
+CSeq: 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;clien9
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+Ce:Sq 4
+User-Agent:8ort=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/t_port=50778-0POOD2B8
+Accept: atrapcpk

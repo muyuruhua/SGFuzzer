@@ -1,0 +1,21 @@
+DESCRIBE
+Us       aming Media v2    08.28)
+A   WN rt<<<<<<<<<<<<<<<<<<<<<<<<<8<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<; EPPOILM0..1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPSlieOPTIONS
+t (LIVE55RTPtreaming M$ RTP/AVPt_port=50c78-50S0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClieOPTIONSnt (LIV000022B8E55RTPtreaming M$ RTP/AVP;unicast;client_port=50~   50S
+28)
+Accept:wavAudioTesttion/sdp
+                       er-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+A   WN rt<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<; EPPOILM0..1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClieOPTIONS
+t (LIVE55RTPtreaming M$ RTP/AVPt_port=50c78-50S0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClieOPTIONSnt (LIVE55RTPtreaming M$ RTP/AVP;unicast;client_port=50778-50S
+28)
+Accept:wavAudioTesttion/sdp
+
+SETUP unic://2nt

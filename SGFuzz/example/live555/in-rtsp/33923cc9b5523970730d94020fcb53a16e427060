@@ -1,0 +1,11 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 StreawebmFileTest2018.08.28)
+Ac27.0.00.0.1:8554/!peg1or2AudioVideoTest/ RTSP/     :      0.0
+CSeq: 5
+v1009.08.28)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or                          #                2Au3J333d02B8
+

@@ -1,0 +1,11 @@
+D        rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-zAgent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28*
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioDESVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: CRIBE rtsp://1D  ./testRTSPClient (LIVE55webmFileTes5 StreaminStreaming Media v2018.08.28)
+Transport: RTP/A        st;client_ptKort=50778-50779
+
+SETUP rtsp://12727.0.0.1:.85540.nt: ./testRTSPClient (

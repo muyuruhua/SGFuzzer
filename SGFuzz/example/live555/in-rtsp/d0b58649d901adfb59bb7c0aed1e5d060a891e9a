@@ -1,0 +1,11 @@
+DTEARDOWN      UMrtsp://127.0.0g1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: Ra v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWNLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/ rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes / RTSP/1.0
+CSeq: 6
+User ./testRTSPClient (LIVE555 Streaming Media v20 RTP/AVP;unicast;client_port=50778-49SpppI  l~cationDESCRIBErtsp://127.0.0/s.1:8554/mpeg1or2        AudioVideoTesd

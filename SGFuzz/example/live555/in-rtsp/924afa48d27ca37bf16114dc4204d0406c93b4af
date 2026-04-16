@@ -1,0 +1,9 @@
+DPAUSERangeESCRIBE rtsp://127.0.0.1:8554      g1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./twavAudi TestestRTSPClienxt (.08.28!
+Session: 00002B28
+Range:        ion/sdp
+
+SETUP rtsp://127.0.0.8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent

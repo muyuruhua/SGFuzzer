@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127.0.0.1:8554/m !      udioVideoTest RTSP/1.0
+CSeq: 2
+User-RTSP/1peg1or2Au                                                                      dioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LiVE555 ]treaming Media v2018.08.2 |     ion: 000022B8
+

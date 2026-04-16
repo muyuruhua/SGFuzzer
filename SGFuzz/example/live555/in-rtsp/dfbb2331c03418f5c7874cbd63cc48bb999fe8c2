@@ -1,0 +1,17 @@
+i   ,a v3    08.28)
+Accept:% application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClienT (OPTIONSLI,E555 Streaming Media v2018.08.28)
+Transport.2    Transport: RT:/AVP;unicast;client_port=45546-lient (LIVE555 Streaming Media v2er-AgentDESCRIBESET_PARAMETERLIVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEAR+DOWN 009.08.28)
+Session: 000022B8
+Ran : enpt-50S
+28)
+Accept: apppI  lic        p
+
+SETUP unic://2nt

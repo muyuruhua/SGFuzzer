@@ -1,0 +1,27 @@
+z t RTSP/1.0
+CSeq: 2User     9' ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSP;lient (LIVE972 Streaming z FGf    Er   Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-79228
+
+SETUP rtsp://128)
+Accept: application/sd/1..ort=50778-0P/1.0
+CSeq: 3
+User-AgewebmFileTestnt: ./testRTSPelCint (LIVE972 Str018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POODwebmFileTest2B8
+Accept: application/sdp
+
+SETUP   ://064.ia v3    08.28)
+Accept:% application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LI,E554 Streaming Media v2018.08.28)
+Transport.2    Transport: RTP/AVP;unicast;client_port=45546-lient (LIVE555 Streaming Media v2er-AgentDESCRIBESET_PARAMETERLIVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1t: ./tesSET_PARAMETERLIVE555 @treami0.0.1:86 RTSCoDESC    udioTe

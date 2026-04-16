@@ -1,0 +1,17 @@
+D        ESCRIBE rtsp://127.0.0.1:8554/mpeg1ob2AudioTEARDOWNVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tes/127.0.5.1:Range8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-4554/127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 518.08.28)
+Transport:"RTP/AVP;unicast;client_port=45GET_PARAMreaming Media v4036.08.28)
+Session: 0000
+Range: npt=0.000-
+
+TEARDOWN r.tsp://127.0.0wavAudioTest.1:8554/mpeg1or2AudioVideoTest/       .CRTSP/1.0
+CCeq: 6
+User-Agent: ./test.   Client (LIVE555 Strejaming Media v2018.08.28)
+Session: 000044$8
+RangeRange: net=9

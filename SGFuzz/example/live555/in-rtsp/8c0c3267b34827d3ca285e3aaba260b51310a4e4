@@ -1,0 +1,8 @@
+D       	ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./mestRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778RTP779
+
+SETUP rtsp:/DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Us                              er-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: application/127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 R/sdTSP/p
+1.0

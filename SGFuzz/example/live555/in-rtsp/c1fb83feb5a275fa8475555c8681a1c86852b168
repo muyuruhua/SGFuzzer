@@ -1,0 +1,26 @@
+D[8  IBE rtsp://122.0.0.1:8554/mpeO     W ioVideoT WN t.08.:8)
+TransportR:PT /AVP;unicast;client_port=50777-%50779
+
+ RTSP/ng Media v2018.ser-22b8
+
+PLAY rtsp://127.0.0.1:ent_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: en  (LIVE555 Streaming Media v2018.08.28)
+Accept: appli v2018.08.28)
+Session: 000022B8
+Range: npt=EARDOWNPTI1.S./+ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest1ktcr/a RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/@dp
+
+SETUP;client_port=45GET_PARAMhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhstRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.00022B8
+

@@ -1,0 +1,20 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1er-Agent: ./testRTSPClie
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Transport:TSPClie
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 0000228B
+RangeY rtsp://127.0.0.1:8554/mXpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AEEEEEEEEEEEEEEEEEEEEEEEEgent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTestRTSPClient (LIVE555 Streaming Media v2018.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:8554/mpeg1or2Audi20tra08.28)-
+Session: 000022B8
+

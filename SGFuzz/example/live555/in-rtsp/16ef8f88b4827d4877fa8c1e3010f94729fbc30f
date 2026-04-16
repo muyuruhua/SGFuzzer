@@ -1,0 +1,11 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE4g Media v20stRTSPClient (LIVE555                       Streaminept: application/sdp
+
+SETU0stRTSPClient (LIVE555                       Streaminept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1  RTSP/1.0
+CSeq: 3
+User-Agent:        SCRIBE rtsp://127.0.0.18:554AudioVitdeoTest RP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1  RTSP/1.0
+CSeq: 3
+User-Agent: ./tesDESCRIBE rtsp://127.0.0.18:554AudioVitdeoTest RTS

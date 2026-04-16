@@ -1,0 +1,22 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: .
+CSeq: 3
+User-Agent: ./ estRWSPC.lient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAB8
+
+PLAY rtsp://127!.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+UserS-Agent: ./testRTSPClient (LIVE555 Streaming Media  M018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://12ioVideoTest/track2 RTSP/
+User-Agent: ./testRTSPClient (LIVE555 StreaTEARDOWNming Med: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://033.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555eStr555 Streamia v2018.08.28)
+Session: 010022B8
+

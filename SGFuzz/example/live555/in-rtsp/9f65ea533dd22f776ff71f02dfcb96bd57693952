@@ -1,0 +1,36 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Usedia v2018.08.2(8)
+Transport: RT /AVP;unicast;client_port=50778-50S
+
+82)Accept: application/sdp
+
+SETUP rtsp://.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+UsSETUPer-Age;client_port=`5546-lient (LIVE55RTSP/1.0ing Mediaest RTSP/1.0
+CSeq: 2
+Usedia v2018.08.2(8)
+Transport: RT /AVP;unicast;client_port=50778-50S
+
+82)Accept: application/sdp
+ v2er-Agent?: ./tesSET_PARAMETERLIVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1t: ./tesSETac3AudioTestVE55e @treaming MCseq v1009.08.28)
+Session: 000022B8
+Ran : enp5-t0SvMGV
+Accept: apppI  lic        p
+
+   o B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1nt: ./testRTSPClient (LIVE555 Streami      IMent (LIVE555 Streami      IMRTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLA Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+
+82)Accept: ap7.0.0. Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+
+82)Accept: ap7.0.0.1:8554/k2 RTSCoDESCRr EIBtsp://1nt

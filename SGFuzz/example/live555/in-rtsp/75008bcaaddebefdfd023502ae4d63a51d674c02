@@ -1,0 +1,4 @@
+DESCRIBE rtsp://123.0.0.1:8554/udioVideoTest RTSP/1.0
+CS               mpeg1or2AudioVideoTest RTSP/1.0
+CS                       S                                            eq: 2
+User-Agent: ./tesDESCRIBE rtsp://12DQ0.0.1tRTSPClie:8nt (

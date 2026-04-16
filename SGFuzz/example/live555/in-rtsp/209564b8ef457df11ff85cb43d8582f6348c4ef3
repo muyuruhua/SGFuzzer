@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0 
+CSeq: 2
+User-Agent: ./testRTSPClientI5 V(EL55 Streaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg778-50S
+28)
+Accept:c   lication/sdp
+
+SETUP rtsp:// 63.0.0.1:85 RTSCoDESC                                                                   RIBE rtsp://1p:                           //1nt

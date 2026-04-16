@@ -1,0 +1,3 @@
+z t RTSP/1.0
+CSeq: DESCRIBE rtsp://123.0.2
+Us0.1

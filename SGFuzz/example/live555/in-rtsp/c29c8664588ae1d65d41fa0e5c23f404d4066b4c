@@ -1,0 +1,19 @@
+DCSeq::  rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+Ust: app lication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+UnStreami ng Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127!.0.0.1:8554/mpeg1or2AudioVideoTest/track%2 RTSP/
+User-Agent: ./testRTSPClient (LIVE555 Streaming Med: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://033.0.0.1Med: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://033.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+a v2018.08.28)v,    : 000022B8
+

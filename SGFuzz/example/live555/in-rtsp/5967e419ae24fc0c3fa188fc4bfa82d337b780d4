@@ -1,0 +1,22 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1 M>
+   VideoTest RTSP/1.0
+CSeSETU  BE r-Agent: ./testRTSPClient (LIVE555 Streaming Media v201Accept8.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wavAudioTest RTSP/1.0
+CSeq: 5
+User-AgTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest                         /wavAudoTes       Vt RTSP/1.0
+CSeq: 5
+Uspt: application/sdp
+
+SContent-Transport.0.peg1or2AudioVideoTest/wavAudioTest RTSP/2.0
+CSeq: 5
+User-Agent: ./testRTSPClient (L27)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:854/mpeg1or2Audio_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.P rtsp:Ment_edia v2port=50077188.0

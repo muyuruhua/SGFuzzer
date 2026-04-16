@@ -1,0 +1,23 @@
+DESCRIBE 000022B8Length:1:8554/mpeg1or2AudioVideoTest R                       TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 StreamitestRTSPClient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_p%ort=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0Z.28)
+Sesion: 0000ac3AudioTest rtsp://127.0.0AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StwavAudioTesta v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudiIVE555 StwavAudioTesta v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6//127.0.0.1:8554/mperA21goudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCliB8
+

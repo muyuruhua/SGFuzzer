@@ -1,0 +1,9 @@
+DESCRIBE rtsp://127.0.0.1Content-Length:TesPLAYSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media SETUP.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.2AudioVideoTe0.$Streamin9g Med000022B8RTSPClient (LIVE555 Streaming Media v3783.08.28)
+Transport:                         SETUP                   DTCPESCRIBE rtsp://625.0.0.1:85             RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 08);     
+
+HLAY rtsp://127.0.54/mpeg1or2AudioVidRan0.1:85ge: npt=9154/mpeg1or2Au

@@ -1,0 +1,37 @@
+DESCRIBE vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSe    q: 5
+User-Agent: ./testi 4
+User-AgenC~    \=eontent-Length:ient (LIVE555 St8554/mpeg 54/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-dia v2018.08.28)
+Transport: R55       6 Streaming Media v2018est/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.28)
+Transport: RTP/AV rtsp://127.aj3AudioTestpeg1or2Aud                                                       ioVideoTest RTSP/1.0
+CSeq:855 2
+User-Agent: ./testRTSPClient (LIVE555 S1treTEARDOWNaming Medi` v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=01556-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/trac2RkT SP/1.0
+CSeq: 4
+User-Agent :./testRTSPClienP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022Trania v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 4
+matroskaFileTeststRTSPCli ent (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;unicast;client_port=50778-0P/1.0
+CSeq: 2
+User-Agent: .Q OOD2B8
+Accept: application/sdp
+
+Sent (LIVE555 S1treTEARDOETUP rtsp://063.0.0.1:85 RTSCoDESC                                                       6666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666         six-playNow:on: 000022B8
+

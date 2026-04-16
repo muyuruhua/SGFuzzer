@@ -1,0 +1,10 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest ion: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or                             Accept                                                       2Au33333d000022B8ioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 S5 Streiamng M0779
+
+SETUP rtsp:/sp://127.0.0.1             stRT5 Stream                          ing Medi333333333333333333/testRTSPClient (LIVE555'9  eaei3333333333333333333127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Me00000000000000000000dia v2013r2nt

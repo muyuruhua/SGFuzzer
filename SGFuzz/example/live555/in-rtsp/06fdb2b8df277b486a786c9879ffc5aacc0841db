@@ -1,0 +1,18 @@
+DSATUP WN tsper-Agent: ./testRTSPClient (LIVE555 S(treaming Media v4036.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=73167-45547
+SessOion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v1009.08.28)
+Session: RTP66666666666666666666666666666666666666666666666666[ 6666666666666RTP666666666666666666666666666666660022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.WQ1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming M: RTP/AVP;unicast;client_port=50778-50S
+28)Ae
+ccpt: apppI  lication/sdp
+
+SETUP unic:'/2nt

@@ -1,0 +1,5 @@
+: t RTz t RTSP/1.0
+CSeq: 2
+UserRange-Agent: ./t0.1:8554/mpegSP/1.0
+CSeq: 4
+User1or-2A

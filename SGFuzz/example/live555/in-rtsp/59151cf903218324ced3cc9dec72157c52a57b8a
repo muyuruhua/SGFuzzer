@@ -1,0 +1,23 @@
+ RAW/RAW rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/0.0RTP
+CSeq: 2
+User-Ag
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 :treaming Media v2018.08.28)
+Acgept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+XLAY rtsp://125.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/1.   Seq: 5
+User-Agent: .  /testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: pt=0.000-
+
+TE22B8
+

@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0.1:ation/sdp
+
+SETUP rtsp:// 27.0.0.1:8554/mpeg1or2AudioVideoTest/track1nnnnnnnnnnnnnnnnnnnnnnnnnnnn RTSP/1.00778-50RTP77
+;ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioTideoTest/track20RTSContent-Length:
+User-Agent: ./testRTSPClient (LIVE555 Stre JRTSSET_PARAMETER6
+User-Agent: ./testRTSPClient (LIVE555 St       aMedia v2018.08.28)
+seis :nos000022B8
+
+CSeq: 3
+User-Agent: ./testRTSPClient (LIV%E555 Streaming Media v2018.0111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111118.28)
+Trans                                                                                         port: RTP/AVP;unicast;client_port=50778-50RTP77
+;ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioTideoTest/track20RTSContent-LeCseqngth:
+User-Agent: ./testRTSPClient (LIVE555 Stre JRTSSET_PARAMETER6
+User-Agent: ./testRTSPClient (LIVE555 St       aMedia v2018.08.28)
+seis :nos000022B8
+

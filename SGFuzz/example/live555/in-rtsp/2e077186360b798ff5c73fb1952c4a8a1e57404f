@@ -1,0 +1,49 @@
+D#=      ESAVPBE rtsp://127.0.0. v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+
+
+TEARDOWN rtsp://TEARDOWN rtsp://127.0.0.1:855 ./t1:8554/ming Media v201DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 1
+User-Agent: ./testBTSPClient* (LIVE555 Streaming Media v2018.08.28)
+Accept: appli#aPAUSEsdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=5077.-50779
+
+ RTSP/ng Media v2018.ser-Agent: ./testRTSPClien\\\\\\\\\\\\\\\\\\\\\\\t (LIVE277 Stre (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://1278.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+
+
+TEARDOWN rtsp://TEARDOWN rtsp://127.0.0.1:855 ./testRTSPCl0.0.1:8554/ming Media v2118.q: 5
+User-Agent: ./testRTSPCl0.0.1:8554/ming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+
+
+TEARDOWN rtsp://TEARDOWN rtsp://127.0.0.1:855 ./t1:8554/ming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+
+
+TEARDOWN rtsp://TEARDOWN rtsp://127.0.0.1:855 ./testRTSPCl0.0.1:8554/ming Media v2018.estRTSPCl0.0.1:8554/ming Media v2018.0eaming Media.0.0.1:8554/mpeg1or2AudioVideoTest/t0022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: v20 ./+estRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.00022B8
+18
+.08.28)
+Sessi6n@ 000022B8
+

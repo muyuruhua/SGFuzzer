@@ -1,0 +1,18 @@
+DUser-Agentsp://127.0.0.1:8554/mpeg1or2Au0ioVideoTest RTSP/1.0
+CSeq: 2
+Usrt: RTP/AVP;unicast;client_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: .
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media2v 1008.8.28)
+TrMedia2v 1008.8.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAETERssion: 000022B1
+
+PLAY rtsp://2022B8855RTSPSession: 000022B8
+

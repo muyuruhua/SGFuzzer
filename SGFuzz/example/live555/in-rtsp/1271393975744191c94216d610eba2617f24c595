@@ -1,0 +1,21 @@
+DRTPESCRIBE vtsp://127.0.0.1:8554/mpeg1or2P;unicast;client_port=52778-0PO.OD2B8
+Accept: application/sdp
+
+SE6*/Dclient_port=45GET_PARAMETERssion: 000022Trania v2    08.28)
+Accept: application/sdp
+
+SETU/P rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT017.08.28)
+Transport: RTP/AVP;unicast;client_port=52778-0PO.OD2B8
+Accept: application/sdp
+
+SE6*/Dclient_port=45GET_PARAMETERssion: 000022Trania v2    08.28)
+Accept: application/sdp
+
+SETU/P rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 3
+amtroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESC                     six-playNow:on: 000022B8
+

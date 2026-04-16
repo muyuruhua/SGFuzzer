@@ -1,0 +1,5 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1oDPLAYIBE rtsp://127.0.0.1:EJ54/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StreaTTTTming Media ^v201;c    lient_por2AudioVrt=5i

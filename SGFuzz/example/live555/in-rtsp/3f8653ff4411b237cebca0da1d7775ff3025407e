@@ -1,0 +1,10 @@
+D 3CRIBE rtsp://127.0.0.1:ation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClientPLAYVE555 Streaming Media v2018.08.28)
+Tranica                     1:8554/mpeg1or2AudioTideoTest/track2 eg1or4AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+

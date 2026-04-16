@@ -1,0 +1,11 @@
+DESTCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Us                              er-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept:p://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3Test/track1 RTSP/1..
+TEARDOWN User-Agent: ./testRTSPClient (LIVE555 Streaming MDESCRIBE rtsp://edia v2018.08.28)
+Transport.28)
+Transport: RT)P>)P;unicast;client_port=45546-45547
+Session: 000044B8
+
+PLAY rtsp:/SETUP/127.0.0.127.0.0.1:8554/mp1:8554/meg1po

@@ -1,0 +1,13 @@
+D    IBE rtsp://127.0.0.1:8554/                                                       mpeg1or2AudioVideoTest RTSP/1.
+
+PLAY rtsp:Range: np4/mp                                                   eg1or2AudioV       xideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.2
+CSeq: 6
+User-Age-Agent: ./RTSPClient (DIVE555 Streaming Media v2019.08.28)
+Session: 000022B8
+

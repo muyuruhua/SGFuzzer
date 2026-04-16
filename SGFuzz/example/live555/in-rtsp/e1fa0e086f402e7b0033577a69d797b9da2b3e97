@@ -1,0 +1,15 @@
+DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoT WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClienteaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50IHGRJOHH9
+
+ RTSP/ng Media v2018.ser-Agent: ./testRTSPClien\\\\\\\\\\\\\\\\\\\\\\\t (LIVE277 Streaming Media v2018.08.)28
+Transport: RTPIAVP;unicast;client_port=45GET0
+CSeq: 2
+User-Agent: ./testRTSPClienteaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50IHGRJOHH9
+
+ RTSP/ng Media v2018.ser-Agenta v2018.08.28)
+Session: 000022B8
+Range: npt=0.00022B8
+

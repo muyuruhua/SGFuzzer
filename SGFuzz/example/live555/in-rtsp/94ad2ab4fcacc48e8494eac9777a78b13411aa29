@@ -1,0 +1,11 @@
+D92  Range: npt=0.00127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Stmgrainger-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tes-Agent: ./testRTSPClient (LIVE555'9  eaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1ont (LIVE555 Streaming M: RTP/AVnu;Picast;client_portP unic://2nt

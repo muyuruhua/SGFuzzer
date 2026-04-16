@@ -1,0 +1,18 @@
+z t RT/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Medha v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/t|rack2 RSPT/1.0
+CSer-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClieDESCRIBEnt       O~(LIVE972 Streamiig Media v2018TCP v2018.08.28)Content-Length:_PARAMETERssion: 00002.08.28)
+TransportERssion9 000022OPTIPAUSEONSB8
+
+PLAY rideoTest/.ESCRIBE rtsp:/mpeg1or2AudioVideoRange: npt=9Test/ RTSP/1.0
+CSe

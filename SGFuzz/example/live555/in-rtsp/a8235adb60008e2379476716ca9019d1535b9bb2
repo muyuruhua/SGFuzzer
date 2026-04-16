@@ -1,0 +1,16 @@
+zN   IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVhdeoTes& RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: a#plication/sd^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^p
+
+SETUP rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClienM (LIVE%55 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;cliTransport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCli%nt (LIVE110 Streaming MediaAv2018.08.28)
+Accept: appli                                                                                                                     cation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1<or2AudioVideoTest/track1 RTSP/1
+PLAY rtsgent: ./vepstR:

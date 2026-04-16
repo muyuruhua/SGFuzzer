@@ -1,0 +1,8 @@
+D        ESCRIBE rtsp://127.0.0.1:8554/mDESCRIBEpeg1or2AudioTEARDOWNVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: app      Ad/sdp
+
+SETUP rDESCRIBE rtsp://123.0.0.1:8554/mpeg1or2IudioVtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ideoTest RTSP/
+Us1.0

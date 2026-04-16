@@ -1,0 +1,22 @@
+D          8b      Range: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.    Seq: 2
+User6-Agent: ./testRTSPCli        ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1org Media v2018.08.28)
+Transport:8554/mpeg1or2AudioVideoTest/ RTSP/A1.0
+CCeq: 6    Range: npt=9                                         
+U45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClAudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRient (LIVE554 Streami	  Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.   
+TEARDOWN rtsp://127.0.0.B8
+

@@ -1,0 +1,19 @@
+Dac3AudioTesttsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETkP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming MediCseq018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+                                                                                                                        
+SETUP rtsp://127.0.0.1:8554/mpedgeo1Test/track2 !TSP/1.0
+CSeq: 4
+User-A&&&&&&&&&&&$&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&gent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+wTwwwwwwwwwwwwwwwwwwransport: RTP/ient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sDESCRIBE rtsp://127.0.0.1:Content-Length:diodp
+
+SETTEARDOWNUVideoTest RTSP/1.0
+CSeJP rtsp::/ p      .1:8 2
+5User-5

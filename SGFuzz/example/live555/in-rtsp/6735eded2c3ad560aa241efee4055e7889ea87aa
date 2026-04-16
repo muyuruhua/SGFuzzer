@@ -1,0 +1,15 @@
+DESCRIBE rtsp:/712/.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MediUser-Agent.28)
+AccSET_PARAMETERion/sdp
+
+SETUP rtsp://127.0.0,1:8554/mpeg1or2AudioVideoTest/t{       SP/1.0
+CSeq: 3
+U1se  Agent: ./testRTSPClient (LIVE555 StreaminStreaming Media v2018.08.28)
+TUser-Agentransport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tracUserS-Agent: ./testRTSPClient (LIVE5t (LIVE555 Streaming Med: 000022B8
+Range: npt=0.000-
+@
+TEARDOWN rtsp:43.0//0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CDESSeq: CRIBE rtsp6:

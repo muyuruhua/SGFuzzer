@@ -1,0 +1,14 @@
+DUser-Agentsp:/ent (LIVn: 000022B8
+RaMedia v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp://128.0.0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3Content-Length:testRTSPClient (ILVE555 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=01556-507TP/AVP;unicast;cliet;client_port=45546-45747
+Sessiedia v2018.08.:8)
+Transp rt: RTP/AVP;unicast;client_port=01556-50779
+
+SETUP rtsp:on: 000022B8
+//127.0.0.1:8554/mpeg1or2AudioVideo
+DEREGISTER 554/mpeg1or2AudioV=======9=rack1 RTSP/1.0
+CSeq: 4T

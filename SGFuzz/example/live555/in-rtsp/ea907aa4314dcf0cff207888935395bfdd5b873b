@@ -1,0 +1,5 @@
+DESCRIBE rtsp://127.0.0D    IBE rtsp://127.0.0.1:K554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 4
+Us.1:8554e/mpeg1or2Audi  ideoTest RTSPr-Agent: ./testRTSPClien00022b8
+
+/1.P

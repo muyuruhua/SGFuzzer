@@ -1,0 +1,27 @@
+D8b      Range: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.ion/sdp
+
+SETUP rtsp://127.0.0.1:8554/28)
+Transport:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CCeq: 6               eq: 6                                     (LIVE159 S5 Streaming unicas 
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP0.0001/022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE554 Streami	  Media v2018.08.28)
+Sess             ion: 000011B8
+Range: npt=0.000-
+
+TE RWOANDrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.Transport6
+User-Ag+nt: ./testRTSPClient (LIVE555 Stream                      (LIVE159 S5 Streaming unicas 
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE554 Streami	  Media v2018.08.28)
+Session: 000011B8
+Range: npt=0.000-
+
+TE RWOANDrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.Transport6
+User-Ag+nt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

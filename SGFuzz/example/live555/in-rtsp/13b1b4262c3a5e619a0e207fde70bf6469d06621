@@ -1,0 +1,3 @@
+DESCRIBE rtsp://127.0.0.18:554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./t -+,/<lient (LIVE5DESCR5

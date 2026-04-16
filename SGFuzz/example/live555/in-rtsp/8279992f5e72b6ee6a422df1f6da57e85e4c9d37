@@ -1,0 +1,35 @@
+z t RTSP/1.0
+CSeq: 2
+User-?gent: ./testRTSPCli  t (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3SETUP
+User-Agent:.28)
+Transportnt (LIVE337 Streaming Media v2018.OGY28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp:/o(R      127.0.0.1:8554/mpeg1or2AudioVideoTennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnRangennnnnnnnnnnnnnnnnnnnnnnnnnnnnnnSPClient (LI=   VE555 Streaming MediaAgent: ./testRTS0.1:8554/mpeDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVid,oTest TSPR/1.0
+CSeq: 2
+1ser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0	1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClient (LI=   VE555 Streaming Media SPClient (LIVE555 StreaminGET_PARAMETERion/sdp
+
+SETUP rtsp://127.0.0.1:8553/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+webmFileTestUser-Agent: ./testRTSPClient (LIVE110 Streamg Media v2018.08.28)
+Transporg1or2AudioVideoTest/trac N_-+,/P1.0
+CSeq: 3SETUP
+Ushr-Agent:.28)
+Transportnt (LIVE337 Streaming Media v2018.OGY28)
+Transport: RTP/AVP;unicast;ct: RTP/AVP;unicast;client_port=45 RTP/AVP;unicast;client_port=44GET_PAROWtestRTSPClient (LIVE555 Streaming Aedia v2018.08.28)lient_port=5
+Session: 000022B8
+Range: npt=0.007ET00npt=0.000-
+
+78-50779
+Test/ RTSP/1P.0
+CSMMe
+=8
+

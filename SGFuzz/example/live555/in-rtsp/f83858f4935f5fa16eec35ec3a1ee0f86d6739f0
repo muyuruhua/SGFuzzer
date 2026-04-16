@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mort=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022Trania v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://17
+Session:1 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideomatroskaFileTestTest/                                                 TEARDoWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sessivn@ 000022B8
+

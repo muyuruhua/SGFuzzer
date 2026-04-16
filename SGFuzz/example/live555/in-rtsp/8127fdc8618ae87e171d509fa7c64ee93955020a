@@ -1,0 +1,14 @@
+DESCRIBE LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg2or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERsshon: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes          t/ RTSP/1.0
+sp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq@ 6
+User-Agent:1./SET_PARAMETERt (LIVE555 Streaming Media v2018.08.28)
+S000022B8ession: 000022B8
+

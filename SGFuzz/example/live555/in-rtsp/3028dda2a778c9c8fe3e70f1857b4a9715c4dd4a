@@ -1,0 +1,8 @@
+D     	(lESCRIDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClientContent-Length: (LIV4JJJ_eaming Media v2018.08.28)
+Accept: application/sdp
+
+SETrtU sPp://127.0.0.1BPLAYE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+:8554/Usm

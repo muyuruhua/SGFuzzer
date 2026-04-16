@@ -1,0 +1,14 @@
+DESCRIBE rtsp:/e/track1 RTSP/1.0
+CSeq: 3
+UseERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2Audio0ideoTest/ RTSP/1.0
+CSeq: 5%wUser-Agent: ./testRTSPClient (MIVE555 Streaming Media v2018.08.28)
+Session: 					{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{											 										000022B8
+Range: npt=0.000-
+
+TEARDOWN AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: .'SET_PARAMETERt (LIVE555 Streaming Media ?v2018.08.28)
+S000022B8ession: 000022B8
+

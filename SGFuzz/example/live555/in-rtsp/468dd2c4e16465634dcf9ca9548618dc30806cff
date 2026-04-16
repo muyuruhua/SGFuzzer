@@ -1,0 +1,15 @@
+D2?CRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Use~r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+AcceLt=45GET_PARAMETERssion: 0000Accept
+PLAY r npt=0.000-
+
+				}}}}}}}}}}}}}}}}}}}}																																																		2																															TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+U-rres-Agt: ./testRTSPClient (LIVE555 St#eaming Media v2018.0                                                       or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2017.08.28)
+Accept: application/sd127.0.0.1p
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0ession: 000022B8
+

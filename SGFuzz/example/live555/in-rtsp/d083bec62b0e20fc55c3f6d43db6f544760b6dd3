@@ -1,0 +1,26 @@
+Dx-plassio: WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.D
+CSeq: 2
+User-Agen        tRATSPCl  nt (LIVE555 Streaming Media v3    08.28)Y
+      
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicist;client_port=45546-45547
+Session: webmFileTest000022B8
+
+PLAY rtsp://1 27.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOW N rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.00
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming M: RTP/AVnu;Picast;client_port=50778-50S
+28)
+Accept: apppI  lication/sdp
+
+SETUP uUnic://"nt

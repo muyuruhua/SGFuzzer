@@ -1,0 +1,14 @@
+DESGET_PARAMETER127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIV;JJP Streaminept: application/sdp
+
+SETUP rtsp://127.0 }.0.1:8554/mpeg,or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./
+Range: npt.=0000-
+
+TEARDOWN rtsp://127.0.0.148554/mpeg1or2AudioVide  oTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2019.08.28)
+Session: 000022B8
+

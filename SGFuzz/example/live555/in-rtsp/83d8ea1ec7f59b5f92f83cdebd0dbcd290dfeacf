@@ -1,0 +1,9 @@
+DESCRIBE rtsp:/ent (LSET_PARAMETERing Media v2018                                                              .08.281
+Accep                                                                           t: application/sdp
+
+SETUP rtsp://1275GET_PARAMETERssnJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ>5JJJJJJJJJJJJge: npt=0.000-
+
+TEARDOWN rtsp+//9
+
+SETUP rAMFTERt
+UseR-Agent: .DESCRI/SET_PARAMBE 

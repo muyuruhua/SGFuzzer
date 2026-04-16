@@ -1,0 +1,17 @@
+DDESCRIBEESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVide=Test RTSP/1.0
+CSeq: 21
+User-DESCRIBE vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0>0.1:8554/mpeg1or2AudioVi eoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.28)
+TransporAgent: ./testRTSPClient (LIVE555 StreamDESCRIBEa v2018.08.28)
+Accept: application/sdp
+
+St: RTP/AVETUP rtsp://127.0.0.                                                                                              1:8P;unicast;client_port=50778-0POOD2B8
+Accept: application/sd554/mpeg1or2Audi

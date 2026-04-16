@@ -1,0 +1,21 @@
+z t RTSP/1.0
+CSeq: 2User-Agentt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127~0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming z FGf    Er   Medz t RTSP/1.0
+CSeq: 2User-Agentt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://1S7.0.0.1:8554/mpeg1o22AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTwavAudioTestVE972 Streaming z FGf    Er   Media v2018.08.28)
+Transport: RTP/AVP;unicast;clienia v2012).088.8
+Transport: RTP/AVP;unicast;client_port=50778-79228
+
+SETUP rtsp://128)
+Accept: application/sd/1..ort=50778-0POODt_po2Brt=50778-79228
+
+SETUP r8
+tA

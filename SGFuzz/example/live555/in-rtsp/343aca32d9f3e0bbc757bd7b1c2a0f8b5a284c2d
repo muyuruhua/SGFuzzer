@@ -1,0 +1,27 @@
+DTCPRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVidetsoe TRTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0pplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+UTransportserAgn-te: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Tra2018.08.28)
+Transport: RTP/AVP;unicast;client_povt=50778:50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streamin0779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=90GET_PARAMETERssion: 000021B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClienTtPSlient (Lv2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+8)
+Session: 000022B8
+

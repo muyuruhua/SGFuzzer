@@ -1,0 +1,3 @@
+DESRIBED@ESCRIBE rtsp://127.0.0.1:8554/mpeg1DESCRIBE rtsp://127.0.0.1:8554/mpor2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Meg1oredi2Auda 

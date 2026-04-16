@@ -1,0 +1,17 @@
+DPAUSEsion]]]=SCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVi/track1 RTIVE555 Streaming Media v2018PO8.28)
+Trant (LIVE555 Streaming Media v2018PO8.28)
+Transport: RTP/AVP;unicast;client_port=50778-5077                                                                                        9
+
+SETUP rtsp://127.0.0.1:8554/mpeg1 2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Med                               ia v2018.08.56)
+Tr
+User-Agent: ./SET ./SEanspor Streaming Media v2018.08.28)
+Session: 00002FB8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

@@ -1,0 +1,10 @@
+$$$$$$$$DESCRIBE rtsp://127:00.1.8.554/mpeg1or2AioudVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+%
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Audi.0.1:8554/mpeg1or2Aud oVideoXest/ RTSP/1&0
+CS-q: 0
+User-Agent: MMMMMMMMMMMMMMMMMMMMMMMMMMMM./testRTSPClient (LIr2AudioVideoTert/ JTSP/1ient (8.0AQ28)
+Sessio: 00TCP2B8
+webmFileTest

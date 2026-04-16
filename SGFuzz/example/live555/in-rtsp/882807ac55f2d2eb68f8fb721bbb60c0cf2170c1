@@ -1,0 +1,28 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1ordeoTest/tAcceptR    TSP/1.0
+CSeq: 4
+User-Agent: ./teer-Aor2AudioVideoTest/ RTSP/1.0
+CSe.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpe2AudioUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tAcceptRTSP/1.0
+CSeq: 4
+User-Agent: ./teer-Aor2AudioVideoTest/ RTSP/1.0
+CSe.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (L,IVE972 StreSETUP Media v2018./8.28)
+Tra1or2Audio*    + t/ RTSP/1.0
+CSeq: nspoeqSETUPUser-Agent: p/testRT        : './testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AmatroskaFileTestV (LIVE5CSematroskaFileTestP;unicast;client_port=50   /1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE5CSeq:realing Media v2018.08.28)
+Sess        io E_O000+2B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/020 Bi    855RTSP/1.0
+C:qeC 6sUre
+-Agent: ./testRT6PClwebmFileTest5 Stream\:      a v2018.08.28)
+Session: 000022B8
+

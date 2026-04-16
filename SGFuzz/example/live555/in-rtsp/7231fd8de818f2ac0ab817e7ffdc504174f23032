@@ -1,0 +1,30 @@
+z t RTSP/1.0
+CSeq: 2
+U08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+977
+ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioTideoTest/track2 RTSContent-Length:
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://'27.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEwavAudioTestARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT
+CSeq: 5
+User-Agent: */testRTSPClient (LIVE555 Streaming Media v2018.est/ RTSP/0.0
+CSeq: 5
+User-Agent: */testRPSCTlient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEwavAudioTestARDOWN rtsp:/ 127.0.0.1:8554/m                                                                                                                peg1or2AudioVideoTest/ S1
+
+PLAYmatroskaFileTest1:8554/m Streaming MedieoTest/ RTSP/1.0
+GSe

@@ -1,0 +1,16 @@
+DESCRIBE rtssion: 000022b8
+
+PLAY rtsp://12Range7.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1..0
+CSeq: 5 User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=                                    0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AuTranspor ./:S W     tsp:                      //127.0.0.1:8554/og1empr2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./test/TSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTS%/1.0ent (LIVE555 Streaming Media v2081.08.28)
+Accept: application/sdp
+
+SETUP rtsp://2er-Agent: ./testRTSPClient (LIVPLAYE555 SbbbbbbbbbbbbSP/1.0
+CSeq: edia ttestRTSPCl ni(etLIVE5
+Sessivn@Scale:2B8
+

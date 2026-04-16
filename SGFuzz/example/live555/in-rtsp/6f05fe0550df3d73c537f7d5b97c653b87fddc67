@@ -1,0 +1,25 @@
+D M      rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIVE555 Streai emgnMdia v2018.08.28)
+Trorspnta: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./cept: application/sdp
+
+SETUP rtsSETUP 7.0.0.1:855LP  eg1or2AuContelt-Length:dioVideoTest/track1 R: npt=0.000O+   CRIBE rtsp://127x-playNow:4/mpeg1or2AudioVideoTest RTst;client_port=45GET_PARAMETESETUPn: 000022B8
+
+PLAETERssion: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2A                                                        udioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRT PClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtTIONSARDOWN rtsp:1testRTSPClient (LIVE555 Streamin gMedic v2018.08.28)
+Tran5       TP/AVP;unicansport: RTP/AVP;unicast;cTransportt=45546-45547
+Se-
+
+TEARDOWN rtsp:n/127.0.0.1:8554/mpeg1oRTPudioVideoTest/ RTSP/0.0
+testRTSPClient (LCSeq: 6
+User-n 000022B8
+

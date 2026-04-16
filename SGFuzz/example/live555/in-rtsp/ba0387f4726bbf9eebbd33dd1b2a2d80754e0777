@@ -1,0 +1,33 @@
+D2,ESCRIBE rD       YRangeESCRIBE rtsp://127.000.1:8554/lication/sdp
+
+SETUP rtsp://127.0.0.1:8553/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClient (LIVE554 Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=4Transport5GET_PARAMETERssio20IVE555 StreamContent-Length:PLAY rtsp:/client_port=90GET_PARAMETERssion: 000022B8
+ 
+PLtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: app;ikation/sdp
+
+SETUP rtsp://127.0.0.1:5584/mpeg1or2AudioVide	   t/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+TrawavAudioTestAVP;unicast;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rts1or2Audist/ RTSPAY rtsp://127.0.0.1:855/4mpe/1.0
+CSeq: 6
+User-Ag
+U Contetn-neLgth:tRTSPClignt (LIVE994 Strea       g1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5bUser-Agent: ./testRTSPClient (LIVE555 Streaming  Medi av201ming ?eqia v2018.088.08.28!
+Session: 00002B28
+Range: npt=0.000lien.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq: 5
+Us.28)1
+SeeSession:  $                             stestRTSPClienst (LIVE555 Streaming Medit (LIVE555 Streaming Mediaui v

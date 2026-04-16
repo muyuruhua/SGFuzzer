@@ -1,0 +1,23 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest TSPR/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp127.0.0.1rtsp://127.0.0.1:8554/mpeg1or2AwavAudioTestudiioTeoVdest/track1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClient (LIVE555 Streaming Media v20stRTS.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ku* R>gen8.28!
+Session: 00002B28
+Range: npt=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee ./testRTSPClient mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
++ R>  nt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=507ack2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicasteee0.000-
+
+ EARDOWtestRTSPClient (LIVE555 Streaming Aedia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000npt=0.000-
+
+022B8
+

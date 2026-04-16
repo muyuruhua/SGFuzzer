@@ -1,0 +1,28 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Usre-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVi%%%%deoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./t application/sdp
+
+SETUP rtsp://127.060.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: .TSPClient (LIVE277 Stre^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^aming Media 102v8.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2A,udioVideoTe applicattrack1 RTSP/1.0
+CSeq: 3
+User-Agent: .TSPClient (LIVE277  Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://12or2AudioVi%%%%deoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./t application/sdp
+
+SETUP rtsp://127.060est/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tPOMM=estRTSPClie
+User-Agent: ./testRTSPClient (LIVE731 Strea                                    ming M2B8
+

@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 StreaTSPming MediaSET_PARAMETER v2018.08.28)
+Accept: applicatioestRTSPClient (LIVE555 Str  ming M Strea: ./testRTSPClient (LIVE555eStreaming Media v2018.08.28)
+Session: 000022B8
+

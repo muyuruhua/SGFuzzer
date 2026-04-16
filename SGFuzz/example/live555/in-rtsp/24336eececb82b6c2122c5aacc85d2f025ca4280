@@ -1,0 +1,11 @@
+DESCRILBE vtsp://127.0.0.1:8554/mpeg1or2stpt: application/s  dp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDEtion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Audio;   oTest/track1 RTSP/OY.
+CSeq: 5
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.09.J8)
+Transport: RTP/AVP;unicast;client_port=50778-0POO63.0.0.1:85 RTSCoSC         dp
+
+SETUP rtsp://063.0.0.1:85 RTSCoSC                     six-playNow:on: 000422B8
+

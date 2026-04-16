@@ -1,0 +1,38 @@
+D    IBE rtsp:/ent (LIVE555ZStreaming Media v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (L      #ytreamin0    Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50778-507$79
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Au      G2Tesion: 000022B8
+
+PLAY rtsp://127.TranspwavAudioTest4/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+Useent (LIVE555ZStreaming Media v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (L      #ytreamin0 Range   Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50778-507[79
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Au      G2Tesion: 000022B8
+
+PLAY rtsp://127.Transport0.0.1:8554/mpeg1oR2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8555r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8555/mpeg1or2Audi]VideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./Media v2018.08.:8)
+Transport: R2//AVP;unicast08.28)
+S000022B8ession: 000022>8
+

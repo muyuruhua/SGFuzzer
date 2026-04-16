@@ -1,0 +1,33 @@
+z  K
+TSP/1.0
+CSeq: 2
+User-IVE555eS/testRTSPClient (LIVE555 Streaming Mexdia v2018.08.28)
+Accept: ort=57778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Str1eaming Me     WUO8.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://12rtRTP: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:85 54/mpeg1or2AudioVide&/TeliveMedia120011st/ RTSP/1.0
+4/mpeg1or4AudiVeoodiTest/ RT~P/1.0DGET_PARAMETER//127.k.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIVE555 Streaming                                                          Media v2018.SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS08.28)
+Trorspnta: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/DESCRIBE1.0
+CSeq: ;
+User-Agent: ./testRTSPClient (ient (LIVE110 Str                        ming Media v201 .08.28)
+Transport: RTP/AVP;unicast;clien
+CSeTEARDt_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.OWN
+0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPGET_PARAMETER55 Streaming Media v2018.08.28)	
+Session: 000028B2
+RanGe: npt=0.000-
+280
+Trans Streaming Media v2018vn@ 000022B8
+

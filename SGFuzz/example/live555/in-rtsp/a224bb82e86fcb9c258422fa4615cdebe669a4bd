@@ -1,0 +1,4 @@
+D   hP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 3IBE rtsp://127.0.0.1:855nsport: RTPIAVP;unicast;clM?  ient_port=45GET_PARAMETERssion: 000022B8
+
+PLAY : ./testRTSPClient (LIVE555 Streamin/t/sp:r127.0.0.g Media v2018.

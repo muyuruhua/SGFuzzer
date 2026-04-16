@@ -1,0 +1,29 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1orIAudio ideoT est RTSP/1.0
+CSeq: 2
+User-Ag/ .:enttestRTSPClient (LIVE4g Media v2
+ange: npt=00-
+
+DESCRIBE rtsp://127.0.0.1:8554/mp    eg1or2AudioVideoTest/ RTSP/1.0
+oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medi# v2018.08.28`r
+Session: 000022B8
+Range: npt=00-
+
+DESCRIBE rtsp://127.0.0.1:855ioVideoTest/ RTSP/1.0
+CSeq: 6
+                                                   User-Agent: ./testRTSPClient (=00-
+
+DESCRIBE rtsp://127.0.0.1:8554/mp    eg1or2AudioVideoTest/ RTSP/1.0
+oVideoTest/RT SP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medi# v2018.08.28`r
+Session: 000022B8
+Range: npt=00-
+
+DESCRIBE rtsp://127.0.0.1:8554/mp    eg1or2AudioVid   eg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE798LIVE798 Streaming Media v2019.08.28)
+S
+Session: 000022B8
+

@@ -1,0 +1,17 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTS          UP rtsp:                                                        P/0.0
+CSeq: 2
+Us -Agent: ./testRT/sdp
+
+SETUP rtsp://127.0.UQ1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Use r-Agent:.Scale:r   Yg        t (LIVE337 Streaming Media v2018.08Y28)
+Transport: RTP/AVP;unicast;client_port=50778-5077=
+
+SETUP rtsp://127.0.0.1:8554/mgent: ./testRTSPCli        E555 Stream?ng Media v2018.0Cseq)
+Session: 000022B8
+Range: npt=0.000-
+
+TEAR20118.08.28)
+Sessio: 0000282
+
+BTEARDOWN

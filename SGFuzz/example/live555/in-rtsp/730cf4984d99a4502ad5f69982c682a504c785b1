@@ -1,0 +1,18 @@
+D        rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq$ 2D       SSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/2.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Ant: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sUUUUUUdp
+
+SETUP rtsp://127.0.5.1:8554/mg Media v1009.08.22)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWNG rtsp://127.0.0.1:8554/mpeg1or2Aud000022Test RTSP/1.0
+CSeq: 21
+User-Agent: ./testRTSPClient (LIVE555 StreamDESCRIBEa v2018.08.28)-AgentDESCRIBE rtsp://12        8554/mpeg1or2AudioVideoTest TSPR/1.0
+CSeq: 2
+User-AgenP/1.0
+CSeq: t: ./testRTSPClie _WLIVE555 St6ream
+Uing Mesedia v2018

@@ -1,0 +1,28 @@
+D       8vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-Agen8.08.28)
+TransConqI  tent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.        1:8554/mpeg1or2AudDESCRIBE rtsp://127.0.0.1:J554/mpeg1or2AudioVide#################################oTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tr2b8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaq: 3
+Us2er-Agent: ./RTPtRTSPClient (LIV.972 Streaming Media v2018.08.28)
+Transport:ept:  RTP/AVP;unicast;client_port=50778-50779S
+
+ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+2CSeq: $  
+User-Agent:/. testRTSPClienDESCRIBEt ming Media v2018.08.28)
+Session      $K: 000022B8
+Range: n`t=0.P rtsp:/4/mpeg1or2AudioVideoTest/tkaFileTeststRTSPClient (LYVE5KQ Str2rack2 RTSP/1.0
+2C7.0.  / 8554/mSeq: $ p 
+Useg

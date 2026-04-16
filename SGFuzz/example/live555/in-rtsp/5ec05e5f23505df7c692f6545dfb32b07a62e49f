@@ -1,0 +1,33 @@
+D   Ke: npt=9://127.0.0.1:8554/mpeg1or2Au,ioVideoTest RTSP/1.0
+C Streaming Media v2018.08.28)
+Session: 010022B8
+Range: npwavAudioTestt=0/000-
+
+DEREGISTER t;client_port=50778-50779SETUP rtsp://830.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq* 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Ageot-50779SETUP ioVideoTest RTSP/1.0
+CSeq: 2
+Us r-Agent:!./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: UP rtsp./testRTSPClient (LIVE555 StreamingestRTSPClient (LIVor2AudioVideSETUP rtsp://Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SEP rsUptT://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0 
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 0sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/)1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Strea     Media v2018.7b  /track1 RTSP/)1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Strea     Media     08.28)
+Transport: RTP/A127.0.0.1:8554/mpeg1or2Audiccept: UP rtE555 Streaming Media v2    08.28)
+Accept: UP rtsp://063.0.0.1:85 RTSCoDTransport:  ac3AudioTest    $       sion: 0 0022B8
+

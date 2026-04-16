@@ -1,0 +1,67 @@
+DSETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSP>lient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.2 )
+Session: 000022rtsp
+SETUP rtspDESCRIAgent: ./testRTSB8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp://1*oVideoTest/ RTSP/1.0
+CSeq: 5
+User-tRaming Media v2018: 000022B8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp
+SETp
+
+SETUP rtspDESCRIP rtspDESCRIBE rtsp://1*oVideoTest/ RTSP/1.0
+CSeq: 5
+User-tRaming Media v2018: 000022B8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp
+SETp
+
+SETUP rtspDESCRIBE rtsp
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.2 )
+Session: 000022rtsp
+SETUP rtspDESCRIAgent: ./testRTSB8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp://1*oVideoTest/ RTSP/1.0
+CSeq: 5
+User-tRaming Media v2018: 000022B8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp
+SETUP rtspDeSCRIAgent: ./testRTSPBE rtsp
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.2 )
+Session: 000022rtsp
+SETUP rtspDESCRIAgent: ./testRTSB8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp://1*oVideoTest/ RTSP/1.0
+CSeq: 5
+User-tRaming Media v2018: 000022B8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp
+SETUP rtspDeSCRIAgent: ./testRTSPClient (ia v2018.08.2 )
+Session: 000022rtsp
+SETUP rtspDESCRIAgent: ./testRTSB8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp://1*oVideoTest/ RTSP/1.0
+CSeq: 5
+User-tRaming Media v2018: 000022B8
+RangLient (LIVE55

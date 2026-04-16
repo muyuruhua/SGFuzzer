@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5PAUSEreaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transpr:to RTP/AVP;unicast;client_port=45546-45547
+Session: 000022b8
+
+PLAY rt,sp://127.0.0.1:8
+User-Ag
+UsContent-Length:tRTSPClient (LIVE467 Streaming                            %            ?edia v2010.08.28)1
+Sessivn@ 000022B8
+

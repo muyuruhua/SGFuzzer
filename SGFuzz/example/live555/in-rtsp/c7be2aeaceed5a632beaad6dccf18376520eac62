@@ -1,0 +1,31 @@
+D    ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 :treaming Media v2018.08.28)
+Accept: applicatihn/sdp
+
+SETUP rtsp://126.0X.0.1:85liveMedia32597108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Tser-Agent: ./t.0.0.1:8554/mpeg1or2AudioVP/1.0
+CSeq: 3
+User-Agent: ./testRTE85BE642SPClient (LIVE556 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unic&ast;client_port=01556-50779
+
+SETUP r tsp://127.0.0.1:8554/mpeg1or2AudioVideoTe               st/track2 RTSP/1.0v@Seq: 4
+User-Agent: ./testRTSPCliebia v2018.08.p  `__b 28).0
+CSeq: 3
+Tser-Agent: ./t.0.0.1:8554/mpeg1or2AudioVP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE556 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unic&ast;client_port=01556-50779
+
+SETUP r tsp://127.0.0.1:8554/mpeg1or2AudioVideoTe  
+S +- @`  000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.ARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://12.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127..28)
+Session: 0.0.1:8554/mpeg1orDESCRIBE2AudioVideoTest/ rtstrack

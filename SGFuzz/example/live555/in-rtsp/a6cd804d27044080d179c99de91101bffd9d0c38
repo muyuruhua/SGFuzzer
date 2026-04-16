@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audio ideoTest RTSP/1.0
+1or2Audio ideoTest RTSP/1.0
+CSeq: 2
+User-Ag/ .:enttestRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555matroskaFileTestplication/sdp
+
+SETUP rtsp://127.0.0 .:enttestRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555matroskaFileTestplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3D127.0.0.1  tosT   : application/sdmatroskaFileTesB8
+
+P.0.1:8554/mack1
+
+Te.Cami.0
+RangeequdioVideo
+User-Ag1nt: ./testRTSPCl ient (LIVE555 Streamg Media v2018Te.Ct//126.0.0.1:8554/mpeg1or2AudioVideoTes.08.28)
+Tansport: RTP/AVP;unicastt/;ctl

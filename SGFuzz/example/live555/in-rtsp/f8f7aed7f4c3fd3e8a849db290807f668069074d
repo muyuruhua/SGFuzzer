@@ -1,0 +1,13 @@
+                         <<<<8888888888888888CSeq:8888888888888888888888888 888888888888888888888888888888888888888888888888888888888888oQest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRT2PClient (LIVE555 Streaming Media                                                                      tRTSPClient (LIVVE554/mpeg1or2AudioVideoTest/tr!ck1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_xort=50778-50RTP77
+ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioTideoTest/track2 RTSContent-Length:
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;cli                        OPTIONSort=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./test.+,/<   nt (LIVE555 Streaming 55 Stre        aming Media v2 

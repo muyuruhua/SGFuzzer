@@ -1,0 +1,33 @@
+DRangeBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UseRange: npt=9estRTSPClient (LIVE110 Streaming MediaRange:  v2018.08.28Wru4cYept: application/sdp
+
+SETUP rtsp://458.0.0.1:7108/mpeg1or2AudioVideoTest/track10RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127108/mpeg1or2AudioVideoTest/track1 RTSP/1.0cept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3kU* R>gent: ./testRTSPClient (LIVE555 Streaming Media v20stRTSPClient (LIVE556 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssioContent-Length:PLAY rtsp:/client_port=45GET_PARAME ERssion: 020022B8
+deoTest RTSP/1.
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVidr2AudioVideoTest/track1 8
+Range: npt=0.000-
+0.0.1:855 ./t1:8554/ming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+
+
+TEARDOWN rtsp://VEARDOWN rtsp://127.0.0.1:855 ,./testRTSPCl0.0.1:8554/ming Media v2018.estRTSPCl0.0.1:8554/mdr2AudioVideoTest/track1 8
+Range: npt=0.000-
+0.0.1:855 ./t1:8554/ming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+
+
+TEARDOWN rtsp://VEARDOWN rtsp://127.0.0.1:855 ,./testRTSPCl0.0.1:8554/ming Media v2018.estRTSPCl0.0.1:8554/ming Media v2018.0eaming Media v2018.08.2.0.1:855 ./t1ing Media v2018.0eaming Media v2018.08.2.0.1:855 ./t1:8554*ming Media v2018.08.28)
+Sessientn@ 0SET_PARAM8
+

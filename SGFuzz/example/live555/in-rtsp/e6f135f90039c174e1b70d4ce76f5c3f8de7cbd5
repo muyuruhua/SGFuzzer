@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudqoViIdeoTest RTSP/1.0
+CSeq: 2rack2 RTSP/1.0
+CSeq: 4
+User-Agent: ./test TSPClient (LIVE555 Streaming Medi)a v2018.08.28)
+Tratsnrpo: RTP/AVP;un cast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2Audi8
+Range: npt=0.000-
+
+TEARIVE5
+Sessivn@ 000022B8
+

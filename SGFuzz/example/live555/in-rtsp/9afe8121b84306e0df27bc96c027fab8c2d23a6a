@@ -1,0 +1,15 @@
+DUser-AgentESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent3
+User-Agent: ./test    RTSPClient (LIVE555 Streaming Media v2018.08.28)
+Tra?sport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-AgenContent-Length:ient (LIVE555 Streaming Media v9461.08.28)
+Trans)
+Transport: RTPIA.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./V                                                              P;unicast;client_port=45GET_PARAM0022B8on: 000022B8
+
+PLAYwebmFileTest0.0.1:8554/mpeg1or2AudioVideoTes

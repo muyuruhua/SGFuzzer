@@ -1,0 +1,6 @@
+D    ESCRIBE rtsp://127wavAudioTest.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 :treaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0X.0.1:85liveMedia32597554/mpeg1or2AudioVig1orDESCRIBE2AudioVideoTest/ rtstrack

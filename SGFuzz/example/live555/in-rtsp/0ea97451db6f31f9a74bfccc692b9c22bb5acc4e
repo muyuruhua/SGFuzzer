@@ -1,0 +1,29 @@
+D       8vtsp://127.0.0.1:8554/mpeg1or2stSt=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022TransportCSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE111 St8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMedia755314(LIVE555 StrContent-Length:eaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq:! 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;uni  st;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESCRIBE rtsp://123.0.0.1:8554/mpeg1or2IudioVideoTest RTSP/1.0
+CSqU:         gent: ./testRTSPClient (LIVE555 Streaming udioVideoTest RTSP/1.0
+CSqU:         gen4^      t: ./testRTSPClient (LIVE555 Streaming MediaVP;unicest;client_port=25389-50779
+
+SETUP rtsp://127.0.PCliContent-Length:reaming Media v6063.0DESC                     six8.28)
+Transport: RTPTIAVP;unicast;cli-playNow:on:ent_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp:// 000022B8
+
+127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CZeq: 5
+User-Age E_QP stRTSPCly           enit (LIVE555 Stream?ng Media v2018.08.28)
+Se

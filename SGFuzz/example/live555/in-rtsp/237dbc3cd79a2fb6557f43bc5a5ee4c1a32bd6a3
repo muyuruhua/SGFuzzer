@@ -1,0 +1,18 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClieContent-Length:nt (LIVE555 Streaming Media v2018.08.28)
+Accept: apulicationAVPp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClie000-
+
+TEARDOWN rtsp://127.0.0.1:8554/m
+BSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+S ]ession: 000022B8
+Range:   BOQOY0-
+
+TEARDO127.0.0.1/127.0.0.1:8554/mpeg1or2AudioVtestt: ./tertRTSPCl ni(etLIVE5
+Ses://128.0.0.1:8554/m Streaming MedieoTest/Cseq RTSP/1.0
+CSe 

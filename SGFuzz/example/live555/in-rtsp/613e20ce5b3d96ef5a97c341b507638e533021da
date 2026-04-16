@@ -1,0 +1,22 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 1
+User-Agent: ./tia v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://128.0.5.1:8554/mpeg1or2AudioVideoTte/str.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/           1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Media v1009.08.28)
+Session: 000002B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mreg1or                                          2Au33333d00002deoTest/ RTSP/1.0
+CSeq: 6
+User-9  eaming Media v1009.08.28)
+Session: 000002B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mreg1or                                          2Au33333d00002deoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTS    PClient (LIVE555 S5 Streaming M0779
+
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.033333333333333333334r2n3334r2nt

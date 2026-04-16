@@ -1,0 +1,27 @@
+z]#      1.0
+CSeq: 2
+User-Agent:         
+SETUP rtsp://458.]0.0.1:8554/mpeg1or02AudioVideoTest/track1 RTSP/1.0
+   $CSeq: 3
+User-Agent: ./testRTSPhSchhhhhst;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track4 RTSP/1.0
+CSeq: 4
+User-
+
+PLAY rtsp:022B8
+
+PLAY rtsp://127.0.0.1:855                                        CSeq:            ./testRTSPClient (LIVE555 Streaming Media v2018.08.DESCRIBE  rtsp://127.0.0.1:8             554/mpeg1or2AudioVideoTest RwebmFileTestTSP/1.0
+/sdp
+
+SETUP rtsp://458.]0.0.1:8554/mpeg1or02AudioVideoTest/track1 RTSP/1.0
+   $CSeq: 3
+User-Agent: ./testRTSPhSchhhhhst;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track4 RTSP/1.0
+CSeq: 4
+User-
+
+PLAY rtsp:022B8
+
+PLAY rtsp://127.0.0.1:8554/mper-Ageneg1ot: r.

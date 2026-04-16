@@ -1,0 +1,151 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media   : application/sdmatroskaFileTesB8
+
+P.0.1:8554/mack1
+
+Te.Cami.0
+CdeosequdioVideoTe.Ct//127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 TRSP/1.00779
+
+SETaming Media v2018.08
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.2rrrrrrrrr8)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+P.0.1:8554/mack1
+
+Te.Cami.0
+Cdeosequ018.08.28)
+SessionVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+P.0.1:8554/mack1
+
+Te.Cami.0
+CdeosequdioVideoTe.C  v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v1009.08.28)
+Transport: RTP/AVP;unicast;client_port=46GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0.0.1:        8554/m Strea*ing MedieoTest/ RTSP/1.0
+GSe

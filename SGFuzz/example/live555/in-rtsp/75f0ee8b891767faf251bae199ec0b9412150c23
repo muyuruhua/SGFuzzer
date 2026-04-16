@@ -1,0 +1,27 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agentnt: ./tesuRTSPClient (LIac3AudioTesting Media v201'''''''''''''''''''''''''''''''''''''''''''8.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (IIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.055 Strest;aming Media v2018.08.28)
+Accept: application/sdp
+
+: ./testRTSPClient (LIac3AudioTesting Media v201'''''''''''''''''''''''''''''''''''''''''''8.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (IIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.055 Strest;aming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpTCPor2AudioVideoTest/track1 RTSP/1.0: 000022OPTIONSBwavAudioTest8
+
+PLAY rt  EPPNMG.0.0.1:8554/mpeg1or2AudioVideoR4/mpeg1or2AudioVideoRange: npt=9Test/ RTSP/1 rtsp://

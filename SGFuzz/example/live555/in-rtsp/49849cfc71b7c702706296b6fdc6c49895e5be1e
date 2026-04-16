@@ -1,0 +1,14 @@
+DRange: npt=0.0012TP/AVP;unicast;client_port=45546-45Transport547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq
+:  User-Agent: ./testRTSPClient (LIVE555 Streaming M: RVTAP/nu;Picast;client_port=507-0758S
+28)
+Accept:                         apppI  lication/sdIONSB8Scale:           ://2nt

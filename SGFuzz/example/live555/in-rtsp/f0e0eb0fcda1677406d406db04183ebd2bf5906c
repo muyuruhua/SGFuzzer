@@ -1,0 +1,22 @@
+DESCRIBE rtsg Media v20stRTSPClient (LBIVE555 Streaming Media v2018.08.28est/ RTSP/1.0
+CSeq: 6
+User-Agent: ./te{tRTSPClient (LIVE555 SDDESCRIBEESCRIBE rtsp://127.0.0.1:85trea54/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-egent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0 .28)
+Transport: RTP/AVP;unicast;clien    BJ0778-50779                        
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioTideoTest/track2 RTSP/1.0
+CSeq: 4
+Userpeg1or2AudE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTeming Media v2018.08.28)
+Sest/ RTSP/1.0
+CSeq: 3
+Usession: 000022Br-8Ag

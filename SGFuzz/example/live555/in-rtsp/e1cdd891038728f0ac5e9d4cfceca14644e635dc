@@ -1,0 +1,21 @@
+DESIBREC rtsp://127.0Cseq:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testR rtsp://063.0.0.1:8554/mpeg1or2Audication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 3
+User-Agent: ./testunicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 4
+8.:8)
+Transport: RTP/AVP;unicast;client_port=50778-5077LIVE555 Streaming Media v2018.08.28                                                      V                                                                )
+Session: 000022B8
+Range: npt=0.000-
+ (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.:18554/mpeg1or2AUser-Agent: ./testRTSPClien t (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP018L08.2DESCDE]: ./teKRKBE

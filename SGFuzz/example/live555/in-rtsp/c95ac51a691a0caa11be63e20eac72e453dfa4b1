@@ -1,0 +1,2 @@
+z t RTSPD   'IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2User     9' ./testRTSPClient (LIVE55/15 

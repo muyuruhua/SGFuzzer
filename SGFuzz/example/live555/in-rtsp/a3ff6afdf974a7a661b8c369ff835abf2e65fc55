@@ -1,0 +1,22 @@
+DScale:ESCRIBE rtsp://127.0.0551.84:/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE55r-Ag%nt|   testRTSPClient (LIVEIVE555 Streaming Media v2018.08.68)
+Transxort: RTP/AVP;unicast;client_pOPTIONS46-455
+
+SETUP rtsp://9JLQO.0.1:8554/mpeg1or2AudioVideAcceptoTest/tPLAYrack2 P/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient  LIVE555r=0.000-
+
+TEARDOWN rtsp:6/127.0.0.1 Streaming Media v201     8.08                                                      .28)
+Transport: RTP/AVP;unicast;client_port=45546-4554A
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RP0/.T1S
+CSeq: 5
+User-(gent: ./testRTSPClient (LIVE555 StreamPAUSEing Media SET_PARAMETERv2JNGQ____8)
+Session: 000022B8
+Range: npt=5.000-
+
+TEARDOamilg Media v2018.00.28)
+Sessivn@ 000022B9
+

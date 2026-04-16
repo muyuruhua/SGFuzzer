@@ -1,0 +1,10 @@
+z t RT#       /sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test!RTS4/mpeg1or2AudioVide                                                                                                                 oTest/tCSeq:rack1 RTSP/1icast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://12cept: application/sdp
+zzzzzzzzzzzz:z.1.1:8554/mpe N 2AudioVideoRange: npt=9Testj
+      .0
+CSe

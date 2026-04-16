@@ -1,0 +1,25 @@
+DTEARDOWNrtsp://127.0.0.1:8554/mpeg1or2AudioVhdeoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Strmaming st;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+UUser-Agenteq: 5
+User-Agent: ./tVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: .t/estRTSP    Client (LIVEestRTSPClie ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;clqent_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSP    Client (LIVE555 Streaming Media v2018.08.28)
+Session: 00002Range: npt=9npt=0.000-
+
+TEARDOWN rtsp://        1:8554/mpeg1or2AudioVtestt: ./testRTSPCl ni(etLIVE5
+Sessivn@ 000022B8
+

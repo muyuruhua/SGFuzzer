@@ -1,0 +1,12 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming oVideoTest/track1 RTSP/1. 0
+CSeq: 3
+User-Agent: ./teN     rtsp://127.0 7.0.0.1:8554/mpeg1oast;clien04.28)2018.08.Content-127.0.0.1022B8
+Range: npt=0.8.Content-Length:00022B8
+Ran: genpt=0.000-
+
+TEARDOWN     rtsp://127.0.0.1:8554/mpeg1or2AudioVidContenN                           t-Length:0
+CSeq: 6
+User-Agent: ./GET_PARAMETERtest: 0 ./tes8
+

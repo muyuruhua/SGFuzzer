@@ -1,0 +1,33 @@
+DPLAYESCRIBE rtsp //127.0.0.1:8554/mpeg1or2AudioVideoDest RTSP/1.0
+CSeq: 0
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicao+      
+
+SETUP rtsp://f(7.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTQ/AVP;unicast;client_port=50778-50778)
+Session: 000022B8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.2 )
+Session: 000022rtsp
+SETUP rtspDESCRIAgent: ./testRTSB8
+Ranpt=9        V22 8 
+DSETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSP>lient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B
+naR8ge:sdp
+
+SETUP rtspDESCRIBE rtsp
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agen]: ./testRTSPClient (LIV5EtS5 5remMignge:sdp
+
+SETUP rtspDESCRIBE rtsp://1*oVideoTest/ RTSP/1.0
+CSeq: 5
+User-tRaming Medi

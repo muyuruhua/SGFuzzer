@@ -1,0 +1,2 @@
+status=profraw_all_zero
+zero_count=1

@@ -1,0 +1,23 @@
+D        rtsp://127.0.0.1:Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tastRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP@rtsp://127.0.PAUSE554/mpeg1
+Accept: apppI st/tr8554/a       r4AudioVideoTest RTSP/1.0
+CSD       8vtsp://127.0.0.1:8554/mpeg1or2stSP/2.0
+CSeq: 5
+User-Agent: ./testi 4
+User-Agen8.08.28)
+TransContent-Length:ientent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554$$$$$$$$$$$$$$$/mpeg1or2AudioVideoTest/track1 (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/0.0Seq: 2
+User-Agen RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTwavAudioTestVE555 Streat: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Amingudio V

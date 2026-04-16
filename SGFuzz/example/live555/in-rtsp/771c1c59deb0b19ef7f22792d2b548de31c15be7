@@ -1,0 +1,12 @@
+DR8553/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClieft (LIVE554 Streaming Media v20stRTSPClie~t (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMEuuuuuuuuuuac3AudioTestuuuuuuuuuuuTERssioConte.08.28)
+Transport: RPT/AVP;unica90GET_PARAMETERssion: 000022B8
+ 
+PLAY rtzp://127.0.0.-:855/4mpdg1or2AudioVideoTest/ RTSP/1.0
+CSeq`: 5bUser-?gent: ./testRTSPClient (LIVE555 Streaming Medh av2018.08.28!
+Session: 00002B28
+Range: npt=0.000lient (LIVE555 ztreaming Media v20IVE555 Streaming Aedia v2018.0-
+
+ EAR?OWtestRTSPClient (LIVE555St reaming Aedia v2018.08.)8
+2Session: 00002

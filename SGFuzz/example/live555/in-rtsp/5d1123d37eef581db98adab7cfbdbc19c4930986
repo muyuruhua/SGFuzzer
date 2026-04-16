@@ -1,0 +1,21 @@
+DScale:E rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes  t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v1009.08.28)
+Accept: application/sdt
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-       /testRTSPCliegent: ./testRTSPClient (LIVE554 Streaming Media v2018.08.28)-
+Transport: RTP/AVP;unicaSt;client_port=45
+Session:z000022B8
+Range: npt=0.000        CseqRDOWN rtsp://529.0.0.1:8554/mpeg1or2AudoeViidoTest/ RTSP/1.0
+CSeq: 6
+Uers-ASPCliegen Streaming Media v2018.08.28)
+Session:z00002dioVideoTest RTSP/1.0est/ RTSP/1.0
+CSeq: 5
+User-Agent:                           Streaming Media v2018.08.28)
+S2B8
+Range: npt=0.000-
+
+TEACseqRDOWN rtsp://529.0.0.1ession: 000022B8
+Range: npt=0.00:8554/0m

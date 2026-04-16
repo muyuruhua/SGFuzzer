@@ -1,0 +1,13 @@
+D    SATUP WN tsper-Agent: ./testRTSPClieOPTIONSE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+SessOion:20000 2B8Media v1009.0Accept8.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSiPleCnt (LIVE555 Streaming M: RTP/AVP;unicast;client_pContent-Length:8)
+Accept: apppI  lication/sdp
+
+SETUP unic://2nt

@@ -1,0 +1,17 @@
+DwavAudioTest://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0507 8-50779
+
+SEtUP rtsp://126.0.0.1:8554/mpeg1or2Au                             dioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-AgenContent-Length:ient (LIV>555 Streami/mpeg1or2AudioVideoTest/track2 RTSP/1.1
+CSeq: 4
+User-AgenContent-Length./testRTSPClient (LIVE555 StreamiRRRRRRRRRRRRRRRng Media v2018.08.28)
+:ient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_por       lPARAMETERssion: 000022B8
+iendia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideming Media v2018.08.28)
+Transport: RTPIAVP;uni  st;client_port=90GET_PARAMETERssion: 000022B8
+iendia v2012B8
+

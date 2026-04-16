@@ -1,0 +1,26 @@
+D       8vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-Agen8.08.28)
+TransContest-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554matro                            %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    =                            Cseq dioVideoTest RTSP/1.0
+CSeq:z2
+Use-rAgent: ./testRTSPClient (LIVE555 Streamin Megdia v2018.08.28)
+Accept> ap                  /mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Stre  )
+Transport: RTP/AVP;unicast;client_port=5ransport: RTP/AVP;unicast;client_npt=9aming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Acce  zRapplication/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 0022B8
+
+PLAY rtsp:/oRange:/127.0.0.1:8554/mpeg1or2AudioVideoTes00022TransportB8
+
+PLAY rtsp://127.0.  / 8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (Lt/ IVE110 StRT855

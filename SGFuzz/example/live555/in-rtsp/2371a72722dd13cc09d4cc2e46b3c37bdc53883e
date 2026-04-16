@@ -1,0 +1,19 @@
+D        rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-A gent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTS      B?PClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+4
+User-AgenContent-Length:ient (LIVE555 Streaming Mediga v2018.08.28)
+Tra
+SETUP rtsp://254.0.0.1:8554/mpeg1or2AudioVideoFest/track2 RTSP/1.0
+CSeq: 4
+User-AgenContent-Length:ient (LIVE555 Streaming Mediga v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PGET_PARAMETER: 08.z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCli28)
+Session: 0000e2nt2

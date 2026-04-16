@@ -1,0 +1,5 @@
+DwebmFileTest        Egent: ./testRTSPClient (LIVE555 Streamicasting Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeSETUDSA~   TUP WN tsp:/DESCRIBE.1:8554/mpeg1or2AudioVideoTest RPTSP/1 rtsp://.      

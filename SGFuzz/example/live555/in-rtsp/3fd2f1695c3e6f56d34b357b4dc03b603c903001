@@ -1,0 +1,14 @@
+z      Mu1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE556 Streaming Media v1.0
+CSeq: 4
+User-AgenContent-cationAVPp
+
+SETUP rtsp://127.0.0.1:8554/mpSETUP AudioVideoTest/track1  RTSP/1.0
+CSeq: 3
+User00022B8(PLAYLIVE555 Streaming Media v2018.08.28)
+Transport:           Content-Length:     ZTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1o M>
+/127.0.0.1:8554/mpeg1o M>
+  - ngePioVideoCliTeen

@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVidenTe'st RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media 55 Streaming Media v201=.08.28)
+Trorspnta0022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2Audio  s oTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming M`dia v201MQ08.28)
+Session:RanGe: npt=0.000-
+
+TEARDOWN rtsp://n: 00002C:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: 8)
+Session: 000022B8
+

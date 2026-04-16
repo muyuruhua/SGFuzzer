@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127.0.01:.8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2eq: 2
+User-Agent: ./testRT[PClient (LIV                                                                                                                    E554 Streaming Media v201DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Au8.08.28)
+Accept: application/sdp
+
+SETUP rtsp:dio/

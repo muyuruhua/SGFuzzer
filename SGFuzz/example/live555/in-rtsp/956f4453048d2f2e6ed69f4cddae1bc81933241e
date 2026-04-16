@@ -1,0 +1,35 @@
+D       YRangeESCRIBE rtsp://127.0.0.1:8554/lication/sdp
+
+SETUP rtsp://127.0.0.1:8553/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClient (LIVE554 Streaming Media v20stRTSPClientL (IVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=4Transport5GET_PARAMETERssio20IVE555 StreamContent-Length:PLAY rtsp:/client_port=90GET_PARAMETERssion: 000022B8
+ 
+PLAY rtsp://127.0.0.1:855/4mpeg1or2AudRTPideoTest/ RTSP/1.0
+CSeq: 5bUser-Agent: ./testRTSPClient (LIVE555 Streaming Medi avDESCRIBE vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./tes2018.08.28!
+Session: 00002B28
+Range: npt=0.000ti 4
+User-AgenCnntent-Length:ient (LIVE555 St7554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2Us
+er-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:85H4/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: sion: 000022B8
+
+PLAY rtsp2//127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTS8
+
+SETUP rtsp://127.0.0.1:8554/mpeg6or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-AgenContent-Length:ient (L St8554/mpeg1or2Aud#oVideoTest RTlient (LIVE555 Streaming Mediau v20IVE555 Streaming Aedia v2018.0-
+
+ EARDOWtestRTSPClient (LIVE555 Streamzing Aedia v2018.08.)8
+2SessiSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVon: 00E555 Streaming Media v2    08.280)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpe02g

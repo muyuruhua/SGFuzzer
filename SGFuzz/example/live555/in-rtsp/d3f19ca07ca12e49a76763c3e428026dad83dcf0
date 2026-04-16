@@ -1,0 +1,11 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audiocep   aContent-Length:
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVide$Test/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transp'rt: BTP/CVP;unicast;client_port=45546-45547
+Session: DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient000022b8
+
+PLAY (LIVE55 r5 Strtsepa

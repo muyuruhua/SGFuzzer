@@ -1,0 +1,39 @@
+DSET_PARAMETERESCRIBE rtsp://127.0.0.1:8554/mpeg1orPAUSE2AudioVldent: ./testRTSPClient (DESCRIBE rtsp://127.0.0555 Streaming Media v2018.08.28)
+1ccept: appl   ioRTPn/sdp
+
+SETUP rtsp://109.0.0.1:8554/mpeg1or2Audi55 Streaming MediaRTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Sigmtenra Media v2018.08.28)
+Transport: RTP/AVP;unicast;clien_rtpt/=50778-50779
+
+SETUP rtsp://127.0.PAUSE554/mpeg1or2AudioVideoLIVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent/e:t. stRTSPClient (LIVE528)
+Transport.28)
+Transport: RTP/H)/D
+   ast;client_port=45547-45547
+SessioTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: 
+
+SETUP rtsp:/sp://127.0.0.1             stRT5 Streaming Medi3333333333333333333333t=0.000-
+
+TEARDOWNSET_PARAMETER.0.1:8554/mpeg1or08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDn: 0OWNSET_PARAMETER00022B8
+
+PLAY rtsp://127.0.0.1:85`54/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5 
+User-Agent: ./testRTSPClient.0.1:?8554/mpeg1or2An: 000 (LIVE555 Streamjng Media v1009.08.28)
+Ses$ni:os000022B009.08.28)
+Ses$ni:os000022B8
+naRangegRe: npt=0.000-
+
+TEAR011BSETU8
+P0
+0

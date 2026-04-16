@@ -1,0 +1,18 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1 M>
+   VideoTest RTSP/1.0
+CSeSETU  BE r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wavAudioTest R                                                                TSP/1.0
+CSeq:ac3AudioTest 5
+User-Agent: ./testRTSPClient (L27)
+Accept: application/sdpclient_port=4MGET_PARAMETERssion: 000288B8
+
+PLAY rtsp://128.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: webmFileTestient (LIVE960 StAVPreaming Media v2018Scale:.08.28)
+Session: 000022B8
+Range: npt=5.000-
+
+TEARDO v2018.08.28)
+Acca v2port=50077188.0h

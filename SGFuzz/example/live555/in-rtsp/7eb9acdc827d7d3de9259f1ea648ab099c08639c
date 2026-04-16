@@ -1,0 +1,8 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20peg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AgematroskaFileTestnt: ./testRTSPCl
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVtestt: ./testRTSPCl ni(etL/1.0
+Sessivn@ 000022B8
+

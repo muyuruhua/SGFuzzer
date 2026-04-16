@@ -1,0 +1,6 @@
+cast;cli.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 S*treaming /sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 R//127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTDSATUP WN tsSP/1.0
+p://CS1

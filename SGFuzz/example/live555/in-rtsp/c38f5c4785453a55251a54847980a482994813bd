@@ -1,0 +1,38 @@
+DTEARDOWNrtsp://127.0.0.1:8554/mpeg1or2AudioVidSessivn@ 000379Content-Length:
+CSeq: 2
+User-Agent: ./testRTSPClient (LIt: ./testRTSPClient (LIVE5$5 Streaming Media v2018.08.28)
+Accept: ap<<: 0000228b
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AgentRange: npt=9: ./testRTSPClient (LIVE155 Streaming Media v2018.08.28)
+Sess~ion: 000221B8
+Ran<<<<<<<<<<<<<<<<<<<<<<2018.08.28)1
+Sessivn@ 000370deoTest/ RTSP/1.0
+CSeq: 5AVP;unicast;client_port=45546-45547
+Session: 0000228b
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AgentRange: npt=9:127.0.0.1:8554/mpeg1or2AudioVidSessivn@ 000379Content-LengtAVP;unicast;client_port=45546-45547
+Session: 0000228b
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AgentRange: npt=9:127.0.0.1:8554/mpeg1or2AudioVidSessivn@ 000379Content-Length:
+CSeq: 2
+User-Agent: ./testRTSPClient (LIt: ./testRTSPClient (LIVE5$5 Streaming Media v2018.08.28)
+Accept: ap<<018.08.28)1
+Sessivn@ 000370deoTest/ RTSP/1.0
+CSeq: 5AVP;unicast;client_port=45546-45547
+Session: 0000228b
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AgentRange: npt=9: ./testRTSPClient (LIVE155 Streaming Media v2018.08.28)
+Session: 000221B8
+Ran<< ./testRTSPClient (LIVE155 Streaming Media v2018.08.28)
+Session: 000221B8
+Ran<<<<<<<<<<<<<<<<<<<<<<2018.08.28)1
+Sessivn@ 000379B8
+

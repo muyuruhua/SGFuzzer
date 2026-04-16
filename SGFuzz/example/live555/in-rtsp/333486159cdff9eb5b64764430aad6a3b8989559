@@ -1,0 +1,8 @@
+D      ^ ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTUser-AgentLIVE110 Streaming Media v2018.08.28)
+Accept: apClient (LIV?27           Content-Length:    	J08.28)2018.08.28)
+Session: 000022B8
+Range: npt=0.0.0.1:8554/mpeg1or2AudioVidContenN           t (LIVE55509.28)rt.28)n
+Tr00022B8
+

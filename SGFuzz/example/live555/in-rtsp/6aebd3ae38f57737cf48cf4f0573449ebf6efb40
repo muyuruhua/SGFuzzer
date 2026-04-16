@@ -1,0 +1,19 @@
+D    ESCR*IBE rtsp://127*IBE rtsp://127.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.23)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTansport: RTP/AVP;ustdinnicast;client_port=45546-455dp
+
+SETUP rAudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Wransptort: RTPx-playNow:/AVP;uni
+.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0/sdp
+
+SETUP rtsp://127.0.0.1:8554/Rangempeg1or                                                                                                              2AudioVideoTest/track1 RTSP/1.0                                              
+CSeq: 3
+User-Agent: ./testRTSPClientETUP rAudioVideoTesnt: ./testRTSPClient (LIV                                                 E v2 Streaming Medi$ v20estRTSPClient (LIV                                                 E555 Streaming Medi$ v2018.,8.28TEARDOWNport: R Px-playNow:/AVP;uni
+

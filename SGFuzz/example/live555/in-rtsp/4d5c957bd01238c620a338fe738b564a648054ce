@@ -1,0 +1,14 @@
+D        rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2TUP rtsp://127.0.0.1:8554/mpeg1or2AudyoVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent::::::: ./testRTSPClient (LIVE555 StreXmin   ./liveMed/sd8.28N
+Transport: RTP/AVP;uni`ast;client_port=50778-50779
+
+SERTP rtsp://127.0.0.1:8554/mpeg1or2A~dioVideoTest/track2 RTSP/1.0
+CSeq: 4
+UseAY rtsp://127.0.0.1:?8554/mpeg1or2AudioVideoTest/ 0   /1.0
+CSeq:																																																					t: ./liveMed/sdContent-Length_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESC                     six-playNow:on: 000/testRTSPClient (LIVE555 St#eaminSession:v2018.08.28 DESCRIBEn: 000022B8
+

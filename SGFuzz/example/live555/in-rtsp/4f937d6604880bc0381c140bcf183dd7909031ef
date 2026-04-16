@@ -1,0 +1,21 @@
+SET_PARAMETERDESCRIBE rtsAccept7.0.0.1:8554/mpeg1ov2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 StreawebmFileTest2018.08.28)
+Ac ept:!pil pcation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVieeoTest/track1 RZSP/1.0
+CSeq: 3
+User-Agent: ./t0.0.1:8554/mpeg1or2AudioVideoTest/track1 RZSP/1.0
+CSeq: 3
+User-Agent: ./test&T
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.081or2Au
+User-Agent: .eoTfst 7+SP/1.0/testRTSPClient (LIVE555 StrePAUSEaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDO[[[[[[[[[[[WN rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

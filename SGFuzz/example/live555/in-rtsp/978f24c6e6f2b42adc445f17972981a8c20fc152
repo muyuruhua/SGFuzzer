@@ -1,0 +1,14 @@
+DESCRIBE DESCRIrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: s
+U2er-AgenBE rtsp://127.0.0.1:8554/mpeedia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.100022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2Audioaming Media v2018.08.28/
+Accept: application/sdp
+
+SETUP rtsp://127.0.t: 8554/mpeg1or2Audioaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.t: .0/te.

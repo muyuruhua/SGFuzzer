@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audio ideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: applic\tion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/trTCPack1 RTSP/1.0
+CSeq: 3
+User-Agent: .  `@    /testRTSPClient (LIVE5 5 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GtrTCPack1 RTSP/1.0
+CSeq: 3
+User-Agent: .  `@    /testRTSPClient (LIVE5 5 Streamg Media v2018.08.r2AudioVideoTent: ./testRTSPClient (LIVE555 Streamg Media v2018.08.24)
+Transport:ng Media v2018.08.28)
+Sesion: 000022B8
+
+PLAY rt
+

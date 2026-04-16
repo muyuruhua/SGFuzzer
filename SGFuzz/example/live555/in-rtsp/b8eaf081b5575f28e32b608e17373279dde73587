@@ -1,0 +1,37 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Me27.0.0.1:ation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+977
+ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioTideoTest/track2 RTSContent-Length:
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;cliedia v2018.08.28)
+Accept:nt: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transpoeq: 4
+User-Agent: .@t application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1                 RTSP/1.0
+CSeq: 3
+Us127.0.0.1 ./testRTSPClient (LIVE55            Doac3AudioTest  5 Streaming Meditsp://12 tsp://127.0.0.1:85Range54/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testGET_PARAMET: 2
+User-Agent: n/testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: appliC1<cation/sdp
+
+SETUP rtsp://127.0.0.1:EJJKP   g1or2AudUser-Agent/mpeg2or2AudioVideoTest/track2 R]SP/1.0
+CSeq: 4
+U Stemirang Media v2018.a v127.0.0.18)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rts00022B8
+Range: npt=08.280.000DESCR-
+
+IB)
+Transp rt: RTPIAVP;unica
+U Stemirang Media v2018.08.28)E TEAR
+Transport: RTPI: 3
+Userr-Qgent: ./testRTSPCl

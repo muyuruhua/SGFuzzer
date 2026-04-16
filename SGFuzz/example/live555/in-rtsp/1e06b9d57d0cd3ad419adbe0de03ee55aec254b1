@@ -1,0 +1,5 @@
+DRTPESCRIBDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTeeg1or2AudioVideoTest RTSP/0.0
+CSeq: 4
+st RTSP/0.0
+CSeq: 4
+E rtsp

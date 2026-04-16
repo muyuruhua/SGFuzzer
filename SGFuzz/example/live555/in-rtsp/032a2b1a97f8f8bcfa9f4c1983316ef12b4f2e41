@@ -1,0 +1,25 @@
+DGET_PARAMETER//127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTwebmFileTestVE555 StreaminAg Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://574.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Straaming Media %v127.0.0.18)
+Transport: RTP.AVP;uni	   cast;client_port=36176-50779
+
+SETU                  CSeq: t
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User Streaming RTSP/1.0018.08.28)
+Session: 000022B8matroska23B8
+
+PLAY rtsp:CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Straaming Media %v127.0.0.18)
+Transport: RTP.AVP;untrack2 RTSP/1.0
+webmFileTestCSeq        : ;
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicaTEARr

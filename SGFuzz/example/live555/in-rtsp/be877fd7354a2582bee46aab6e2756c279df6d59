@@ -1,0 +1,10 @@
+DESCRIBE rtsp://1      UM27.0.0.1#:8554/mpeg1or3AudioVi-Agent:;unicast;client_povt=5AMETERssion: 000022B8
+
+PLAY rtsp://127.0RTP779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE286 StRTCCCCCCCstRTSPClient (LIVE555 Streaming Media v2018.08.28!
+SestRTSPClisnt stRTSPCl(LIVE554 Streaming Media v2018.08.28)
+Session: 000022B8
+

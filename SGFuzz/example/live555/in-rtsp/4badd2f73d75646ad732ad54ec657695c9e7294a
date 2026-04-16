@@ -1,0 +1,19 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AgentGET_PARAMETER: ./testRTSPClient (LIVE277 Strea8)
+Session:                                                          5077 9
+TES
+UP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streamig edniaM v2018.08.28)
+TrawebmFileTestAVP;unicast;client_port=45GET_PerA21goudioVideo      B?TestARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:85u4/mperA21goudioVideo      B?Test/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Strea://127.0.0.1:8554/mperA21goudioVideo      B?Test/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2036.08Media vTEARDOWN28)
+Session:                        000022B8                                            000022B8
+

@@ -1,0 +1,35 @@
+zns*po Ot RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v40s6.08.28)
+Accept: applicatipn/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.ns*po Ot RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v40s6.08.28)
+Accept: applicatipn/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: .~testRTSPClient (LIVE972 Streaming Media v2018.08.2port: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTTSP/1.0
+CSeq: 4
+User-Agent:/. testRTSPClient 0LIVE555 1.0
+CSeq: 5
+BEg Media v2018.08.28)
+Transport: RTP/AVP;unicast;ctes0
+CSeq: 3
+User-Agent: .~testRTSPClient (LIVE972 Streaming Media v2018.08.2port: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTTSP/1.0
+CSeq: 4
+User-Agent:/. testRTSPClient 0LIVE555 1.0
+CSeq: 5
+BEg Media v2018.08.28)
+Transport: RTP/AVP;unicast;ctest.lient_prto=45GET_PARAMETERange: npt=922OPTIONSB8
+TCP
+PLAY rtsp://128..00.1E8554/mpeg1or8554/mpee1or2Audi oVideoRange: n]pt=92AudioVideoRange: npt=9Te        /1.0

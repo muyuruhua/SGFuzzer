@@ -1,0 +1,15 @@
+D      r CSeq:ESCRIBE rts EPPNMHQ0.0.1:8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testETSPClient (LIVE555 Streaming MediaAv2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+AVPSETz teRTSP/1.0
+CSeq: 2
+User-Agent: ./teUP rtsp://127.0.0.1:8554/mkstRTSPClient (LIVE555 Streaming Media v20    8.28)GET_PArAMETERlication/sdp
+
+SETUP rteg1orsp:3Audi/oVideoT/12est/t7

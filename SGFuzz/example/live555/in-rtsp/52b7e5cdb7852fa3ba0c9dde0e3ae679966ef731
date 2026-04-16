@@ -1,0 +1,26 @@
+z       n1.0
+CSeq: 2User-Agentt: ./testRTSPClient (LIVE555   Seatmring Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming z FGf    Er   Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-79228
+
+SETUP rtsp://128)
+Accept: application/sd/1..ort=50778-0POOD2B8
+Acce
+CSeq: 3
+matroskaFileng z FGf    Er   Media v2018.08.28)
+Transport: RTP/AVP~/  ;unicast;cl ient_port=50778-79228
+
+SETUP rts        
+Accept: application/sd/1..ort=50778-0POOD2B8
+Acce
+CSeq: 3
+matro!skaFileT2    08.28)
+AcceSc: application/sdp
+
+DESCRIBE rtsDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UseeststRTSPClient (LYVE555 Streamingor2AudioVideoRange: npt=9TesSET44444444444_PARAMETERCSe

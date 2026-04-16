@@ -1,0 +1,30 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioViI
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track0 RTSP/1.0
+CSeq: 4
+User-Agent: ./test TSPClient (LIVE555 Stre RTSP/1.0
+CSeq: 5
+URange: npt=9/testRTSPClRDOWNtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Trorspnta: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVERange555 Streaming Media v2018.08.28)
+Transport:                        z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/m                          peg0or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClienient (LIVE555 S         treaming Media v2018.08.28)
+SessiwavAudioTest
+Range: npt=0.000-
+
+TEARDORWN rtsp://127.0.0.i1:8554/mpeg1orPAUSE2Audi8
+Range: npt=0.000-
+
+TEARIVE5
+Sessivn@ 000022B8
+

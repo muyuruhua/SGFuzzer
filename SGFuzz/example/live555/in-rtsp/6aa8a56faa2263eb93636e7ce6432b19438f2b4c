@@ -1,0 +1,7 @@
+DAcceptESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioViAdeoTest RTSP/1.0
+CS q: 2
+User-Agent: ./testRTSPClie _WRange: npt=936)C555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.185:54/mpeg1or2AioVideoTest RTSP/1.0
+CSeq: udioVideoTest/trac2k1 R

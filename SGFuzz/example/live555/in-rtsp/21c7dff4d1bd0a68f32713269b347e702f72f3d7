@@ -1,0 +1,20 @@
+D     ~ NESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVide?????????????oTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StreaminStreaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=25389-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2x-playNow: RTSP/1.0
+CSen: 4
+Cseq-Agent: ./testRTSPClient (LIVE554 Streaming Med: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555eStr555 Streamia v2018.08.28)
+ession: 000022B8
+

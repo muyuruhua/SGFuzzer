@@ -1,0 +1,43 @@
+DV-  IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agunt: ./testRTSPClient (RIVE277 Streaming Media v127.0.0.18)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp:/ 127.0.G.1:8554/mpeg1or2AudioVideoTest/track2 RTSD Y      ESAVPBE rtsp://127.0.0. v2018.08.28)
+Session: 000022B8
+RangOPTION-OQOOORP/1.0
+CSeq: 4
+User-Agent: ./tudioVideoTest RTSP/1.0-C|
+
+
+
+TEARDOWN rtsp://TEARDOWN rtsp://127.0.0.1:825 ./t1:8554/ming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+
+
+TEARDOWN rtsp://TEARDOWN rtv2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+
+
+TEAARDOWN rtsp://TEARDOWN rtsp://127.0.0.1:855 ./t M)edia v2018.08.28)
+Session: 000022B8
+Range: Seq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.npt=0.000-
+
+
+
+TEARDOWN rtsp://TEARDOWN rtsp://127.008.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq:.0.1:85 3
+Use5 .r

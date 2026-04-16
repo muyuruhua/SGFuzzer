@@ -1,0 +1,12 @@
+Dq: 6
+UsESCRIBE vtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C  (  2
+User-Agentrt: RTPIAVP;unigast;client_port=45GET_PARAMETERssion: 000022B8.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C  (  2
+User-Agentrt: R
+SETUP rtsp://063.0.0.1:85 RTSCCESDo    udioTestP4/mpeg1or2AudioVideoRange: npt=9Test/ TPIAVP;unigast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTS9
+
+SETt (LYVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;clie

@@ -1,0 +1,11 @@
+D        rtsp://14/mpeg1nsport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.PAxSE554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streami,g Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR Streaming Medi0022B8
+
+PLAY= rtsp://127.0.0.1:8554/mpeg0or2AudioVideoTest/ RTSP/1.0xCSeq: 5
+User-Agent: ./testRTSP Streaming Media v2018.08.28)
+Session: 000022B8
+

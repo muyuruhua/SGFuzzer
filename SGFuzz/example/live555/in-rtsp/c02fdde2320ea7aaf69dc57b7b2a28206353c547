@@ -1,0 +1,14 @@
+DliveMedia131562SATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRg2or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: x/testRTSPClient (LIVE555 Streaming Media v201TSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./ estR WSPC.lient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAB8
+
+PLAY rtsp://127!.0.0.1:8554/mpeo1or2AudioVideoTest/ RTSP8554/mpeg1or2AudioVideoTfst RTSP/0.0
+CSeq: 2
+User-Agent: ./testRT5 Streaming Medi33333333333333333333333333333333333333r2nt

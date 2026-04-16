@@ -1,0 +1,15 @@
+DK           rtsp://127,0.0.1:Media v2018.08.28)
+AcAgent: ./testRTwavAudioTestVE555 Streaming Media v20      g 18.0(.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE=54/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4estRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR Stre54/mpeg5or2AudioVideoTs/et RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCli.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes|/ RTSP/1.0
+CSeq: 6
+User-AgRTPent: ./testRTSPClientAccept555 Streaming Media v2018.08.28)
+Sess]ion: 000022B8
+

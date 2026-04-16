@@ -1,0 +1,42 @@
+DScale:E rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Us      .08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8   08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v1009.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp:/SEKUP/127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555"- Streaming Media v2018.08.28)
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCla v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDO-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sesion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes             t/ia v2AVP018.08.28)
+Transptr:o RTP/ .1/TRPS0
+CSeq: 5
+User-dia v2018.08.28)Accept    ssion: 000022B8
+Range: npt=0.00     $ cARDOWN rtsp:WN rtsp://127.0.0.1:8554/mpeg1or20.0.1:8554/mpeg1or2AudioVideoTest/track1 Rort=45%546-45547
+Session: 0000lient_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./test TSPClient (LIVE555 St:8554/mpeg1or2AudioVideoTes             t/ia v2AVP018.08.28)
+Transptr:o RTP/ .1/TRPS0
+CSeq: 5
+User-dia v2018.08.28)
+Se      ssion: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2/2nt

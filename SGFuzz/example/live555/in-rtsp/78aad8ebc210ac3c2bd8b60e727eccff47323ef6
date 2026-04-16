@@ -1,0 +1,8 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Aget: n./testRTSPClient (LIVE555 Streaming edia v2018.08.28)Content-Length:                        /mpeg1or2AudioVideoTest RTtsp://127.0.0 1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+eTestTransport: RTP/AVP;unicast;client_port=45GETt/sdp
+
+SETUP rtsp:rack1 RTSP/1.0
+CSeq:/ 

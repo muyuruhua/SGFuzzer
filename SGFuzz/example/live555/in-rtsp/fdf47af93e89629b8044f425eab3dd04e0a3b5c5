@@ -1,0 +1,9 @@
+z t RTSP/1.0GET_PARAMETERssion: 000022OPTIONSB8
+
+PLnY rtsp://128.0. RTest/ RTSP/1.0
+CNeq: 6
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 3
+UserP;unicast;client_port0.1:8554/m Streaminl MedieoTes$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$t/ RTSP/1.0
+CSe 

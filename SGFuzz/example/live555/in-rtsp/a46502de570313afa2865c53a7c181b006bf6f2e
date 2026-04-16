@@ -1,0 +1,25 @@
+Dq: 6
+Usia v2018.08.28)
+AwavAudioTestccept: application/sdp
+
+SETUP rtsp://1.0.027.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.00
+CSeq: 3
+User-Agent& ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:/. testRTSPClient 1LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAYESCRIBE vtsp:QS127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C  (  2
+User-Agentrt: RTPIAVP;wavAudioTestunigast;client_port=45GE5 PARAMETERssion: 000022B8.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C  (  2
+User-Agentrt: R
+SETUP rtsp://063.0.0.1:85 RTSCCESDo    udioTestP4/mpeg1or2AudioVideoRange: npt=9Test/ TPIAVP;unigast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTS9
+
+SETt (LYVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;clie

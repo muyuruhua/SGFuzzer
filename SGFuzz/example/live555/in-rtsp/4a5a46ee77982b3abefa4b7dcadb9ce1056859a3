@@ -1,0 +1,17 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCliapplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE973 Streaming Media Scale:06.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1;8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSer-Agent: ./testRTSDESCRIBE rtsp:21/7/.0.0.1:8554/mpeg1o"r2Auk2 RTSP/1.0
+CSeq: 4
+Use RAgent: ./testRTPRTSPClient (LIVE555 Stre$aming Media v20DESCRIBE rtsp:21/7/.0.0.1:8554/18.08.28)
+Transport: Reamingia v3  28)
+Accep 9
+
+SETUPmpeg1o"r2 rtsp:/Au

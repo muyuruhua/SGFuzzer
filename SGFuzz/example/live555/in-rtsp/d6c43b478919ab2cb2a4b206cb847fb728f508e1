@@ -1,0 +1,8 @@
+DTEARDOWNRange: npt=9://127.0.0.1:8554/mpeg1or2AudioViP rtsp://127.0.track2 RTSP/1.0
+CSeq* 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/1PLAY.0
+CSeq: 2
+User-Agent:!./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: UP rtsp./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: UP rtsp://063.0.0.1:85 RTSCoDESC                     sion: 0 0022B8
+

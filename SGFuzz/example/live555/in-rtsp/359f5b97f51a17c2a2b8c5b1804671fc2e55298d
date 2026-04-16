@@ -1,0 +1,7 @@
+D8b      Range: npt=9:   m7.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.ion/sdp
+
+SETUP rtsp          (LIVE159 S5 Streaming unicas 
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfs                      (LIVE159 S5                                                                                                mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+User-
+

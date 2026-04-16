@@ -1,0 +1,15 @@
+zPAUSESP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v201TCP8.28)
+Accept: application/sdp
+
+TSEPU rt]p://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018..0828)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.!1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq:/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 StreaAudioVideoRange: npt=9Test/ RTSP/1.0
+CSe

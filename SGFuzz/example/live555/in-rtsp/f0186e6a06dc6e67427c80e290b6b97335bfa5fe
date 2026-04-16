@@ -1,0 +1,9 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./settRTSPClienSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE55                                                                                             5 SDESCRIBE rtsp:Metreaming Media v2018.08.28)
+)ransport: R        nicast;client_port=50778-50779
+
+SETUP rdia vtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+C2018.08.

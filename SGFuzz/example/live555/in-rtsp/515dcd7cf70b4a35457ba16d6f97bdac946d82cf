@@ -1,0 +1,13 @@
+D      : application/sdmatroskat=50778-50779
+
+SETUP rtsp://127.0.0.0:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Ag
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022@B8
+
+PLAY rtsp:/00022B   :               Range:     8
+Range: npt=ser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sessa7
+
+Te.Caming Media8
+

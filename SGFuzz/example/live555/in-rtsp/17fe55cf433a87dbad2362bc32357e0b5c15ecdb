@@ -1,0 +1,11 @@
+z t RT/sdp
+
+SET://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1icast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz/sdp
+
+SET://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1icast7777777777777777777777777777;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.0.1:8554/mpeg1or2AudioVideoRange.0.1:8554/mpeg1or2AudioVideoRange: npt=9Testj
+      .0
+CSe

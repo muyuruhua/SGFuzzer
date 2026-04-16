@@ -1,0 +1,35 @@
+Dac3AudioTestESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Usre-Agent: ./testRTSPClient (LIVE277    | >'ng Media v2018.08.28)
+Accept: application/mdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVi%%%%deoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./t application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 R#TSP/&.0
+CSeq: 3
+User-Agent: .TSPClient (LIVE277 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeX1or2A,udioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Usgz"u RTSP/1.0
+CSeq: 2
+User-enAgt: ./testRTSPClient (LIVE555 Streaming Media v2018.08                                                                           .28)tr-eeAn: ./t applica
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tnt (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;ttrack1 RTSP/1.0: .//testRTSPClient (LIVAContent-Length:edia      unicast;client_port=5077-078579
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSer-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.estRTSPClient (LIVE972 Streaming z ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;FGf    Er   Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-79228   v2018.08.28)
+Session: 0
+
+SETUP rtsp://12800022B8
+)
+Accept: application/sd/1..ort=50778-0PO
+OD

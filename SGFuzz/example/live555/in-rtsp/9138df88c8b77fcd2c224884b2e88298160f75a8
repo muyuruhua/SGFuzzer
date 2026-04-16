@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or-Ampeg1or2AudioVideoTest RTSP/2.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sUUUUUUdp
+
+SETUP 5rtsp://127.0.5.1:8554/mpeg1or2Audio.-testRTSPClient (LIVE555 StreamDESCRIBiE rtsp://1ng 

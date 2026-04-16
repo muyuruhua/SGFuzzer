@@ -1,0 +1,17 @@
+z]  RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Acce    application/sdp
+
+SETtr sPUp://1ion/sdpclient_port=4MGET_PARAMETERssion: 000287B8oskaFileTestst27.0.0.1:8554/mpeg1oransport: RTP/AVP;unicast;client_port=507%%%%%%%%%%%%%%%%%%%%%%%%%TP/AVP;uniVast;client78-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Apt: application/sd/1..ort=50 78-0sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wavAudioTest RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (L27)
+Accept: application/sdpclient_port=4MGET_PARAMETERssion: 000287B8oskaFileTeststRTSPClient (LYVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=5077Content-Length:pt: application/sdp
+
+SETUP rtsp:/3.6/00.0.1:85 RTSCCESDo    udioTestP4/mpeg1or2AudioVideoRange: npt=9Test/ RTSP/1.0
+CSe

@@ -1,0 +1,18 @@
+DTEARDOWNrtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+N!      t: RTP/AVP;unicast;client_port=7807-550779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CS q: 4
+User-Agent: ./testRTSPClient (LIVE286 StRTSPTCP0re=======ideoTest/track2 RTSP/0.0
+CSeq: 4
+User-Agent: ./testRTSPClientr2AudioVideoTest/traTransport1.0
+CSeq: 3
+Uner (LIVE555 Streaming Media v2018.0882.)
+Transport:`#TP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp:/@127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeqN_Jru* r-Agent: ./testRTSPClient (LIVE5te 5S5raming Media v2018.08webmFileTestn: 000022B8
+Range: npt=0/000-
+
+TEARDOWN rtsp://PLAY0.0.1:8554/mpg1eor2?udioVide=t/Teos R

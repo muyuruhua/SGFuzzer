@@ -1,0 +1,11 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.P|
+CSeqRange:: 2
+User-Agent: ./testRTUser-AgentLIVE555 Streaming Media v2018.08.28)
+Accept: applic                             ation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3%User-Agent: ./testRTSPClient (LIVE571 Streaming Media     v20182AudioVideoTest/track1 RTSP/1.0
+CSeq: 3%User-Agent: ./testmatroskaFileTestication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3 RTSPQNQOentdi (LoViId

@@ -1,0 +1,42 @@
+DESC        p:+/666.0.0.1:8554/mpeg1or2AudioVi    fst RTSP/1.0_port=507oTfst RTSP/1.0_RTPport=        50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testR&T  Cla v2018.08.28)
+Session: 000022B8ange@ npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554egm1/7p8-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCla v2018.08.28)
+Session: 000022B8
+Range@ npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or20.0.1             2 RTSP/1.0
+CSeq: 4
+Us
+Range@ npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554egm1/7p8-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCla v2018.08.28)
+Session: 000022B8
+Range@ npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or20.0.1             2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRT  Cla v2018.08.28)
+Session: 000022B8
+Range@ npt=0.000-
+
+TEARr NOWDtsp://127.0.0.1:8554/mpeg178-50779
+
+SETUP rtsp://1))))))))27.Range: 554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq:(4
+User-Agent: ./tesRTSPCla v2018.08.28DESCRIBE rtsp:000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or20.0.1                                    "           000022B8
+

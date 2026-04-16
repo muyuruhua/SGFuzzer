@@ -1,0 +1,16 @@
+DwavAudioTestESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1)0
+CSTEARDOWNeq:'2Us
+Ar-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Acce rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTS/0P.1
+CSeq: 3
+User-Agunt: ./testRTSPClient (LIVE    St000022B8reaming Media v254.0.0.18)
+Transport: RTP/AVP;unicast;client_port=50778-5077G|
+/
+SETUP rtsp://127.0.G.1:8XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX554/mpeg1or2Audiocept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/0.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR56 SAccepttreaming Media v2018.[08.28ng Media v2018.08.28!
+Session: 00002B28
+RanE TEARr

@@ -1,0 +1,11 @@
+DGET_PARAMETER//127.0.0.RTSP/1.0peg1or2A&udioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE)55ser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)Tra sport: RTP/AVP;unicast;client_est/ RTSP/1.0
+B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.u28)
+Session: 000022B8
+

@@ -1,0 +1,27 @@
+DESCRIBE rUser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.100022B8
+!
+PLAY rtsp://127.0.                            0.1:8554/mpeg1or2Audioaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.100022B8
+
+PLAY rtsp://127.0.0.1:8: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28N
+Transport: RTP/AVP;uni`ast;client_port=50778-50779
+
+SERTP rt{p://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Ag/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media }}}}}}}}}}}}2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v201tsp://127.0.0.100022B8
+
+PLAY rtsp://127.0.5.1:8554/mpe	
+Session: 000022B8
+

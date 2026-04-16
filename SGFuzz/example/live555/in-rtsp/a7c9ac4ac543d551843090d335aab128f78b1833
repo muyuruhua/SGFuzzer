@@ -1,0 +1,13 @@
+ SET_PARAMETER                                                                    DESCRIBE rtsp://127.0.0.1:85;4/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE554 Streamin                                                                 g  edia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://125.0.0.peg1or2AudioVideoTesp/ RTSP/1.0
+CSeq: 5
+U -                      -                                             h__ R>gent: ./testRT2PClient (LIVE110 Streaming Media                         matroskaFileTest                        h__ RDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./test>gent: ./RTSPCliest                        h__ RDESCRIBE rtsp://127.0.0.1:ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.testRT2P1:C85lien54

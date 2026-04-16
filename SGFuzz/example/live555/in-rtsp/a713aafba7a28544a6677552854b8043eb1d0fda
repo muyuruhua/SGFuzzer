@@ -1,0 +1,28 @@
+DESCRIBE rtsp://DESCRIBE rtsp://127.0.0bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb.0:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Tsedia v2018.08.28)
+Transport: RTP/AVP;127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPCCse   "nt (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agunt: ./testRTSPClient (LIVE555 Streaming Media univ127.0.0.18)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.G.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming M?edia v2BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB019.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_Pcast;client_port=50778-50S
+
+82)Accept: application/sdp000022B8
+
+SETUP rtsp://.1:o554/m&peg1or2AudioVit: RTP/AVP;unicast;clienARAMETERssion: 000023B8
+
+PLAY rtsp://R127.0.0.2:8============================================================554/mpeg1or2AudioVide Test/ RTSP/1.0
+CSeq: RTSPCCseqlienContent-Length:amt_port=50778-50S
+
+82)Accept: application/sdp
+
+SETUi

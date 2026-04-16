@@ -1,0 +1,41 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+USET_PARAMETERser-Agent: ./testRTSPClient (LIVE555 StreamingNoVideoTest/tracLYVE555 Streaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022Trania v2    08.28)
+ 														tion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 3
+matrocation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+A
+SETUP rtsp://063.0.skaFileTeststRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;unk1 RTSP/1.0
+CSeq: 3
+Us2018.08.Content-Length:00022B8
+Range: npt=0.8.Content-Length:00022B8
+Range: npt=0.000-
+
+TEARDOWN     rtsp://127.0 7.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming /sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE55Sca5 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;clien04.28)2018.08.Content-Length:00022B8
+Range: npt=0.8.Content-Length:00022B8
+Range: npt=0.000-
+
+TEARDOWN     rtsp://127.0.0.1:8554/mpeg1or2AudioVidContenN                           t-Length:0
+CSeq: 6
+User-Agent: ./GET_PARAMETERtest: 0 ./tes8
+

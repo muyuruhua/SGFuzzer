@@ -1,0 +1,31 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe                                                           /track1 RTSP/1.0
+CSeq: 3
+Us2er-Agent: ./RTPtRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50  F 778-50779
+
+SETUP rtsp://127.0N.0.RTP554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq:
+4sU er-Agent:/. testRTSPClienDESCRIBEt 1LIV                      .0.1:7108/mpeg1or2AudioVidmoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTesttca/rk2 RTSP/1.0
+CS:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:8ort=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/)1.0
+CSeq: 4
+User-Agenwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwt:8)
+Transport: RTP/AVP;unicast;client_port=50778-25389
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Aud    t_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: Range: npt=94
+User-Agent: ./testRTSPClientn@ 000044B8
+

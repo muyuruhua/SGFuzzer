@@ -1,0 +1,11 @@
+DECCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioTEARDOWNVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (CSeq: 3
+User-Agent: ./testRTSPClpent (LIVE/track2 RTSP/1.0
+CSeq: 4
+Use=-Agent: ./testRTSPClient (LIVE555 S v2018.08.28)
+Transport: RTP/AVP;unicast;client_portwavAudioTest=45GET_PARAMETERssion: 000022B8dioVideoTest/       .CRTSP/1.0
+CCeq: 6
+User-Agent: ./test.   Client (LIVE555 Strea     Media v2018.08.28)
+Session: 000022B8
+

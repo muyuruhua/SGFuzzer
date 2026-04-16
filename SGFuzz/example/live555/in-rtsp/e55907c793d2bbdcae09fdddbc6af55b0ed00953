@@ -1,0 +1,25 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accepr2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+User-Agent: ./test.   Client (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8ack2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCliedia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+OPTIONSN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Age-Agent: .@/RTSPCent $LIVE555 Streaming Me`ia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0.0.1:8554/m StreamiMnge dieoTest/ RTSP/1.0
+CSe

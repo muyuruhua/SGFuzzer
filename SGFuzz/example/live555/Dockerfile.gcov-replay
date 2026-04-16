@@ -1,0 +1,79 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Dockerfile.gcov-replay
+#
+# Multi-stage image that EXTENDS the existing live555-sgfuzz-profraw image
+# with a *separate* GCC-gcov-instrumented live555 binary for replay-based
+# coverage measurement.
+#
+# OCP: This is a NEW file.  No existing Dockerfile / script is modified.
+#
+# Build:
+#   docker build -f Dockerfile.gcov-replay \
+#       -t live555-sgfuzz-gcov-replay:latest .
+#
+# The image contains:
+#   /home/ubuntu/experiments/live555-sgfuzz-profraw/   (original SGFuzz binary)
+#   /home/ubuntu/experiments/live-gcov/                (gcov binary for replay)
+#   /usr/local/bin/cov_script                          (coverage collector)
+#   /usr/local/bin/replay_gcov_coverage.sh             (replay driver)
+# ─────────────────────────────────────────────────────────────────────────────
+FROM live555-sgfuzz:latest AS base
+
+USER root
+
+# Install gcovr for GCC-based coverage collection.
+# GCC/g++ are already present in the base image (build-essential).
+# Ubuntu 16.04 python3-pip may not be installed; use python-pip as fallback.
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+        python3-pip python3-setuptools python3-lxml \
+    && pip3 install --upgrade 'pip<21' \
+    && pip install 'jinja2==2.11.3' 'MarkupSafe==1.1.1' 'gcovr==4.2' \
+    && rm -rf /var/lib/apt/lists/*
+
+USER ubuntu
+WORKDIR /home/ubuntu
+
+ENV WORKDIR="/home/ubuntu/experiments"
+
+# ── Build a *separate* GCC-gcov-instrumented live555 ────────────────────────
+# CRITICAL FOR FAIRNESS:  Uses live.2023.05.10 (same as ChatAFL) so that
+# l_abs / b_abs are measured against the IDENTICAL codebase.  SGFuzz fuzzes
+# the 2021 version, but coverage MEASUREMENT must use the same version as
+# ChatAFL to ensure the denominator (total lines/branches) is identical.
+#
+# gcov.patch applies:
+#   - Port configurable via argv[1]
+#   - SIGUSR1 triggers graceful exit(0)  → flushes gcov counters
+#   - Session id is deterministic        → replay stability
+#   - ALLOW_RTSP_SERVER_PORT_REUSE=1     → fast restart between replays
+#
+# We COPY the 2023 tarball + ChatAFL's original gcov.patch from the ChatAFL
+# benchmark directory (which is the authoritative source for this version).
+COPY --chown=ubuntu:ubuntu live.2023.05.10.tar.gz ${WORKDIR}/live.2023.05.10.tar.gz
+COPY --chown=ubuntu:ubuntu gcov.patch.2023 ${WORKDIR}/gcov.patch.2023
+
+RUN cd ${WORKDIR} && \
+    mkdir -p live-gcov && \
+    tar -zxf live.2023.05.10.tar.gz -C live-gcov --strip-components=1 && \
+    cd live-gcov && \
+    patch -p1 < ${WORKDIR}/gcov.patch.2023 && \
+    ./genMakefiles linux-no-openssl && \
+    make \
+      CFLAGS="-fprofile-arcs -ftest-coverage -O0 -g" \
+      CPPFLAGS="-fprofile-arcs -ftest-coverage" \
+      CXXFLAGS="-fprofile-arcs -ftest-coverage -O0 -g" \
+      LDFLAGS="-fprofile-arcs -ftest-coverage" \
+      clean all
+
+# Copy sample media into testProgs so the server can actually stream
+RUN cp ${WORKDIR}/sample_media_sources/*.* ${WORKDIR}/live-gcov/testProgs/ 2>/dev/null || true
+
+# ── Install helper scripts ──────────────────────────────────────────────────
+COPY --chown=ubuntu:ubuntu replay_gcov_coverage.sh /usr/local/bin/replay_gcov_coverage.sh
+RUN chmod +x /usr/local/bin/replay_gcov_coverage.sh
+
+# Label so downstream scripts can detect gcov-replay capability
+LABEL sgfuzz.gcov_replay="true"
+ENV GCOV_REPLAY_AVAILABLE=1
+ENV LIVE_GCOV_DIR="${WORKDIR}/live-gcov"

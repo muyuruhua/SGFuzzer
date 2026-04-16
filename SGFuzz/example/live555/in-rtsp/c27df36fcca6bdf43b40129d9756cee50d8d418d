@@ -1,0 +1,16 @@
+DESC.RIBE rtsp://127.0.0.1:8554/mpe8.08.28)
+TransGET_PARAMETER;unicaession: 000022B8
+
+PLAp
+:SETUP rtsp://458.0.0.1:8554=45546-45547
+Session: 000022B8
+
+PLAY rtsSession: 000022B8
+rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE110 Streaming Media v2018.08.28)
+Session: 00002Range: npt=9npt=0.000-
+
+TEARDOWN rtsp://        1:8554/mpeg1or2AudioVtestt: ./testRTSPCl ni(etLIVE5
+Sessivn@ 000022B8
+

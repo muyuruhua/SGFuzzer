@@ -1,0 +1,12 @@
+matros                           %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    =                            Cseq dioVideoTest RTSP/1.0
+CSeq: 2
+User*Agent: ./testRTPlCSenit (LIVE555 Streamin Megdia v2018.08.28)
+Accept> application/sdp
+
+SETUP rtspH /127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+C0188.0.28)
+TransportA RTP/AVP;unDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/SPClient matroskaFileTestng Media v2018.08.28)
+Accept: JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJapplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 R:8554 RTSP/1DESCRIBE: 5
+User-Agent: ./testRTSPClient (LIVEIt;client_po rtrsp:t=507

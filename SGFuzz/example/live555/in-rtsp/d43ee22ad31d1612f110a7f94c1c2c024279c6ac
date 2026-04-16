@@ -1,0 +1,26 @@
+DSATUP WN tsp://127.0.0.1:855            46-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Media v1009.16.28)
+Session: 000022B6
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or                                          2Au333MKd000022B8ioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./te -+,/< ient (LIVE555 S5 StreamiIVE555 S5 Streng M0779
+
+SETUP rtsp:/sp://254.0.0.1:8554/mpeg1or2Ai: ./testRTSPClient (LIVE555'9  eaming Med       l.08.28)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWAg1or2AueioVideoTest RTSP/1.0
+CSeq: 2
+Use333333333333333333333333333333333333333333333333333;33333333333IVE555 S5 Streaming M0779
+
+SETUP rtsp://10.0.=50778-50S
+28)
+Ag1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Use33<33333333333333333333333333333333333333)33333333333333333333333333333r2nt

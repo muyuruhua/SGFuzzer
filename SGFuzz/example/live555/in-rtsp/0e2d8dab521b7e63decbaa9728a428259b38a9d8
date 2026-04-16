@@ -1,0 +1,19 @@
+DESTCRIBE rtsp:/Content-Length:/127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0      fU
+CSeq: 2
+Us                              er-IgentTestDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./te0.1:8554/mpeg1or2AudioVideoTfst RTSP/1./ RTSP/1.0
+CSeq: 5
+User-Agent: ./tesRTSP/1.0tRTSPClient (LIVE555 Streaming MAcceptedia v2018.08.28)
+S    on: 0 ./tesRTSP/1.0tRTSPClient (Llient_port=45546-45547
+Session: 0&0022B8
+
+PLAY rtsp:/SETBP/127.0.0.1:8554/mpeg1orn2AudioVideoTestDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./te0.1:8554/mpeg1or2AudioVideoTfst RTSP/1./ RTSP/1.0
+CSeq: 5
+User-Agent: ./tesRTSP/1.0tRTSPClient (LIVE555 Streaming MAcceptedia v2018.08.28)
+S    on: 0 ./tesRTSP/1.0tRTSPClient (LIVE555:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeient_port=50778-50Sac3AudioTest: apppI  lication/sdp
+
+S0

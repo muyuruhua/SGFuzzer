@@ -1,0 +1,3 @@
+DESCRIBE rtsp://127.0.0.1 8554/mpeg1orDESCRIBE rtsp://127.0.0.2:8277/mpeg1or2AudioVid=oTest RTSP/1.0
+CSeq:2AudioVideoTest RTSP/1.0 2
+U

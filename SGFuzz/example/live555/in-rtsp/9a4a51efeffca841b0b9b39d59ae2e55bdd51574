@@ -1,0 +1,17 @@
+DmatroskaFileTestAVPRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTS]   ent (LIVE555 Streaming Media v20				nt: ./testRTSlPineCt (LIVE555 Streaming st;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:eq: 5
+User-Agent: ./testRTSPClie ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tes										z	TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT.............est/ RTSP/1.0
+CSeq: 6
+User-r-Agt: ./test000022B8nt (LIVE555 St#eaming Media v2018.08.28 DESCRIBEn: 000022B8
+

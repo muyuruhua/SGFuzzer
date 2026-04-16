@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTContent-Length:SP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE4g Media v20stRTSPClient (LIVE555                       Streaminept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTestD    ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0YCSeq: 2
+Usereamin Media vr-Agent: ./testRTSPClient (LIVE555 Streaming Med/track1 RTia v2018.0SP

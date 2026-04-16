@@ -1,0 +1,19 @@
+D   'IBE rtsp://127.0.0.1:8554/mpew   2AudioVideoTest RTSP/0.0
+CSeq: 2
+UsAr-Agent: ./ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp:./271/0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testrt=50778-0POOD2B8
+Acce
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555S treaming  Media v2 t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+A[cept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554est
+Range: npt=0.000DESCR-
+
+IBE TEARr

@@ -1,0 +1,12 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq8)
+Transport: RTP/AVP;unicast;client_port=45GET_      j:PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPC.lient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+oRange: npt=0.000OPTIONSARDOWN rtsp://127.0.matroskaFileTest0.1:8554/mpuegoA12rdioVideoTest/ :8554/mpeg1orRTSP/1.0SETUPq: 6
+Usekkkkkkkkkkkkkkkkr-Agent&Q      RTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

@@ -1,0 +1,8 @@
+CSeq:DESCDE.       tsp:                                                                                                                                                                     //127.0RTP1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTSP/1.0ent (LIVE555 Streaming Media v2018.08.28)
+                                                                       DESCRIBEpt: application/sdp
+
+SETUP rtsp://1er-Agent: ./testRTSPClient (LIVE555  treaming Media v2018.08.2 8)
+Session: 02B8
+

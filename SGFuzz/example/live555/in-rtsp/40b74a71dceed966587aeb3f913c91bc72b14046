@@ -1,0 +1,14 @@
+D sion]]]E rtsp://12DRange: npt=0.00127.0.0.1:8554/mpeg1or2AudioV.28)
+Transport: RTP/AVP;unicast;client_port=45545-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpe7.0.0.1:8554/mpeg1or2AudioVi (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=01556-50RTP77
+ETUP rtsp://127.0.0.1:8554/mpeg1oTCPudioTideoTest/track2 RTSContent-Length:
+User-Agent: ./testRTSPClient (1:8554/mpeg1oTCPudioTideoTest/track2 ;RTSContent-Lendg1oer

@@ -1,0 +1,28 @@
+DESRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCl     (LIVE5g Media v20stRTSPClient (LIVE555 Streaminep127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE555=St(7554/mpeg1or2AudioVideoTest R?SP/1.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSPo1..
+CSeq: 3
+sdp
+
+SETUP rtsp://127.0.0.1:Rangempeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 3
+matroskaFileTeststRTSPCln(i teLYVE555 StreamScaleing Media v2017.09.28)
+Transport: R0?/AVP;unicast;client_port=50778-0PO.D2B8
+Accept: application/st: application/sdp
+
+SETUP rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./ estRWSPC.lient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GE/ PAB8
+
+PLAY rtsp://127!.0.0.1:on: )00022B8
+Range:Content-Length: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1CRIBE rtsp://127.0.0.1:8554/mpeg1oar2cA3AudioTestulDESCioVideoT

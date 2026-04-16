@@ -1,0 +1,10 @@
+cast;cli.0
+CSeq: 4
+UsdeoTest/track1 RTQP/1.0application/sdp
+
+SETUP rtsp://127.0.0. :8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Uszzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzezzr-Agent: ./testRTSPClient (LIVE972 Streaming Media v20Content-Length:18.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-5/127.0.0.1:4277/mpe 4
+Useransport: RTP/AVP;unicast;clienia v1009.08.28 K      on: 0 ./tes8Range: npt=9
+

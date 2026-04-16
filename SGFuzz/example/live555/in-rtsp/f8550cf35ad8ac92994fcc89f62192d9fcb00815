@@ -1,0 +1,28 @@
+DmatroskaFileTest27.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./te0.1:8554/mpeg1or2A dioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent:9
+
+SETUP rtsp:/
+User-Agent:9
+
+SETUP r  E//127.0.0.1:8554/mpeg1or2VoAudiideoTest/tra k2 RTSP/1.0
+CSe      q: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicas~t;client_port=45GET_PAR M TERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+C Sqe:5
+User-Agent: ./testRTSPClClient (LIVE555 Streaming Media v2018.08.2    Transport: RTP/AVP;unicast;client_pContent-Length:ort=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://1e E_QPestRTSPCl ni(etLIVE5
+Sessivn@Scale:2B8
+

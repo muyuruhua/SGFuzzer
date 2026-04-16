@@ -1,0 +1,7 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVidz t RTSP/1.0*CSeq: 2
+UseoTest/trac                                                                            2 RTwwwwwwwwSP/1.0
+port:CSeq: 4er-Agent: ./testRTSPCliennt (LVE555 Streaming Media v20    1

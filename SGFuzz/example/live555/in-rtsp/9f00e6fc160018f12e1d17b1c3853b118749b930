@@ -1,0 +1,27 @@
+ TEARD0000                                                                    DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming  edia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://126.0.0.peg1or2AudioVideoTesp/ RTSP/1.0
+CSRange: U                                                  ser-Agent: ./testRTssion: 020 0   0            DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIVE510 Streaming Media v2018.08.28)
+Trorspnta: RTP/AVP;unicast;client_port=50778-50"79
+
+SETUP ztsp://127.0.0.1:8552/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVide(LIVE555 Streamin gMedic v2018.08.28)
+Tran127.0.0.100022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (sport: RTP/AVP           `;unicansport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLA.0.0.1:8554/mpeg1or2AudTransport:       _;unicast;client_port=45GET_PARAMETERssioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE220 StreW     0 $RT         _;unicast;client_port=45GET_PARAMETERssioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE220 StreW     0 $RT            tRTSPClient (LIVE955 Stre        aming Media v2amoTest ing Med ia v201 .08.28)
+Transport: RTP/AVP;unicaRTSP/1.0
+CSeq: 2
+User-st;clie

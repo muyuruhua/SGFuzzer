@@ -1,0 +1,44 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident:~ ./testRTSPClient (LIVE555 Streaming Media vk2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClieemMignea dia v2nt (LIVE555 Str33333333333333333333ioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./t            estR 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Stream=ng Media vRRRRRRRRRRRR (LIVE555 Streaming Media vk2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClieemMignea dia v2nt (LIVE555 Str33333333333333333333ioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agentnge: npt=0.000-
+
+TE: ./t            estR 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Stream=ng Media vRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://254.0.0.1:8554/mpeg1oRTPudioVideoTest/ RTSP/0.0
+CSe 5
+User-Agent: ./testRTSPClient (LIVE555 Stream=ng Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://b127.0.0.1:8554/mpeg1oRTPudioVideoTest/ RTSP/0.0
+CSeq: 6
+UserRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1oRTPudioVideoTest/ RTSP/0.0
+CSe 5
+User-Agent: ./testRTSPClient (LIVE555 Stream=ng Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://b127.5.0.1:8554/mpeg1oRTPudioVideoTest/ RTSP/0.0
+CSeq: 6
+User-n 000022B8
+

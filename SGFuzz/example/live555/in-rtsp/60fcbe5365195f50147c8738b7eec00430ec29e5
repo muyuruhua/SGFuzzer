@@ -1,0 +1,25 @@
+D z  IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0_port=507oTfst RTSP/1.0_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCla v2018.08.28)
+Session: 000022B8
+Range@ npt=0.000-
+
+TEARDOWN rt000022B8
+Range@ npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg178-50779
+
+SETUP rtsp://127.0.0.1:8A54/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCla v2018.08.28)
+Session: 000022B8
+Range@ npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or20.0.1:8554/mpeg1or2AudioVideoTest/track1 Rsp://127.0.0.1lient_port=50778-50779
+
+SETUP rtsp://127.0.0.0:8554/mpeg1or2Aud.000-
+
+TEARDOWN rtsp://576.0.0.1:8554/mpeg1or20.0.1:8554/mpeg1or2AudioVideoTest/track1 Rsp://127.0.0.1:8554/m1pe7g8-stRTSPClient zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz(LIVE556 StreaSession: 000022B8
+

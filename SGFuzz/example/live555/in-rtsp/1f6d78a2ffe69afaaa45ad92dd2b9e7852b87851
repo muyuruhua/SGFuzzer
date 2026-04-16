@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: apz t RTSP/1.0!   eq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888/sdp
+
+SETUCseqP rtsp://127.0.0.wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwplication/8p
+
+SETwwwwwwwwwwwwwwwwwwwwwwwwUP rtsp:/wwwwwwwwwwww1:8554/mpeg1or2AudioVideoTest/t/127.0.0.1:8554/mpegrliv.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: apz t RTSP/1.0!   eq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application8888888888888888888888888888eMedia

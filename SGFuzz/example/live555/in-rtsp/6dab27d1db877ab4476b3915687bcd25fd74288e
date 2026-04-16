@@ -1,0 +1,16 @@
+zR    t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Stream  g Media v2018.08.28)
+Accept: application/TEARDOWNETUP rtsp://127.0.0.1:8554/mpeg1or2AudipVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transpocs:rtat;client_port=50778-50779
+
+SETUP rts
+ 
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=4RTSP/1.05GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0.0.tRTSPClient (LIVE555 Stream  g Media v201E8554/mpeg1or8554/mpeg1or2AudioVideoRange: npt=92AudioVideoRange: npt=9Te        /1SETUPSe

@@ -1,0 +1,22 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideo[Tfst RTSSSSSSSSSSSSSSSUser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=507ack2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCl  nt (LIVE554 Streaming Media v201oI  .28)Scale:sport: RTP/AVP;unicast;clientDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioV F      ideoTfst RTSP/1.0_p[rt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/0.0
+CSeq: 4
+User-Agent: ./tSETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/0.0
+CSeq: 4
+User-AgentContent-Length:ent (LIVE555 Streaming Media2                                                                                                 8)
+Accept: apPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTpeg1or2AudioVideoTest/track1(RTSP/1.0
+CSe_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/1.   Seq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sessq: 3
+User-Agent: ./testRTSPClient (LIVion: 000022B8
+Range: npt=0.000-
+
+TEARDOWNE555 StreaS

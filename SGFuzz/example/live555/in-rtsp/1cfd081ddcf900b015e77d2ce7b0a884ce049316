@@ -1,0 +1,14 @@
+DESCRIBE rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0 
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsSETUP27.0.0.1:8554/mpeg1or2AudhoVideoTest/kartc1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)DESCRIBE
+Transport: RTdia v2    08.28)
+Accept: application/sdp
+
+SETUP rtsSETUP27.0.0.1:8554/mpeg1or2AudioVideoTest/kartc1 RTSP/1..
+CSeq: 3
+User-Agent: ./tes                               RIBE rtsp://1p://1nt

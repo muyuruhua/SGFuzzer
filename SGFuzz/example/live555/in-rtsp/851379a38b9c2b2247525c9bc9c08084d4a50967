@@ -1,0 +1,21 @@
+DESCRIBE rtsp://12IQOQOQN>8554/mpeg1or2AudioVideoTes
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE55ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://743.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Strea555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUPAVP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTesP ack2 RTSP/1.0
+CSeq: 4
+User-Agent: .Content-Length:/testRTSPCl     (LIVE555 Streaming;a aaaaaaclienTEARDOWN5GET_PARAMETERssionroskaFileTestp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.092      
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE798 Streami   Media v2018.08.28)
+Session:  	Jp000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or018.08.28)
+Session: 000022B8
+

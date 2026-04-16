@@ -1,0 +1,29 @@
+D       8vtsp://127.0.0.1:8554/m                                                                    peg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-TTTTTTTTTTTTT6Length:ient (LIVE555 St8554/mpeg1or2RTSP/1.0AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.+.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClientclient_port= application/sdp
+
+SETUP rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE%55 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 4
+User-Agent: ./test TSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 00002p://127.0.0.1:8554/mpeg1or2Audi8
+Range: npt=0.000-
+
+TEARIVE5
+St_port=50778-0POOD2B8
+Accept: applica}ion/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESC                     six-playNow:on: 000022B8
+

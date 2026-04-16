@@ -1,0 +1,17 @@
+D~  =IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/t
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVEI55 Streaming Media v2018.08.28!
+Session:                       00002B28
+Range:     npt=0.000-
+
+T2ARDOWN rtsp://127.0.0.1:8554/mliveMedia51989deoTest/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPCng Media v2018.08.28)
+aerTida v2018.08.28)
+Session: 00002E2B8
+

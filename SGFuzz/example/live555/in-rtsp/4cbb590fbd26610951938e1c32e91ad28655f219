@@ -1,0 +1,29 @@
+DCSeq:SCR*IBE rtsp://127*IBE rtsp://127.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0/sdp
+
+SETUP rtsp://127TCP0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Usgr-Agent: ./testRTSPClien  (LIVE555 Streaming Media vccept: application/sdp
+
+SETUP rtsp://527.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY*
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVPu;nicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESC                     six-playN2018.08.23)
+Transport: RTP/AVP;unicast;client_porVE555`Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.unicast;client_port=50778-50779
+
+SETUP rtsp://1027.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0Ac3AudioTest
+CSeq: 4
+User-Agent: ./test8)
+Transport: RTP/AVP;ustdinnicast;client_port=45546-455dp
+
+SETUP rAudioVideoTest/track2 RTSP/1.0 15 0
+CSeq: 4 
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018Cseq28)
+Wransport: RTPx-playNow:/AVP;uni
+

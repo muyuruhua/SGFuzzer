@@ -1,0 +1,35 @@
+ia A       v3    08.28)
+Accept:% application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-AoVideoTest/track1 RTSP/1..
+CSeq: 3
+]ser-Agent: ./testRTSPClllllllllllllllllllllllllllllllllllllllllllllllllllGET_PARAMETERllient (LIVE555 Streaming Media v20st/ RTSP/1.77777777             70
+CSeq: 5
+User-Agen RTSP/1.77777777             70
+CSeq: 5
+User-Agent: ./tesSET_PARAMETERLIVE555 Streami    ng Media v1009.08.28)
+Session: 000022B8
+Rgane: ac3 ac3AudioTestnpt=0.000-
+
+TEARDOWN rtsp://12TEARDOWN: ./tesSET_PARAMETERLIVE555 Streamoot: ./tesSET_PARAMETERLIVE555 Streami    ng Media v1009.08.28)
+Session: 000022B8
+Rgane: ac3 ac3AudioTestnpt=0.000-
+
+TEARDOWN rtsp://12TEARDOWN: ./tesSET_PARAMETERLIVE555 StreamooooooooossssssssssssssssssssssssssssssssssssssssssssssssssssssssssoooooooooionAVPp
+
+SETUP rtsp:/RIBE rtsp://127.0.0.1:8554/mpeg1or2AudioTEARDOWNVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: app      Ad/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCl(LIVE/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 S v2018.08.28)
+Transport:"RTP/AVP;unicastideoTest- RTSP/1.0
+CSeq:r-Age-Agent: ./RTSPCent (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+                                                        o PLAYooooooootspt   :/

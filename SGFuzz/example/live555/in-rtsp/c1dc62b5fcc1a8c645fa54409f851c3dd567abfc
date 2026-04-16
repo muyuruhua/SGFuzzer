@@ -1,0 +1,12 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sLIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;cliendp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Audiodia v2018.08.28)
+Transport: RTP/AVP;unicast;c,lient_port=45GET_PAR?2:-ERssion: 000023OPTIONSB8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoRange: npt=  est/ RTSP/1.0
+C
+Range: npt=0.0Se

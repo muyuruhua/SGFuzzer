@@ -1,0 +1,43 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: appmatroskaFileTestlication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+28)
+Ac$cept: application/sdp
+
+SETUP rtsp:j   //127.0.0.1ETUP rtsp://KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK: 3
+User-D   'IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 StreaMing Media v2018.08.28)
+Accept: application/sDp
+
+SETUP rtsp://574.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Straaming Media v127.0.0.18)
+Transport: RTP/KVP;unicast;client_port=36176-50779
+
+SET7P rtTransportsp://127.0.G.1:8554/mpeg1or2AudioVideoTest/trjjjjjjjjjjjjjjjhjjjjjjjjjjjjjjjjjjjack2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCliejt (LIVE5[ 5Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000298B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/2.0
+CSeq: 5
+User- DESCRIBE                                                                                                                           A000023B8
+RangePClient (LIVE555 Streaming RTSP/1.0018.08.28)
+Session: 000020B8
+Range: npt=0.000DESCR-
+
+IBE TEARror2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-AgePClient nt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+28)
+Ac$cept: application/sdp
+
+SETUP rts//1nt

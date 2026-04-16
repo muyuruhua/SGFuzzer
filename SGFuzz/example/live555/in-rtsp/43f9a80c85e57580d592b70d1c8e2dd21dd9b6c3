@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0pplication/sdp
+
+SETUP rtsp://254.0.0.1:85k       54/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./te28)
+Accept: app8.28)
+Acc=pt: application/ p
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;u                                                                                                                       RTSP/nicast;client_port=50778-50T-   EARDOWN7791.0
+CSeq: 3
+Q
+
+SETse

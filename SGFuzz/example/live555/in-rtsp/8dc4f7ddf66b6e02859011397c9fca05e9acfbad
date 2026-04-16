@@ -1,0 +1,13 @@
+DSETUP BE tsp://127.0.0.1:8554/mpew   2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Age-Ag2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StrEaming Media v2018.08.28)
+Sesn soi:000022B8
+Range: npt=0.000-
+pTEARDOWN rtsp://127.0.0.1:8555/mpeg1oCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC-Agent: .t/estRTSPClient (LIVE555"Smmmmmmmmmmmmmmmmmmmmmmmmmmmmtreaming Media v2018.08.28)
+Session: 000022B8
+t
+Range: npt=0.000DESCR-
+
+IBE TEARr

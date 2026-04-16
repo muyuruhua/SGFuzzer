@@ -1,0 +1,14 @@
+z  K
+TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSP==================deioTeClientI(L VE555 Streaming Media v2018.08.28)
+Accept: applicatLAY rtsp://Y rtsp://127.0.0.1:85 54/mpeg1or2AudioVideoTest/ RTSP/1.0
+4/mpeg1or4AudiVeoodiTest/ RT~P/1.0
+CTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/0.0.1:8554/mpeg1or2AudioV      <<===================}================q===========================deioTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 StrScale: Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45446-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpSeTEARDOWN

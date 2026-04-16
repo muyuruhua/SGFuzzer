@@ -1,0 +1,32 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audiocept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: #./test018.08.28)
+Transp'rt: RTP/CVP;unicast;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: st;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AgentContent-Length:: ./testRTSPClie
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: 27.0.0.1:8554/mpeg1or2AudioVideoTest/tr: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;clienack1 018.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:8554/mpeg1or2AudioVideoTest/9RTSP/0.0
+CCeq: 6
+User-AgentF_QJtestRTSPClient.28)-
+Session: 000022B8.28)-
+Session: 000022B8
+

@@ -1,0 +1,28 @@
+D/       SATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medhia v3    08.28)
+Accept: application/wdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioViDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (deoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555!Streaming Media v2018.08.28)2
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicaoVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medhia v3    08.28)
+Accept: application/wdp
+
+SETUP rtsp://127.0.5.1:8ent: ./tesSET_PARAMEg1or2AudioVbdeoTest RTSP/1.0
+CSqU: 2e
+serTERLIVE555 Streaming Media v1009.08.28)
+SessioLIVE555 streaming Media v2018.08.28)
+Accept: applicantion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 StreaAudioTest rtsp://127.0.0AVP.1:8554/: 0000mpeg1or2

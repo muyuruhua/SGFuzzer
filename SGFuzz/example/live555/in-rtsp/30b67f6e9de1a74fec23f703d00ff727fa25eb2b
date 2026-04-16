@@ -1,0 +1,11 @@
+Ds       ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP000022B8eq: 2
+User-Agent: ./testRTSPClient( LIVE555 Stre
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mac3AudioTestVideoTest/track2 RTSP/1.0
+CSeContent-Length:q: 4
+User-Agent: ./testRTSPilCent (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unic~ast;client (VIEL555 Streaming Media v2018.08.28)
+SeissonwavAudioTest

@@ -1,0 +1,17 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIVE555 SSET_PARAMETERa v2018.08.28)
+Trorspnta: RTP/AVP;unicas54/mpeg1or2Audiv2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.TEARDOWN eg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCliHHHHHHHHHHHHHHHHHHHHHHHHHe\ia v2018.08.28)
+Tra&&&&&&&&&&&&&&&&&&nspor0022B8 Range: npt=0.000-
+
+TEARDOWN rtsp:n/127.0.0.1:8554/m5peg1oRTPudioVideoTest/ RTSP/ent (LIVE555 Streamin  MHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHe\ia v8201.08.28)
+Tra&&&&&&&&&&&&&&&&&&nsport: RT8)
+Session: 000022B8 Range: npt=0.000-
+
+TEARDOWN rtsp:n/127.0.0.1:8554/mpeg1oRTPudioVideoTest/ RTSP/0.0
+CSeq: 6
+User-n 000022B8
+

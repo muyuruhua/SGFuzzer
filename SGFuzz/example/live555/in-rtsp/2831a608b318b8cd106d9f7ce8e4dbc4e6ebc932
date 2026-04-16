@@ -1,0 +1,41 @@
+DESCRIBPLAYE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT?est RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 smatroskaFileTest2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qs                                                                                                              er-Agent: ./testRTSPClient (LIVE555 StreaAudi R TS        P/1.0
+CSeq: 5
+User-Agent: ./tet R  sT SPClient (LIVE55S r5ameting Media v2018.08@.28)
+Session: 000022B8
+RYnge: np4=0.000-
+ (LIVE555 Streaming Medv2 a0i18.08.28)
+Transport: RTP/AVP: RTP/AVP;unicast;client_port=4MGET_PARAMETERssion: 000287B8
+
+PLAY rtsp://128.0.0.:18554/mpeg1or2AudioVideoTesteq: 5
+User-Agent: ./tet R  sT SPClient (LIVE55S r5ameting Media v2018.08@.28)
+Session: 000022B8
+Range: np4=0.000-
+ (LIVE555 Streaming Medv2 a0i18.08.28)
+Transport: RTP/AVP: RTP/AVP;unicast;client_port=4MGET_PARAMETERssion: 000287B8
+
+PLAY rtsp://128.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: ./testRTSPClient;unicast;client_port=4MGET_PARAMETERssion: 000287B8
+
+PLAY rtsp://128.0.0.:1/ RTSP/1&0
+CSeq: 5
+User-Agent: ./testRTSPClient;unicast;client_port=4MGET_PARAMETERssion: 000287B8
+
+PLAY rtsp://128.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE960 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=5.000-
+
+TEARDOWN rtsp://127.0.0.1:855reaming Media v20118.08.28)
+Sessio 
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ R SP/1.0: 000022B8
+

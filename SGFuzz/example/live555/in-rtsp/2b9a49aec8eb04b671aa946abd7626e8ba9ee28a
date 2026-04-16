@@ -1,0 +1,10 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUCseqP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/trliveMedia1597ack1 RTSP/1.0: ./testRTSPClient (LIVE555 Streaming Media v2018.08.2TCP    8)
+TranHport: RTP/AVP;unicast;client_port=90GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0.0.1:8554/m Sming MedieoTestreaming MedieoTest/ RTSP/g2KOruGSe
+ttttRangettttttt  tttttx-playNowAYtttttttttttttttttttttttttttttttttttttttttttttttttttt t}

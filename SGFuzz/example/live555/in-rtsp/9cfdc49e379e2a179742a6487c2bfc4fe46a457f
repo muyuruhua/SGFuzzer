@@ -1,0 +1,5 @@
+DSET_PARAMETER//127.0.0.1:8554                 
+
+SETUP rtsp://127.0.0.1:8554/mRanger2AudioVideoTest/tr://127.0.0.1:8554/mpeg1or2Audi                                                                                                                                            oVideoTest/track1 RTSP//1ng Media v2017.09.28)
+        six-playNow:on: 000022B8
+

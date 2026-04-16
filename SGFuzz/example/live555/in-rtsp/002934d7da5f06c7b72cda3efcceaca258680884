@@ -1,0 +1,13 @@
+DESCRNBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClieStreaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp:/5128.0.0.peb1or       84AudioL27)
+Accept: application/sdp
+
+SETUP r.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming MContent-Length:edia v18sMedia v2018.08.28)
+Session: 000022B8
+

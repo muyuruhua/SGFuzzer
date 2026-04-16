@@ -1,0 +1,12 @@
+DESCRIBE7.0:8554/mpeg1or2Au55testRTSPClient (LIVE555 Streaming Media v4036.08.28)
+Transport: RTP/AVP;unica00022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCliest;client_poScale:46-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2Audio4//mpeg1or2AudioVidsp://12..017.0:8554/mpeContent-Length:SP/1.0
+CSeq: 5
+Ustsp://127.0.0.1:8554/mpeg1or2Audio    VideoT54/mpeg1or2AudioVideo                  User-Agent        Test/track1 RTSP/1.08
+

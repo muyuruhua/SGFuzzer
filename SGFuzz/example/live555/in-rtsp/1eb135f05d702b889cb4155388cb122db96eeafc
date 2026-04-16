@@ -1,0 +1,29 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTst;client_p
+ort=45GET_PARAMETERssion: 000022B8
+
+PLAETERssion: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRT PClient #(LIVE555 Streaming Media v2018.08.28)
+Session: 000022B0
+CCeq: 6
+User-Agent: ./te{tRT6PClwebmFileTest5 Streaor2AudioVideoTest/CsP/1.0
+CSeq: 5
+User-Agent: ./GET_PARAMETERtestR,'PClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.00t=1.000-
+
+TEARDOWNG rtsp://127.0.0.1:8554/mpeg1or2Aud000022B8ioVideoTeDESCRIBE rtsp://OMHQ0.0.1:8554/mpeg1or2AudioVideo*Test RTSP/1.0
+CSeq: 21
+User-Agent: ./testRTSPClient (LIVE555 StreamDESCREIBa v2018.08.28)
+Accept: applicon: 00Pdp
+
+SETU===P rt222222222222222222sp://118.08.28)
+Accept: applicon: 00Pdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg127.0.0.1:8554/mpeg1or2AudioVpeg1Test/track1 RTSP/1.0
+CSeq: 3
+User-AQ    gent: ,)]
+Session: 000022B8
+

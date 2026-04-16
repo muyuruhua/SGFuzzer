@@ -1,0 +1,34 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCla v2018.08.28)
+Session:ansport.28)
+Transport: RTP/H)/D
+   ast;client_port=45547-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:85`54/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5 
+User-Agent: ./testRTSPClient (LIVE555 Streamjng Media v1009.08.28)
+Ses$ni:os000022B8
+naRangegRe: npt45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.gent: ./testRTSPClientrt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCla v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or20.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Acast;client_port=10wavAudioTest813-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./test TSPClient (LIVE555 ]treaming Media v2018.08.28)
+Transport: RTzP/AVP;unicast;c (LIVE555 StreaSession: 000022B8
+

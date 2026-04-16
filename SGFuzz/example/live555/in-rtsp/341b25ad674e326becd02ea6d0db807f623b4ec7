@@ -1,0 +1,9 @@
+DTransporttsp:/ent"(LIVE555 Streaming Media v2019.08.28)
+Accept: applicDRangeBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSesssssssssssssssq: 2
+User-Agent: ./tesation/sdp
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AutRTSPClient (LIVE555 Strea gnimMedia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/d

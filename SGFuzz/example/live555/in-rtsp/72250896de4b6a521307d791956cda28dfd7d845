@@ -1,0 +1,11 @@
+D000022B8Test  CRIBE rtsp://1ia v2058.eoTest/trat/track2 RTSP/1.0
+CSeq: 4
+Usep://127.0.0.1:8554/mpeg1or2Audior-Agent: ./tContent-Length:estRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/ck2 RTSP/1.0
+CSeq: 4
+Usep://127.0.0.1:8554/mpeg1or2Audior-Agent: ./tContent-Length:estRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast50778-50779S
+
+ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVidUser-Agnt: ./te
+   stRTSPClient (LIVE555 StreaAVPg Media v2018.08.28)
+Transport: RTP/AVP;unicast:;clie     ://1      27.0.0.1:8554/mpegOPTIONSi   oV 

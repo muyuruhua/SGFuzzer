@@ -1,0 +1,15 @@
+matros                           %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      B?%%%%%%%%%%%%%%  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      B?%%%%%%%%%%%%%%%%%%%%%%%%%%    =              t/track2 RTSP/1.0
+CSe E_H
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETErt.28)
+Transport: RTP/AVP;unicast;client_port=45545-45547
+Session: 000022B8ient_potr=45546-45547
+Session: 000ERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssio.n: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTkest
+

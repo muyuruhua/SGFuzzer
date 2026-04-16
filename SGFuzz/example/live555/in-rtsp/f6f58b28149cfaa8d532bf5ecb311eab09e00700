@@ -1,0 +1,5 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Acc  EXXXX'''''' application/sdDESCRIBE rtsp://027.0.0p
+.1:8

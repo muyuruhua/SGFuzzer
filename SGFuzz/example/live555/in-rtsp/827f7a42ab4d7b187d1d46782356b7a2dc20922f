@@ -1,0 +1,44 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTPS/1.0Cseqeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User                                                            -Agent: ./testRTSPCliest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28!
+Session: 00002B28
+Range:s npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CCeq: 
+CSeq: 5
+User-Agent: ./testRTSPClient (LI0Cseqeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCliest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+eqeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCliest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming MetRTSPClient (LIVE5VSETUPE555 Rtreaming Media v2018.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20tra08.28)-
+Session: 000022B8
+

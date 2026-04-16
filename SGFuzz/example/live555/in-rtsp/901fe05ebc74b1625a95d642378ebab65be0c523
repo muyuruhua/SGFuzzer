@@ -1,0 +1,31 @@
+D      WDrtsp://127.0.0551.84:/mpeg1or2AudioVideoestRTSPCl
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ 0TSP/1.0
+CSeq: 5 
+User-Agent: ./testRTSPClient (LIV                          E555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TE:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5 
+User-Agent: ./TestRTSPClie/mpeg1or2AudioVideoTest/ RTSP/1*0
+CSeq: 5
+User-Agent: ./tbstRT554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5 
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TE:855oVideoTest/ RTSP/1.0
+CSeq: 5 
+User-Agent: ./testRTSPClie/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tbstRTSPClient (LIVE555 Streaming Media v2018.   .1:8554/mpeg1or2AudioVideoTest/ RTS4/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5 
+User-Agent: ./testRTSPClie/mpeg1or2AudioVideoTesTCPRTSP/1.0
+CSeq: 5
+User-Agez   RTSP/1.0
+CSeq:nt: ./t  bstRTSPRTSP/1.0Cl 2
+User-Agent: ient (LIVE555 Streaming./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applic Media v2018.   .1:8554/a

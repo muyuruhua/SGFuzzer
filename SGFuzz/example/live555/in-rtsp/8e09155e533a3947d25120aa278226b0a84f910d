@@ -1,0 +1,14 @@
+     Media    	aTTTTTTTTTTTTTTTT `W     0 $RT            tRTSPClient (LVITETTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT                                                                DESCRIBE rtsp:/*1]7.0.0.1:8 54/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming  edia v2018.08.28)
+Accept: application/sdp
+
+S'TUP rtsp://126.0.0.peg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRT2PClient (LIVE555 Streaming Media                                                                             &      v201 8.08.28)
+Sesion: 008)
+Transport: RTP/AVP;unic                                 ast;client_port=50777-50779
+
+SETUP rtsp://127.5008.:1.54/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq:                          4
+User-Agent: ./tes                            ession: 00002                           `W     0 $RT            tRTSPClient (LIVE555 Stre        aming Media v2 

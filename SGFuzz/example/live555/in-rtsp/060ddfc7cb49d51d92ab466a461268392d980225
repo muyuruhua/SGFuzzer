@@ -1,0 +1,31 @@
+DESCRIBE rtsp://127.0.0.1:85mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:8ort=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:8)
+Trans        port: RTP/AVP;unicast;client_port=50778-253ck1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127108/mpeg1or2AudioVideoTest/t
+User-eq: 4
+User-Agent::8554/lient_port=50778-25389
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Aud ioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-eq: 4
+User-Agent:8ort=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 0
+User-Agent:8)
+Transport: RTP/AVP;unicast;client_port=50778-25389
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-AgeioVideoTest/track2 RTSP/1.0
+CSeq: Range: npt=94
+User-Agent: ./testRTSPClientn@ 000044B8
+

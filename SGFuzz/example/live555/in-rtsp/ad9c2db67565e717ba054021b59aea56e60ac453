@@ -1,0 +1,32 @@
+zwavAudioTest
+[CSeq: 2
+User-Agent: ./testRTSPClient (LIVE110 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Med8)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:855/4mepg1or2AudioVideoTest/tr)ack1 RTSP/1.0
+CSeq: 3
+ia v20E555 St18.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-5    0779
+
+SETUP rtsp://127.0.0.1:8: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe  (            st                                                                                        /track2 RTSP/SET_nge: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/m
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE554 StreaRTSP/1.0ia v2018.08.28)
+Session: 000022B8
+Range:   BOQOY0-
+
+TEARDOz54/mpeVg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSe

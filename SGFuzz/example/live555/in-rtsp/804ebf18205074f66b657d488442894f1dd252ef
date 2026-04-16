@@ -1,0 +1,22 @@
+DwebmFileTest        Egent: ./testRTSPClient (LIVE555 Streamicasting Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIV7E555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 42B8
+
+PLAY rtsp://127.0.0.      W[555 Streaming Media v208)
+Session: 000022B8
+Range: npt=0.000-
+
+T18.08.28)
+Transport: RTP/AVP;unicast;client_poAulioVideoTest/ RTSPssion: 000022B8
+Range: nptmatroskaFileTestOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE~555eStr555 Streamia v2018.08.28)
+Session: 000022B8
+

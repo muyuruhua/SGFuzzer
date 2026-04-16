@@ -1,0 +1,12 @@
+DESCRIBE 0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Strea                                                        udioVideoTor3AudioVideoTest RTS%/1.0ent (LIVE555 Streaming Media v2018.08.28)
+Accepter-Ag nt: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTS%/1.0ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/.0deoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.28.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://ansport:  TP/AVP;unicast;clienia v2018.08.28 K      on: 0 ./tes8Range: npt=9
+

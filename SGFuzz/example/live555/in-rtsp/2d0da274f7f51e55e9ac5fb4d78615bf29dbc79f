@@ -1,0 +1,28 @@
+DESCRIBE rtsp://123.0.0.1:8554/mp g1or2IudioVideoTest RTSP/1.0
+CSqU:         gent: ./testRTSPClient (LIVE555 Streaming MediScale:aVP;unicest;client_port=25389-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: M 4
+User-Agent: ./testRTSPCliContent-Length:reaming Media v2018.08.28)
+Transport: RTPTIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CZeudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 2StPLAYreami Streq: 5
+User-Age E_QP stRTSPClyenit (LIVE555 Stream?ng Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.0webmFileTestOWN rtsp://128.0._prto=45GET_PAR0.1:8555/mpuA3re1godor2AudioVideoTest/ RTSP/1.0
+CZeq: 5
+User-Age E_QP stRTSPClyenit (LIVE555 Stream?ng Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.0webmFileTestOWN rtsp://128.0._prto=45GET_PAR0.1:8555/mpuA3re1god       Vest/Content-Length: RTSP 1.0
+CSeq: 6       Vest/Content-Length: RTSP 1.0
+CSeq: 6
+User-Agent: ./SET_PARAMETERt (LIVE555 Streaming Media v2018.0dioViTest/track2 RTSP/1.0
+C

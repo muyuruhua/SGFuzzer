@@ -1,0 +1,15 @@
+DESCRIBE vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streamin    dia v2    08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/@dp
+
+SETUP;clientYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY_port=45GET_PARAMETERssion: 000022z t RTSP/1.0
+CSeq: 2Trani
+08.28)
+Tr
+Ac\ept: application/sdp
+
+p S

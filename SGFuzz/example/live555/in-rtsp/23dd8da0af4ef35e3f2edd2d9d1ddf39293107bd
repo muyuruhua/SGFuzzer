@@ -1,0 +1,16 @@
+DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoT WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClienteaming ming Media v2018.08.28)
+Ascept: ap~lication/sdp
+
+SETUP rtsp://127DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 1
+User        -Agent: ./testRTSPClient* (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..0.0.1:8554/mpeg1or2AudioVideoTest/0
+CSeq:
+UsPClient (LIVE277 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45Gtrack1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)Agent: ./tEU_PAestRTSPClienRAMt (EE

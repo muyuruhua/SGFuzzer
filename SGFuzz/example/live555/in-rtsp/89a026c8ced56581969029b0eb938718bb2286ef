@@ -1,0 +1,26 @@
+DESCRIBE rtsp:/ent (LIVE555 Streaming Media v2019.08.28)
+Accept: application/sd`
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AudioVideoTest/traDESCRI
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20[[[BE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RT//127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/10
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20[[[BE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RT//127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0Cseqeq: .0Cseqeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.r8)
+Accept: applicatAcceptp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClie
+User-Agent: ./testRTSPClient (LIP rtsp://674.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTck1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.:8)
+TContent-Length:VP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[SP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCl[[[[[[[ie
+[U

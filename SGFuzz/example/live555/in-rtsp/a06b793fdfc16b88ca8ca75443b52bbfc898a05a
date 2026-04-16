@@ -1,0 +1,20 @@
+DGET_PARAMETER//127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCl ./testRTSPClient (LIVE555 Streaming Medi _	I018.08.28)
+Accept: applicatIon/sdp
+
+SETUP rtsp://127.0.P rtsp://127.0.0.1:8554/mpeg1or2AKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User|Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicas t;client_port=45OET_PARA        METERssiox-playNow:8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVLIVE555eStreaming Media v2018.08.28)
+Session: 000022B8
+

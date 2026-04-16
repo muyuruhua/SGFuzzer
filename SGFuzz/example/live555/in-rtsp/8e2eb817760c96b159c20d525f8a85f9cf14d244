@@ -1,0 +1,6 @@
+DESCDE.       tsp:       Range                    b                                `                                                                  //127.0.0.1:8554/mpeg1or2AudioVideoTest        `                                                                  //127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 1
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVide
+CSeq: 3
+User-Agent: ./ion: 000022B8
+

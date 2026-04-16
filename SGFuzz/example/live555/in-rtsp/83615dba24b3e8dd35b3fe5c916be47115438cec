@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0.1:8554/meopA21rgudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE110 Streami       ng Media v2018.08.28)
+Accep 3
+User-Agent: ./testRTwavAudioTestVE555 StreaminRTSPClient (LYVE555 Stream554/mpeg1or2stSPAVP/1.0
+CSeq: ing Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000023SP/1SET_PARAMETER/0
+CSeq: 5
+User-Agejt: ./testRTSPClientk (LIVL555 Streaming Media v2018.08.28)
+Jes+siRTSP/1.022B8
+Range: npt=0.000-
+
+TRTPDOWN DAVPESCRIBE rtsp://127.0.rtsp://127.0.0.1:

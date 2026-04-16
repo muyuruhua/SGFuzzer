@@ -1,0 +1,24 @@
+D      I%rtsp:/ing Med1:8554/mpeg1or2Audiia v2018.08.28)
+Transport: RTRTPVP;un- ast;clieedia v2018.08.28)
+Transport: RTRTPVP;unicast;client_port=50778-50779
+
+SETUP rtsp:/000022B8.1:Test/ RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp:/ Media v/127.0.554/Am0
+Range: npt=0.000-
+
+TEARDOWN rtsp:/(/127.0nt_port=50778-50779
+
+SETUP rtsp    I%rtsp:/ing Media v2018.08.28)
+Transpast;client_port=50778-50779
+
+SETUP rtsp:/000022B8.1:Test/ RTP/AVP;unicast;iltenc_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp:/ Media v/063.0.554/m0
+Range: npt=0.000-
+
+TEARDOWN rtsp:/(/127.0nt_port=50778-50779
+Range: npt=0.000-
+
+TEA00022B8
+

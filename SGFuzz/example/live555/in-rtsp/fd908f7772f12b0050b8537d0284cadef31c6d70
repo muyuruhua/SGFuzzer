@@ -1,0 +1,16 @@
+DESCRIBE rts        0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeqRD//127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMi2nea dia v2018.08.28)
+Session: 000022B8
+Range: npt=0.001-
+
+TEARDOWN rtsp://127.0.0
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/PLAY rTsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range: npt=0.001-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVileient (LIVE555 St#eaming Media v2018.08.28 K             V22B8
+

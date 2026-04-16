@@ -1,0 +1,8 @@
+D-       Range: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1..ion/sdp
+
+SETUP rtsp          
+SETUQ rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfs                      (LIVE159 S5                    DESCRIBE rtsp://127.0.0.1:8554/mpoTest RTSP/1.ion/sdp
+
+SETUP rtsp          Agent: ./testRTSPClient (LIVE5g Media v20stRT                                                                             Streaming unicas 
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1 M>
+   VidSPCeoTfst RTSP/1.00000li2e

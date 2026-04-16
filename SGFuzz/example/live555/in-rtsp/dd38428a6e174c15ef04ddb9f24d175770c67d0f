@@ -1,0 +1,8 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpg1ore2AudioVideoTest RTSP/1.0
+CSeq: 1
+User-Agent: .'testRTSPClient (LIVE55
+TransportB: RTP/AVP;unicast;client_povt=01556-50779
+
+SETUP rtsp://1 7.0.0.1:8554/mpeg1or2AudDESCRIBE rtsp://127.0.0.1:85ioVideoTest/track2 RTSP/1.0
+CS    4
+User54/mpeg1or2-AgAudent: i

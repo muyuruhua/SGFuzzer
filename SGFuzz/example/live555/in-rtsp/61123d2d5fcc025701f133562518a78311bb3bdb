@@ -1,0 +1,14 @@
+DESRIBE rtsp://127.0.0.1:8554/mpeg1or2Aud  	     ioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCl     (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./ estRWSPC.lient (LIVE555 Streamg Mediha v2018.08.28)
+Transport: RTP/AVP;unicast;client_Content-Length:port=45GET_PAB8
+
+PLAY rtsp://127!.0.0.1:8554/mpeg1or2AudioVideoTest/ ITSP/1.0SET_PARAME-ERerS-Agent: ./testRTSPClient (LIVE555 Streaming Media  M018.08.28)
+Session: )00022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1CRIBE rtsp://127.0.0.1:8554/mpeg1oar2cA3AudioTestudDESCioVideoT

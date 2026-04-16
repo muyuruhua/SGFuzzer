@@ -1,0 +1,15 @@
+D   'IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest R                                                   TSP/1.0DScale:E rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Us      .08.28)
+Transport: RTP/AVP;unciast;client_port=45GET_PARAMETERssion: 000022B8   08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/DScale:E rt*sp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Us      .08.28)
+Transport: RTP/AVP;unciast;client_port=45GET_PARAMETERssion: 000022B8   08.28)
+Accept: application/sdp
+
+SETUP rtsp://126.0.5.1:8554/mpeg1or2AudioVid1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StreamieoTng Media v1009est/

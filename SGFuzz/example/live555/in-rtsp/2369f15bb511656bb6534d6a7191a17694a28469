@@ -1,0 +1,22 @@
+DOPTIONSESCRIBE rtst/ RTSP/1&0
+CSeq: 5LLLLLLLLLLLLLLLLLLLLLLtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3   ast;client_port=507 8-5077LIVE555 LAY rtsp://127.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSwebmFileTestLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+User-Agent: ./testRTS: RTP/AVP;unicast;TCPent_port=50778-5077LIVE555 LAY rtsp://127.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media i:eoTest/ RTSP/1.0
+        
+Usej-Agent: ./+estRTSPClient (est/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Straaming Media v127.0.0.18)
+Transport: RTP/AVP;unicast;client_port=36176-50779
+
+SETUP rtsp://127.0.G.1:8554/mpeg1or2A
+Accept: apppI rack1 RTSP/1.0
+CSeqept: application/sdp
+
+SETUP rtLIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.00022B8
+

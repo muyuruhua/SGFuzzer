@@ -1,0 +1,9 @@
+DESCRIBE rtsp://127.0.0551.84:/mpeg1or                                  Content-Length:    2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE55r-Agent: ./testRTSPClient (LIVE5DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq:                                                                                       2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SETUP 55 Streaming Media v2018.08.28)
+Tra85nsporrtsp://127.t: RTP/AVP;unicast;client_port=45546-

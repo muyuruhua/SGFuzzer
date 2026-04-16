@@ -1,0 +1,14 @@
+D  ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3o   r-Agent: ./testRTS4Client (LIVE277 Streamg Media v2018.08.28)
+Transport:R TP/AVP;unicast;client_port=4nt: ./testRTSPClient reaming Media v2018.08.28)
+Sess                                      ion: 000022B8
+Range:1.0
+CSeq: 3 npt=0.000-
+
+TEARDOWN rPLAY//127. .0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq: 6
+User-Age-Agent: ./RTSPClient (LIVE555 Streaming Media v2019.08.2t: 018.08.2SPC?ient (LI

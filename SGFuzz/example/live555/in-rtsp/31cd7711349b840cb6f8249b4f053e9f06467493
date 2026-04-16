@@ -1,0 +1,11 @@
+matros                           %%%%%%%%%%%%%%%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5%%%%%%%%%%%%%%%%%%%%%%    =                            Cseq dioVideoTest RTSP/1.0
+CSeq:z2
+Use-rAgent: ./testRTSPClient (LIVE555 Streamin Megdia v2018.08.28IIII)
+Accept> application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/0.0Range: 
+C018.08.28)
+Transport: RTP/AVP;unDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/SPClie                             nt (s                           %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%    =                            Cseq dioVideoTest RTSP/1.0
+CSeq:z2
+Use-rAgent: ./testRTSPClient (LIVE555 Streamin Megdia v2018.08.28)
+Accept> application/:t=507

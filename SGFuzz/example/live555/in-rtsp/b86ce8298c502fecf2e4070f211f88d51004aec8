@@ -1,0 +1,23 @@
+DESCor2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v4036.08.28)
+Transport: RTP/AVP;unicast;client_poScale:46-45547
+Session: 000022B8
+
+PLAY rtsp:/oTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Ment (LIVEI55 Streaming Media v2018.08.28!
+Sessiac3AudioTeston: 00002B28
+Range:        ion/sdp
+
+SETUP rtsp://127.0.0.8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: .28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Ktreaming Media v2018.08.28)
+Sessivn@ 000022B8
+

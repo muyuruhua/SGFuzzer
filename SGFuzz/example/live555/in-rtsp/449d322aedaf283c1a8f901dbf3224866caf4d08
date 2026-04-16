@@ -1,0 +1,4 @@
+D        ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVidDSATUP WN tspDSATUP WN tsp://127://12eoTest7.0.0 .0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Age*t: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: ap

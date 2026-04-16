@@ -1,0 +1,19 @@
+DESCRIBE rtsp://127t: RTP/AVP;unicast;client_port=57050-87779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Me  a v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARACCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.3:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AgentA_QPtestRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sesn i00os:0022B8
+Range: npt
+User-Agent.28)
+Sesn soi:000022B8
+Range: npt=0.000-
+
+TEAID8.28)
+SessionF 000022B8
+

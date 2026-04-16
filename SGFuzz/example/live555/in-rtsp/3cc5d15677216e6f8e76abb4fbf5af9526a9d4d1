@@ -1,0 +1,12 @@
+DSATUP WN trp://127.0.0.1:8554/mpeg1or2AudioVidTransport        TSP
+CSeq: 5
+User Streaming RTSP/1.0018.08.28)
+Session: 000022B8matroska23B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User Streaming R                                                        Y      0.0.1:8554/mpeg1or                                          2Au33333d000022B8ioVideoTest/ RTSP/1.Hr
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE110 S5 Streaming M0779
+
+SETUP rtsp:/sp://126.0.0.1             stRT5 StreamAng Medi33333333333333333333333333@33333333333r2nt

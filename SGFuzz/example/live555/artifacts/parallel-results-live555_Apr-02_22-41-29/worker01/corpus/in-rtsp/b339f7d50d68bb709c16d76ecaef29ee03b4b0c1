@@ -1,0 +1,11 @@
+D/mg2AudioVid    n//127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0ent (LIVE55 5Stpeaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP eg1or2AudioVideoTest RTSP/1.0ent (Lplication/sdp
+
+SETUP rtsp://1er-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEA55 S2018.08.28edia v2018.08.28)
+Session: 000022g Media8^

@@ -1,0 +1,26 @@
+D WESCRIBE rtsp://127.0.0.1:8554/mpeg1o"r2Auk2 RTSP/1.0
+CSeq: 4
+Use RAgent: ./testRTSPClient (LIVE555 Stre$aming Media v2018.08.28)
+Transport: R>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>: Media v2018.08.2TP/AVP;unicast;client
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Media v1009.08.28)_port=45546-45547
+Session: 000022B8
+
+DEREGISTER 554/mpeg1or2AudioV===track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Stre$aming Media v2019.08.28)
+Transport: R: Media v2018.08.2TP/AVP;unicast;client_port=45546-45547
+Sessi=======}===========================================ideoTest/track1 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 StrTEARDOWNS ./testRTSPClient (LIVE555 StrTEARcale: Medil v2018.08.28)
+Transport: RTP/AVP;unicacale: Medil v2018.08.28)
+Transport: RTP/AVP;un/AVP;unicacale: Medil v2018.08.28)
+Transport: RTP/AVP;unicast;cl v2018.08.2TP/Session: 000022B8
+Range: nptAVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+DEREGISTER 554/mpeg1or08.28                                                           )
+Session: 000022B8
+Range: npt=0.000-
+
+UEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ R

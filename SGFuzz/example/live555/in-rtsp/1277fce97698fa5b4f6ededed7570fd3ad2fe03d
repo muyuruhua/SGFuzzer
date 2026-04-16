@@ -1,0 +1,20 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Usedia v2018.08.2(8)
+Transport: RT /AVP;unicast;client_port=09309-50S
+
+82)Accept: application/sdp
+
+SETUP rtsp://.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+UsSETUPer-Agent: ./testRTSPClient (LIVE555 Streami      IMent (LIVE555 Streami      IM
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVEI55 Streaming Media v2018.08.28!
+Session: 00002B28
+Range: npt=0.0-0
+0
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudoiiVdeoTest/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Strea.0.1:8554/k2 RTSCoDESCRIBE rtsp://1nt

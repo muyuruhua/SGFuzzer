@@ -1,0 +1,19 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCliAcceptent (LI+VE555 Streaming Media v2018.08.28)
+Accept: applicationAVPp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StrwebmFileTest v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=5        0778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe5 StrwebmFileTest v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=5        0778-50779
+
+SETUP rtsp://127.0.0.11:8554/mpeg1or3AudioVide$Test/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018I.08.28)
+Transp'rtGET_PARAMETERcast;client_po3
+User-Agent: ./testRTSPCrt=45546-45liedia v2018.08.28)
+S547

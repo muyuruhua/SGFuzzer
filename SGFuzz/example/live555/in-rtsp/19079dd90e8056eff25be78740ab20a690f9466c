@@ -1,0 +1,20 @@
+DRange: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVidenTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media 55 Streaming Media v2018.08.28)
+Trorspnta: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.P/1.0
+C  (  3
+Use?-Agentrt: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://17.02.0.1:8554/mpeg1o2rAudioVideoTesE555 Stream    ing Media v2018.08.28)
+Session: 010022B8
+Range: npt=0.000-
+
+TEAt/ RTSP/1.0
+CSeq: 5
+User-Agent: ./te)tRTS         PClient (\IVE555 Stream    ing Media v2018.08.28)
+Session: 010022B8
+Range: npt=0.000-
+
+TEARDOnicast;client_port=50.0.1:8554/mpeg1or2A07ud7i

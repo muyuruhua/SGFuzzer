@@ -1,0 +1,13 @@
+D    ESCRIBE rtsp://127.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0E555_Streaming Media v2018.08.23)
+TransporX: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0a 3AudioTest
+CSeq: 5
+UserMx  -Agent: ./test8)
+Transport: RTP/AVP;ustdinnicast;client_port=4000025546-455dp
+
+SETUP rAudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 St	      _Media v20188208)..
+Wransport: RTPx-playNow:/AVP;uni
+

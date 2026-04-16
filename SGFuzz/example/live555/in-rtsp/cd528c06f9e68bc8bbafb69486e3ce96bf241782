@@ -1,0 +1,14 @@
+DESCRIBE
+Us                              er-Agent: ./tesETUP rtsp://127.0.0.1:8554/mpeg1or2Audi55 Streaming ia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR itraSemng Medi0022B8
+
+PLAY <tsp://127.0.0.1:85mp55/ag1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE110 Streaming Media v2018.08.28)
+Session: 0.0
+CSeq: 6
+User-Agent: ./testRTSPClieOPTIONSnt (LIVE555 Streaming M: RTP/AVP;unicast;client_port=50778-50S
+28)
+Accept: apppI  lication/sdp
+
+SETUP unic://2nt

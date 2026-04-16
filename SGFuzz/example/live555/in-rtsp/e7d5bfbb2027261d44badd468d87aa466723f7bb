@@ -1,0 +1,23 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoient_RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2TEARDO 0
+CSeq018.08.28)
+Accept: application/sdp
+
+SETU1.0
+CSeq: 5
+User-Agent: ./testRTSPClient TEARDOWN Streaming Media v2018.087.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient TEARDOWN Streaming Media v2018.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20tra08.28)-SP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient TE.0.0.1:8554/mpeg1or2AudioVideoTest/                                                                                                                             [TSP/1.0
+CQeq: 5
+User-Agent: ./tesRTSPCl ni(etLIVE5
+Sessivn@ 000022B8
+

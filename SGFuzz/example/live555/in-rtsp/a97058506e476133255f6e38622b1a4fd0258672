@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2y   AudioVideoTest RTt (LIVE5SP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE277 1Streamin./testRTSPClient (LIVE277 1Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:855em4g/p1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022nt (LIVE npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1oCseqdist/ RTSP/2.0o
+CSeq: 6
+User-Ag
+UsContent-Length:tRTSPClient (LIVE1ssivn@ 000022B8
+

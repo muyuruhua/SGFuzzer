@@ -1,0 +1,34 @@
+DSATUP WN tsp://127.0.0.1:8554Acceptor2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://126.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;c
+TEARDOWN rtsp://127.0.0.1:8554/    N _                         #                2Au3J333d000011B8io!ideseoTt/ RTSP/ p:/sp://127.0.0.1:8554/mpeg1or2A dioViTCPTfst RTSP/1.0
+CSeq: 2
+User-Agent:DU       rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClien$ (LIVE555 Streaming Media v:2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=+45546-45547
+Session: 000022B8
+
+  &_ rtwp://127.0.0.1:8554/mpeg1or2Au .Q -+N StreamdioV`deoTest/ RTSP/1.0
+CSe E_Jru* er-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mping Med
+
+SETUP rt33333333333333333eg1or3AudioVideoTest/ RTSP/1.0
+CSeq: 6
+333333User-Ag3ent: ./testRTS

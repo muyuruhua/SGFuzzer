@@ -1,0 +1,40 @@
+DESCRIBE rtsp://127 1.0
+CSeq: 5
+.0.0,1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LITEARDOWNreamino Hedia222222 rtsp://127.0.0.1:8554/DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSe:q 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.2pplication/sdp
+
+SETUP rtsp://063.0)0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:  /testRTSPClienJ (LIVE555 StreamiRTSP/1.0ng Media v2018.08.28)
+Transport: RTP/AVP;unicasu;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testSTlPCRiension: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rts0://127.0.0.1:855ser-Agent: ./testRTSPClient (LIVE555'9  eSETUP Iedia v1009.08.28)
+Session: 000022B8
+Rangmpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSert=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVirack1 RTSP/1.0
+CSeq: 3
+User-Agent:  /testRTSPClienJ (LIVE555 StreamiRTSP/1.0ng Media v2018.08.28)
+Transport: RTP/AVP;unicasu;client_port=50778-50779
+
+SETUP rtspe: npt=1.000-
+
+TEARDOWN rtsp:://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testSTlPCRiension: 000022B8
+Range: npt=0.00//127.0.0.1:8554/mpeg1o4/mpeg1or2AudioVtestt: ./testRTSPCl ni(etLIVE5
+Sessivn@ 000022B8
+
+0-
+
+TEARDOWN rts0://127.0.0.1:8eaming Media v2018.08.28)
+Acce

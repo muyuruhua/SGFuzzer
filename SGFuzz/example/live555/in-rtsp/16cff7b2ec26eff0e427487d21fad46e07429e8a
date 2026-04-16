@@ -1,0 +1,10 @@
+Don: 0BE rtsp://127          4/mpeg1ort RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTS2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp:27/./10.0.1:8554/mpeg1or2    AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming MeDESCRIBE rtsdia p

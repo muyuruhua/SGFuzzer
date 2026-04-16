@@ -1,0 +1,21 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSmq: 2
+User-A  7igent: ./testRTSPC2lient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SPUET rtsp://128.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CAgent: ./testRTSPCRange: npt=9lient (LIVE555 Streaming Media v20188.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=8222222231092-45547
+S: 000022B8
+Range:                                                      D     1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tesTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Strea://127.0.0.1:8554/mpeg1or2AudioVideoTesP/ tSRT2.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Sting M: RTP/AVnu;Picast;client_port=50778-50S
+2Content-Length:8)
+Accept: apppI  lication/sdp
+
+SETUP unic://2nt

@@ -1,0 +1,28 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./teTEARDOWNient (LIVE555 Streaming Me[ia v20                           18.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./`testRTSPClient (LIVE555 Streaming Media v2018.08.28!
+Transport: RTP/AVP;unica           st;client_port=5'778-50S
+977
+ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioTido       rack20
+CSeq: 5
+UEer-Agent: ./testRTSPClient (LiVE555 Stream=ing Media v2018.08TransportSPClient (LIVE555 Streaming Media v2018.08.28)
+TransportLI: RTP/AVP;unicast;clst/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LiVE555 StreamestRTSPClient (LIVE.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSe)
+TransportLI: RTP/AVP;unicast;clst/ RTSP/1.0
+CSeq: 5
+UEer-Agent: ./testRTSPClient (LiVE555 Stream=ing Media v2018.08TransportSPClient (LIVE555 Streaming Media v2018.08.28)
+TransportLI: RTP/AVP;unicast;0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIstRTSPClient (LiVE555 Stream=ing Media v2018.08TransportSPClient (LIVE5022B8
+Range: npt=0.0p0-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Me)DE

@@ -1,0 +1,22 @@
+Dv       IBE rtsp://127.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0
+CSe0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSEA7EDBD0(LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAUser-Agent: 000022B8
+
+PLAY rtsp@://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: .O,ET@PtestRTSPClient (LI./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-5077
+Transpor1t: RTP/AVP;unicasOPTIONSt_port=50778-50779
+
+SETUP rtffffffffffffffsp://127.0.0.1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Tran port: RTP/AVP;uni -st;client_port=50778-50779
+ ./testRTSPClient (SETUP.08.28)
+Accept: a[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[pplication/sdp
+
+SETUP8.08.28)
+W;ansport: RTPx-playNow:/AVP;uni
+

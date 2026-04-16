@@ -1,0 +1,10 @@
+zSession: t RTSP/1.0
+CSeq: 2
+User-Agent: ./tesOtRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicationAVPp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest0023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.ast rtsp://127.0.0.1:8554/mpeg1or2Aud4/mpeg1or2AuoVideoTest/ RTSP/1.0
+CSeq.0
+CSe

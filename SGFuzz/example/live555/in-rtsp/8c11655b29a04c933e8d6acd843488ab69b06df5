@@ -1,0 +1,46 @@
+eaming Me1 ir02ad8.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE556 Streaming Media v2018.08.28)
+8.Content-Length:000ro  22B8
+Range: npt=0.8.Content-Length rtsp:    7.0.0.1:8554/mpeg1or2AudioVidoVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Me1 ir02ad8.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1 Media v2018.08.28)
+8.Content-Length:000ro  22B8
+Range: npt=0.8.Content-Length rtsp:    7.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming /sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;clien04.28)2018.08eq: 5
+User-Agent: ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C  ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C      .0.0.1:8554/mpeg1or2Au   )    Test/ RTSP/0.0
+CCeq: 6
+\ser-Agent: ./testRTSPClient (LIVE555 Streaming testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2Audist/`*TSP/1.0
+CSeq: 6
+User-Ag
+UsContent-Length:tRTSPClienteaming Media v4036.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+TEARDARAMET	C      .0.0.1:8554/mpeg1or2Au   )    Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20tra08.28)-
+Session: 000022B8
+

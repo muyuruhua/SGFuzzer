@@ -1,0 +1,23 @@
+DUser-Agentsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRT5 Streaming Mefia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSP>lient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range:sd.
+
+S                      ETUP rtspDESCRIBE rtsp://1oVilien  t/ RTSP/1.0
+CSeq: 5
+User-tRT5 Streaming/ Media v2018.00
+CSeq: 5
+User-Agent: ./testRTSPClient (LUP rtspDESCRIAgent: ./testRTSPClient (LIVE55

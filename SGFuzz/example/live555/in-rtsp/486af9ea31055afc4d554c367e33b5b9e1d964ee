@@ -1,0 +1,15 @@
+DESCRIB.1:8554/mpeg1or2AudioVideoT WN tsp://127                                          .0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Use)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+M
+ RTSP/ng Media v2018.ser-Agent: ./testRTSPClien\\\\\\\\\\\\\\\\\\\\\\\t (LIVE277 Streaming Media v2018.08.)28
+Transport: RTPIAVP;unicast;client_port=45GEA_TPMERATERssion: 000022B8
+
+PLAY rtsp://127t: application/sdp
+
+SETUP rtsp/.7:/210.0.1:8554/mpeg1or2AudioVideoTest/traPClient (LIVE555 Streaming Media v2018.08.28)
+Sessi18.08.28)
+Session: 000022B8
+Range: npt=0.00022B8
+

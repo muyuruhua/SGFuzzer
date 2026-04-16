@@ -1,0 +1,3 @@
+D      UMrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+       cnt: ./testRTSPClient (LIVE555 Streaming MeideoDESCRIBE rtv2    08.s

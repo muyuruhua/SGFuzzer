@@ -1,0 +1,14 @@
+DESCRIBE vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenRTPContent-Length:ient (LIVE5S 55t7554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+maGET_PARAMETERtstR7.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+       
+SDESCETUP;clientRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSP_porCli

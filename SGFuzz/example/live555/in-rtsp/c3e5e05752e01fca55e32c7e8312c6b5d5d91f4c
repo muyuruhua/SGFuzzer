@@ -1,0 +1,39 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes554/mpeg1or2Audioent_povt=50778:50779
+
+SETUP rtsp://12nt (L7.0.0.1:8554/mpeg1or2AuodiVideoTest/track2 RTSP/1.0
+CSeq: 2
+User-Agent:50779
+
+SETUP rtsp://12nt (L7.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+Ct RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCliudioVideoTest/track1ent (LIVE555 Stream.ing Media v2018.08.28)
+Transport: RTP/AVP;unicast;cliOWN0rtsp://127.0.0.1:8554/mpeg1or2Audioent_povt=50778:50779
+
+SETUP rtsp://12nt (L7.0.0.1:8554/mpeg1or2AuodiVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:50779
+
+SETUP rtsp://12nt (L7.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+U ./testRTSPCnltei (LIVE555$Streaming Media v2018.08   /1.0
+Ct RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCliudioVideoTest/track1ent (LIVE555 Stream.ing Media v2018.08.28)
+Transport: RTP/AVP;unicast;cliOWN0rtsp://127.0.0.1:8554/mpeg1or2Audioent_povt=50778:50779
+
+SETUP rtsp://12nt (L7.0.0.1:8554/mpeg1or2AuodiVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:50779
+
+SETUP rtsp://12nt (L7.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+U ./testRTSPCnltei (LIVE555$Streaming Media v2018.08    
+Transport: RTPSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming M 
+Transport: RTPSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

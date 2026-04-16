@@ -1,0 +1,28 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIVE555 Streaming Media v20ac3AudioTest18.08.28)
+Trov201 .08.28)
+Transport: RTP/AVP;unicast;client_port=46-45547
+Session: 0020022B8
+
+SET_PARAMETER PLA.0.0.1:855AY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-PLAYt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000/
+
+TEARDOWN rtsp://127.0.0.1:855nsport: RTP/AVP;unicast;client_port=46-45547
+Session: 0020022B8
+
+SET_PARAMETER PLA.0.0.1:855AY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-PLAYt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000/
+
+TEARDOWN rtsp://127.0.0.1:8554/m8peg1or2AudioVmatroskaFileTest.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sessivn@ 000024/m8peg1or2AudioVmatroskaFileTest.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sessivn@ 000022B8
+

@@ -1,0 +1,10 @@
+D- CRIBE rtsp://127.0.0.1:8554/mpeg1or3AudioVideoTest TSUser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClient (LIVE555 Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2118.08.28)
+Transport:ERssioContent-Length:PLAYer-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)'Ac0ept: application/sdAudioVideoession: 000022B8
+RangwavAudioTeste: npt=0.000npt=0.000-
+
+022B8
+

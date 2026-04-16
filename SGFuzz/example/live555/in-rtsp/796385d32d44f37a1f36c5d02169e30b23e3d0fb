@@ -1,0 +1,35 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.055 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-42773
+SeSSSSSSSSSSSSSGGGGSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSQSSSSSSSSssion: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1ort;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://SSSSSSssion: 000022b8
+
+PLAY rtsp://127.0.0.1:855O/mpeiog1or2AudioVideo000-
+
+TEARDOWN rtsp://127.0.0
+User-Agent: ./testRTSPClient (LIVE555 Streaming Mudia v2018.0 .2AudioVideo000-
+
+TEARDOWN rtwp://127.0.0
+User-Agent:AudioVideo000-
+
+TErt=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.055 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-42773
+SeSSSSSSSSSSSSSGGGGSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSQSSSSSSSSssion: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1ort;client_port=45GET_PARARDOWN//127.0.0
+User-Agent: ./testRTSRClient (LIVE555 Streaming Mudia v2018.0 .2AudioVideo000-
+
+TEARDOWN rtwp://127.0.0
+User-Agent:AudioVideo000-
+
+TEARDOWN rtwp://127.0.0
+User-Agent: ./testRTSPClie(LIVE555tS ream`ng Mudia v2018.08.28)
+Session555tS beam
+

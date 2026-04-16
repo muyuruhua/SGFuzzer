@@ -1,0 +1,38 @@
+oTEARDOWN rtsp://127.0.0.1:8554/mpegng Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_poia v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtspansport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000012B8
+
+PLAY rtsp://127.1.0.1:8554/mpeg1or2AudioVidicast;client_port1D9848690779
+
+SETUP rtsp://127.0PClient (LIVE555 Streaming Media v2058.08.28)
+Transport:' RTPIAVP;unicast;client_port=45Gp://127.0.0.1:8554/mpegng Media v2018.08.28)
+Transport: RTPIAVDESCRIBE rtsp://127.0.0.1:8554/mpeg1o1r2AudioVideoTest R                       TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpep1or2AudioVideoTest/track1 RTSP/1.0
+CSeqF_Lp
+User-Agent: ./testRTSPClient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/Aing Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streamiqg Media 820.1v08.28)
+Session: 000022B8
+
+                TSP/1.0
+CSeq: 2
+User-Agentast;client_port=45GET_PARAMEYERsion: 000022B8
+
+PLAY rtspansport: RTPIAVP;unicast;ET_PARAMETERsegng Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_poia v2018.08.28)
+Transport: RTPHAVP;unicast;clei_ntport=45GET_PARAMETERssion: 000022B8
+
+PLAY rtspansport: RTPIAVP;unicast;client_port=45GET_PARAMEYERsion: 000022B8
+
+PLAY rtspansport: RTPIAVP;unicast;client_port=45GET_PARAMETERssio/tes8
+

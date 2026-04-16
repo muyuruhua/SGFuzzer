@@ -1,0 +1,17 @@
+OPTIONS W     tsp:                      //127.0.0.1:8554/og1empr2AudioVideoTest RTSP/1.0
+CSeq: 2
+Usez-Agent: ./test/TSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTS%/1.0entTCPIVE555 Streaming Media v208ient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.L8)
+Transport: RTP/AVP=unicast;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest1:8554/mpeg1or2AudioV1.08.28)
+Accept: application/sdp
+
+SETUP rtsp://2er-Agent: ./testRTSPClient (LIVPLAYE555 SbbbbbbbbbbbbSP/1.0
+CSeq: edia v1V8.08.27)
+Session: 000022BRrur

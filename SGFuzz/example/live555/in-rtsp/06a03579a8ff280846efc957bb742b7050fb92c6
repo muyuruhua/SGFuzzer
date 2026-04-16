@@ -1,0 +1,19 @@
+D      WDrtsp://127.0.0551.84:/mpeg1or2AudioVideoestRTSPCl
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5 
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+RangeAgent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sesion: 000022B8
+
+PLAY rtsp://127.0.0. :8554/mpeg1or2Aud: npt=0.000-
+
+TE:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5 
+User-Agent: ./testRTSPClie/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tbstRT55eoTest/ RTSP/1	0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.00DESCRIB.28

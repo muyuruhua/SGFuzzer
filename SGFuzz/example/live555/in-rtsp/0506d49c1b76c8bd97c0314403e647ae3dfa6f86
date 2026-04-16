@@ -1,0 +1,22 @@
+DCseqESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Aud oVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE5dia v2CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Trng Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127ansport: RTP/AVP;unicast;client_port=45GET_PARA        METERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session54/mpeg1or2Au ioVideoTest/ RTSP/1.0
+CCeq: 6
+User-Agent&Q      RoTesTSPCli/nt (LIVE555 Streaming Media v2018:08.28)
+Session: 000022B8
+

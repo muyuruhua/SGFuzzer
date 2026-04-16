@@ -1,0 +1,12 @@
+D "ESCRIBE 778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssio0n :00022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/1.   Seq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming MediaDESCRIBE rtsp://127.0.0.1:85IVE555 Streaming Media v2018PO8.28)
+Transport: RTP/AVP;unicast;clieRTSP/1.0nt_port=25389-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1User-Agent: ./testRT S

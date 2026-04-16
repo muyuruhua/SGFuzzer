@@ -1,0 +1,16 @@
+DSession:rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0eC
+Sq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accep t;client_port=45GET_PARA        METERssiox-playNow:8
+
+PLAY rtsp://127.0.0.1:85t: application/sdp
+
+SETUP rtsp://127.0.0R1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tes.RTSPClient (LIVE5dia v2018.08.28)
+Transport: RTP/AVP;unicast;cl/ent_povt=50778-50779
+
+SETUP rtsp://2107..0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Stseaming Media v2018.08.28)
+Transport: RT

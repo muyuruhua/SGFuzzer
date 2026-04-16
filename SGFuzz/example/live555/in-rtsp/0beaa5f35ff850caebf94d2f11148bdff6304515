@@ -1,0 +1,25 @@
+D  CRIBE rtsp  ://127.0.0551.84:/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTS       j(LIVE55r-Agent: ./testRTst;client_port=45GET_PARAMETERssioContent-Length:PLAY rtsp:/client_port=90GET_PARAME ERssion: 000022B8
+ 
+PLAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPC' ent (LIVE554 Streamient_port=50779-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555r Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.    8)
+Session: 000022B8
+Range: npt=5.0
+
+-T00EARDOWN rtsp://137.0.0.1:8554/mpeg1or2Audi                                                                                          oVideVEoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.00.28)
+Sessivn@ 000022B8
+

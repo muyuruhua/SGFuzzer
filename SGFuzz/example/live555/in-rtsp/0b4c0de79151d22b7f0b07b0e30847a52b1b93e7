@@ -1,0 +1,9 @@
+z t RT/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2zudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test!RTSPClient (LIVE972 Stream45GET_PARAMETERssion: 000022OPTIONSB6
+
+PLAY rtsp://128.0zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz:zzz.0.1:4277/mpe N 2AudioVideoRange: npt=9Testj
+      .0
+C        Se

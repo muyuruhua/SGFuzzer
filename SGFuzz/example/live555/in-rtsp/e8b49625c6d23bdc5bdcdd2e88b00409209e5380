@@ -1,0 +1,18 @@
+DESCRIBE rtsp:/ent (LIVE555 Streaming Media v2019.08.28)
+Accept: application/sd`p
+
+SETUP rtsp://127.0.0.1:58ETUP rtsp://127.0.0.1:8554/mpeg1[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[18.08.28)
+Transport: RTPIAVP;unicast;client_port=45GETSETUP        on: 00002M2B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeCRIBE rq: 5
+UseRange: npt=9estRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022Btsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRT5 Streaming Media v2018.08.28)
+Accept    : application/sdp
+
+SETUP rtspDESCRIBE rtsp://2oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Ag8
+Ranegen

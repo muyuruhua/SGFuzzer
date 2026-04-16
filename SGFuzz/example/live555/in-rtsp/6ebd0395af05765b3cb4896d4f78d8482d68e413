@@ -1,0 +1,30 @@
+DTCPRIBE rtsp://127.0.0.1:8Rssion: 000022B8
+
+PLAY rtsp://127.AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCli[nt (LIVE555 Streaming Media v4032068.8.)
+Session: 000022B8
+Range: npt=0.000-
+
+				ing Media v8072.08.28)
+Transport: RTP/AVP;unicast;clienSl_opacte56-54:447
+Session: 000219B8
+
+PLAY rtsp://1.700..21:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq:																																																																																		TEARDOWN rtsp://126.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 St#eaminSession:v2018.08.28 DESCRIBEn: 000022B8/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v4032068.8.)
+Session: 000022B8
+Range: npt=0.000-
+
+				ing Media v4036.08.28)
+Transport: RTP/AVP;unicast;clienSl_opacte56-54:447
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/)peg1or2AudioVideoTest/ RTSP/1.0
+CSeq:																																																																										webmFileTestDOWN rtsp://126.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq****************: 3
+User-Agent: ./testRTSPClient (LIVE555 St#eamiContent-Length:nSession:v2018.08.28 DESCRIBEn: 000022B8
+

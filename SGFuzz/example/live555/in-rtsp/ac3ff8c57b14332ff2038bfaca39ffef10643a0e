@@ -1,0 +1,30 @@
+DR gaen:npt=9://127.0.0.1:8554/mpeg1or2AudyoVideoTest RTSP/1.0
+C Streaming Media v2E018.08.28)
+Session: 010022B8
+Range: npt=0.000-
+
+DEREGISTER t;port=50778-50779SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq* 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2Au.0.0.1:8554/mpeg1or2AudioTEARDOWJVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPC&lient (LIVE555 Str    ng Media v2018.08.28)
+Accept: app      Ad/sdp
+
+SETUP rtsp://127.0.0.1:8554/meo1g2rpAudioVideoTest/track1 RTSP/1.0
+=============================CSeq: 3
+User-Agent: ./testRTSPClient (LIVE/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 S v2018.08.28)
+Transport:"RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tTCPestRTSPClient (LIVE555 gent-50779SETUP rtsp://127.0.022B8
+Range: npt=0.000-
+
+DEREGISTER t;port=50778-50779SETUP rtsp://127.0.0.1:8554/mpeg1or2AudiSETUPoTest/track2 RTSP/1.0
+CSeq* 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTers-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent:!./testRTSPClient0.0.1:85 RTSCoDE 0022B8
+

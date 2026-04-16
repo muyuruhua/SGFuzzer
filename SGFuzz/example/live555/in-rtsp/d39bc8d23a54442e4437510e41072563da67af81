@@ -1,0 +1,12 @@
+D    ESCRIBE rtspSET_PARAMETER8554/mpeg1or2AudioVideoTest STSP/1.0
+CSeq: 2
+User-Agent: .Q -+6PClient (LIVE555 Streaming Medi v2v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StreaminTransport2018        
+Transport: RTPzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzient (                                LIVE555 Streaming Media v2018.08.28)
+r-Agent: ./testR^SPClient (LIVE555 Streaming Media v2018..)8820
+Session: 000022B8
+

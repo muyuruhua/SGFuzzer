@@ -1,0 +1,9 @@
+D$  <ESCRIBE rtsp:/ent (LIVE555 Streaming Media v2019.08.28)) ccept: application/sdp
+
+SETUP rtsp://997.0.0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: .08.2z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Wtreaming Media v2018.08.28)
+Acce8)
+Accept: applipc

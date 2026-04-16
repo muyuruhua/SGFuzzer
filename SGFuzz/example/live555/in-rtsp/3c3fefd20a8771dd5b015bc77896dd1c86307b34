@@ -1,0 +1,24 @@
+DUser-AgentESCRIBE rtsp://1272018.08.28)
+Accept: applicatioE555 St#eaming rtsp://127.0.0.peg1or2AudioViteeoTds/wavAudioTest RTSP/1.0
+CSeq: 5
+UsGET_PARAMETER||||||||||||||||||||||||estRTSPClient (L27)
+Accept: a1:8554/mpeg1or2AudioVideoTest54/mpeg1or2AudioVideoTest/ )+,/PNQO
+CSeq:
+5U ser-Agent: /track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v201DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.08.08.28)
+Transport: RTContent-Length:P/AV555 Streaming Media v2018.08.28TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT555 Streaming Media v2018.08.28)
+Session: 0sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/)1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIOE056 Strea     Media v2018.7b   `_ 08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClie7t (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;}nicast;client_port=45GET_PARAM=TERssion: 000020002#B8
+Range: npt=0.000-18.08.28)matroskaFileTest
+Sess-on: 000022B8
+

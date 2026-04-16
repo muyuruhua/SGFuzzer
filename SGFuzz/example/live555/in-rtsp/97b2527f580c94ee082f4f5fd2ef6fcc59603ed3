@@ -1,0 +1,29 @@
+D  CRIBE rtsp://127.0.0555 StreamingSCRIBE rtsp://127.0.0555 Streaming Media v2018  .0828.)
+1ccept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Audi55 Streaming MediaRTSP/1.0
+CSeN: 3
+User-Agent: ./testRTSPClient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;clieft_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSAClse000022B8nt (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR itraSemng Medi0022B8
+
+PLAY rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tes    ing Media v2018.08.28)
+Transport: RTP/AVP;unicast;clieft_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSAClse000022B8nt (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR itraSemng Medi0022B8
+
+PLAY rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tes    PClient2b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RRange: npt=0.0004/mpeg1or2An: 000011B8
+

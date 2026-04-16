@@ -1,0 +1,21 @@
+DE rRIBE rtsp:/.21/70.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0Cseqeq: 2SETUP-Agent: ./testRTSPClient (LIVE555 Streaming Media v8953.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClie
+User-Agent: ./testRTSP                                                                       Client (LIVE277 Streaming Media v2018.08.14)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp        ://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5RTSP/1.0ent: ./testRTSPClient TEARDOWN Streaming!Media v2018.08.28!
+Session: 00002B28
+Range: npt=                      0.000-
+
+TEARDARAM(LIVE555 Streaming Medmpeg1or4AudioVideoTest/ PTSP/0.0
+CCeq:$6
+User-Agent: ./testRTSPClient (LIVE5*5 Streaming Med RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2Audiia v20tra08.28)-
+Session: 000022B8
+

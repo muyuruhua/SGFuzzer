@@ -1,0 +1,34 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streamiest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+TrawebmFileTestAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mperA21goudioVideo      B?Test/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIV&277 Strea://127.0.0.1:8554/mperA21goudioVideo      B?Test/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTRTSPClient (LIVE555 Stria v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wavAudioTest RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCli/testRTSPClient (L27)
+Accept: a1:8554/m/teBstRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022pt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Agent: ./testRT6PClwebmFileTest5 Streamigent: ./testRTRTSPClient (LIVE555 Stria v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wavAudioTest RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCli/testRTSPClient (L27)
+Accept: a1:8554/m/teBstRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022pt=0.000-
+
+TEARDOWN rtsp:ng Media v2018.08.28)
+Session: 000022B8
+

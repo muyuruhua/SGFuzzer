@@ -1,0 +1,15 @@
+Dt_port=50778-0Pp://123.0LIGET_PARAMETERVE55r2`AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 00002A2B8
+
+PLAY rtsp://127 0$0.1:8554/mpeg1or2AudioVidemTest/ RTSP/1.0
+CSeq: 5
+User-Ag:tt.neTEARDOWNPClient (LIVE555 Str         eaming Media v2018.08.28)
+SesCSeq:User-Agent
+Range: npt=0.000-  
+TEARDOWN rtsp://127.0.0.1:8555/mpeg1or3audioVideoTest/ RTSP/1.0
+CSeq: 6
+UsEr-Agent: ./SET_PARAMETERt (LAge555 Streaming Media v2018.08.28)
+Sesscan: 000022B8
+

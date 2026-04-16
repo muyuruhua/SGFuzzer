@@ -1,0 +1,12 @@
+DESCRIBE rtsp://127.0.0.1:8554/m{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{_port=45546-45wav1.0
+CSeq: 2
+User-Agent: ./tesVideoTest/ RTSP 1.0
+CSeq: AudioTest: 000022b8
+
+PLAY rtsp:eaming Media v2018.08.28)
+Accept: appStreaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rts//127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1SET_PARAMp://814.0.0ETER/0
+CSeq: 5.1
+U:8

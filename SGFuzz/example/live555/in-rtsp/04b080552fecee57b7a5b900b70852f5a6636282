@@ -1,0 +1,19 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2 .08.28)
+Transport: RTP/AVP;unicast;client_potr=45GET_PARAMETERssion: 000022B8   08.28)
+Accept: applPLAYication/sdp
+
+SETUP rtspdia v2018.08.28)
+Accept: applicaTEARDOWN
+
+SETUP rtsp://701.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClie
+User-Agent: ./testRTSPClient (LIVE277 Strea                                    ming Media v2018.08.28)
+Transport:R TP/AVP;unicast;client_port=45GET_PARA.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp:/SEKUP/127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTnt: ./testRTSPClient (LIVE555 Streaming Media v20tra08.28)-
+Sess55555555555B8
+

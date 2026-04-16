@@ -1,0 +1,7 @@
+DESCRIBE rtsp://127.0.0.1:8554RTSP/1.0/mpeg1or2AudioVideoTest RTSP/1.0 
+C!eq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: application/sdp
+: RTP/AVP;unicast;client_port=50778-50Sication/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESC                                                         rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr          RIBE rtsp://1p://1nt

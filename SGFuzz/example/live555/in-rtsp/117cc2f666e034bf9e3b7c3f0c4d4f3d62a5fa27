@@ -1,0 +1,4 @@
+DEICRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq:ser-Agent: ./twavAudioTestestRTSPCltRTSPClient (LIVE555 Streaming Media v2SETUP01022B88.08.28)
+Session: 000022B8
+

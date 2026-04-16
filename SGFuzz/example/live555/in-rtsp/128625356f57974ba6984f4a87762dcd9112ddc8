@@ -1,0 +1,15 @@
+Dac3AudioTestESCZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeSETUM     BE r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://Cseq0.0.peg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (L27)
+AcceCseqapplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTestOPTIONS/track1 RTSP/AVP1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming MA%%%%%%%%%%%%%%%%%%%%DESCRIBE%%User-Agent%%%%%%%%%%%%%%                                         %%%%%%%%%%%%%%%%%    =              kaF
+RTSP/0.0ileTest
+
+ovt=50778-ort: RTP/AVP;unicas.0ileRTSPClient (LIVE556 Streaming Ment_edia v2port=50077188.0

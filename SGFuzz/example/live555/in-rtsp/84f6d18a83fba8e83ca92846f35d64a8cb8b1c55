@@ -1,0 +1,30 @@
+DOPTIONSRIBE rtsp                                                                                                                            ://127.0.0.1:8554/mpeRTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVEI55 Streaming Media v2018.06.28!
+Session: 00002B28
+Range:        ion/sdp
+
+SETUP rtsp://127.0.0.8554/mpeg1or2Au%ioVideoTest/ RTSP/1.0st/ RTSP/1.0
+CSeq: 5
+User-Agent: ./te(tRTSPClient (LIVEI55 Streaming Media v2018.08.28!
+Session: 00002B28
+Range:        ion/sdp
+
+SETUP rtsp://126.0.0.8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CRTSPClient (LIVE555 Streaming Media v2018.n/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:`./testRTSPClient (LIVE555 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;cliRange: npt=989-5-779
+
+SETUP rtsp://1 27.0.0.1:8554/mpeg1or2Au Media v4029.00-
+
+TEARDOWN rtsp://127.0.2.1:8  555/mpeg1or2AudioVAAAAAAAAAAAAAAAAAAAAAAAAAAideoTest/ RTSPAMETERt (LIVE555 Streaming Media v2269.08.28)
+Session: 0
+Se:osins 00002B28
+Rang%/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2SETUP018.08.,8)
+Session: 0000 Y22B8
+

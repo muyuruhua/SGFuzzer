@@ -1,0 +1,13 @@
+D$C      ESCRIBE rtsp://127.0.0.1                                       %                                                              
+User-Agent: ./tesT
+CSeq: 5
+User-MgeContent-Length:nt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+E
+RATDOWN rtsp://126.0018.08.28)
+Transport.1:Range8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq2 3
+User-Agent: ./testRTSPClzient (LIVE555 StreaSession: 8)
+Session: 000022B8
+

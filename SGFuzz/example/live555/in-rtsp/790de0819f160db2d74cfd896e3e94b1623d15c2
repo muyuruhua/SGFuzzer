@@ -1,0 +1,21 @@
+Dent (LIVE555 St127.0.0.1:J554/mpeg1or2AudioVideo08.28)
+Accept:      ~ Cion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/AVP;unicast;client_port=4554v-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:855qI  eg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE155 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:6/127.0.0.1:8554/mpeg1or2Audist/ RTSP/1.0
+CSeq: 6
+User-Ag
+UsContent-Length:tRTSPClient (LIVE110 Streaming ?edi; v2018.08.28)1
+Sessivn@ 000022B8
+

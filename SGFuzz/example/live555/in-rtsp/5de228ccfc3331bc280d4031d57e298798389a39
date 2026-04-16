@@ -1,0 +1,24 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming oVideoTest/track1 RTSP/1.0
+CSeq: 3
+Us2018.08.Content-Length:00022B8
+Range: npt=0.8.Content-Length:00022B8
+Range: npt=0.000-
+
+TEARDOWN     rtsp://127.0 7.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 St:reaming /sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoStreaming oVideoTest/track1 RTSP/1.0
+DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoT WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVTransportnE555 Streaming Media v3    08.28)
+Accept: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeapplication/sdp
+
+SECSeq: 3
+Us2018.08.Content-Length:00022B8
+Range: npt=0.8.Content-Length:00022B8
+RanPAUSEge: npt=0.000-
+
+TEARDOWN     rtsp:TUP rtsp://128.0.5.1:8554/mpeg1or2AudioVideoT//127.0 7.es0.0.1:8t/tr

@@ -1,0 +1,40 @@
+DwavAudioTest://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport:               RTP/AVP;unicast;client_port=50752-08.28)
+Session: 000022B8
+Rapt=0.000-
+
+
+
+TEARDOWN rtsp://TEARDOWN rtsp://127.0.0.1:855 ./testRTSedia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+
+
+TEARDOWN rtsp://TEARDOWN rtsp:/                                                                     /127.0.0.1:855 ./testRTSPCl0.0.1:8554/ming Media v2018.q: 5
+User-Agent:PCl0.0.1:8554Q  g Me0d28vi1a .estRTSPCl0.0.1:8554/ming Media v201
+
+
+
+TEARDOWN r50779
+SETUP 
+SETUP rt      .0.0.1:8554/mpeg1or2AudioVideoTest/track       s1.0
+CSeq: 4
+User-AgenC
+CSeq: 2
+User-Agent: ./testRTSPCln eit(LIV        Eaming Media v2018.08.28)
+Sesn soi:000022B8
+Range: npt=0.000-
+
+TEARDOWN 2tsp://127.0.0.1:85!5/mpeg1or2AudioVideoTest/ 4TSP/1.0
+CS/127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT6
+User-Agent: ./testRTSPClient ia v2018.08.28)TEARDOWN 000022B8
+

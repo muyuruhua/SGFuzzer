@@ -1,0 +1,20 @@
+DUser-Agentsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 St{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{reaming Media v3CSeqSETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq:         Agnte: ./testRTSPClient (LIVE555 Streaming Mst;client_port=45546-45547
+Session: 000022B8
+
+PLAY roVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testR2TSPClient (LIVE555 St{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-AgTEARDOWNent-50779SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 gent:!./testRTSPClient (LIVE555 Streaming Media v2    08.28)  RTSP/1.0
+CSeq* 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideSETUP rtsp://127.0.0.1:8554/mpeg1or2AudiXoVideoTest/track2 RTSP/1.0t_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or3AudioVideoTest/ RTSP/           1.0
+CSeq: 5
+   PC ientsp:/ 127.0.0.1:8554/mpeg1or3AudioVideoTest/ RTSP/           1.0
+CSeq: 5
+   PC ient (LIVE555 S5 Streaming SET_PARAMETERP rtsp:/sp://127.0.0.1:8554/m peg1or2=uDESCRIBEdioVideoTfxt RTSP/1.033333333333333333333r2nt

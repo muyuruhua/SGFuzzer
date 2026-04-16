@@ -1,0 +1,10 @@
+DESRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept:       Y applicationient_port=45GET_PAB8
+
+PLAY rtsp://12D!.0.0.1:8554/e    g Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rg Media`	MONGQI8.28)
+Transport: RTP/AVP;unicast;client_port=45G.1:8554/mpeg1or2Aac3AudioTestudDESCioVideoT

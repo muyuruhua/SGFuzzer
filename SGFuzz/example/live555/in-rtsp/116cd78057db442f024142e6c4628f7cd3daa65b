@@ -1,0 +1,4 @@
+DESCRIBD rtsp://P/AVP;unicast;client_port=45GET_PARAME127.0.0.1:8554/mpeg1or2Au   oideoTest/ RTSP/1.   Seq: 5
+User-Agent: ./testRTSPClient (LIVE555 8.28)
+Session: 000022B8
+

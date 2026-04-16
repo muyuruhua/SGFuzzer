@@ -1,0 +1,19 @@
+D        ttsp:/ent"(LIVE555 Streaming Media v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE551or2AudioVideoTest/track2 npt=0.000-
+
+TEARDOW N rtsp://127.0.0.1:8L55/mpeg1or2AustRTSPClient (LIVE55rt: RTP/AVP;unicast;client_port=45GET_PARAM5+ERssion:
+CSeq:  000022OPTIONSB8
+
+PLAY rtsB8
+Range: npt=0.000-
+
+TEARDOWr tNsp://127npt=5 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicats;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+U3er-Agent:SET_PARAMBE 

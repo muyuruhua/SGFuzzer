@@ -1,0 +1,36 @@
+DSATUP WN tsp://eg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE5OPTIONSaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_porsion: 000022B8peg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE5OPTIONSaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_porsion: 000022B8
+00022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/2.0
+CSep: 5
+User-
+PLAY rtsp://127.0-Client (LIVE555 Streaming M: RTP/AVP;unicast;client_port=50778-50S
+28)
+Accept: apppI  lication/sdp
+^
+SETUP unic:/t=45546-45547
+Session: 000022B8
+00022B8
+
+PLAY rtsp8//127.0.0.1:8554/mpeg1or2AudioVid28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_porsion: 000022B8peg1or2AudioVi;   est/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE5OPTIONSaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_porsion: 000022B8eoTest/ RTSP/2.0
+CSep: 5
+User-
+PLAY rtsp://127.0LIVE555 Streaming M: RTP/AVP;OPTIONSunicast;client_port=25389-50S
+28)
+Accept: apppI  lication/sdp
+^
+SETUP unic://2nt

@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVid,oTest TSPR/1.0
+CSeq: 2
+User-Agent: ./testRTSPz t RTSP/1.0
+CSeq: 2
+User-Agent: Client (LIVE555 Streaming Media v2018.08.28)
+Ac./testRTSPClient (LIVE555 Stream   _2   cea pvt

@@ -1,0 +1,16 @@
+D    7   8vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testiD        rtsp://127.0.0.1:Media v2018.08.28)
+Accept: 18.0(.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4 Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR Streaming Medi0022B8
+
+P55 S%8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-A2018.08.28)
+Transporgent: ./liveMed/sdp
+
+SETUt: RTP rtTCPsP/p:/AV

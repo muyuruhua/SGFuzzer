@@ -1,0 +1,8 @@
+DESCRIBE rt                                                                  sp://127.0.0.1:8554/mpeg1omatroskaFileTest RTSP/1.r-Agent: ,/testRTSPClient (ILEV555 Streaming Media v2018.08.28
+Session:e 00@0022B8
+
+PLAY rtsp://27.10.0.1:8554/mpeg1or2AudioVid/ RTSP/1.0
+CSeq: 6
+User-Agent: ./test*TSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B:
+

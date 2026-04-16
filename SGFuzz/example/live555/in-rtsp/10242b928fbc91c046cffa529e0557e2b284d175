@@ -1,0 +1,17 @@
+DESCDE.       2sp:           $                    (                       `__^  eg1oent (LIV.08.27)t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien.1:8000022B81or2AudioViderTorbAudioVideoTest RTSP/1.0ent (LIVE555  Struaming Media )v2018.08.28)
+Accept: application/sdp
+
+SETUP r                                                            28)
+Accept: n/sdapplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/trac5k1 RTSP/1.0
+CSeq: 3
+User-Agent: ./ten/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1oContent-Length:t/trac5k1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIV.08.27)
+Session: 000022B8
+

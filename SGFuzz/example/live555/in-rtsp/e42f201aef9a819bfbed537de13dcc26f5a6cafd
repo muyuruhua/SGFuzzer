@@ -1,0 +1,36 @@
+DESCRIBE rtsp:/ent (LIVE555 Streaming Media v2019.08.28)
+Accept: application/sd`
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.:Transport8)
+TContent-Length:VP;uGET^PARAMETER_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2~Audi: 6
+User-Agent: ./testRTSPClient (LIVE555 SDESCRIBE rttreaming ]edia v201sp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTst4client_port=45GET_PARAMETERssion: 000022B8 
+PLAETERssion: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/Sceg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Sqreaming Media 8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.
+User-Agent: ./teIVE278.08.28)
+Session: 000022ser-Agent: ./testRTSPCietln (LIVE555 StreamIng ]edia v201[[[16.08.28)
+Transport: RTPIAVP;unedia v2018.08.28)
+Session: 000022B8
+Ra application/sdp
+
+SETUP rtsp7 Streaming Media v2018.08.28)
+        Transport: RTP/AV://127.0.0.1:8@54/mpeg1or2AudioVid        eoTest/track1 RTSP/1.0
+CSeq: 1
+User-Agunt: ./tent: ./SET_PARPAUSEDOWNLIVE555 Streaming Meda 2iv018.08.28)
+Session: 000023P;uniB8
+cast;client_povt=50778:50780
+
+SETUP rtsp://127.0npt=0.000-
+6
+TEARDOWN rt       ..00.0.1:8554/mpeg1or2Au.0.1:8554/mpeg1oUser
+-AgenteoTest/ RRang0022B8
+

@@ -1,0 +1,13 @@
+DSETUP UMrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: app                                                        =45GET_PARAMETERsXXXXXXXXXXXXXXXXXXXXXXXXXiXXXXXXXXsion:aOOO022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSP546-45547
+Session: 000022B8
+
+PLAY rtsp://12p
+
+SETUP unic://2nt

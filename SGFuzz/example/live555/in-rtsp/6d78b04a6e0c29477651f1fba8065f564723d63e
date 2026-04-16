@@ -1,0 +1,31 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUCseqP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/trliveMedia1598ack1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:85D  CRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media v0018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-RTSP/1.0peg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 2t: ./testRTSPClient (LIVE555 Strdaming Media v2018.08.28)
+TranwebmFileTestsport: RTP/AVP;unicast;client_port=01556-50779
+
+SETUP rtsp://127.0.0.sport: RTP/AVP;unicast;client_poIt=01556-50779
+
+SETUP
+User-Agent
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.2    8)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0.0.1:8554/m Sming MedieoTestreaming MedieoTest/ RTSP/g2.0
+GSe
+ttttRangettttttt  tttttx: ./testRTSPClient (LIVE721 Str-playNowAYttttttttttttttttttttttttttttttttttttttttttttteaAVPg Medtti

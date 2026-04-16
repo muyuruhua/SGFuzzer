@@ -1,0 +1,16 @@
+DESCRIBE rtsp/127.0.0.1:8554/mpeg1or2AudioVideoT/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mperA21goudioVideoTest/ RTSP/1.0
+CSeq: 5
+User                                                                  0    -Agent: ./testRT-/<      (LIVE555 Streaming Media v2018.08Media v2018.08.28)
+Session: 0000est/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media2v 1008.8.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAETERssion: 000022B8
+
+PLAY rtsp:-/254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0Client (L27)
+Accept: a1:8554/m/testRTSPClient (LIVE555 Streami-Agent: ./testRT6PClwebmFileTest5 Streaming Media v2018.08.28)
+Session: 000022B8
+

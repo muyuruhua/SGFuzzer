@@ -1,0 +1,12 @@
+D: RTP/AVP;unica	A  ESCRIBE rtsp://127.   tRTSP lient (LIVE/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./tes-+,/{  ent (LIVE555 S v2018.08.28)
+Transport:  P /AVP;unicast;client_port=45GET_PAR18.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN r.tsp://127.0.0wavAudioTest.1:8554/mpeg1or2AudioVikdeoTest/       .CRTSP/1.0
+CCeq: 6
+User-Agent: ./test.   Client (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

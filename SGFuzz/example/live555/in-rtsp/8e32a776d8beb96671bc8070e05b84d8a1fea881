@@ -1,0 +1,19 @@
+DCSeq:ESCRIBE rtsp://1272018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioViteeoTds/wavAudioTest RTSP/1.0
+CSeq: 5
+UsGET_PARAMETER||||||||||||||||||||||||estRTSkPClient (L53)
+Accept: a1:8554/mpeg1or2AudioVideoTest54/mpeg1or2AudioVideoTest/ )+,/PNQO
+CSeq:
+OPTIONS-Agent: /track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v201DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.08.08.28)
+Transport: RTContent-t;client_po rt=50778-50779
+
+SETUP rtsort=50778-50779
+
+SETUP rtsp://127.0.,.1:8554/mpeDESCRIBEg1or2AudioVideo45GET_PARAMETERssion: 000p://127.0.,.1:8554/mpeg1or2AudioVideo45GET_PARAMETERssion: 000020002#B8
+Range: npt=0.000-18.08.28)matroskaFileTesteS
+ss-on: 00001M1B8
+

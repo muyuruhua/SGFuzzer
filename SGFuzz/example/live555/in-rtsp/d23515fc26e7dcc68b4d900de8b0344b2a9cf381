@@ -1,0 +1,8 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Zser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.8:8554/mpeg1or2DESCRIBE rAudioVideoTest/track1 RTSP/1.0
+HSeq: 3tsp
+U://127.0.0.18:554/mpeg1ser

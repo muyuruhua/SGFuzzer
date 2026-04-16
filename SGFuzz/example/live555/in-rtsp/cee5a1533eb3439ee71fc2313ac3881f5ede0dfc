@@ -1,0 +1,34 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 21
+User-Agent: ./testRTSPClient (LIVE555 StreamDESCRIBEa v2018.08.28)
+Ranget: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ,/testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/D    st/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Stream2018PO6.2G).1:8554udioVideoTest RTS                                         P/1.0ent (LIVE555 Streaming Media stRTSPClient (LIVE26           Content-Length:    	J08.2VAVP;u;;;;;;;;;;;;;;;;;;;;;;nicast;client00022B8
+
+ LAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq: 5
+UseSTCPession: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+E26     LIVE555 Streaming Media stRTSPClient (LIVE26           Content-Length:    	J08TEARDOWN rtsp://127.0.0.1:8554/mpeg2or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTS.28)2018.08.28)PClient (LIVE555 Streaming
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDMWN                                    ,        rtsp://127.Range0.0.1:8554/mpeg1or2Audidp
+
+SETUP rt        .Y.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+UseRTSPClient (LIVE26           Content-Length:    	J08.2VE26           Content-Length:    	J08)2018.08.28)
+Sess Media v2018.ion: 000022B8
+Range: nrt=0.000-
+
+TEARDOWN                  08.28)
+                       Se

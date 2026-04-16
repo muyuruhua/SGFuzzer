@@ -1,0 +1,15 @@
+DCseqIBE rtsp://127.0.0.1:8554/mpeg2or2AudioVideoTest 1.RTS/P0
+CSeq: 2
+UserS>  nt: ./testRTSPClient (LIVE277 Streaming Media v2018.0UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUt (LIVE555 Streaming Media v2018.08.28)
+Acc#ent: ./$estRContent-Length:TSPClient (LIVE277 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+Us#r-Agent: ./testRTSPClient (LI 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+StRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

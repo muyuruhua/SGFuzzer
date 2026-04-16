@@ -1,0 +1,20 @@
+$webmFileTestIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1W.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)nU       application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+)ssioCSeq: 3
+Qser-ADESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+Uter-Agent: ./testRTSPClient (2AudioVideoTest RTSP/1.0
+CSeq: 2
+Usegent: ./testRTSPClient (LIVE555 StreaAudioTest rtsp://2 4.0.0AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent:t. /estRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 0000%22B8
+Range: npt=0.000-
+ (LIVE555 Streaming Medvia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8r-Agent: ./testRTSPCli$nt (LIVE555 Streaming Media v2
+
+PLAY rt    08.28)
+Accept:s:/1p /

@@ -1,0 +1,11 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE%55 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+S/ETUP rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/track1Range RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient ( 6
+User-Afent: ./testRTSPClient (LIVE555 Streaming+Media v2018.08.28)
+Sjscion: 000022B8
+

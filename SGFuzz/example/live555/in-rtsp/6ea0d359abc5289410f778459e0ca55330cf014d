@@ -1,0 +1,21 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UserA-egnt: ./testRTSPClient (LIVE555 Slreaming Media v3    00.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClienCseqIVE5OPTIONSaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=455F:46-455:47
+Session: 000022B8
+00022B8
+
+PLAY   ://127.0.0.1:8554/mpeg1or2AudkoVideoTest/
+TEARDOWN rtsp://127.0.0.1:855LP    N r2AudioVideoTest/ RTS`/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming M: RTP/AVP;unicast;client_port=50778-50S
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz28)
+Accept: apppI  lication/sdpE
+
+^STUP unic://2nt

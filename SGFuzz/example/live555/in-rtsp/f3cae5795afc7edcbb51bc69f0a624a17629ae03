@@ -1,0 +1,5 @@
+DESCRIBE vtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C  (  2
+User-Agentrt: RTPIADPLAYRTPESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g MediaVP;unigast v20~stRTSPCli;client_port=45GET_PARAMETeER

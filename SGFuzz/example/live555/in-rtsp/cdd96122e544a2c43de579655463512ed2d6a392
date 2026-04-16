@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1Por2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Me$iaA v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/m0.1:8554/mpeg1Por2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Sting Media v2018.08.28)
+Transport:SET_PARAMETER RTP/AVP;unicast;cliceptTSP/1.0
+CSeq: 08.28)
+Transport:SET_PARAMETER RTP/AVP;unicast;client_port=50778-50A79
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Au000022B8
+

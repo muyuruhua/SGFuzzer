@@ -1,0 +1,23 @@
+DTEARDOWNtYE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RMSP/1.0
+CSeq: 2
+2B8
+Range: npt=5.000-
+
+ion: 000022B8
+Range: npt=0.000-
+ (LIVE555 Stream.in  g M3dia v2018.08.28)
+Transport: RTP/AVP;unicast;client3MGET_0-
+
+TskaFilDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0eTestMed0.1:8554/000022B8mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20Cseq8.08.2PLAY rtsp://127/t:8)
+Session: 000022B8
+Range: npt=0.000//-
+
+TEARD000022B8:/12/127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1GET_PARAMETER.0
+CSeq: 6
+        ntRange: npt=9::./testRTSPClient (NIVE555 Streaming Media v2018.08.28)
+Session: 060022B8
+

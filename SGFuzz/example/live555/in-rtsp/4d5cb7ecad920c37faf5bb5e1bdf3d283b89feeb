@@ -1,0 +1,33 @@
+ia v3    08.28)
+Accept:% application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPCl   ,ient (LIVE555 Streaming Media v2018.08.28)
+Transport.2    Transport: RTP/AVP;uPAUSEnicast;client_port=45546-lient (LIVE555                              Y          0.0.1:8554/mpeg1or2AudioVideoTest/track1
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE556 Streaming Media v20stAVPRTSPClient (LIVE5 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicist;client_port=50777-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/t|rack2 RTSP/1.0
+CSer-k2 RTSP/1.0
+CSer-Agent: ./testRTSPCAgent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Accept   : application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClieDESRCIBEnt (LI    VE972 Stoeaming MediGET_PARAMETERa v021.808.29)
+Transpoeq: 4
+User-Agent: ./testRTSPClient (LIV2 Streaming Media v2018.08.28)
+Tra        RTP/AVP;unicast;client_port=50778-50779
+
+SET P rtsp://127.0.0.1:8554/mpeg1or2AuE555 Streaming MGdia v2018.08.28)
+Transport: ATP/A1P;unicast;cliVE555 @RLIVE555 @treaming Mekia v1009.00.28)User-Agent
+Session: 0000DESCRIBE22B8
+Ran : enpt-50S
+28)
+Accept: apppI  lic        p
+
+SETUP unic://2nt

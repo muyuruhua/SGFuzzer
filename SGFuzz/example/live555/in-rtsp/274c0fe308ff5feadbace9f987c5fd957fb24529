@@ -1,0 +1,20 @@
+z t RTSP/1.0
+CSeq: 2
+Uent: ./testRTSPClient (LIVE277 Streaming Med/testRTSPClie _W36)0555 StreamDESCRIBEa v20182/0..8)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8754/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ,/testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=5028)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tcrk1a RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIV08.28)
+Accept: appli92  cation/sdp
+
+SETUP rtsp://127.0.0.100022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSE555 Seq

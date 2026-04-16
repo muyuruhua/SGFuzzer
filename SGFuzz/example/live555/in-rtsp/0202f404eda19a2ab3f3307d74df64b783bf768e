@@ -1,0 +1,50 @@
+D  CRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSRange: npt=9eq: 2eq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MedwebmFileTest28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.100022B8
+
+SETUP rtsp://127.0.0.100022B8
+
+PLAY rtsp://127.0.0.1:7108/mpeg1or2Audioaming Media v2018.08.28)
+Accept:eaming MedwebmFileTest28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.100022B8
+
+SETUP rtsp://127.0.0.100022B8
+
+PLAY rtsp://127.0.0.1:71$8/mpeg1or2Audioaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.100022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ VideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sess:8554/mpeg1or2AudioVideoTest/ RTSP/1.on/sdp
+
+SETUP rtsp://127.0.0.100022 8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2Aud oVi$eoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testR                     Tent (LIVE555 Stream   _2  a v1009.08.28)
+
+CSeq: 6
+User-Agent: ./testRTSPClient ( application/sdp
+
+SETUP rtsp://127.0.0.100022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ VideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v:018.08.28)
+Sess:8554/mpeg1or2AudioVideoTest/ RTSP/1.on/sdp
+
+SETUP rtsp://127.0.0.100022 8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2Aud oVi$eoTest/ RTSP/1.wavAudioTestUser-Agent: ./testR                     Tent (LIVE555 Streaming Media v1009.08.28)
+
+CSeq: 6
+User-Agent: ./testRTSPClient (LI E555 Strea 000022B8
+

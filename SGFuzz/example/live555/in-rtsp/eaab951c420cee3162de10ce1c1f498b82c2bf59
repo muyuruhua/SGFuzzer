@@ -1,0 +1,3 @@
+DES       $CRIBE rtsp://127.0.0.18:554AudioVideDSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./oTest RtestRTSPClieT

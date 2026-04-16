@@ -1,0 +1,8 @@
+   z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MediaContent-Length: v2018            .08.28)
+Accept: applicationAVPp
+
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGSETUP rtsp://127.0.0.1:8554/mpeg1or2Aud                      iovideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agen  RNT DESCt: ./testRTSPClient (LIVER 555 Streaming 

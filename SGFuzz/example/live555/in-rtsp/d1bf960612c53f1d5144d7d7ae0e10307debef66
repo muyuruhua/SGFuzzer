@@ -1,0 +1,35 @@
+DAVPESCRIBE rtsp://127.0.0.1:8554DESCRIBE vtsp://127.0.0.1:8554                                    /mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SE6*/Dclient_port=78GET_PARAMETERssion: 000022Trania v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 3
+amtroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+S (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/s p
+
+SETUP rtsp://063.0.0.1:85 RT/mpeg1or2AudioVi deoTfsbt RTSP/1.0
+CSeq: 2
+User-Ageft: ./testRTSPClient (LIVE555 Streaming ck1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClient (LIVE555 Streaming Me$ia v20stRTSPC        IVE555 Qtre(ming Media v2018.08.28)
+Transport: RTP/AVP;unicast;clMedia v2418.08.28)
+Accept: application/sdp
+{   TUP  tsp://254.0.0.1:8554[/mpeg1or2AudioVideoTest/track1 RTSP/,,
+     ;q: 3
+Use                        SCoDESC                     `                                         :QPNQ9s.

@@ -1,0 +1,23 @@
+D    ESCRIBE vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE555=f(St7554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./livMMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.28)
+Transpo(St7554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./livMMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1tstRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: R0?/AVP;unicast;client_port=50778-0PO.D2B8
+Accept: application/sdp
+
+SETUP rtsp://06000022B885 RTSCoDudioVideoTest/track1 RTSP/1.0
+CSeq: 3 
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)matroskaFileTest
+Transport:VideESC RTSCoDESC             port=50778-0PO        six-playNow2B8
+

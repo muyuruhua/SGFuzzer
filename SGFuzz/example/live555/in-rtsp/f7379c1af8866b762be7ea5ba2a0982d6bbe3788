@@ -1,0 +1,35 @@
+DSession:ESCRIBE rtsp://123.0.0.1:8554/mpeg1or2IudioVideoTest RTSP/1.0
+CSqU:         gent: ./testRTSPClient (LIVE555 Streaming MediaVP;unicest;client_port=25389-50779
+
+SETUP RTPTIAVP;unicast;client_port=45GET_PARAMETERssion: 000DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agunt: ./testRTSPClient (LIVE277 Streaming Media v127.0.0.18)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.G.1:855 (LIVE555 Strea!ming Media  v2018.08n28)
+Accept: application/sdp
+
+SETUP rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track0 RTSP/1.0
+=,  : 3
+User-Agen E`   estRTSPClient (LIVE%55 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 4
+User-Agent: ./test TSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=455.0.0.1:8554/mpeg1or2Audi8
+Range: npt=0.000-
+
+TEA1sp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 4
+User-Agent: ./test TSPClient (LIVE555 Streaming Media
+CSeq: 4
+User-Ag (LIVE555 Streaming Media v2000022B8
+18.08.28)
+
+Transport: RTPIA

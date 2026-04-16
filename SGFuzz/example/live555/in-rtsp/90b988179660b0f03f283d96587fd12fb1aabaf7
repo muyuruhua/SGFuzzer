@@ -1,0 +1,13 @@
+DESCRIBE r0
+CSeq: 2
+User-Age:tn ./testRTSPClien       T55 Streamtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/DESBRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Age:tn ./testRTSPClien       T55 Streaming Medi&_	M018.08.28)
+Accept: application/sdpAcceptUP rtsp://063.0.0.1:8554/mpeg1or2A udioV127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTsdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ,/testRTSPClie08.28)
+Transport: RTPIAVP;unincast

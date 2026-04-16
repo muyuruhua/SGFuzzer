@@ -1,0 +1,26 @@
+z      X^ t RT/sdp
+
+SETU  _@  kP/127.0.0.1:8554/mpeg1or2AudioVideoTest/track1
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE556 Streaming Media v20stAVPRTSPClient (LIVE5 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicist;client_port=50777-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/t|rack2 RTSP/1.0
+CSer-k2 RTSP/1.0
+CSer-Agent: ./testRTSPCAgent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClieDESRCIBEnt (LI    VE972 Stoeaming MediGET_PARAMETERa v021.808.29)
+Transpoeq: 4
+User-Agent: ./testRTSPClient (LIV2 Streaming Media v2018.08.28)
+Tra        RTP/AVP;unicast;client_port=50778-50779
+
+SET P rtsp://127.0.0.1:8554/mpeg1or2AuE555 Streaming MGdia v2018.08.28)
+Transport: ATP/A1P;unicast;client_port=45GET_PARAMETERssi  : 000022OPTIONSB8
+
+PLYr Atsp://129.0zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.1.1:8554/mpeg1or2AudioV))))))))))))))))))))))))))))))))))))))))))))))))))))))))))R)))))))))ideoRange: npt=9Test/ RTSP/1.0
+CSe

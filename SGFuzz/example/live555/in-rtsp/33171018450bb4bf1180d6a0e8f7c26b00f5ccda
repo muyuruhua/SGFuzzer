@@ -1,0 +1,32 @@
+DESCRIBE rtsp://127.0.0.1:85%4/mpeg1or2y   AudioVid277 1Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/AVP;unicasAt;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTeDESCRIBE rtsp://127.PQOQNEGH54/mpeg1or2AudioVideoTfst RTSP/1.0
+CSst/ RTSP/TUP rtsp://128)
+Accept: application/sd/1..ort=50778-0POOD2B8
+Acce
+CSeq: 3
+matroskaFileTeststRTSPCliewnt (LYVE555 Streaming M       Bedia v2 t RTSX/1.*
+CSeq: 2
+Usermpeg1or2AudioVideoTest/track1 RTSP/0.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Str018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SE]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]%]]]]]]]]]]]]]]]]1.0
+CSeq: 5
+User-Agent: ./test~RTSP.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEaRDOWN rtsp:/b8
+eq: 2
+User-Agent: ./testRTSPClie
+PLAY r p://127.0.0.1:8554/mpeg1or2AudioVideoTesnt (t/2AudioVideoTest 

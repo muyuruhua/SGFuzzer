@@ -1,0 +1,32 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agen       t: ./testRTSPClien0022B8E5g Media v20stRTSPClient (LIARAMETERContent-Length:
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CTransportser-Agent: ./testt (LIME671 Streaming Media v2018.08.28)
+SessRTSPClient (L 555EIVStr1.0
+CSer-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (L,IVE972 StreSETUP Media v2018./8.28)
+Tra1or2AudioVid                                                                                                                      eoTest/ RTSP/1.0
+CSeq: nspoeq: 4
+User-Agent: p/testRTSwavAARAMETERContent-Length:
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CTransportser-Agent: ./testt (LIME671 Streaming Media v2018.08.28)
+SessRTSPClient (L 555EIVStreaming Media v2018.48.28)
+Sesion: 000022B8
+Y rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streami1.0
+CSeq: 2
+User-Agen       t: ./testRTSPClien0022B8E5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rze: npt=9npt=0.0eq: 2
+User-Agent: ./testRTSPCze: npt=9npt RTP/AVP;unicast;client_port=507785-7097
+
+SETUP rtspAuent (LIVE555 Streaming Mcdia v2018.08.28)
+Transpolient (LIVE555 Streamingrt: RTP /Me

@@ -1,0 +1,38 @@
+z t RTSP/1.0
+CSeq: 2
+User*   nt: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioViLeoTest/t RTSP/1.0
+CSeq: 3
+User-Agent: ./tesuRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioViLeoTest/track2 RTSP/1.0
+CSer-Agejt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.081.:.0554/mpeg1or2AudioVTCPoTest/track1 RTSPH1.0
+CSeq: 3
+User-Agnt-Length:ing Media v2019.08.28)
+Transport: RTP/AVmatroskaFileTestP;unicast;client_5o0ptr=77t (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssio#:
+CSeq:  000022OPTIONSB85 Streaming Media v2018.08.28)>
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/        `__G.0
+CSeq: 5
+User-Agent: ./testRTSPClie L  LIVE555'9  eSETUP Iedia v1009.08.28)
+Session: 0!   22B8;unicast;client_5o0ptr=77t (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssio#:
+CSeq:  000022OPTIONSB8
+
+PLAY rtsp/:/128.0.0.1:8554/mpeg1or2AudioVideoRange: npt=9Test/ RTSP/1.0
+CSe

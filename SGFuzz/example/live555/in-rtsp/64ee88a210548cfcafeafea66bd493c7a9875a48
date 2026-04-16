@@ -1,0 +1,11 @@
+D    ESCRIBE rtsp://127.0.0.1:(&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=55078-127.0.0.1SETUP rtsp://127.0.0.1:8554g1or2AudioVideoTest/track2 RTSP/1.0
+CS  Ce4
+User-Agent: ./testRTSPClient (EVL5I55 Streaming Media v2019.08.28)
+Transport: RTP/AVPPC.000-
+
+TEDAROWN rtsp://127.0.0.1:8554/mpeg1or2AudioV-DeoTesCseqTSP/H.0
+CCe:6q 
+User-AgtreamiCSeq:ng Media v2018.00.28)
+Session: 000022B8
+

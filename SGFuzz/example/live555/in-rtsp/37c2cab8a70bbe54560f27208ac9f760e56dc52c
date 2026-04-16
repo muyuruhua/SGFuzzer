@@ -1,0 +1,27 @@
+DES=RIBE rtsp://127.0.0.webmFileTestor2AudioVideoTest RT./testRTSPClient (LIVIVE;55 Streaming Media v2018.|||||||||||||||||||||08.28)
+Transpor`: RTP/!AVP;unicast;client_port=50778-5Streaming Media v2018.eg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./0779
+
+SETUP rts2Au                 dioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AIVE555 Streaming Media v2018.eg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-g Media v2018.eg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./0779
+
+SETUP rts2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AIVE555 Streaming Media v2018.eg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 StreaTSPming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicasDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3AVPser-Agent: ./te tRTSPClt;cliienentt_

@@ -1,0 +1,26 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVhdwavAudioTesteoTest RTSP/5.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media v2018.08.28)
+AccFpt: application/sdp
+
+SETUP rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AgeAnt: ./testRTSPClient (LIVE%55 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.01.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE851 SX]treaming Media v2018.                                    08.28)
+Session: 00002Range: npt=9npt=0.000-
+
+TEARDOWN rtsp://        1:8554/mpeg1or2 Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP r p://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.01.0
+CSeq: 5
+Us127.0.0.1er-Agent: ./testRTSPClient (LIVE851 StliveMedia40967reaming Media                                 v2018.                                                                                   08.28)
+Session: 0 002Range: npt=9npt=0.000-
+
+TEARDOWN rtsp://     AudioVtes,t: ./testRTSPCl ni(etLIVE5
+Sessivn@ 000022B8
+

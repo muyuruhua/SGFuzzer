@@ -1,0 +1,19 @@
+DESCRIBE rtspdia v2    08.28)
+Accept: application/sdp
+
+SETUP rtdioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)Agent: ./testRTSPClient (LPLAYIVE5"5 Streaming MedContent-Length:in: 00a v2018.08.28)
+Sessi 2
+User-Ag :o0n00011B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1orr-Agon: 000011B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or  udioVideoTest/ RTSP/2.0
+CSeq:   udioVideoTest/ RTSP/2.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media~v2018.08.28)
+Sejsslon: 000022B8
+

@@ -1,0 +1,11 @@
+DTransportESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+_ser-Agent:9
+
+SETUP GET_PARAMETERrtsp://380.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streami Mndegia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARStreaAudioTest rtsp://127.0.0AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/1. rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2st RTr-Agen: 000022B8
+
+n

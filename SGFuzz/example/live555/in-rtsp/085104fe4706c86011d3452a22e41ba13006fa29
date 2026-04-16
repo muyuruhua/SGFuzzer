@@ -1,0 +1,5 @@
+D          tsp://254.0.0.1:85Med: 6
+User-Ag54/mpeg1gent: ./testRTSPClien.2:8554/mpeg1or2AudioVideoTeDESCRIBE rtsp://127.0.0.1:8554/mpeg1omatroskaFileTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0st/ RTSP/1.0
+CSeq: ed

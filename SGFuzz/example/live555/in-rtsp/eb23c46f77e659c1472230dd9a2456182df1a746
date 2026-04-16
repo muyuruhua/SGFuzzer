@@ -1,0 +1,24 @@
+D
+
+r-AgenContent-Lengt                                                                            RTP v2018.08.28)
+Transport: Transportnicast;client_port=50778-0POOD2B8
+Accept: application/sd (LYVE555 Streaminh:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media                                                                                                                                      v2018.08.28)
+Transport: Transportnicast;client_port=50778-0POOD2B8
+Accept: application/sd (LYVE555 Streaming Media                                                                                                                                      v2018.08.28)
+Transport: Transp    icast;client_port=50778-0POOD2B8
+Accept: applicati.g MedS
+
+iETPUP rtsmatroskaFileTest RTSCoDUSC     ./testRSP/TSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+ (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+                sion: 0 0022B8
+

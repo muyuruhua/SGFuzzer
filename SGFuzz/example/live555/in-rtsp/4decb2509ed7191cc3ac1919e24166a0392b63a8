@@ -1,0 +1,12 @@
+DESCRIBE rtsp://127.0.0.1:: ./testRTSPClientjW36VE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicastUser-Agentrt=50778-50779
+
+SETUP rtsp://127.0.127.0.0Media v2018.08.28)
+Accep: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Uming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 00icast;client_port=50778r-Agent: ./testRTSPCli]ent (LIVE110 Streaming Media v2018.08.28)
+Session: 000022B8
+

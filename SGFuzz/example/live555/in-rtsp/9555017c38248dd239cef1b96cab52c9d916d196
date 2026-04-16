@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudmoVideoTest RTSP/1.0
+CSeq: 2D       SSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/2.0
+CSeq: 2
+ User-Agent: .    tRTSPClient (LIVE555 Streaming Medic v3    08.28)
+Accept: application://127.0.G.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-A*gent: ./t -                                                      estRTSPClient (LIVE555 Streaming 3 dia v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PASAMETERssion: 000046B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ :RTSP61.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaminming RTSP/1.0018.0LIVE555st/ RTSP/1.0
+CSeq: 6
+Use

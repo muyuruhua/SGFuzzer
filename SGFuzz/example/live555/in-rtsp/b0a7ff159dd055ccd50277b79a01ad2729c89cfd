@@ -1,0 +1,26 @@
+z t RTSP/1.0
+CSeq: 2
+08.28)
+Tr
+Ac\ept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2A+udioVideoTest/track2 R,TSP SNOITPO
+C: 3
+User-Agent:*./testRTSPClient (LIVE952 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127      Mu&.0.0'.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSer- gent: ./testRTSPClient=ET_PARAMETEReaming Media v2018.08.28)
+Accept:PClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSer-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Ac555555555555555555555555555555555555cept: applicatioTSP/1.0
+CSeq:TEARDOWN-Ag     ./testRTSwavAudioTestE972 Streamin~ Media v2018.08.28)                                                                 npt=9Test/ RTSP/2.0
+CSe

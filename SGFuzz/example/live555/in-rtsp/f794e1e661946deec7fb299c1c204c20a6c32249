@@ -1,0 +1,19 @@
+zac3AuTransportdioTest t RTSP'1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5*5 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 St|eamin# Media v2018.08.28)
+Transport: RTP/AVP;Content-Length:unicast;client_port=50778-50779
+
+SETUP rtsp:/cation/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/trac/127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0ac3AudioTest
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE556 Streaming Med	a v2018.08.28)
+Transport: RTP/AVP;Junicast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0.i   0.1:8554/mpeg1or2AudioVideoRange: npt=9Test/ RTSP/1.0
+CSe

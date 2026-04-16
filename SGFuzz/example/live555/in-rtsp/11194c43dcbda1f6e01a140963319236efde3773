@@ -1,0 +1,11 @@
+DESCR://126.0.0.1:8554/mpeg1or2AudioVideoTest/tracmpeg1or2AudioVideoTest/trackk2 RTSP/1   CSeq: 4
+User-Agent: ./testRTSPClient (LIVE784 Streaming Media v2018.8.)280
+Transport: RTP/AVP;unicast;client_port=22GET_PARA78-50779
+
+SETUP rtsp://126.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1   CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.8.)280
+Transport: RTP/AVP;unicast;client_port=22GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.oTest/ RTSP/1.0ssssssssssssssssssssssssssssssssss
+CSeq: 5
+User-Ag

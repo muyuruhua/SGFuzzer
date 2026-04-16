@@ -1,0 +1,25 @@
+DESCRIBE rtsp:deoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./SET_PARATEARDOWNLIVE555 StreamingP/1.0
+CSeq: 5
+User-Agent: .//ent (8
+
+PLAY rt1:2s///p7.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-E
+
+TRADOWN rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./SET_PARATEARDOWNLIVE555 StreamingP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8555/mpeg1DESCRIBEor2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-AgeUser-AgentPARATEARDOWNLIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

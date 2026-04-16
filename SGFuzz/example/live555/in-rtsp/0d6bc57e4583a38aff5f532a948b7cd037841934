@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Us                              er-Agent: ./testRTSPClient (LIVE337 Streaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTEARDOWNTSPClient (LIVE555 Streaming Media v1009.08.28)
+Transport.28)
+Tran        sport: RTP/AVP;unicast;client_port=45546-455g M: RTP/AVP;unicast;client_port=50778-50S
+28)
+AcceRange: npt=9ication/sdp
+
+SETUP unic://2nt

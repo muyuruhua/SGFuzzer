@@ -1,0 +1,2 @@
+DfPContent-Length:DESCRIBE rtsp://127.0.0.1:8554/mpeent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client12_port=47.0.0.1:8554/mpeg1or2Audi5GET_PARAMETERssiono:

@@ -1,0 +1,10 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agen                                        RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRoRRRRR[RRRRRRRRRRRRRRRRRRRRRRR         t: ./testRTSPClient (LIVE552 StreaRRRRRRRRRRRRRRRRR         t: ./testRTSPClient (LIVE556 Streaming MwavAudpt: applicationAVPp
+
+NSETUP r?sp://128.0.0.1:8>54/mpeg1or2AudioVide8554/mpeg1or2AudioVideoVPt (LIVE555 Streaming Media v1009.08.28)
+Accept: applicationAVPp
+
+SETUP rtsp://127.0.0.1:8554RTSP/1.0
+CSeq.0
+CSe

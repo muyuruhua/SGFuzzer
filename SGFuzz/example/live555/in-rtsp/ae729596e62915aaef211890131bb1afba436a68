@@ -1,0 +1,8 @@
+zst;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:85u4/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:/. testRTSPClienDESCRIBEt 1LIVE555 Streaming M                                                                                                           edia v2019.08.28)                          `b                       
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERange: npt=922OPTIONSB8
+
+PLAY rtsp:PLAY//128.0.0.1E85pt=92AudioVideoRange: npt=9Te        /1.0|

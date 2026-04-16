@@ -1,0 +1,13 @@
+DRange: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.P/1.0
+C  (  3
+Use?-Agentrt: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CS  uCeq: 5
+User-Agent: ./te)tRTS         PClient (LIVE555 Streaminga eidM v2018.08.28)
+Session: 010022B8
+Range: npt=+.000-
+
+TEARDOnicast;client_port=50.0.1:8554/mpeg1or2A07ud7i

@@ -1,0 +1,22 @@
+DESCRIBE rtsp://12
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_PAUSE45GET_ARAPMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AucdioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StrContent-Length:eam p      ing Media v2018.08.28)
+Sesion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+C/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSP       8LIVE555 Streaming Media v2018.08.28)
+Transport: R.0000
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2019.08.28)
+Session: 000022B8
+

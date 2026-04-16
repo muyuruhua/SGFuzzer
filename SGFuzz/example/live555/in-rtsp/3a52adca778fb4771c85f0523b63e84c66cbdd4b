@@ -1,0 +1,12 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCli8nt (LIVE555 [treaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp: k127.0.0.1:8554/mpeg1or2AudioVideoTest/traDESCRIBEPLAY rtsp://127.0.0.  |91:8554/mpeg1or2AudioVideoTest R                       TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streamick1 RTSP/1.0
+CSeq: 3
+User-Agent: ./nept: application/sdp
+
+SteETUs

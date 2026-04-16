@@ -1,0 +1,38 @@
+D npwaESCRIBE rtsp:/ent (LIVE555 Streaming Media v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[TEARDOWN[[[[[[[[.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1orRTSP/1.02AudioVideoTest127.0.0.1TSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LI
+RangeVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-509
+77
+SETUP rtspSer-AgenDESCRIBhE rt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accepttsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-egent: ./testRTSPClient (LIVE555 Streaming Media v2818.08.28)-
+: application
+Ac
+
+SETUP rtsp://127.0.0.8555/mpeg1or2AudioVideoT[st/ RTSP/1.0
+CSeq: 6
+User-Agent: ./SET_PARAMETERt (LIVE555 Streaming Media v2018.08.28)
+Session: 00002        2B8
+
+CSeq: 6
+     n t  : ./testRTSPCliSET_PARAMETERStreaming Media v2018.08.28)
+Session5 0

@@ -1,0 +1,14 @@
+D=j   ,Range: npt=0.00127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient ing Media v2018.0Q.28)
+Cseqpt    : application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Audi$   eoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779%
+
+SETUP rtsp://127 .0.0.1:8554/mpeg1or2AudioVideoTesv/track2 RZSP/1.0
+CSeq: 4
+User-Agent: ./test                                                                RTSPClienRDOWN rtsp://127.0.0.1                                                                     :8554/mpeg1or2Aud000022B8ioVideoTest/ RTSP/1.0
+CSe33333333333333333333333366O(LIVE555 Streami.g M: RTP/AVnu;Picast;client_portP unic://2nt

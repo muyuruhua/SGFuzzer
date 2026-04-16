@@ -1,0 +1,27 @@
+ze: npt=9npt=0.0eq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming 1edia v2018.08.28)
+Accept:     applicationAVPp
+
+pt:  ort: RTP/AVP;unicast;client_poDESCRIBE rts EPPNMHQ0.0.1:8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MediaAv2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp:                      rt=507785-7097
+
+SETUP rtspAudioVideoTest/track1 RTSP/1.0://127.0.0.1:8554/mpeg1or2AudioVideoTDESCRIBEk2 RTSP/1.0
+CSeq: 4
+User-Agent: ./tes&tRTSPCliedia v2018                                        //127.0.F.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0.08.28)
+Session: 000022B8
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpe
+Range: npt=0.000-
+
+OPTIONSN rtsp://127.0.0.1:853D984869or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Age-Agent: ./RTSPCe  zRg1or3AudioVideoTest/track2 RTSP/2.0
+CSeq: 4
+User-Agent   : ./testRTSPnt $LIVE555 Str

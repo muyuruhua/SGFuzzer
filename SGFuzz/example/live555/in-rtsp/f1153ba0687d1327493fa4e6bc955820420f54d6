@@ -1,0 +1,32 @@
+z t RTSP/1.0
+C28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.(.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.eCS0
+q: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Media v18.9000.28)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/;mpeg1or                                          2Au33333d00002ent (LIV.08.27) RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE110 S5 Streaming M0779
+
+SETUP rtsp3: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicati  P dp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Str018.08YMGV
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85                                        RTSKoDESC    udioTestP(lient (LIVE555 S#treami      X v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=ming Media v2018.ion:
+CSeq:  00002v2018.ion:
+CSeq:  000022OPTIONSB8
+
+PLAY rtsp://128.0.0.1:8554/mpet=9TesSET_PARAMETERCSe

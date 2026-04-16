@@ -1,0 +1,18 @@
+DTEARDOWNrtsp://127.0.0.1:8554/mpeg1or2AudioVidSessivn@ 000379Content-Length:
+CSeq: 2
+User-Agent: ./testRTSPClient (LIt: ./testRTSPClient (LIVE5$5 Streaming Media v2018.08.28)
+Accept: ap<<<<<2018.08.28                                                         ion/sdpVE555 Streaming Media v4036.08.28)
+Accept: applicatiosp/nd
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+_port=50778-507791orRTSP/1.0deoTest/ RTSP/1.0
+CSeq: 5AVP;unicast;client_port=45546-45547
+Session: 0000228b
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AgentRange: npt=9: ./testRTSPClient (LIVE155 Streaming Media v2018.08.28)
+Session: 000022B8
+Ran<<<<<<<<<<<<<<<<<<<<<<2018.08.28)1
+Sessivn@ 000379B8
+

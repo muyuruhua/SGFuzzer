@@ -1,0 +1,26 @@
+DwebmFileTest://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClientvNONGQOGR28)
+Accep : applilcation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+Cg1or2AudioVidTEARDOWNrack2 RTSP(1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVBMHH_,eaming Media v2018.08.28)
+Transport: RTP/AVP;unimpeg1or2AudioVideoTest/track1 RTSP/1.0
+Cg1or2AudioVidTEARDOWNrack2 RTSP(1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVBMHHRTSP/1.0
+CSeq: 3
+User-AstR/M      t (LIVE5U5 SOPTIONSg Media v2018.08.28)
+Transport:eaming MeRange2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq: 6
+User-Agent: ./testRTDESCRSPClient (LIVIBE rtsp://127.k.0.1:8554/mpeg1orE555 Streaming Media v2018.08.5 Stre1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+User-As8)
+Session: 000022B8
+

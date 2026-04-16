@@ -1,0 +1,37 @@
+D2Bient_port=455ESCRIBE rtsp://127.0.0.1:8514/mpeg1or2Audiocept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe
+User-Agent: st;client_t/ RTSP/1.0
+CSport=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0RNEGJJKYmpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent:0 /.002B28
+Range: npt=0.000-
+
+TEARDARAMET	C  ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C      .0.0.1:8554/mpeg1or2Au   )    Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1&or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C  ./0002B28   Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP000022b8
+
+PLAY rtsp://127&0.0.1:127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./0002B28
+Range:   80.000-
+
+TEARDARAMET	C  ./0002B28   Test/ RTSP/0.0
+CCeSPClient (LIVE555 Streaming Media v20tra08.28)-
+Session: 000022B8
+

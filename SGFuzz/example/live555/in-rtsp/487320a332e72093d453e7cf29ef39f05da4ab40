@@ -1,0 +1,23 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest TSPR/1.0
+CSeq: 2
+User-Agent: ./testRTSpClient (LIVE555 Streamiack2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transp:Tto rRP/AVP;unicast;client_port=45546-45547
+SeH9      ssion: 000022B8
+
+PLA.0.0.1:8554spnta: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp:/ing Media v2018.08.28!
+Session: 00002B28
+Range:   t=0.000-
+
+TEAM^  RDOWtestRTSPClientAVP;   RTSPClient (LIVE555 Stream    Me  a v2018.08.28)
+S/testRTSPClient (LIVE110 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000OPTIONSARDOWN rtsp:1/2/7.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1n0
+CCeq: 6
+User-Agent&Q      RTSPClient (LIVE277 Stream    Me  a v2018.08.2ng Media v2018.08.28)
+Accept: app Streamvng Media v2018.08.08)*
+Session: 000022B8
+

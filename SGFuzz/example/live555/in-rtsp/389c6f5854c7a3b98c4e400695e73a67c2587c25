@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSpClient'(LIVE555 Streaming Media v2018Streaming Media v2018.08.28)
+Accept: application/g Media v2018Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 PLAY rtsp://OWN rtsp://127.(.0.1:8554/mpeg1or2Audi/ RTSP/1.0
+CCeq:2AudioVident: ././testRTSPClient (LIVE555tim eSrang Mudia v2018.08.28)
+Sessionsdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 PLAY rtsp://OWN rtsp://127.(.0.1:8554/mpeg1or2Audi/ RTSP/1.0
+CCeq:2AudioVident: ././testRTSPClient (LEVI555tim eSrang Mudia v2018.08.28)
+Session: 0U0022B8
+

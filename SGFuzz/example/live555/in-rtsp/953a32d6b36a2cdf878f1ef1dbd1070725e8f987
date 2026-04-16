@@ -1,0 +1,26 @@
+DESCRIBE rtsp://12IQOQOQN>8554/mpeg1or2AudioViDESCRIBE rtsp://127.0.deoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Med0.1DESCRIBE rtsp://127.0.0.1:8edia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/       hTSP/1.0
+CSeq: 3 
+User-Agent: T_PARAMETERdia v2018.08.28)
+Tran554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-A gent; ./testRTSPClient (       hStreaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/       hTSP/1.0
+CSeq: 3 
+User-Agent: T_PARAMETERdia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP:8554/m/1.0peg1or2AudioVideoTest RTSP
+CSeq: 4127.0.0/1.0
+CSia v2018.eq: 208.28)
+
+UsAcer-A.1
+User-.28)
+Sjssion: 000022B8c
+e

@@ -1,0 +1,13 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideo./testRTSPClient (LIVE555 Streaming Media v2018.  8 8)
+Session: 000022B8
+Range:ideoTest/ RTSP/1&.0.0.1!:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CCeq: 6
+User-Agent: ./te08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1!:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming MediTransport08.28)
+#essio: 00PR22B8
+

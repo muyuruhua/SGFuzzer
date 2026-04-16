@@ -1,0 +1,5 @@
+zg    t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioViac3AudioTestdeoStreaming Media v2018.08.28)
+Accept: applicTest RTSP/1.0
+CSeq: 2D       SSATUP WN tsp://127.0.0.1:8554/mpeg1or2AuationdioVideoTest /sR

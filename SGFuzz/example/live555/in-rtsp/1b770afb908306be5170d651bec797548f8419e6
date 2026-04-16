@@ -1,0 +1,41 @@
+DESCRIBE rtsp://127.0.0.1:8514/mpeg1or2Audiocept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe
+User-Agent: st;client_t/ RTSP/1.0
+CSport=45546-45547
+Session: 000022b8
+
+PLAY rtsp://1278
+Range: npt=0.000-
+
+TEARDARAMET	C      .0.0.1:8554/mpeg1or2Au   )    Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C  ./0002B28   Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP000022b8
+
+PLAY rtsp://127&0.0.1:127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C  ./0002B28   Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP000022b8
+
+PLAY rtsp://128&0.0.1:8554/mpegrack1 RTSP/1.0
+C                                      Seq: 3
+User-Agent: ./testR	SPClient (LIVE555 S eaming Media v5950.08.28)
+Transport: RTP/AV*P;unicast;client_port=50778-50779
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCSETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVidCCeq: 6
+User-Agent: ./testRTSPClPAiLYent (LIVE555 Streaming Media v20tra08.28)-
+Session: 000022B8
+

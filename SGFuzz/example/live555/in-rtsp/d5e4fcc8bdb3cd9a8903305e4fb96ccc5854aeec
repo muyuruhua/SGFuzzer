@@ -1,0 +1,13 @@
+DTEARDOWNrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User=Aget: n./testRTSPClient (LIVE555 Streaming edia v2018.08.28)Content-Length:                                        or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: .-testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_p                            plicationDESCRIBE r%treaming edia v4036.08.28)Content-Lnngth:                                                                    plicationDESCRIBE r%tsp://127.0.0 1:8554/mpeg1or2AudioVideoTest RTtsp://127.0.0 1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555!Streaming Media v2018.08.28)
+Accept:rtsp://128.0.0.1:8554/mpeg1or2AudioVior2AudioVideoTest/t/sdp
+
+SETUP rtsp:rack1 RTSP/1.0
+CSeq:/ 

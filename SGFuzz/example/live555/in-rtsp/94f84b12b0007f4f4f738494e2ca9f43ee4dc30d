@@ -1,0 +1,12 @@
+DESCRIBE rts%p://127.0.0.1:8554/m`eg1or2AudioVideoTest RTSP/1.0
+CSeq.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AgentP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4;
+User-Agent: ./testRTSPClient (LIVE555 Streaming Med:a v2018.08.`8)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1ot (LIs 000022B8
+

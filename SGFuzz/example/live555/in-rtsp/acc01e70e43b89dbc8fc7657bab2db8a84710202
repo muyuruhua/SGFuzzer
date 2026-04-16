@@ -1,0 +1,27 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeSETU  BE r-Agent: ./testRTSPClient (LIVE555 Streaming Mediadp
+
+SETUP         rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/AVP1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming MAAAAAAAAAAAAAAAAAAAedia v20stRTSPClient (LIVE555 Streaient (LI v2018.08.28)
+Accept: app ication/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/RIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeSETU  BE r-Agent: ./testRTSPClient (LIVE555 Streaming Mediadp
+
+SETUP         rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/AVP1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming MAAAAAAAAAAAAAAAAAAAedia v20stRTSPClient (LIVE555 Streaient (LI v2018.08.28)
+Accept: app ication/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wavAudioTest RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (L27)
+Accept: applicatiowavAudioTest RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (L27)
+Accept: application/sdpst;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./tLIVE555 Streaming MAAAAAAAAAAAAAAAAAAAedia v20stRTSPClient (LIVE555 Streaient (LIVE556 Streaming Ment_edia v2port=50077188.0

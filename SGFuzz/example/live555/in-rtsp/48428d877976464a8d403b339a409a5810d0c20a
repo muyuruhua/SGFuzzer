@@ -1,0 +1,21 @@
+DSETUPESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 21
+User-Agent: ./testRTSPClient (LIVE555 StreamDESCRIBEa v2018280..8)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ,/testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779webmFileTestsp://127.0.0.1:8554/mpig1or2AudioVideoTest/track2 RTSP/1.0
+matroskaFileTestent: ./testRTSPClient (LIVE555 Streaming Media v20$Q      port=55446-45547
+Session: 000022B8
+AAAAAAAAAAAAAAA?>>DAAAAAAAAAAAAAAAAAAAAAAAAA
+PLAY rtsp:/estRTSPClient (LIVE555X,    ng Media v200.818.28)
+Session: 00002HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH2B8
+Range: npt=0.000-
+
+TEARDOWN rtspRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+2Seq: 21
+User-Agent: ./testRTSPClient (LIVE555 g Media v2018.51.28)
+S3ession:Range: npt=9 000022B8
+

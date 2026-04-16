@@ -1,0 +1,15 @@
+DVPngeBE rtsp://127.0.0.1:8554/mpeg1or2Au                                  dioVideoTest RTSP/1.0
+CSeq: 2
+UseRange: npt=9estRTSPClient (LIVE110 Streaming MJediaRange:  v2018.08.28Wru4cYept: applation/sdp
+
+Test/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Age
+554/mpeg1or2AudioVideoTest/track2 R rts72//1p:.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClientn@ 0SET_PARAMETER00044B8
+

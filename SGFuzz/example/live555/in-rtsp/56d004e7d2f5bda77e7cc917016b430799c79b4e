@@ -1,0 +1,8 @@
+D        ESCRIBE rtsp://User-Agent: ./testRTSPClient (LIVE554 St reaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMET    ion: 004004B8
+
+PLAY rtsp://127.0[0.1:8554/mpeg1or2Au   oideoTest/ RTSP/1.   Seq: 5
+User-Agent: ./testRTSPClient (LIVE555  6
+User-Agent: ./tesPAUSEtRTSPClient (LIVE555eStreaming Media v2018.08.28)
+Session: 000022B8
+

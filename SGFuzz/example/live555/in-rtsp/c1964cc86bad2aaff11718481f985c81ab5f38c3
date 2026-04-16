@@ -1,0 +1,26 @@
+Dk_  ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C  (  2
+User-Agentrt: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0ansport: RTP/AV@P;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tbstRTSPClient (LIVE555 Streaming Media v2018.    8)
+Session: 000021B8
+Range: npt=5.000-
+
+TEARDOWN rtsp://1nt (LIQVE555 St855?4/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2W
+User-Agent: ./testRTSqPClient (LIVE555 Streaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Str;aming Media v2018.08.28)
+Transport: Transportnicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESC                     sion: 000022B8
+

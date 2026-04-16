@@ -1,0 +1,23 @@
+D  TUPDESCRIBE   'IBE rtsp://127.0&0.or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Straaming Media v127.0.0.18)
+Transport: RTP/AVP;unicast;client_por+t=18088-50779
+
+DESCRIBE rtsp://1272018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.     u 0.0.peg1or2AudioViteeoTds/wavAudioTest RTSP/SETUP webmFileTest.G.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-A*gent: ./testRTSPClient (LIVE555 Streaming 3 dia v2018.08.28)
+Transport: RTPIAVP;unicast;clieknt_port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent:1*0
+CSeq: 5
+UsGET_PARAMETER||||||||||||||||||||||||estRTSPClient (L2(((((((((((((((((((((((((((((((((((((((7)
+Accept: a1:8554/mpeg1or2AudioVideoTest54/mpeg1or2AudioVideoTes00022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5in
+Use

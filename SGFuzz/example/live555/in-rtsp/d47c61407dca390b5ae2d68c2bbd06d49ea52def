@@ -1,0 +1,27 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCliappl000022B8ication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE973 Streaming Media Scale:06.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsor2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE973 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBSETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/2.0
+CSer-Agent: ./testRTSPClient (LIVE555 Streaming Media 0.0.1:8554/mpeg1ort;client_port=45GET_PARARDOWN//127.0.0
+User-Agent: ./testRTSRClient(L IVE555 Streaming Mudia v2018.0 .2AudioVideo000-
+
+TEARDOWN rtwp://127.0.0
+User-Agent:AudioVideo000-
+
+TEARDOWN rt npt=9Tideo000-
+
+TEARDOWN rtw000022b8
+
+PLAY rtspest/ RTSP/1.0
+CSe

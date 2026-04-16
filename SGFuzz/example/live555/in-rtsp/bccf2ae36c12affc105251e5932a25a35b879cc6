@@ -1,0 +1,20 @@
+DScale:Scale:E rtsp://127.0.0.1:8554/mpeg1or"AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./$estRTSPClient (LIVE277 Streaedia v2018.08.28)
+Transport: RTP/AVP;unicast;client_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCSession:IVE555 Streaming Media v2018.08.28)
+Trsnsport: RTP/AVP;unicast;clietion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE55LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

@@ -1,0 +1,5 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MediDAVPESCRIBE -rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSea v2018.08.28)q: 2
+User-Agent: ./testRTSPClient (LIVE555 

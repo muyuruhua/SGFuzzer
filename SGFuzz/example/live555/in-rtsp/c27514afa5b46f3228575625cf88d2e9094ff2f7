@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Ag;unicast;client_port=22773-45547
+Session: 000022b8
+
+PLAY rt,sp://127.0.0.r1:8
+User-Ag
+UsContent-Length:tRTSPClient (LIVE467 Streaming                            %            ?edia v2010.08.28)1
+Sessivn@ 000022B8
+

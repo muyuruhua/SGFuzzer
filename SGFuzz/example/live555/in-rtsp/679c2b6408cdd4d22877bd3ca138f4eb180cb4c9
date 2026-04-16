@@ -1,0 +1,9 @@
+DESCRIBE rtsp://12 .0.0.1:8554/mpeg1or2AudioVi)
+Transport: RTP/AVP;unicast;client_port=<5GET_PARAMETERssieoTfst RTSP/2.0
+CSeq:       AdAgent: ./testRTSPClient (LIVE556 Streaming Media v2018.08.28ng Media v2018.08.28!
+        Session: 00002B28
+Range: npt=0.000-
+
+TEARDOWtestRTSPClien1 (LIVE555 Streaming Media v2018.08 28)
+2B8
+

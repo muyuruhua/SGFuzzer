@@ -1,0 +1,32 @@
+zsion:  RTSP/1.0
+C/eq: 2
+User-Agent: ./testRTSPClient (LIVE555 Stream  g Media v2018.08.28)
+Accept: applicat:on/TEARDOWNETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTVP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport:cast;client_porv=50778-50779
+
+SETUP rts
+
+SETUP rtsp://266.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./  RTSPClient (LIVE555 Streaming Media v1009.08.28)
+Transport: RTP/AVP;unmcast;client_port=45GET_UARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0.0.tRTSPClient (LIVE555 nt_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media2v 1008.8.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAETERssion: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDWrN OtsStream  g Media v20\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\1E2554/mpeg1or8554/mpeg1or28udioVideoRange: npt=92AudioVideoRange: npt=9Te        /1.0
+CSe

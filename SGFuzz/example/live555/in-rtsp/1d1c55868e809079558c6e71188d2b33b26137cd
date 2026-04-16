@@ -1,0 +1,13 @@
+DESCRIBE rtsp://127.0.0555 StreamingSCRIBE rtsp://127.0.0555 Streaming Media v2018.08.28)
+1ccept: appliransport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSAClsent (LIVE555 Streaming Me                                          dia v2018.08.28   dransport: RTP/AVP;unicast;client_port=45GET_PAR itraSemng Medi0022B8
+
+PLAY rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tes    PClient (LIVE555 Streaming Mediav2 018.08.28)
+Session: 000022B8
+Range: npt=0.0004/mpeg1or2An: 000011B8
+

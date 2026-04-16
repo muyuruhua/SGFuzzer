@@ -1,0 +1,20 @@
+DESCRIBVE555 Streaming Media v201                                                                     8.08.28)
+Accept: application/sdp
+
+PAUSE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08..08.28)
+Accept: application/sdp
+
+PAUSE rtsp://126.0.0.1:8554/mpeg1or2AuaioVideoTestTCPack1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streami'ng Media v2018SPClie nt(LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;un StreamiPClient (LIVE555 Streaming Media v2018.08.28)      "8
+Accept: application/sdp
+
+PAUSE rtsp:/       /127.0.0.1:8554/mpeg1or2AudioVideoTestTCPack1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Str      _2edia v2018.08.28)
+Transport: RTP/AVP;unicast;clientpvo_t=50778:50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1peg1or2AudioV-deoTesDD

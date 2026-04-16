@@ -1,0 +1,14 @@
+DSET_PARAME rtsp://127.0.0.1:8554/mpeg1orPAUSE2AudioVldent: ./destRTSPClient (LI                                       ^ VE555 Seq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v1009.08.28)
+Session:$000022B8
+naRangegRe: npt=0.000-
+
+TEARSETUPrtTERESCRIBE rtsp://127.0.0.1:8554/mpeg1orPAUSE2AudioVldent: ./testRTSPClient (LI                                                                                                                                                                         VE555 Seq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v1009.08.28)
+Session:$000022B8
+naRangegRe: npt=0.000-
+
+TEARSETUPrtsp://127.0.0.1:8554/mpegr1o20.1:8554/mpegr1o2AudioVideoTest/ RTSP/1.0
+CSeq: SETUP
+Session: 000022B8
+

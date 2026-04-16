@@ -1,0 +1,13 @@
+DESCRIBE         27.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0Cseqeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicaTEARDOWN
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1TPS/R 1.0
+CSeq:  
+User-Agent: ./testRTSPClie
+User-Agent: ./testRTSPClient (LIVE277 Strea ming Media v2018.08.28)
+Transport:R TP/AVP;un																																																																											icast;client_port=45GET        ERssion: 000022B8.08.28!
+Session:
+UserS>   Ed./testRTSP                                                                                                                     Client (LIVE555 St  aming Media v40tra08.28)-
+Session: 000022B8
+

@@ -1,0 +1,14 @@
+DSAT4/mpeg1or2AudioVideoTest/track1 RTSP/1..
+C*eq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;cliUP WN tsp://127.0.0.1:8554/mpeg1or2AulioVideoTest RTSP/1.TCP0
+CSeq: 3PLA.0.0.1
+User-Agent: ./testRTSPClient (LIVE555        ng Media v3    08.28)]
+Ac?ept: appligation/sdp
+
+SETUP rtsp://063.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=455tRT5 Streaming Medi33333333333333333333333333333333333333r2nt

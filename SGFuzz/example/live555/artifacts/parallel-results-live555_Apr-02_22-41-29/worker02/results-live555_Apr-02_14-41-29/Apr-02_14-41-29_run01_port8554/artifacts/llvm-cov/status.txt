@@ -1,0 +1,4 @@
+status=exported
+profraw_count=1
+profdata=/results/worker02/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/artifacts/llvm-cov/merged.profdata
+export_json=/results/worker02/results-live555_Apr-02_14-41-29/Apr-02_14-41-29_run01_port8554/artifacts/llvm-cov/export.json

@@ -1,0 +1,40 @@
+DScale:E rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Us      .08.28)
+Transport: RTP/AVP;unciast;client_port=45GET_PARAMETERssion: 000022B8   08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v1009.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp:/SEDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Ag2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StrEama v2018.08.28)
+Sesn soi:000022B8
+Range: npt=0.000-
+pTEARDOWN rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ 4TSP/1.0
+CSeq: 6
+UserCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCRTPCCCCKUP/127.0.0.1:8554/mpeg1or2AudioVi]deoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE223"- Streaming Media v2018.08.28)
+Session: 000022B8
+Ran/127.0.0.1:8=54/mpeg1or2AudioVideoTest/ R)SP/1.0
+CSeq: 6wavAudioTestAVP;unicast;client_port=45GET_PARAMETERssion: 000nicast;client_por
+Ranget=50778-50S
+28)
+Acc#pt: age: npt=0.000-
+
+TE  h Cseqtsp://127.0.0.1:8=54/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6wavAudioTestAVP;unicast;client_port=45GET_PARAMETERssion: 000nicast;client_por
+Ranget=50778-50S
+28)
+Acc#pt: apppI  lication/sdp
+
+SETUP unicCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC CCCCCC-Agent: .t/e://stRTSPClientSPClient (LIVE341"Smmmmmmmmmmmmmmmmmmmmmmmmmmmmtreaming Media v2018.08.        s2ntion: 000022B8
+

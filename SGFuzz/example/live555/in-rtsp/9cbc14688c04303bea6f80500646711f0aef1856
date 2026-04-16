@@ -1,0 +1,5 @@
+z t RTSP/1.0JCSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: appliDESCRIBE rtsp://127.0.0.1:8554/mpeg1orcation/sdp
+
+SETU2AudioVP

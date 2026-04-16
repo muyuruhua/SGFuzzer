@@ -1,0 +1,21 @@
+DOPTIONLIVE555 Streaming Media     v2018.08.28)
+Accept: application/sdp
+
+SEITUP rtsp://127.0.0.ac3AudioTestor2AudioVideoTes t/track1 RTSP/1.0
+CSeq: 3
+User-A'ent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1   CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.8.)280
+Transport: RTP/AvP;unicast;client_port=22GET_PARAMETERssion: 000022B8suru/3>& rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSP.lient (LIVEI55 Streaming Media v2018.08.28!
+Se!ssion: +0002B28
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0        4/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClien; (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

@@ -1,0 +1,25 @@
+DRangeBE rtsp://127.0.0.1:8554/mpeg1&r2AudioVident: .Scale:/testRTSPClAent (LIVE555 Streaming Media v2018.08.28)
+Trorspnta: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1        or2AudioVideoTest/track2 RTSP/1.0
+CSeq:TEARDOWn       r-Agent: ./testRTSPClient (LIVE555 Streamin gMedic v2018.08.28)
+Transport: RTP/AVP;unicansport: RTP/AVP;unicast;client_p4=ot5r546-45547
+Session: 00002208.28)
+Transporlt: R#TP/AVP;unicansport: RTP/AVP;unicast;client_port=45546-45547
+Session: 00002 2B8
+
+PLA.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent=45546-4554@
+Session: 000022B8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Stream=ng Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+=EARDOWN rtsp://127.0.0.1:8554/mpeg1oRTP}dioVideoTest/ RTSP/0.0
+CSeq: 6
+User-n 000022B8
+

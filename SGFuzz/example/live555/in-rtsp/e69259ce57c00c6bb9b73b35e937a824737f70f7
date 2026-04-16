@@ -1,0 +1,31 @@
+DESCRIB)
+Session: 000022B8
+Range: npt=0.000-
+
+dioV %eoTest/ RTSP/1.0
+CCeq: 6
+User-Agent022BHs
+
+: ./t.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./teB8
+Range: npt=0.000-
+
+TEAYDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioV %eoTest/ RTSP/1.0
+CCeq: 6
+User-Agent022B8
+
+: ./testRTSP C      Client (LIVE555 Streaming00022B8
+Range: npt=0.000-
+
+dioV %eoTest/ RTSP/1.0
+CCeq: 6
+User-Agent022B8
+
+: ./testRTSPClient (LIV.1:8553/m        peg1or2AudioV T%oeest/ RTSP/1.0
+CCeq: 6
+User-Agent: ./tes0
+CCeq: 2
+User-Agent: ./testRTSPClient J(LIVE555 S1reaming Media v2 18.08.28)
+Session: 000022B8
+

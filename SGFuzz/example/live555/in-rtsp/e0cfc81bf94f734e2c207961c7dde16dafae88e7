@@ -1,0 +1,12 @@
+DE rRIBE rtsp:/.21/70.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0Cseqeq: 2SETUP-Agent: ./testRTSPClient (LIVE555 Streaming Media v8953.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+COPTIONSSeq: 3
+User-Agent: ./testRTSPClie
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.14)
+Transport: RTP/AVP;unicast;client_port=4tRTSPClieO___                                                         0778-50Sccept: apppI  lication/sdp
+ES
+TRIBE rtsp://127.0.0.!1:8554/mpeg1n: 0000)08.28)-
+Session: 000022B8
+

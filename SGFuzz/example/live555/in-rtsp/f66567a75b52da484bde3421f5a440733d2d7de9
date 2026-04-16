@@ -1,0 +1,8 @@
+D       SSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3 dia v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session:/testRTSPCLient (VideoTest RTSP/1.0
+CSeq: 2
+Use3333333333Cseq33333333000022B8333333333333333333333333333333333@333#333333333r2nt

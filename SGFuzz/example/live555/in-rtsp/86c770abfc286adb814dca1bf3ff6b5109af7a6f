@@ -1,0 +1,14 @@
+DSETUP Iedia v10127.0.0.1:8:554/mpeg1or1AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Me: ./testRTSPClient (LIVE555 Streaming Me}ia v2018.08.28)
+Accept: application/sdp
+
+SETUP8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media v2018.08.2
+
+TEARDOWN rtsp://1TCP27.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6 
+User-Agent: ./testRTSPCRTPlient (LIVE555 Streaming Media!v2018.08.28)
+Session: 000022B8
+                                                          

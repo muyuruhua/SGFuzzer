@@ -1,0 +1,11 @@
+cDESCRIBEast;cli.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE55treaming Media v2018.08.28)
+Aacept: applicat   6sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Uszzzz        zzzzzzzzzzzzzzzzzzzzzzer-Agent: ./testRTSPClienL tV(IE972 Streaming Media v2018.08.28)
+Transport: RT6 P/AVP;unicast;client_port=50778-5/127.0.0.1:8554/mpe 4
+Useransport: RTP/AVP;unicast;clienia v2018.08.28 K      on: 0 ./tes8Range: npt=9
+

@@ -1,0 +1,12 @@
+DScale:ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIStieramng M    _	MJ18.08.28)
+TransP/1.0
+CSeq:=5
+User-Agcnt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+DEARDOSN rtsp://127.0.0.1:8554/mpeg1or2Aud        ioVtestt: ./testRTSPCl ni(etLIVE5
+Sessivn@ 000022B8
+

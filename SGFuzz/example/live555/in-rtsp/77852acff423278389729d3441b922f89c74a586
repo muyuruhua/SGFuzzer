@@ -1,0 +1,13 @@
+DUser-Agentsp://127.0.0.1:8554/mpeg1D  entsp://127.0.0.1:8554/mpeg1D      ^ ESCRIBE rtsp://127.0.0.1:8554/mpegRange: npt=9xeoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tes    ^ ESCRIBE rtsp://127.0.0.1:8554/mpegRange: npt=9xeoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTUser-AgentLIVE110 Streaming Media v2018.08.28)
+Accept: application/sd
+p
+SETUP rt        .Y.0.1:8554/mpeg1oz2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Aming Media stRTSPClient (LIVE26           Content-Length:    	J08.28)20or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: 18.08.28)
+Session:r 0000./22t

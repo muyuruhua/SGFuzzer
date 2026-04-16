@@ -1,0 +1,15 @@
+D127.0.0.1est      : application/sdmatroskaFileTest//127.0.0.1:8554/mpeg1or20udcast;client_povt=50778-50779
+
+SETUPsrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTePPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMst/track2 RTSP/1.0
+CSeq: 4IUse2-Agent: ./testRTSPClientW (LIVE555 Streaming Medi2 0av18.08.28)
+Transport: RTP/AVP;unicst;aclienl_ac3AudioTestARAMTiEsEsRon: 000022B8ent_povt=5077/-50779
+
+SETUPsrtsp://127.0.0.1:8554/mpeg1or                                                                                      ac3AudioTest    SET_PARAMETER AudioVide
+ 
+P.0.1:8554/mack1
+
+.0.1:8554/mack1
+
+Te.Cami.0
+Cde
+

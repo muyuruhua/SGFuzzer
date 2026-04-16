@@ -1,0 +1,4 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpe,1or2AudioVideoDESCRIBE rtspTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPC://890.0liveMedia199571or2AudioVideoTeslient (LIVE555 Streaming Media vc2018.08.28)_____________________________________________________________________________________________________________________
+Accept: application/sdt RTSP/

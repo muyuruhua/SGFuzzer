@@ -1,0 +1,12 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVidenTest RTSP/1b_      .0
+CSeq: 2
+User-Agent: ./testR  8 TSPClient (LIVE555 Streaming Media 55 Streaming Media v2018.08.28)
+Trorspnta: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUPlient (LIVE555 Stream@ing Media v201?8.08.28)
+Transport: R rtsp://127.0.0.1:8554/mpest.+,/<   nt (LIVE1DESCRIBrtsp://12      7.    Stry ming Medi.0.1

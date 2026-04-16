@@ -1,0 +1,9 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Usedia v2018.08.2(8)
+Tr778-50S
+
+82)Accept: ap7.0.0. Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+
+82)Accept: ap7.0.0.1:8554/k2 RTSCoDESCRIBE rtsp://1nt

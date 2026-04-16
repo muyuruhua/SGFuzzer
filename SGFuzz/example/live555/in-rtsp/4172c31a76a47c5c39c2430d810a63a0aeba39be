@@ -1,0 +1,19 @@
+DESCRIBE rtsp://123.0LIVE555 Streaming Media v2018.08.:8)
+Transport8 RTP/AVP;unicast;client_port=50773-50779
+
+SETUP rtsp://12IQOQOQNF8554/mpeg1   Eor2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Eedia v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 00002A2B8
+
+PLAY rtsp:/p/127 0$0.1:8554/mpeg1or2AudioVidemTest/ RTSP/1.0
+CSeq: 5
+User-Agent.t:e/s tRTSPClient (LIVE555 Str         eaming Media v2018.08.28)
+Session:User-Agent
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8555/mpeg1or3audioVideoTest/ RTSP/1.0
+CSeq: 6
+UsEr-Agent: ./SET_PARAMETERt (LAge55, Streaming Media v2018.08.28)
+Sesscan: 000022B8
+

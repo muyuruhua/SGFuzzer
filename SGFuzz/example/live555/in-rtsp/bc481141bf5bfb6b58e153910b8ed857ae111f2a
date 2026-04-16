@@ -1,0 +1,10 @@
+D   IBE rtsp://127.0.0.1:8554/mpeg1or2AudioViIdeoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (//127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+C
+User-Agent@ ./testRTSPClient (LIVARDOWN rtsp://127.0.0.1:     8554/mpeg1or2Audi/8
+Range: npt=0.000-
+
+TEARIVE5
+Sessivn@ 000022B8
+

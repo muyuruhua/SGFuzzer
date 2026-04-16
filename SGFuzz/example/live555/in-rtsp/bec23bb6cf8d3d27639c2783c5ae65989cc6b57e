@@ -1,0 +1,8 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT        /1.0              8vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-Ag    ntent-Length:ient (LIVE555 St8554/mpeg1WN rtsp://127.0.0.1:8554/mpe N  2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

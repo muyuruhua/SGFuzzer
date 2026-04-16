@@ -1,0 +1,32 @@
+DScaRIBE rtsp://127.0.0.1:8554/meopA21rGET_PARA018.08.28)
+Accept:Content-Length:p
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/AVP;unica{t;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes           t/ RTSP/1SET_PARAMETER/0
+CSeq: 5
+User-Agejt: ./testRTSPClie7.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1SET_PARAMETER/0
+CSeq: 5
+User-Agejt: ./testRTSPClient (LIVL555 StreaRTPming Med iav2018.e08.28)
+Jes+siRTSP/1.022B8
+CRange: npt=0.000-
+
+TRTPDOWN DAVPESCRIB9 rtwp://127...rtsp://254.A21rGET_PARA018.08.28)
+Accept:Content-Length:p
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track0 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/AVP;unica{t;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1SET_PARAMETER/0ONSB8
+
+PLAY rtsp://128.0.0.2:8554/m Streaming M|dieoTest/ RTSP/
+CSeq: 5
+User-Agejt: ./testRTSPClie7.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1SET_PARAMETER/0
+CSeq0.0.1y:

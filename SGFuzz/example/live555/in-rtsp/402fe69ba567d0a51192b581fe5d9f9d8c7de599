@@ -1,0 +1,13 @@
+D       YRangeESCRIBE rtsp://127.0.0.1:8554/lication/sdp
+
+SETUP rtsp://127.0.0.1:8553/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClient (LIVE554 Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=4Transport5GET_PARAMETERssio20IVE555 StreamContent-Length:PLAY rtsp:/client_port=90GET_PARAMETERssion: 000022B8
+ 
+PLAY rtsp://127.0.0.1:855/4mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5bUser-Agent: ./testRTSPClient (LIVE555 Streaming Medi av2018.08.28!
+Session: 00002B28
+Range: npt=0.000lient (LIVE555 Streaming Mediau v20IVE555 Strea8
+ 
+PLAY rtsp://127.0.0.1:855/4mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5bUser-Agent: ./testRT0002

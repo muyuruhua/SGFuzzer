@@ -1,0 +1,11 @@
+DSEBIERC rtsp://123.0.0.1:8554/m/12.0.30.1:80554/mpSeq: 2 
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28Range: npt=9)
+Accept: application/sdp
+
+SETUP rtsp://127.st/ RTSP/1.0
+CSeq: 5
+Use                                                                                     r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Seisson
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTS /1.0
+Ceg1or2AudioVideoTes2 RTStreaming MediDAcceptE rtsp://127a v1009.0

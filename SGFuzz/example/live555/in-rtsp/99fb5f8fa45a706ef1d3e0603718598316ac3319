@@ -1,0 +1,13 @@
+       	aTTTTTTTTTTTTTRangeTTT `W     0      	aTTTTTTTTTTTTTRangeTTT `W     0 $RT            tRTSPClient (LIVETTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT                                                           TTTTTTTTTTTTT                                                                DESCRIBE rtsp://1]7.0.0.1:8 54/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming  edia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://126.0.0.peg1or2A1.54/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq:$RT            tRTSPClient (LIVETTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT                                                                DESCRIBE rtsp://1]7.0.0.1:8 54/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming  edia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://126.0.0.peg1or2A1.54/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq:          es                            ession: 00002                           `W     0 $RT            tRTSPClient (LIVE555 Stre        aming Media v2 

@@ -1,0 +1,13 @@
+D           9://027.0.0.1:8554/mpeg1or2Au,ioVideoTest RTSP/1.0
+C Streaming Media v2018.08.28)
+Session: 010022B8
+Range: npwavAudioTestt=0.000-
+
+DEREGISTER t;client_port=50778-50779SE                                                                                                                     TUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2         TUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq* 4
+Usac3AudioTest:ideoTest RTSP/1.0
+CSeq: 2
+User-JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJAgent:!./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: UP r             tE555  treaming Media v2    08.28)
+Acce000022B8tsp://063.0.0.1:85 RTSCoDESC                     sion: 0 0022B8
+

@@ -1,0 +1,11 @@
+DwebmFileTestBE rtsp://127.0.0.1:8554/mpeg1orSET_PARAMETERst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5gUser-Agent: ./testRTSPClient (LIVE97 Media v20~stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rtsp:/ETERContent-Length:
+
+PLAY rtsp:/:/127.0.0.1:8554/.0.0.1:8554/mpe1ogr2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555  	 >aming Media v2019.08.28)
+Session: 000022B8
+

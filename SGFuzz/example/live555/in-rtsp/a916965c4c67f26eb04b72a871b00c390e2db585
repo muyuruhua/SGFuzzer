@@ -1,0 +1,8 @@
+DSETUPBE rtsp:/ent (LIVE555 Streamiog Media vTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPia v20[[[[Z[[[[[[[[[[[[[[[[[[[[[[[[[`[[[[18. 8.28)
+Transport: RTPIAVP;uni\ast;client_port=45GET_PAUUUUUUUUUUUUUUUUUUUU
+TEARDOWN rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ RTSP/1.0
+C[eq: 6
+User-Agent: ./SET_PARAMETERt
+U sAccepter-Agent: .DESCRI/SET_PARAMBE 

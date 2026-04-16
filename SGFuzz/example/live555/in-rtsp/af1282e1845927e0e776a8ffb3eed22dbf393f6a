@@ -1,0 +1,25 @@
+DESCRIBE rtsp://127.0.0.1485:5/mpeg1or2AudioVideoTest R                       TSP/1.0
+CSeq1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sess: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8555/mpeg1or2AudioVt_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+C Seq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sesion: 0000ac3AudioTest rtsp://127.0.0AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+UseAVPr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/m  g1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6//127.0.0.1:8554/mperA2   1goudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCliB8
+

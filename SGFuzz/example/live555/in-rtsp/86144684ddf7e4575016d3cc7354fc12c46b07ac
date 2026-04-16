@@ -1,0 +1,33 @@
+DTransportESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+Us`r-Agent:9
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streami Mndegia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR M TERsjsion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 0      X 
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or20.0.1:855icast;client_port=45GET_PAR M TERssioD  ESCRSET_PARAMETERIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3 
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)matroskaFileTest
+Transport: RTP/AVP;unicast;client_port=-0778-507790.000-
+
+TEARDOWN rtsp://127.0/0.1:8554/mpeg1or2AudioVideoTe$s(t/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Stre2B8
+Range: npt=0.000-
+
+TEA%DOWN rtsp://127.0.0.1:8554/m+eg1or3AudioVideoTest/ RTSP/1.0
+CSeqz 6
+User-Agent: ./testRTSPClient (LIVEA55 Streaming Media v2018.08.28)
+Sjssion:$000                                                  est RTSP/1.0
+CSeq: 2
+User-Agen: 000022B8
+
+n

@@ -1,0 +1,20 @@
+z  E555 Streamnig Media v2018.08.28)
+Alcept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2sssssssss.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE27ETER       ssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe127.0.0.1st/
+User-Agent: ./testRTSP'Client (LIVE97port: RTP/AVP;un RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIV ./testRTSPClient (LIVE555 Streaming Media v208.108.28pt=0.000-
+
+TEARDOWNicast;client_port=50778 rts-p://0

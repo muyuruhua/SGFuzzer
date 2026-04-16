@@ -1,0 +1,14 @@
+D 5      eESCRIBE rtsp://127.aj3AudioTestpeg1or2Aud                                                                                                    ioVideoTest RTSP/1.0
+CSeq:855 2
+User-Agent: ./testRTSPClient 46-45547
+Session: 000048B8
+
+PLAY rtsp://127.0.0.1:8 54/pmg1eor2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-dia v2018.08.28)
+Transport: R55       6 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+-507ARDOWNg!  p://127.0.0.1:8554/mpeg1or2AudioVtestt: ./testRTSPCl ni(etLIVE5
+Sessivn@ 000022B8
+

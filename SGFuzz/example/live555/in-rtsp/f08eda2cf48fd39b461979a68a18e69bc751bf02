@@ -1,0 +1,8 @@
+DESCRIBE rtsg Media v20stRkSPClient (LBIVE555 Streaming Media v2017.08.28)
+Transport: RTP/                                       b                       eeeeeee              AVP;unicast;client_port=44GET_PARAMETERssion: 0);     
+
+PLAY rtsp://@27.0.0.1:8554/mpeg1or2AudiomatroskaFileTestV  eoTest/ RPSP/1VideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./te{tRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

@@ -1,0 +1,7 @@
+matros                           %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                                         %%%%%ETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CS
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Audi                       %%%%0ileTest
+

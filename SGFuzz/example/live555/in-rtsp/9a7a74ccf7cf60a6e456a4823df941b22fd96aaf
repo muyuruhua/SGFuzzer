@@ -1,0 +1,9 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Aget: n./testRTSPClient (LIVE555 Streaming edia v2018.08.28)Content-Length:                                                                    plicationDESCRIBE r%tsp://127.0.0 1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555!Streaming Media v2018.08.28)
+Accept:rtsp://127.0.0.1:8554/mpeg1or2AudioVior2AudioVideoTest/t/sdp
+
+SETUP rtsp:rack1 RTSP/1.0
+CSeq:/ 

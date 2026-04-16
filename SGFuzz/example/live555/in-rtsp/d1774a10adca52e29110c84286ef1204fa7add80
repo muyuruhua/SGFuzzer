@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0Cseq:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testR rtsp://127.0.0.1:8554/mpeg1or2Audication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRQSPClient (LIVE110 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client: RTP/AVP;unicast;client_port=45GET_PA{RAMETERssion: 000022B8
+
+PLAY rtsp://555.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP018L08.2DESCDE]: ./teKRKBE

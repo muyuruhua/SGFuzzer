@@ -1,0 +1,16 @@
+Dsion]]] rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest #TSP/1.0
+CSeq: 21
+UserGET_PARAMETERtRTSPCliRange: npt=9 StreamDESCRIBEa v2018.08.28)
+Accepp: appv),     /sdp000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq: 5
+UseSeysion: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://-27.0.0.1:8554/mpeg2or2Au;ioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./te  8 RPCTSlient (LIVE555 S28eaming Media v2018.08.28)
+Session: 001022B8
+

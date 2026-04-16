@@ -1,0 +1,38 @@
+DOPTIONSESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Au4/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Me            dia v2018.08.28!
+Session: 00002B28
+Range: npt=0dioVideoTck1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;c_iltnepovt=83502-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:     ./testRTSPClient (LIVE277 St1.reaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or1AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+TEAport=45GETPARAMETERRDOWN rtsp://063.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1port=50778-50779
+
+SETUP rtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSAClsent (LInt (LIVE555 Streaming Media v2018.08.28!
+Session: 00002B28
+Range: npt=0        .000-
+
+TEAport=45GETPARAMETERRDOWN rVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR itraSemng Medi0022B8
+
+PLAY rtsp://127.0.0.1:8555/mpeg1or2Aac3AudioTestt/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tes    PClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: vpt=0.00.0
+PAUSECCeq: 6
+User-Agent: ./t             estRDESGRI

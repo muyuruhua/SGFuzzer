@@ -1,0 +1,8 @@
+z         t .08.28)
+Transport: RTP/AVP;			TEARDOWN rtspr-Agent: ./tes000022B8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTestRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 0000Accept
+PLAY r npt=0.000-
+
+				}}}}}}}}}}}}}}}}}}}}

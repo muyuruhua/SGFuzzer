@@ -1,0 +1,3 @@
+DESCRIBE rtsu:PAUSE//127.0.0BE 8554/z t R T/sdp
+
+SETUP rmpegtsp:1//

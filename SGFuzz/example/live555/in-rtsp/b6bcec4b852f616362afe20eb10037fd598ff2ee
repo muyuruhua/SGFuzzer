@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1o78-50779
+
+SETUP rts F//127.0.0.1:55me/92pg1or2AudioTideoTest/track2 RTSP/1.0
+CSeq: 4
+Userpeg1or2AudE555 Stream ng Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.0OPTIONS15-
+
+TEBRDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (                                LIVE555 Streaming Media v2018.08.28)
+r-Agent: ./testR^SPClient (LIVE555 StQ   @`  reaming Media v2017.07.28)
+Session: 00}}}}}0022B8
+

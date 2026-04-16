@@ -1,0 +1,30 @@
+D92  Range: npt=0.00127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-AgentOPTIONStRTSPClien& (LIVE556 Stmgraing Media v3    08.28)
+Ar: 4
+User-Agent: ./testRTSPClient (LIVE555 S v2018.08.28)
+Transport:"RTP/AVP;unicast;cAVPnt_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://                           128.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.ccept: application/sdp
+
+SETUP rtsp://127.0.5.1:Range8554/mpeg1or2AudioVideoTest/track1pAudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 S v2018.08.28)
+Transport:"RTP/AVP;unicast;cAVPnt_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://                           128.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.ccept: application/sdp
+
+SETUP rtsp://127.0.5.1:Range8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08       Sansport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Ses                                                                                                                       sion: 000022B8
+
+PLAY rtsp://127.0.0.&:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+U-eArsgent: ./testRTSPClient (LIVE555'9  eaming Media v1009.08Content-Length:000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1ont (LIVE555 Streaming M: RTP/AVnu;Picast;client_portP unic://2nt

@@ -1,0 +1,44 @@
+DESCRIBE rtsp://11.0
+CC q: 6
+User-Aor2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User Agent: ./testRTSPClient (La v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Aor2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+S28)
+Session: 000022B8
+Range: npt=0.000-
+
+Tange: npt=0.000-
+
+TEARDOWN rtsp:10$
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CC q: 6
+User-Aor2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User Agent: ./testRTSPClient (La v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Aor2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+S28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Aor2AudioVideoTest/ RTSP/1.0GET_PARAMETER
+CSeq:Streaming Media v2018.08.28)
+Session: 000022B8
+

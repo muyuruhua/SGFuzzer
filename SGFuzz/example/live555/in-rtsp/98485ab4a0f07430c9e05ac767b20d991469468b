@@ -1,0 +1,98 @@
+DwebmFileTest  K
+ESCRIBE rtsp://127.0.0.1:8554/mpeRTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVEI54 Streaming Media v2018.08.28!
+Session: 00002B28SETUP
+Range:        ion/sdp
+
+SETUP rtsp://127.0.0.8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5g1or2AudioVidstT oeeRTSP/1.0
+CSeq: 2
+User-Agent: ./twavAudioTestestRTSPClienxt (LIVE555 SaSession: 00002v2018.08.28)
+Accept: application/sdp
+TEARDOWNtsp://127.0.0.8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClielt55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%
+2 Stre000022B8dia v2SETDContent-Le  
+ @`  ngth:P018.08.,8)
+Session: 0000 O22B8
+

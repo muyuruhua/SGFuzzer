@@ -1,0 +1,16 @@
+Deq: ession: 000127.0Agent: ./testRTSPClient (LIVE555 Streaming Media v2554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=edia v2018.08.r8)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:855IVE555 Streaming Mediaac3AudioTest v2018.08.28)
+Accep00021B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/1.0
+DESCRIBE vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContenCSeq: 5
+User-t-Length:ient (LAgIe

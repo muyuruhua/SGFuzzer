@@ -1,0 +1,18 @@
+D      ^ ESCRIBE rtsp://127.0.0.1:8554/mpegRange: npt=9xeoTest RTSP/1.0
+CSeq: 2
+User-A444444webmFileTest444444444444444gent: .                                                             6                                            /testRTUser-AgentLIVE110 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rt        .Y.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Stream2018PO6.28).1:8554udioVideoTest RTSP/1.0ent (LIVE555 Streaming Media stRTSPClient (LIVE26           C.0.1:8554/mpeg1or2Audidp
+
+SETUP rt        .Y.0.1:8554/mpeg1or2AudioSP/1.0ent (LVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Stream2018PO6.28).1:8554udioVideoTest RTS                                         P/1.0ent (LIVE555 Streaming Media stRTSPClient (LIVE26           Content-Length:    	J08.2VE26           Content-Length:    	J08)2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN                                             rtsp://586.0oVidContenN           t (LIVE555 Streamingaming Media v2018.08.28)rt.28)n
+Tr00022B8
+

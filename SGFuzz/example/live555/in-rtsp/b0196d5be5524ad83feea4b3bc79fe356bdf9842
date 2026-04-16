@@ -1,0 +1,2 @@
+DESCRIBE rtsp://127.0.0.1:8554/DESCRIBE rtsp://mpeg1or2AudioVideoTest RTSP/1.0
+CSeq:                                                                                                                             127.0  

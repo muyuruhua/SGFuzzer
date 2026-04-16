@@ -1,0 +1,10 @@
+D    ESCRIBE rtsp://1      UM27.0.0.1#:8554/mpeg1or3AudioVideoTest RTSP/1.
+CSeq:03
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;cl]ent_povt=5AMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq:U
+ 5ser-Agent: ./teCCCCCCCCCCCCCCC;CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCstRTSPClient (LIVE555 Streaming Media v2018.08.28!
+SestRTSPClient stRTSPCl(LIVE555 -  aming MediI v2018.08.28)zSession: 00002Accept2B8
+

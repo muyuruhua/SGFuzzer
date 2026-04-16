@@ -1,0 +1,28 @@
+DEnt: ./testRTSPC0.0.1
+Transport: PTR;/VAPunicast;client_port=4MGET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE960 Streaming MedTransport: PTR;/VAPunicast;client_port=4MGET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE960 Streaming Media v2#018.08.28)
+Session: 000022B8
+Range: npt=5.000-
+
+TEARDOW1or2AudioVideoTest/ R SP/1.0: 08                                                                         )
+Session: 000022B8
+Range: npt=5.000-
+
+TEARDOW2r1oAudioVideoTest/ R SP/1.0: 000022B8
+ia v2#018.08.28)
+Session: 000022B8
+Range: npt=5.000-
+
+TEARDOW1or2AudioVideoTest/ R SP/1.0: 08)
+Session: 000022B8
+Range: npt=5.000-
+
+TEARDOW2r1oAudioVideoTest/ R SP/1.0: 000022B8
+

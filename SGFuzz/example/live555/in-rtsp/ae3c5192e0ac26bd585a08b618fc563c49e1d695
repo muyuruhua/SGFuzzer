@@ -1,0 +1,13 @@
+l   Fication/sdp
+
+SETUP rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+0022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: 1or2Audi8
+Range: npt=0.000
+
+-TEARIVE5
+Sessivn@ 000022B8
+

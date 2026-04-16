@@ -1,0 +1,25 @@
+DTransportnptse/:t"(LIVE555 Streaming Media v2019.08.28)
+Accept: application/sdp
+
+track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50778-5079
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRdioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPia v20[["   [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[18.02.28)
+Tr[nsport: RT@IAVP;unicast;client_port=45GET_PARA2AudioVideoTest/ RTSP/2.0
+CSeq: 5
+User-Cgent: ./testRTSPClien k(LIVE[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[18.02.28)
+Tr[nsport: RT@IAVP;unicast;client_port=45GET_PARA2AudioVideoTest/ RTSP/2.0
+CSeq: 5
+User-Cgent: ./testRTSPClien k(LIVE555 StreaeoTest/ RTSP/2.0
+CSeq: 5
+User-Cgent: ./testRTSPClien k(LIVE[[[[[[[[[[[[[[[[[[[[[[[}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}[[[[[[[[18.02.28)
+Tr[nsport: RT@IAVP;unicast;client_port=45GET_PARA2AudioVideoTest/ RTSP/2.0
+CSeq: 5
+User-ming Media v2DRang018.08.2RTSPClien k(LIVE5555 Streaming Media v2DRang018.08.2RTSPClien k(LIVE555 Streaming Media v2DRang018.08.28eBE rtsp:/).Session: 000022B<
+R/127.0.0.1:8553/mpeg

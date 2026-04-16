@@ -1,0 +1,23 @@
+D].      ESCRIBPLAYE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP r44444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 StreaAudi RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClange: npt=9eaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=4MGET_PARAMETERssion: 000287B8
+
+PLAY rtsp://128.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE960 StAVPreaming Media v2018.08.28)
+Session: 000022B8
+8ange: npt=5.000-
+
+TEARDOWN rtsp://127.0.0.1:855reaming Media v20118.08.28)
+Sessio 
+
+PLAY rtsp: /127.0.0.1:8554/mpeg1or2AudioVideoTest/ R SP/Rssion000022B8
+

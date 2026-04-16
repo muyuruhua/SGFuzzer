@@ -1,0 +1,14 @@
+ent rtE555 Streaming Media v2    08.28)
+Accept: UP rtsp://063.0.0.1:85 RTSCoDTransport:  V_______             #                       ;     M %             0         sion: 0 0022B8
+SP/1.0
+C Streaming Media v2018.08.28)
+Session: 010022B8
+Range: npwavAudioTestt=0.000-
+
+DEREGISTER t;client_port=50778-50779SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq* 4
+User-Agen8-0POOD2B8
+AcceContent-Length:ient (LIVE555 St85: 6                                                     
+User-Agent: ./teAVPstRTSPClient (LIVE555 Streaming Media v2020.|8.28)
+Session: 000022B8
+

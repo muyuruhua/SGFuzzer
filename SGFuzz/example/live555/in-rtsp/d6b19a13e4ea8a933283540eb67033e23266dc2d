@@ -1,0 +1,20 @@
+DRangeESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest TSPR/1.0
+CSeq: 2
+User-|gent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28 
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8559/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClient (LIVE5N4 Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssioContent-Length:PLAY rtsp:/cli                                 ent_port=90GET_PARAMETERssion: 000022B8
+ 
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5bURange: npt=9ser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0@.28!
+Session: 00002B28
+Range: npt=0.000-
+
+ EARDOWtestRTSPClient (LIVE555 Streaming Aedia v2018.08.)8
+2Session: 000022B8
+R!nge: npt=0.000npt=0.000-
+
+022B8
+

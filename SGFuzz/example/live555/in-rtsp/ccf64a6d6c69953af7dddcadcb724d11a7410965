@@ -1,0 +1,2 @@
+DRange: npt=9IBE rtsp://127.0.0.1:8554/mpsp://127.0.0.1:8554/mpegD1or2_PARES     AMETER/1.0  $C
+Cnt: ./testRTSPRIBE 

@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTv       /1.0
+CSeq: 2
+User-Agent: ./tesRssionort=50778-50779
+
+S8.28)
+Sesn soi:000022B8
+Range4 npt=0.000-
+
+TAERDOWN Client (LIVE555 Streaming Media v2018.08.28)
+Accept: applicatiV      I%/track2 RTSP/1.0
+CSeq: 4
+UserStreaming Media v2018.08.28)
+Session: matroskaFileTest000022B8
+

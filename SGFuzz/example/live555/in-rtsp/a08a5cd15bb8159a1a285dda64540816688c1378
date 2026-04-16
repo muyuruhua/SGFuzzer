@@ -1,0 +1,26 @@
+DDESCRIBErtsp://127.0.0.1:8554/m RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 StreaAudioTest rtsp://127.0.0AVP~1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5U
+ser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+ (LIVE555 Streaming Media v2018.08.28)
+TranspotestRTSPClient (LIVE555 Streaming Media v2018.08.DESCRIBE28)
+Transport: RTP/AVP;unicast-;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVidewavAudioTestoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unic
+User-Agent: ./testRTSPCli nt (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2ADESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT        /1.0
+CSeq: 2
+User-Agent: ./testRTSPClt (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVPudioVideient X36):JJ@ St#eaming Media v2018.Scale:K       =455;unicast;client_port=4546-45547
+SessDESCRIBE022B8
+546-45547
+Sessi

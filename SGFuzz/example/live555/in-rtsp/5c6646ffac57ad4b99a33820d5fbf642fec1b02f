@@ -1,0 +1,8 @@
+P rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSsport: RTPDESCRIBE rtsp://127.0.0.1:8554/mpeg1orD>
+   ) deoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./t+stRT/AVP;un icast;client_port=50778-50779
+
+SETUP rtsp://127. .0.1:8554/mpeg1 2AudioVideoTest/track1 RTSP/1.0
+CSeq: 4
+USPClient (LIVE555 ser-AgStreent: ./testRTSPaCm555 ser-AgStreent:

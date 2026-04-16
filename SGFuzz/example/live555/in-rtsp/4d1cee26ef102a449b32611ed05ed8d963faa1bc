@@ -1,0 +1,39 @@
+D      nhntsp://127.0.0. v2018.08.28)://TEARDOWN rtsp://127.0.0.1:855 ./t1:8554/ming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+
+
+TEARDOWNDESCRIBE rtsp://TEARDOWN rtsp://127.0.0.1:855 ./testRTSPCl0.0.1:8554/ming Media v2018.D        rtsp://2     27.0.0.1:ation/sdp
+
+SETUP rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPMMMMClient (LIVE555 Streaming Media 1v82.008.28)
+Transport: RTP/AVP;unicast;client_port=01556-50S
+977
+ETUP rtsp://127.0.0.1:8554/mpegRTSP/1.01or2AudioTideoTest/track2 RTSContent-Length:
+User-Agent: ./testRTSPClient (LI  555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideo,  / RTSP/1.0
+CSeq: 5
+User-A      x"gent: ./testRTSPClien t(LIVE555 Streaming 2edia v2018.08.28)
+Session: 000~22B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPCli2nt (LIVE555 Streaming Media v2018.08.28matq: 5
+User-Agent: ./testRTSPCl0.0.1:8554/ming Media v2nge)
+Session: 000022b8
+: npt=0.000-
+
+
+
+TEARDOWN rtsp://TEARDOWN rtsp://127.s.0.1:855 ./t1:8554/ming Media v2018.08.28)
+Session: 000022B8
+Range: nrt=DZ      p
+
+
+
+TEARDOWN r

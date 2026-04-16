@@ -1,0 +1,17 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCliert=45GET_PARAMETERssion: 000022DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audi  ideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LKVE556 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioB8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StrEaming Media v2018.08.28)
+SeliveMedia259256sn soi:000022B8
+Range: npt=0.000-
+pTEARDOStreaming Media v2018.08.200                                VideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:          ./testRTSP 

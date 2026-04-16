@@ -1,0 +1,20 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1 r2AudioVideoTest RTSP/1.0
+C]eq: 2
+USETUP ent: ./settRTSP Client (LIVE555 Streaming Media v2018.08.28-
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Use-reAgnt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP r0.000-
+
+TEARDOWN rts8
+Range: npt=0.000edia v2018.08.28-
+Accept: application/sdp
+
+SETUP                                                                                   
+CSeq: 8
+User-Agent: //testRTSPClientn (: 000022B8
+

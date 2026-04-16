@@ -1,0 +1,22 @@
+DESAVPBE rtsp://127.0.0.1:8554/mpeg1or21:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-AgenContent-Length:ient (LIVE555 Streami/mpeg1or2AueioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-AgenContent-Length:ient (LIVE555 Streaming Med(a v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+ient (Range: npt=0.000-
+
+TEARrW DNOtsp0
+CSeation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Ag018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+
+
+TEARDOWN rtsp://TEARDOWN rtsp://127.0.0.1:855 ./testRTSPCl0.0.1:8554?ming Media v2018.estRTSPCl0.0.1:8554/ming Media v2018.0eaming Media v2018.08.28)
+Sessi6n@ 000022B8
+

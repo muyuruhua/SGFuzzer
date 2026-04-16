@@ -1,0 +1,17 @@
+DDESCRIBE       jC6BD7546rtsp://127.0.0.1:8554/mpeg1o6rtsp://127.0.0.1:8554/mpeg1orN>
+   ) deoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Acce#t: application/sdp
+
+SETUP rtsp://127.0.0.1:855DESCRIBEr2AudioVTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transpoaaaaaaaaaaaaaaaaaaaaaaaaaart: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://1r7.*0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: p./testwavAudioTestRTSPClient (LIVE555 Streaming Mndia v2018.08.28)000022B8
+Session: 000022B8
+Range: npt=0.000-
+
+TEAR022B8
+

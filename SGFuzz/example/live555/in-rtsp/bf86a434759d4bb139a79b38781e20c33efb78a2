@@ -1,0 +1,13 @@
+y   DE 5      tsp: 3                                           6uBi                                                                                      //127.0.0.1:8554/mpeg1or                                                                                       2AudioVideoTest RTEARDOWNTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTSP/1.0ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+S                                                              //127.0.0.1:8554/mpeg1or2AudioVideoTest RTEARDOWNTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTSP/1.0 RTEARDOWNTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2AudioVideoTest RTSP/1.0ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://PAUSE1er-Agent: ./tesSRTSPClient (

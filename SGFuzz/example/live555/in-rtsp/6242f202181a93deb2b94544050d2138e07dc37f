@@ -1,0 +1,12 @@
+D  AVIBEeq: %2
+User-Agent: ./liveMed/sdp
+
+SDUser-SET_PARAMETER.0.0.1:8554/epmg1or2AudioVideoTest RTSETUP rtsp://127.0.0.1:85HFP    N r2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeP/1.0
+CSeq: 2
+User-Agent: ./testRTS]   ent (LIVE555 Streaming Media v2018.88.28)
+Accep?: applic
+PLAY rtsp://127.AVP.1:8554/mpeg2or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCl   nt (LIVN55st5

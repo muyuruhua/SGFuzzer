@@ -1,0 +1,25 @@
+DESCRIBf       /127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClientAVPIVE555 Stre      0aming Media v2010.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.185:54/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Str*aming pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppMedia v2018.08.28)
+Transport: RTP/AVP;RAW/RAWunicast;client_port=50389-50779
+
+SETUP rtsp://12                                          CRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTst9client_port=45GET_PARAMETERssion: 000022B8 
+P      7.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+8.28)
+Session: 0DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTst9client_port=45GET_PARAMETERssion: 000022B8 
+PLAETERssion: 000022B8
+
+PLAY rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: 00022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0../testRTSPClNient (LIVE555 S  eaming Media v2018.08.28)
+Session: 000022B8
+Range: 7777777777777777777777777777777777777777777IHHHHHH?77777777777777777777777777777777777777777777npt=0.0TEARDOWN 1rtsp://127.0.0.1:8554/mpeg1oUser-AgenteoTest/ RRang0022B:8554/mpeg1"8ud
+

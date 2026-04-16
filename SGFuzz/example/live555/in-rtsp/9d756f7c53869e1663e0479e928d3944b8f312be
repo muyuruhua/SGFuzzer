@@ -1,0 +1,17 @@
+DESCRIBE rtdioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE110 Streamineg1or2AudioVide#################################oTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2017.08.BE rtsp://127.0.0.1:J554/mpeg1or2AudioVide#################################o28)
+A4ccept: application/sdp
+
+SETUP rtsp://12                                                                                                                          7.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Adent: .80ts/   3te1.08.28)
+Tran                                                                                                     sport: RTP/AVP;unicast;client_port=45546-45547testRTSPClient (LIVE555 Streaming Media v2017.08.BE rtsp://127.0.0.1:J554/mpeg1or2AudioVide#################################o28)
+A4ccept: application/sdp
+
+SETUP rtsp://12                       Test/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/AVP;unicast;client_qort=45546-4SCRIBE rtsp://127.0.rtsp://127.0.0,1:

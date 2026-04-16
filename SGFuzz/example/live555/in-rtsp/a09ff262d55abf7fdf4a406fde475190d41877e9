@@ -1,0 +1,23 @@
+DESCRIBE rtsp://1      UM27.0.0.1#:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-AgeDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2l dioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+Sapplication/sdp
+
+SETUP rtsp://127
+CSeq: 4
+User-Agent: ./testRTSg Media v4036.08PContent-Length: Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://12 .0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./teCCCCCCCCCCCCCCC;CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCstRTSPClient (LIVE110 Streaming Media v2018.08.28!
+SestRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

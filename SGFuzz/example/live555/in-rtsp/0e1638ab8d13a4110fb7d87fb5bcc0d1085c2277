@@ -1,0 +1,32 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClienL (ItVE555 Streaming Media v2018.08.28)
+Accept-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://12@.0.0.1nnnn:8554/mpeg1or2AudioVideoTest/t-50779
+
+SETP Urtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/uPVnAi;cast;destination=client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0LLLLLLLLLLLL: applic: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://12@.0.0.1:8554/mpeg1or2AudioVideoTest/t-50779
+
+SETP Urtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Traation/sdp
+
+SETUP rtsp://12@.0.0.1:8554/mpeg1or2AudioVideoTdst/t-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/uPVnAi;cast;destination=client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rtsp://128.0LLLLLLLLLLLLLLLLLUser-AgentLLLLLLLLLLLLLLLLLLLLLL/1.0
+CSe

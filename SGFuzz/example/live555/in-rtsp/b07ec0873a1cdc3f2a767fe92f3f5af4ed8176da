@@ -1,0 +1,10 @@
+z( I  t RTSP/1.0
+C000022B8User-Agent5 ./testRTSPlCient (LIVE555 Streaming Media v2018.08.28)
+Accept: appeoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCliedia v2018.08.28) 
+Session: 000022B8
+Range: npt=0.000-
+                                                                                                     DESCRIBE                            
+TEARDOWN rtsp://127.0.0.SP/0.0
+CSe

@@ -1,0 +1,8 @@
+D        ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: H
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media                    lient (LIVE277 Streaming$Media v2018e.08.28)
+Transport: RTP/AVP;unicast;client_porSeq:  npt=0.000OPTIONSARDOWN rtsp://127.0.0.9:8554/mpuegoA12rdioVideoTest/ RT                 ;                                                                            SP/1.0
+CCeq: 6
+User-Agent&Q      RTSPClient (EILV555 Streaming Media v2018.08.28)
+Session: 000022B8
+

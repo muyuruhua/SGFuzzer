@@ -1,0 +1,31 @@
+DDESCRIBE   'IBE rtsp://127.0.0.1:8554/mpeg1or2AzdioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient DRssioBE vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgzenContent-Length:ient (LIVE555=St7554/mpeg1or2AudioVideoTest R?SP/1.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://745.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+sdp
+
+SETUP rtsp://127.0.0.1:7108/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 3
+matroskaFileTeststRTSPCln(i teLYVE555 Streaming Media v2017.09.28)
+Transport: R0?/AVP;unic`st;client_po(LIVE555 Strea Streaming rtsp://127.0.0                                                 (     ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp                    .28)
+Accept: applicationRTPIA+VP;rt=50778-0PO.D2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESC             port=50778-0PO        six-playNow:on: 000022B8
+
+unicast;client_port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSqe: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming RTSP/1.0018.0.8)82
+Session: 000022B8
+Range: npt=0.p00DESCR-
+
+IBE TEARr

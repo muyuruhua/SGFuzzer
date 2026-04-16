@@ -1,0 +1,16 @@
+z t RTSP/1.0A
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicationAVPp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testR	SPClient (LIVE555 S eaming Media v5950.08.28)
+Transport: RTP/AV*P;unicast;ceplnti_ort=50778-50779
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCSETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCliedia v2018.08.28)
+Session: 000020B8
+Range: npt=0.000-
+                                                                                                    P                  DSET_PARAMETER//017.2.0.1:8554/mpeg1or2AudioVac3AudioTest RTSP/1.  

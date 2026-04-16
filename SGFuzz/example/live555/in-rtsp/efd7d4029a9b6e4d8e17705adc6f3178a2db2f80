@@ -1,0 +1,11 @@
+DECEISRB rtsp://127.040.1:8554/mpeg1or2AudioVideoTest RTSP/1lication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AioVideoTesz/track2 RTSP/1.0
+C08.28)
+Session: 000022B8
+DESCRIBE rtsp:'/128.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CS
+eq: 2
+2Us

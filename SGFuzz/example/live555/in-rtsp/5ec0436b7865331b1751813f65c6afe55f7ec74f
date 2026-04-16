@@ -1,0 +1,13 @@
+z     t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streamifg Media v2018.08.28)
+Accept: application/sdDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Acceptp
+
+S                                                                                    ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT: application/sdp
+
+SETUP rtsp://127est/tracpoeq: 4
+User-Agent: p/testRT        : ./testRTSPClient (LIVE555 Streaming Media v2018.08.2.8)
+Transport: RTP/AVmatroskaFileTestP;unicast;client_port.0.0.1:8554/m=5077p8-e

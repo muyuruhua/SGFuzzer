@@ -1,0 +1,21 @@
+z t RTSP/1.0
+CSsdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Str018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: applicatng Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 S
+CSeq:  000022OPTIONSB8
+
+PLAY rtsp://128.0.0.1:8554/m   Nor2AudioVideoRanP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://1 27. 0.1:8554/mpeg1or2AudioVideoTest/ RTSPX1.0
+//128.0.0.1E8554/mpeg1or2AudioVideoRange: npt=9Test/ RTSP/1.0
+CSe

@@ -1,0 +1,19 @@
+DRange: npt=9SET_gent: ./testRTSPClient (LIVE;55 Streaming Media v2018.08.28)
+Transpor`: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtcp://127.0.0.1:8wavAudioTestength:iaming Media v2018.08.28)
+Ac cept: application/sdp
+
+SETUP rtsp://126.0.0.100022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sessio 6
+User-Agent: wavAudioTesa v2018.08.28IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII)
+Session: 000022B8'
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CS
+

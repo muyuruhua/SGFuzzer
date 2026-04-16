@@ -1,0 +1,7 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./Dk       ESCRIBE rtsp://12
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_PAUSE45GET_PARAMETERtestRTSPClient (LIVE\\\\\\\\\\\\\s\\\\\\\\\\\\\\\\\\\si

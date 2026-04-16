@@ -1,0 +1,26 @@
+D 4  ESCRIBE rtsp://127.0.0551.84:/mpeg1or2Audi/127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+6
+TEARDOWN rtsp://1C27.0.0.1:8554/mpeg1oUser-Age://127.0.0.1:8554/mpeg1or2Audi
+PLAY rtsp://1@27.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq: 5
+User-Agent: ./tbstRTSPClient (LIVE555 Streaming Media v2418.    8RTPSession: 000021B8
+Range: npt=5.000-
+
+TEARDOWN rtsp://137.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LRTP: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq: 5
+User-Agent: ./tbstRTSPClient (LIVE555 Streaming Media v2418.    8RTPSession: 000021B8
+Range: npt=5.000-
+
+TEARDOWN rtsp://137.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LRTPIVE555 Streaming Media v2018.00.28)
+Sessivn@ 000022B8
+

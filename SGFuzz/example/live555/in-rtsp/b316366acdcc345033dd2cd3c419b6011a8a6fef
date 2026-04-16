@@ -1,0 +1,16 @@
+DRTP 
+User-Agent: ./testRTSPClient (LRangeIVESession: 000022B8
+
+PLA.0.0.1:8554/mpeg1or2AudTransport: RTP/AVP;unicast;client_port=45GET_PARAMETERssiyVideoTest/tracK2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE110 Streaming Media v201 .08.28)
+Transpo%t: RTP/AVP;unicast;client_port=45546-4554@
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Stream=ng Media v1009.08.28)
+Session: 000022B8
+Ran:eg npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg 1DE   dBE roR

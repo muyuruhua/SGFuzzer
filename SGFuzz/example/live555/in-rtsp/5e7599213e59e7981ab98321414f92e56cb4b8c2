@@ -1,0 +1,26 @@
+DESCRIBE rtsp://7.0.0.1:8554/mpeg1or2AudioVid127.0.0.1t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien                                               t (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=5p778-50779
+
+SETAudioVidTSP/1.05 S       %%%aming   %%%aming Media v2018.08.28)
+Se%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%ac3A                                                                               udioTest%%%%%%%%%%%    =              kaF
+RTSP/0.0ileTest
+
+Media v2018.08.28)
+Se%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%ac3A                                                      %%%aming   %%%aming Media v2018.08.28)
+Se%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%ac3A                                                                               udioTest%%%%%%%%%%%    =              kaF
+RTSP/0.0ileTest
+
+Media v2018.08.28)
+Se%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%ac3A                                                                                                udioTest%%%%%%%%%%treaming Media v20,[      )
+Accep
+CSeq: 6
+User-Agent: ./testt: ./tes
+Sessiv]n@ 000022B8
+

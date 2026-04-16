@@ -1,0 +1,23 @@
+D      `ESCRIest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555	   eaming Media v2018.08.28)
+Acc[8  ept: application/sdp
+
+SETUP rtsp://127.0.0.1:855t/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Us$er/Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)PAUSE
+Transport: RTP/AVP;unicast;client_port= 37849-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Age Eh./testRTSPClient (LIVE555         g Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or       hdeoTes/ RtTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClior2AudioVide/12 .0.0.1:8554/mpeg1o855gD.UserBE rtsp:/ MSETUPv2018.08.284/mpeg1or2AudioVideens (LIVE555 Streaming Med  _	M=Gr
+
+PLAY rtspsion: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://063.0.0.1:8554/mpeg1Aul

@@ -1,0 +1,7 @@
+zUser-Agent t RTSP/1.0
+CSeq: 				18.08.28)
+Accept: application/sdp
+
+SETUP rtE554 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;c: npt=9Test/ RTSP/1.0
+CSe

@@ -1,0 +1,10 @@
+Dsion]]] rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 21
+User-Agent: ./testRTSPClient (LIVE555 StreamDESCRIBEa v2018.08.28)
+Accepp:pc paailtion/sdp
+
+SETUP rtsp://127.0.0.1:8A dioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2ming Media v2018.08.28)
+Session: 001022B8
+

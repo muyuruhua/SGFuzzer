@@ -1,0 +1,23 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RwebmFileTestTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://458.0.0.1:8554/mpeg1orOAudioVideoTest/track1 RTSP/1.0
+    CSeq: 3
+User-Agent: ./testRTSPClient (LIVE%55 Streaming Media v2018.D-               rtsp://127.0.0.1:Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tastRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Tran08.28)
+Transport: RTP/AVP;unicast;client_port=50778-507nt_port=4sport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/tr8554/a       r45546-45547 
+Session: 000unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-       pAgent: ./testRTSPClient (LIVE551AudioVideoTest RTSP/1.0
+C27.0.Sen0

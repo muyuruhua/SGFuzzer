@@ -1,0 +1,16 @@
+D v      rtsp://127.0.0.1:8554/mpeP;unicast;client_port=50778-50S
+977
+ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioTideoTest/track2 RTSContent-Length:
+User-A   E_QJtestRTSPClient (LIVE555 Streaming Meadi v2018.08.28)
+T ansport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B 
+
+PLAY rtsp://127.0 y.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCliSETUPent (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0RTSP/1.0
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medi                                                                                 a v2018.08.28)
+Session: 000022B8
+

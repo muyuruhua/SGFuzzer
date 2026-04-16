@@ -1,0 +1,44 @@
+DESCRIBE vtsp:/o127.0.0.1:8554/mpeg1or2stSP/1.0
+CSe    q: 5
+User-Agent: ./testi 4
+User-AgenC~    \=eontent-Length:ient (LIVEunicast;client_port=50778-50779
+
+SETUP rtsp:/000022B8.1:Test/ RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp:/ Media v/127.0.554/Am0
+Range: npt=0.000-
+
+TEARDOWN rtsp:/(/127.0nt_port=50778-50779
+
+SETUP rtsp    I%rtsp:/ing Media v2018.08.28)
+Transpast;client_port=50778-50779
+
+SETUP rtsp:/000022B8.1:Test/ RTP/AVP;unicast;iltenc_port=0779
+
+SETUP rtsp    I%rtsp:/ing Media v2018.08.28)
+Transpast;client_port=50778-50779
+
+SETUP rtsp:/000022B8.1:Test/ RTP/AVP;unicast;iltenc_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp:z t RTSP/1.0
+CSeq: 2
+User-Agent: .WestRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSP2Bient_port=455 Streaming Media v2018.08.2        8)333333333333333333333333333
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://;127.0.0.1$8554/mpeg1or2Au/ Media v/063.0.554/m0
+Range: npt=0.000-
+
+TEARDOWN rtsp:/(/127.0nt_port=50778-dioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/s`p
+
+SETUP rts50779
+Range: npt=0.   jvru2EA00d8ioVideoTest/track2 RTSP/1.0
+CSer-Agent02p://127.0.0.1:8554/mpeg1or2B8
+2AudioVideoTest/track: .
+1 RTSP/

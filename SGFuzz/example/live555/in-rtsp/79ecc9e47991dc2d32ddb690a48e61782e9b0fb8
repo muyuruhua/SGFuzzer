@@ -1,0 +1,5 @@
+D      AdESCRIBE rtsp://127.0.0.1:8554/mpeg1or2z      ;x1.0GET_PARAMETER
+CSeq:k 2
+UAudioVideoTest RTser-AgSP/1.0
+CSeq: 2
+Use

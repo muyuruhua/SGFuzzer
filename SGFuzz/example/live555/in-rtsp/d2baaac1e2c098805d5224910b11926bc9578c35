@@ -1,0 +1,15 @@
+D        rtsp://127.0.0.1:8554/mpe-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CS%q: 5
+User-Agent: ./testRTSPClient (LIVE555 Streamin g Media v2018.08.28.
+Sess
+Ran`e: npt=0.000-
+
+TEARDOWN rtkp://127.0.0.1:8554/mp g1or2Audist/ RTSP/1.0
+CSeq: 6
+User-Ag
+UsContenRTSP/1.0:tRTSPClient (LIVE110 Streaming ?e'ia v2019.08.28)1
+Sessisvn@ 000022B8
+

@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideo
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://ing Media v2018.08 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port= v2018.08*28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+        
+PLAY rtsp://127.0.0.:1018.08.28)
+Session
+
+TEAR20118CSeq: 5
+User-Agent: ./testRTSPClient (LIVE554 S.08.28)
+Sessio: 000022B8
+

@@ -1,0 +1,13 @@
+[parallel] worker02 container id: 0fb085053cd981827f6a202a98fe302e0c133d0f76a5c108655b29279e018958
+[gcov-entrypoint] Supervisor mode: max_restarts=5, restart_delay=2s, flush_interval=30s
+./run_live555_fuzz.sh: line 1010: cd: $'__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__/testProgs': No such file or directory
+[gcov-entrypoint] mosquitto crashed (exit 1), auto-restart 1/5
+./run_live555_fuzz.sh: line 1010: cd: $'__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__/testProgs': No such file or directory
+[gcov-entrypoint] mosquitto crashed (exit 1), auto-restart 2/5
+./run_live555_fuzz.sh: line 1010: cd: $'__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__/testProgs': No such file or directory
+[gcov-entrypoint] mosquitto crashed (exit 1), auto-restart 3/5
+./run_live555_fuzz.sh: line 1010: cd: $'__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__/testProgs': No such file or directory
+[gcov-entrypoint] mosquitto crashed (exit 1), auto-restart 4/5
+./run_live555_fuzz.sh: line 1010: cd: $'__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__\n__NOTFOUND__/testProgs': No such file or directory
+[gcov-entrypoint] mosquitto crashed (exit 1), auto-restart 5/5
+[gcov-entrypoint] Max restarts reached (5). Container will exit.

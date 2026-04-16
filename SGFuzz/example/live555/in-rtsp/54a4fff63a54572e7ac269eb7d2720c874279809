@@ -1,0 +1,23 @@
+DwavAudioTestESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq:       	 2
+UrAge-sent: ./tes/127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.t
+CSeq: ~3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2017.08.56)
+Transport: RTP/AVP;unicast;clienent (LIVE555 Streaming Media v2017.08.56)
+Transport: RTP/AVP;unicast;client_povt=50778-50779
+
+SETUP rtsp://127V.0.0.1:8554/TEARDOWNAudioVideoTesz/tracest RTt_povt=50778-50779
+
+SET                                                                  UP rtsp://127V.0.0.1:8554/TEARDOWNAudioVideoTesz/tracest RTSP/1.0
+CSeq:       	 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Ac[ept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AioVideoTesz/track2 RioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AioVideoTesz/trac.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CS
+eq: 2
+Us

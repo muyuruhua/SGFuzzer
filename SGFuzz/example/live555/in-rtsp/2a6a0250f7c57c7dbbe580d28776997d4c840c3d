@@ -1,0 +1,17 @@
+D iEnt: ./testRTSPClient (LIVE555 streaming Media v2018.08.28)
+Accept: appliioc/ntasdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser- gent: ./testRTSPC,ient (LIVE555 StreaAudi    oTest rtsp://127.0OO>)P.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StreamScaleedia v2018.08.28)
+SewavAudioTest2B8
+Range:  p=0.000-
+ (LIVE555 Streaming Media v2018.08.28)
+Transport: PTR;/ 08)
+Session: 000022B8
+Range: npt=5.000-
+
+TEARDOW2r1oAudioVideoTest/ R SP/1.0: 000022B8
+

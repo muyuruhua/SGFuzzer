@@ -1,0 +1,29 @@
+D |. @`  ESCRIBE rtsp://127 1.0
+CSeq: 5
+.0.0,1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeDq: 2
+User-Agent: ./teD      UMrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSPRTstRTSPClient (LITEARDOWNreamino Hedia222222 rtsp://127.0.0.1:855Transport4/mpeg1or2@udioVideoTest/track1 RTSP/1.0
+CSert=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1. 
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp:P0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE550 Streaming Media v2    08.28)
+Accept: appl:cation/sdp
+Range
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+Usez-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP[/AVP;unicast;client_por//127.0.0.1:ent_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: ent (LIVE555 Streaming Media v2018.08.28)
+Accept: at=45546-455p47
+pli v2018.08.28)Sess

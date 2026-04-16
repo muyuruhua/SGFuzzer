@@ -1,0 +1,14 @@
+DG       PLAYIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (~IVE<<<<<<<<<<<2018Seq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28) (LIVE972 Streaming M./testRTSPClient (LIVEz t R,,/PNQOs
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 nt_port=50778-507Streaming Media v2018.08.28)
+Accept: application/sdp
+555 Str27 (LIVEl55 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETeaming Media v2018.08.285)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022OPTIOUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StNSBre

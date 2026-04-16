@@ -1,0 +1,28 @@
+D=SCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq:; 2
+Use r-Agent: ./sevtRTSPClient (LIVE555 Streaming Media v2018.08.28)
+ARAMETERssion: 000022B8
+
+PLAY rtsp:Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Use-reAgnt: ./testRTSPClient (LIVE555 Streaming Media v2AVP.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://254.0.PAUSE554/mpe?1or2AudioVideo Test/track2 RTSP/1.0
+CSeq: 4
+UseSET_PARAMETERstRTSPClient (LIVE110 Streaming Media v2001.88.28)
+TranspP;unicast;cliTest//127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 TRSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVAgent: ./testRTSPClient (Lw~ IVE556 Strea                  
+P.0.1:8554/mack	h v2018.08.28)
+Accept: a pp.CamiudioVideoTem.Cniagng MedE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_povt=50778-50779
+
+SETUPsrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0      
+G
+CSeq: 4
+Use2-Agent: ./testRTSPClient (LIVE555 Streaming Medi2 0av18.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMTiEsEsRon: 000022B8ent_povt=ent_port=45GET_PAR itraSemng MD8b      Range: npt=9://127.0.0.1:8554/mpeg1or2Audi$VideoTest RTSP/1.    [eq: 2
+Ueser-A

@@ -1,0 +1,24 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTUser-AgentLIVE555 Streaming Mevdi 0a218.08.28)
+Accept: applotiacin/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCliEnt (LIVE555 Streaming Media v2018PO8.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transpor Streaming Media v2018.08.28)
+SeswebmFileTestsion: 0000 2B8
+Range: npt=0.000-
+
+TEARDOWN r tsp://127.0.0.1:8udioVideoTest RTSP/1.0
+CSeq: 2
+User-RTPAgent: ./testRTSPClient (LI.0.0.1:8554/mpeg1or2AudP/1.0
+Cest/track1 RTSP/1.0
+CSeq: 3
+Uion: 000022B8
+

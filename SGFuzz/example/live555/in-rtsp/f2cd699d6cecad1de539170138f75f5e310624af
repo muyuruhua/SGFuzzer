@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: s/te.0022B8
+
+PLAY rtsp://127.0. .1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: -
+User-Agent: ./testRTQPClient (LIVE277 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.0: ./testRTSPCl{ent (LI f2018.08.28)
+Session: 0Content-Length: npt=0.000-
+
+TEARDOWN rtsp:U/127.0.0.1:8554/mpeg18.08.28)
+Session: 000022B8
+

@@ -1,0 +1,4 @@
+D    P WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest 2
+User-A  7igent: ./testRz t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSTSPC2lient (                                                                                                           LIVE555 Streaming Media v3 

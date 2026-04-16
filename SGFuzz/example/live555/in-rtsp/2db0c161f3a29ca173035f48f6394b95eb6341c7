@@ -1,0 +1,38 @@
+z 2 t RT/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+UsereAn-gt: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Trans                                                                port: RTPDSETUPBE rtsp://127.0.0.1:8554/mpeg1or2AudioVGdeoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/2.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP%AVP;unicast;clienSETUPt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B(
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+Use #  ent: ./testRTSPClient (LIVE555 Streaming Media v4036.08.28)
+Session: 00002#B8
+Range: npt=0.000-  7y8.28)
+Sess-on: 000022B8
+
+.08.2TP/AVP;unicast;client_port=45546-455Content-Length:47
+Session: 000022B8
+
+DEREGISTER 554/mpeg1or2AudioV===================}===========eaming MedSET_PARAMETEReoTet_port=45GET_PARAMETERssi  : 000022OPTIONSB8
+
+PLYr Atsp://128.0zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz R8.28)
+SessionoRange: npt=9Test/ RTSP/1.0==========Range======================ideoTest/track1 RTSP/1.0
+C
+CSSeq: 4
+User-Agente
+: ./test

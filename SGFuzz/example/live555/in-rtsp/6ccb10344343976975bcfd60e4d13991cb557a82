@@ -1,0 +1,12 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1o_____________________________________________________________________________________r2Audio1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2PAUSESPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp:/client_port=90GET_PARAMETERssion: CSeq:000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2Audi28!
+Session: 00004B28
+Range: np Streaming Media v2018.08.28)
+2B8
+

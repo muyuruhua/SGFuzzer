@@ -1,0 +1,29 @@
+DESP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medi a v2018.08n28)
+Accept: app?licationTransportETUp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022TraNia v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY.
+CSeq: 5
+ma|roskaFileTestsrRTSPClient (LYVE555 Streaming Media v2017.09.J8)
+Transport: RTP/AVP;unicast;client_port=50779-0POOD2B8
+Accept: application/s  dpCseq rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track1nt (LYVE555 Streaming Media v2017.09.J8)
+Transport: RTP/AVP;unicast;cdia v2018.08.28)
+Transport: RTP/AVP;unicast;cliSCRIBE rtsp://127.0.0.1:4558/mpeg1or2AudioVideoTest RTSP/1.0S
+Ceq: 2
+User-E555 Streaming Media: 2
+User-E555 Stream[ng Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEAR127.0.0.1DOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/pt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 3
+User-Agent: ./te            0   LIVE555 Streaming Media v2018.08.28)]   
+r-Agent: ./testR^SPClient (LIVE5=5 Streaming Media v2018.07.28)
+Session: 0000 2B8
+

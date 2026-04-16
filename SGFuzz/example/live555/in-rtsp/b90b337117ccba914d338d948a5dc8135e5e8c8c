@@ -1,0 +1,13 @@
+DESCRIBE      Xnt (LIVE55rmSeat5Zing Media v2019.08.28)
+Accept: applicatio@n/sdp
+
+SETUP rtsp://128.0.0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (L      #ytreamin0    Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50778-507[79
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTesion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVport: RTP/AVP;unicast08.28)
+S000220B8ession: 000022>8
+

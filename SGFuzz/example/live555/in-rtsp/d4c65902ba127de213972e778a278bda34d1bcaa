@@ -1,0 +1,26 @@
+Dx-playNow:ESCRIBE rtsp://127.0.0.1Cona v2018.08.28)
+Transport: RTP/AVP;unicast;client_p127.0.0.1ort=50778-50779
+
+SETUP rtstent-Length:Test RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.2AudioVideoTe0.0$1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testAcceptient (LIVE555$Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicOst;client_port=45GET_PARAMETERssion: 0);     
+
+PLAY rtsp://127.0.0.1:855                                                                                       zmatroskaFileTest t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tesliveMedia27985tRCseqTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_p127.0.0.1ort=50778-50779
+
+SETUP rtsp://1g27.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./ET_PARAMETER.1:8554/mpeg1or^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^testRTSPClie                            4/mpeg1or2AudioV  neo

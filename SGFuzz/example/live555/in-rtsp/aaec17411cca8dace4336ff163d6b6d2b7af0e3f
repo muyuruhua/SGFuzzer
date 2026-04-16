@@ -1,0 +1,8 @@
+DScale:E rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+U                                                                                                               
+          ser-A                                             get: n./testRTSPClient (LIVE555E277!Streaming Media v2018.08.28)
+Accept:rtsp://128.0.0.1:8554/mpeg1or2AudioVior2AudioVideoTest/t/sdp
+
+SETUP UP rtsp:rack1                                                                            RTSP/1.0
+CSeq:/ 

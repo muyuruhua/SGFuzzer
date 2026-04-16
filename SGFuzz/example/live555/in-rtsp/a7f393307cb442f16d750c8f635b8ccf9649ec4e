@@ -1,0 +1,16 @@
+DRTSP/1.0ESCRIBE rtsp://127.0.0.1:8554/mGET_PARAMETERpeg1or2AudioVideoTestTEARDOWN RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 StreTCPng Media v2018.08.28)
+A	 ccept}: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTS                            P/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 Str Media v2018.08.28)
+Session: 000022B8
+Range:n        npt=0.000-
+
+TEARDOWNstRTSPClient (LIV        
+
+PLAY rtsp://127.0.028i
+Sessio: 000002B8
+

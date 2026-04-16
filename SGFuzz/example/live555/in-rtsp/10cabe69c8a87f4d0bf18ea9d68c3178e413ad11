@@ -1,0 +1,16 @@
+DESCRIB
+User-Agent: ./tustRTSPClient (L,IVE972 StreSETUP Media v2018./8.28)
+Tra1or2AudioVideoTesTransportt/ RTSP/1.0
+CSeq: nspoeq: 4
+User-Agent: p/testRTSwavAudi: ./testRTSPClient (LIVES11 Streaming Media v2018.08.28)-
+Transport: RTP/AVmatroskaFileTestP;unicast;client_Iort=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes<t/tra,=  ck2 RTSP/oTestPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETE22B8
+Range: npt=0.000-
+
+TEARDPLAYOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RT-//1.0
+CSeq2 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sessio    wavAudioTestn: 000022B8
+

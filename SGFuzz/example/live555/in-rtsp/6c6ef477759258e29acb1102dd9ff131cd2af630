@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient;client_port=45GET_PARAMETERssion: 000024/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-: ./testAgent: ./testRTSPClient (LIVE555 Streami
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28
+PLAY   EPPN27.0.0.1:8554/mpeg1or2AudioVi-: ./testAgent: ./testRTSPClient (LIVE555 Streami
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28
+PLAY   EPPN27.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-: ./testAgent:.28
+PLAY   EPPN27.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-: ./testAgent: ./testRTSPClient (Laming Media v2018.08.28)
+Session: 000022B8
+

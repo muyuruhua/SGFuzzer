@@ -1,0 +1,16 @@
+D    IBE rtsp://127(0.0.1:8554/mpeg1or2Audi  ideoTest RTSP/1.0
+CSeqmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmgmmmmmmmmmmmmmmmmmm: 2
+User-Agent: ./testRTSPClidnt (LKVE555 Strdaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://063.0.0)1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3VE555 Strdaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE110 Streaming Media- v2018.08.28)
+Transport:   RTP/AVP;unicast;client_port=5NHHG-50779
+
+SETUP r  p://127.0.0.1:8554/mpeg1or2AudhoViFdeoTest/track2 estRTSPClie   (LIVE555 STransport: dia v2018.08.28 K      on: 0 ./tes8
+

@@ -1,0 +1,25 @@
+DESCRIBE rtsp://127.0.0.1:ation/sdp
+
+SETUP rtsp://127.0.0.1w:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: T/APRVP;unicast;client_port=50778-50RT                                                               P77
+ETUP rtsp://127.0.0.1:8554/mpeg1oTCPudioTideoTest/track2 RTS
+User-Agent: ./  aMedia v2018.Content-Length:
+User-Agent: ./testRTSPClient (1:8554/mpeg1oTCPudioTideoTest/track2oTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.:8nng Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=25389-5-779        
+
+SETUP rtsp://1NHQOQOQV:8554/mpeg1or2Au Media v4029.08.28)
+Sessi _      &&&&&&&&&&&&&&eg1or2AudioVideoi.g Mt:  /testRTSPClienJ (LIVE555 Streaming Media v2018.08.28)
+0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AgenTransport: RTP/AVP;unicast;client_port=50778-ediTestest/ RTSP/1.22B8
+Range: npt=0.000-
+
+TE kARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTeRTP RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 St       aMedia v2018.08.28)
+Seis :nos000022B8
+

@@ -1,0 +1,9 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+RTSP/1.0
+User-Agent: ./testRTSPClient (LIV application/sz  ( : t RTSP/1.0
+CSeq: 2
+Udpse
+ation/sz  ( : t RTSP/1.0
+CSeq: 2
+Udpse
+JS

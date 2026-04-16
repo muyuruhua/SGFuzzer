@@ -1,0 +1,23 @@
+D  F GET_PARAMETERESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applision: 000022B8
+
+PLAY rtsp://127.AVP.1:8u54/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCli08.28)
+Session: 000DESLCRIBE rtsp://127.0.0.1:J554/mpeg1or2AudioVide### 000DESCRIBE rtsp://127.0.0.1:J554/mpeg1or2AudioVide############RTSP/1.0###################RTSP/1.0#####################oTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClientW(LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0Content-Length:or2AudioVideoTest/track0 RTSP/1.0
+CSeq: 3
+User-Agent: .80ts/te1.08.28)
+Transport: RTP/AVP;unicast;client_port=45547-45547
+Session: 000022b8
+
+PLAY rtsp:o/127.0.0.1:8554/mpeg1or2AudioVid022B8
+Range: npt=0{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{.005-
+
+TEARDOWN reo

@@ -1,0 +1,44 @@
+D ;  ESCRIBE rtsp://127.0.0.1:000022B8g1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 StreamieTransport RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+TrawebmFileTestAVP;unicast;client_port5=45GET_PARA
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.;peg1or2AudioVideoTest/wavAudioTest RTSP/1.0
+CSeq: 5
+User-AgentSBRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Age:tn ./t55 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMEVERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agen :.tDESCRIBE rtsp://127.0.00.1:8554/mpeg1oHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHr2AudioVideoTest R                       TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 StreaDESCRIBE rtsp://127.0.00.1:8554/mpeg1oHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHr2AudioVideoTest R                       TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept:TSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIV;JJP Streaming MediaSETUP8.08.28)
+Sesion: 0000acI>
+   + st rtsp://127.0.0AVP.1:8554/mpeg1or2AudioVideoTest/ Ring Med02v ia18.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000044B8
+
+ssion: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp'F://127.0.0.1:8555/mreaming Media v2018.8.)280
+Trans Streaming Media v2018.04.28)
+S::::::::::8)
+S:::::::::::::ession: 000022B8
+
+22B8
+

@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+U-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVid    eoTest/track5 RTSP/1.0@@@@@@@@@@@@@@@@@@
+CSeq: 4
+User-Agent: ./tser-Agent: ./testRTSPClient (LIVE555 Streami~g M: RTP/AVP;unicasRTP/AVP;unicast;client_port=45/AVP;unicast;clien._port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+Usp?g1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+U~ser-Ag`nt: ./testRTSPClient (LIVent: ./testRTSPClien+t (                           LIVE555 Streaming Media v4036.08.28)
+Session: AVP022B8
+

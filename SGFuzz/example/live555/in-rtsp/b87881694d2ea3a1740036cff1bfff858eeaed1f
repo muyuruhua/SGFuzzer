@@ -1,0 +1,13 @@
+DESCRIBE rtsp://127.0.00.1:8554/mpeg1oHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHr2AudioVideoTest R                       TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept:TSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIV;JJP Streaming MediaSETUP8.08.28)
+Sesion: 0000acI>
+   + st rtsp://127.0.0AVP.1:8554/mpeg1or2AudioVideoTest/ Ring Med02v ia18.08.20.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000044B8
+

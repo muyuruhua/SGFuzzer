@@ -1,0 +1,30 @@
+D  
+ 8b      Range: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.io 0 p
+
+SETUP rtsp          
+SETUP rtsp:/sp://911.0.0.1:8554/mpeg1or2AudioVideoTfs                      (LIVE318 S5                                                                                           ( #    Streaming unicas 
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0000022B8
+
+PLA27.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.ion/sdp
+
+SETUP rtsp          
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoz t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicatioTfs                      (LIVE318 S5                                                                                             #    Streaming unicas 
+SETUP rts/p:sp://127p://127.0.0.1:8554/mpeg1or2AudioVideoTest/      n/sdp
+
+SETUP rtsp://127.0.0.1:8554/mp  0
+CCeq:eg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSer-Agent: ./ 6
+User-testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicatioTSP/1.0
+CSeq:TEARDOWN-Ag     ./testRTSPCl
+ient (LIVE972 Streaming Media v2
+018.08.28)
+TranspoAccept

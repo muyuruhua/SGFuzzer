@@ -1,0 +1,4 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RwebmFileTestTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeSETU  BE r-Agent: .D    ESCRIBE rtsp://127.0.0/.

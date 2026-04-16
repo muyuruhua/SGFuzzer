@@ -1,0 +1,38 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Trorspnta: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rt/s/:p127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555xStreamin gMe18.08.28)
+Transport: RTP/AVP;unicansport: RTP/AVP;unicast;client_port=45546-45547
+Session: 00*022B8
+
+PLA.0.0.1:8554/mpeg1or2Audiv2018.08.28)
+Accept: application/sdp
+
+SETUP rts    p://254.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CS\q: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Tran)
+Transport: RT8)DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClientI(L VE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v127.0.0.18)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.G.1:User-Agentor2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClien2B8
+RaNgET_PAt=0.Transport000-
+
+TEARDOWN rtsp://127.
+Session: 000022B8
+Range: npt=0.000-
+
+TE0.0.1:8555/mpeg1or2AudioVideoTest/ RDDDDDDDDDTSP/1.0
+CSeq: 6
+UseARDOWr-Agent: ./SET_PARAMETERt (LIVE555 StreaminN rtsp://127.0.0.1:8554/mpeg1oRTPudioVideoTest/g Med RTSP/ia v2018.00

@@ -1,0 +1,23 @@
+DEnt: ./testRTSPClient .28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qeq: 5
+User-Agent: ./testRTSPPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+ (LIVE554 Streaming Media v2018.08.28)
+Transport: PTR;/VAPunicast;client_port=4MGET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: ./tes                                           )                                                                         tRTSPClient (LIVE960 Streaming Media v2#018.08.28)
+Session: 00ack2 R1TSP/1.0   	
+CSeq: 4
+User-Agent: ./te ieoTest/tr!ck2 RTSP/1.0
+=, 	
+Range: npt=5.000-
+
+TEARDOW1or2AudioVideoTest/ R SP/1.0: 000022B8
+

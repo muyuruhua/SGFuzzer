@@ -1,0 +1,21 @@
+DESCRIBE rtsp://227.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testCSPRTlient (LIVE5g Media v20stRTSPClient (LIVE555 Str aminept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streamg Media v2018.08.          ion7777777777777777777777777777777777777777: 000044B8
+Range: Xnpt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mseg1or2AudioVideoTe./testRTSPCming Medi
+ v2018.08.28)
+Session: 00002VVVVVVVEVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVDESCRIBE rtsp://127.0.0.$:8554/mpeg1or2AudioVideoTest R                       TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVidVVVVVVVV1:8554/e p      ack1 RTSP/1.0
+CSeq: 3
+UsempeV2B8
+r-Agent: ./testRTSPClient (LIVE555 Streamg Media v2018.08.28)
+Tr
+ansport: RTP/AVP;unicast

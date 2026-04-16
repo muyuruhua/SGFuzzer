@@ -1,0 +1,15 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIV127.0.0.1aming Media v2018.08.28)
+Accept: ciaatlppoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP @tsp://trG./testRTPClieT?UP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/trac^  RTSP/nt (LIVE555 Streaming Media v2017.0BQ28)
+Acceaming Media v2018.08.28)
+Transpoeq: 4
+User-Agent: ./testt;client_port=50778-50779
+
+SETUP rtspAudioVideoT7est/track1 RTSP/1.0://127.0.0.1:8554/mpeg1or2AudioVideoTDESCRIBEk2 RTSP/1.0
+CSplication+/

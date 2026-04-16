@@ -1,0 +1,13 @@
+Dx-playNow:ESCRIBE SETUPrtsp://127.z0.0.1:8554/mpeg1omatroskaFileTest RTSP/1.r-Agent: ,/testRTSPClient (ILEV555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP 
+
+PLAY rtsp://27.10.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-
+Session: 0000K  
+Range: TSPClient (PClient (LIa v2018.08. 56)
+Session: 
+Session: 000022B:
+

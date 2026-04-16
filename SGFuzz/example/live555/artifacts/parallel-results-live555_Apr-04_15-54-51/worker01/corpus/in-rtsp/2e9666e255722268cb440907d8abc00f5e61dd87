@@ -1,0 +1,6 @@
+DE.       tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6E.       tsp:/./testRTSPClient (LIVE555 Streaming Media v18.08.28)
+Session: 000022B8
+

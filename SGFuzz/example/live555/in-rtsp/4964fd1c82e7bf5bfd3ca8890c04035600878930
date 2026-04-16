@@ -1,0 +1,28 @@
+DESCRIBE rtsp://12 .0.0.1:8554/mpeg1or2AudioViUser-AgentPR/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08Range: npt=9: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1-   udioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./t========================================================================================================================estRTSPClient (LIVE555 Streaming Media v20stRTSPClient (LIVE555 StreZ aming Media v20webmFileTest18.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR56 SAccepttreaming Media v2018.08.28ng Media v2018.08.28:8554/mpeg1or2AudioVideoTesDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5R5 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track0 RTSP/1.0
+CSeq: 4
+User-Agentt/track0 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClinte (LIVE555 Streaming Media v2018.08.28)
+Transport:VRTPIAVP;unic
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range: np!
+Session: 00002B28
+Range:: ./testRTSPClinte ( npt=0.000liveMedia93721stRTSPClie

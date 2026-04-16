@@ -1,0 +1,14 @@
+DESCRIBE rtsp:Media v2018.08.28)
+Transport: RTPoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClieot (LIVE555 Streaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50S
+28)
+Accept: apatpciilon/sdp
+
+SETUP rtsp://063.0.0.1: RS58TCoDESC                                                                   RIBE rtsp://1p://1nt

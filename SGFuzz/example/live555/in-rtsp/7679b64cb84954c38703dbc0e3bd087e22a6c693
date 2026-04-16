@@ -1,0 +1,29 @@
+DESCRIBE r.    BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBp://127.0.0.1:8554/mpeg1or2AudioViIdeoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Str~       edia v2018.08n28)
+Accept: application/sdp
+
+SETUP rtsp://458.0.0.1:8554/mpeg1or3AudioVideoTest/track1 RTSP/1.0
+CSeq: aming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP00022B8
+Range: npt=0.000-
+
+TEARDORWIVE277 Streaming Media v2019.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideo/Tet RsTSP00022B8
+Range: npt=0.000-
+
+TEARDORWN rtsp://127.0.0.1:8555/mpeg1or2Audk8
+Range: npt=0.000-
+
+T8)
+TransportEARIVE5
+Sessivn@ 000022B8
+

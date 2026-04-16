@@ -1,0 +1,13 @@
+D    IBE rtsp://127(0.0.1:8554/mpeg1or2Audi  ideoTest RTSP/1.$
+CSeq: 2ETUP rtsp://127.0.0.1:8554/mpeg1or2AudhoViFdeoTest/track2 RTSP/1.0
+CS00022        B8
+Range: npt=0.000-
+
+TEARDO        <<<<88888888888888888888888rack2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE888888888888888888 888888888888888888888888888888888888888888888888888888888888oQest/ RTSP/ <<<<88888888888888888888888888888888888888888 888888888888888888888888888888888888888888888888888888888888oQest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRT2PClient (LIVE555 Streaming Media                                        WN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPCtie   (LIVE555 St#ea=ing Mmdia v2018.08.28 K      on: 0 ./tes8
+

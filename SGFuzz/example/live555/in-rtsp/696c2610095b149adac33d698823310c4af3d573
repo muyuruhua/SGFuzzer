@@ -1,0 +1,21 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Au4/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AgeY       nt: ./testRTSPClient (LIVE555 Streaming Me            dia v2018.08.28!
+Session: 00002B28
+Range: npt=0dioVideoTck1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;clicast;client_port=50778-ient_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudRangeeoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:     ./testRTSPClient (LIVE277 St1.reaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1ornsport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4matroskaFileTesttestRTSPClient (LIVE555 Streaming Media v20[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[ RTSP/1[[[[[[[[[[[[[[[[[[[[[18.08.28)
+Trlient (LIVE555 Streaming Media v2018.+8.28)
+SessAon: 000022B8
+

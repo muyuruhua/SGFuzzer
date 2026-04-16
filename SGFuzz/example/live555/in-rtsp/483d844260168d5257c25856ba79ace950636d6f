@@ -1,0 +1,18 @@
+D       jC6BD7546rtsp://127.0://154.1application/sdp
+
+554/mpe Tor2 udioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+SETUP rtsp://127.0..0.1:8554/mpeg1orN>
+   ) deoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPC!lient (LIVE555 Stream:ilg Media v2018.08.28)
+Tranoooooooooooo0oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooosort: RTP/AVTest/tracge: npt=0.000-
+
+TEA

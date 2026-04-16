@@ -1,0 +1,12 @@
+zg  RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Strent_port=C!ntent-Le   :ssion: 000011B8
+
+P.0.1:8554/mack1
+
+T.aemCw.0
+C1:8554/mpegTSPClient (4/mpegTSPClient (LIVE677 Streaming@Media Acceptv201Range: npt=9ansport!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!: RTP/AVP;unicas08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rts0://127.0.0.1:855deoTest/ RTSP/1.0
+CSe

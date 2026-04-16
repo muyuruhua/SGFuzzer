@@ -1,0 +1,18 @@
+DCSeq:BE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq:t 2
+User-Agent: ./t018.08.28)
+Accept: application/sdp
+
+SE*UP rtsp://127.0.0.1:85LAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/1.0
+CSeq: 5
+UseAudioVi: ./testRTSPClien127.0.0.15 Streaming Media v201
+User-Agent: ./testRTSPClient (LIVE555eStreaming Media v2018.08.28)
+Session: 000022estRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SE*UP rtsp://127.0.0.1:85LAY rtsp://127.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP/1.0
+CSeq: 5
+UseAudioVi: ./testRTSPClien127.0.0.15 Streaming Media v201
+User-Agent: ./testRTSPClient (LIVE555eStreaming Media v2018.08.28)
+Session: 000022B8
+

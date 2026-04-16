@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTesYt RTSP/1.0
+CSeq: 2
+Uset: applicatKon/+sdp.1:8554/mpeg1or2AudioVideoTest/ R SP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVEFSessi  aming Medi)io  9 00022B8
+

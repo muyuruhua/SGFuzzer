@@ -1,0 +1,20 @@
+DRTPESCRIBDESCRIBE`rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTeeg1oRange: npt=908.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/0.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streami g Media v2018.08.28)
+Transpoeq: 4
+User-Agent: ./testRTSPClient :::::Sc6::::::(LIVE555 Streaming Mez t RTSP/1.0
+CSeq: 2
+User-Agdia v2018.08.28)ort: RTP/AVP;unicast;client_port=45GET_PARAMETERssion:
+Transport: RTP/AVP;																																							)									unicast;client_port=45GET_PARAMETERssion: 000022OPTIONSB8
+
+PLAY rTest RTSP/0.0
+CSeq: 4ent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP
+st rtsp://127.0.0.1:8 RTSP/0.0554/mpeg1or2AudioV
+CSeq: 4
+E rideoTests

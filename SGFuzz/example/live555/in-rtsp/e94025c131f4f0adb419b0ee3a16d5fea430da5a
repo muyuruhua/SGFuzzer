@@ -1,0 +1,26 @@
+DESCRIBPLAYE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./*estRTSPClient (LIVE555 streaming Media v2018.08.28)
+AccDESCRIBE rtsp://123.0.0.1:8554/mpeO       ioVideoT WN tsp://127.0.0.1:8554/m=eg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClienteaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+ RTSP/ng Media v2018.ser-Agent: ./testRTSPClien\\\\08.28)
+Session: 000022B8
+Range: nptPAUSE=0.00022Bv2018.08.)28
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-OPTIONS./+estRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.00022B8
+
+SessiContent-Length:on: 000022B8
+Range: npt=5.000-
+
+TskaFileTestMedia v20118.08[y1     .28)
+Sessio DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: .
+
+PLAY rtsp://127/t://12

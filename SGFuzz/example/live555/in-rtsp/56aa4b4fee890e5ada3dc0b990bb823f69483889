@@ -1,0 +1,18 @@
+DSATUP WN tsr://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVHE555 Streaming Media v3    08.28)
+Accep Stret: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Stig aermnMedia v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeB8
+P
+LA.0edia v201/mpeg1or2AudioVideoTest/track2 RTOP/1.0
+CWon: 000022B8
+
+PLA.0edia v201/mpeg1or20nt

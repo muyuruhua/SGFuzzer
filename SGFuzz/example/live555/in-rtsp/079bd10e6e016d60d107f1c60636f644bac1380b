@@ -1,0 +1,27 @@
+DwavAudioTest://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideg Media v2018.08.28)
+Sesn soi:0KR022B8
+Range: npt=0.000-
+
+TEARDOWN 2tsp://127.0.0.1:85!5/mpeg1or1AudioVideoTest/ 4TSP/1.0
+CDESCRIBE rS/127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0tsp://127.0.0.1:8554/mpeg1or2AudioVident
+CSeq: TTTTTTTTTTTTTTTTT	 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT: ./4TSP/1.0
+CDESCRIBE rS/127.0.0.1:8554/mpeg1 ./tereamingstRTSPCoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport:       track2 RTSP/1.0
+CSeq: 4
+User-AgenC
+CSeq: 2
+User-Agent: ./testRTSPCln eit(LIVE555 StrEaming Media v2018.08.28)
+Sesn soi:0KR022B8
+Range: npt=0.000-
+
+TEARDOWN 2tsp://127.0.0.1:85!5/mpeg1or1AudioVideoTest/ 4TSP/1.0
+CDESCRIBE rS/127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0tsp://127.0.0.1:8554/mpeg1or2AudioVident
+CSeq: TTTTTTTTTTTTTTTTT	 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT: ./4TSP/1.0
+CDESCRIBE rS/127.0.0.1:8554/mpeg1 ./temariengstRTSPClien Media t 

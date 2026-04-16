@@ -1,0 +1,15 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v201TCP8.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClment (LIVE555 Strea4/mpeg1or2AudioVideoRange: npt=9Test/eoTest RTSP/1.0
+C Streaming Media v2018.08.28)
+Sessio<: 010022B8
+Range: npwavAudioTestt=0/000-
+
+DEREGISTER t;client_port=50-8775054 Streaming Media .2    08.28)
+Accept: UP rtE555 Streaming Media v2    63.28)
+Accept: UP rtsp://063.0.0.1:85llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll RTSCoDTransport:      $       sion: 0 002 RTSP/1.0pCSe

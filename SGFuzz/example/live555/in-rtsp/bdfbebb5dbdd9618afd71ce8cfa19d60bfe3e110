@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0./sdp
+
+SETUP r022B8/1g1or2AudioVideoTes%/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Stream27.0.0.8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVEI55 Streaming Media v2018.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+TEARDOWN rtUP rtsp://127.08554/mpeg1or2AudioVideoTes%/ RTSP/1.0
+CCeq: 6
+User-Agent: ./testBTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

@@ -1,0 +1,32 @@
+D   'IBErtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0Seq: 2
+UsAr-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28(
+Accep pta:plication/sdp
+
+SETUP rtsp://574.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Straaming Media v127.0.0.18)+Transport: RTP/AVCseqP;Unicast;client_port=36176-50#       779
+
+SETUP rtsp://1PLAY27.0.G.1:8554/mpeg1or2AudioVideoTest/track1
+      .0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 StredamM ginedia v2018.08.28)
+Transportort: RTPIAVP;User-Agentient_port=45GET_PARAMETERssion: 000023>8TEARDOWN rtsp://127.0A.0.1:8554/mpeg1or2AudioVideoTest/ RTSPL/0.0
+CSeqAudioVideoTest/ RTSP/1.0
+CSeqIVE555 StreaAudioTest rtsp://127.0.0                                             AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+ (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;llient_port=4MGET_PARAMETERssion: 000022B8
+
+PLAY rtsp:/018.08.28)
+
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User8matroskaFileTest
+Ran.0
+Cpt=0.000DESCR-
+
+IBE TEARr

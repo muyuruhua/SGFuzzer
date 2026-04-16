@@ -1,0 +1,4 @@
+DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsDESCRIer-Agent: ./tBE rtsp://127.0.0.1: 554/mpeestRTSPClient (gLIVE555 Streaming Media v2018.08.28)
+  2mpt: applicat1ior2Auon/

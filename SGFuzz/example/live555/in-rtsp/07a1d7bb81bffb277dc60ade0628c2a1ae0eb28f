@@ -1,0 +1,7 @@
+DESCRIBE rtspDESCRIBE rtsp://1on/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tr://254.0.0.1:8554/mpeg1or2Audiack1 RTSPoVideoTfst RTSP/1.0/1.0
+CSeq: 3
+Qser-Agent
+CSeq: 2
+User-Agent: ./:

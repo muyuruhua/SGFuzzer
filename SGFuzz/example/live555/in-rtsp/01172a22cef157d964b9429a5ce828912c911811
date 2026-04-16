@@ -1,0 +1,23 @@
+zGET_PARAMETER       S t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTPAV/P;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSer-Agent: .b       PClient (LIVE555 Streaming Media v:017.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-A`ent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transpoeq: 4
+User-Agent: ./testRTSPClient (LI)E555 Streaming Media v20187<.08.28)
+Transport:S        RTP/AVP;unicast;client_port=45GET_PARAMETERssion*: 000022OPTIONSB8
+
+PLAY r554/mpeg1or10.1:8554/mpeg1or2AudioVidenRange: npt=9Test/ RTSP/1.0
+CSe

@@ -1,0 +1,13 @@
+DEnt: ./testRTSPClient (LIVE555 streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.518%:0.4/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq;: 3
+Q R>   t: ./testRTSPClient (LIVE555 StreaAudioTest rtsp://127.0.0AVP.1:8554/mpeg1or2Aeg.1:8554/mpeg1or2Aeg1or2AudioVideoTest/ RTSCSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 St8.28)
+Accept: application/sdp.0.0.1:8554/mpeg1or2AudioVi        deoTest/track1reami ngeMdia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+ LVE(I555 Streaming Media v2018.08.28)
+Transpo 000022B8
+

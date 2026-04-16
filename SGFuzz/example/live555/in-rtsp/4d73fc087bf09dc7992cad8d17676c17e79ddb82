@@ -1,0 +1,15 @@
+DESCRIBE rtsp://1ideoTest RT-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applision: 000022B8
+
+PLAY rtsp://127.AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v4036.08.28)
+Session: 000022B8
+Rangssion: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+Crtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: Range: npt=9t: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

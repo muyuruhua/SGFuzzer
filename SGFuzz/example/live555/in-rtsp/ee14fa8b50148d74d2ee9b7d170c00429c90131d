@@ -1,0 +1,12 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Usz t RTSP/1.0
+CSia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778972 Streamin127.0.0.1:8554/mpeg1or2A
+udioVi
+deoTesteq: 2
+User-Agent5 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778972 Streamin127.0.0.1:8554/mpeg1or2A
+udioVi
+deoTest/track2 RTSP/1.0
+CSer-Agent: ./testRT

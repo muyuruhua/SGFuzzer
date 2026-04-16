@@ -1,0 +1,12 @@
+D- CRIBE rtsp://127.0.0.1:8554/mpeg1or3AudioVideoTest TSUser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018DETransportsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSe3AudioVideoTest TSUser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018DETransportsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.5
+CSeq: 2
+U.08.28)
+Accept: application/sds8.08.28)
+Accept: application/sdp
+
+SETUP rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Use
+User-AgentG: ./testRTSPClient (LIVE55ETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq                : 3ku* R>gent:5  .

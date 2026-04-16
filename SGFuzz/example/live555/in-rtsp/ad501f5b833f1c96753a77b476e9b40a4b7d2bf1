@@ -1,0 +1,35 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTt: apppI  lication/sdp
+
+SETUP uSP/1.0
+CSeq: 2
+Us    `__)___^                  er-Agent: ./test!TSP; V nt (LIVE556 Streaming Media v2    08.28)
+Accept: application/sdD      iSESCRIBE rtsp:/e(tLn IVE555 Streamingsport: RTPIAVP;unicast;client_p rt=45GET_PARAMETERssion: 000.02M2Bsssssssssss8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5.08.28)
+Transport: RTPIAVP;unicast;client_p rt=45GET_PARAMETERssion: 00002M2B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Rgena: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8555/mpeg  r50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Stre2B8ession: 000022B 
+
+tz ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+ TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClieOPTIONSnt (LIVE277 Streaming M: R28)
+P;unicast;client_port=50778-50S
+28)
+Accept: apppI  lication/sdp
+
+SETUP unic://2nt

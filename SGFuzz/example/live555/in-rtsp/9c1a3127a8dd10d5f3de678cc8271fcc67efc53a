@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.k.0.1:8554/mpeg1or2AudioVident:`./testRTS0PClient (LIVE555 Streaming Media v2018.08.28)
+Trorspnta: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: ;
+User-Agent: ./testRT                                                               xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxSPClPLAY (LIVE555 Streaming Media v2018.08.28)
+TraDESCRIBE rtsp://12nsport: RTP/AVP;unica0st7.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./tes;client_potRTrt=45546-4SPClie5547
+Sen

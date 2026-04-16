@@ -1,0 +1,28 @@
+DRangeBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UseRan 3gGET_PARAMETERe: npt=9estRTSPClient (LIVE110 Streaming MediawavAudioTestRange:  v2018.08.28Wru4cYept: apDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audio ideo   W RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPClient (LIVE110 Streaming Media v2018.08.2127.0.0.1:8554/mpeg1or2Audio ideo 1.0:8554/mpeg1 M?udioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-i1.va 82008.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp:PClient (LIVE554 Streaming a evdiM2018.08.28)
+Session: 000022B8
+Range:  npt=0.000-
+
+TEARDOWN rtsp://127. .0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSt: RTP/AVP;unicast;reaming Media v2018.08.28)
+Session: 000022B8
+
+oTest/track1 RT.1:8554/mpeg1orclieack1nt_port=5}}liveMedia401547}}}}}}}}}}}}}}}}}}}}}}}}}}0778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Age    t       X778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClientn@ 0SET_PARAMETER00044B8
+

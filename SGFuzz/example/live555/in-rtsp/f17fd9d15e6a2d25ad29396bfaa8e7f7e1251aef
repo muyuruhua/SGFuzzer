@@ -1,0 +1,7 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RideoTest RTSP/1.0
+CSeq: 2
+
+Accep/620
+CSeq:t: SPClient (LIVE555 Streamin: Media v20TSP18.08.28)
+Accep/620
+CSeq:t: 2

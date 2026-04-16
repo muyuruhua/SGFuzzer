@@ -1,0 +1,20 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tematroskaFileTeststRTSPClient (LI
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streamg Media v2018.VE555 Streaming Media vDESCRIBE rtsp://254.0.0.1:8554/mpeg1or2Audio ideoTest RTSP/1.0
+CSeq: 2
+User-Ag/ .:enttestRTSPClient (LIVE2g Media v20stRTSPClient (LIV{555 Streaminept: application/esdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track0 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicas2t;client_port=45GET_PARAMETERsXXXXPClient (LIVE5g Media v20stRTSPClien.t (LIV{555 Streaminept: application/esdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streamg Media v2018.0pplication/sdp
+018.08.28)
+Transport: RT
+SETUP rtsp://12P/AVP;unicast;clie7.0.0n.

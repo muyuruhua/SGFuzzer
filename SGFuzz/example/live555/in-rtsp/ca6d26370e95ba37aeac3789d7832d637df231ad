@@ -1,0 +1,20 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVid$oTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streamin MgediUser-Agent.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.                                                                                     0
+CSeq: 3
+U1ser-Agent: ./testRTSPClient (LIVE554 StreaminStreaming Media v2PNGQ08.28)
+TUser-Agentransport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVi                          deoTest/track1 RTSP/
+User-Agent: ./testRTSPClient (LIVE555 Streaming Med: 000022B8
+Range: npt=0.000-
+@
+TEARD/1.0
+CSe        er-A8554mp/eg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-A gent: ./testRTSPClient (LIVE555eStr555 Streamia v2018.08.28)
+Session: 000022B8
+

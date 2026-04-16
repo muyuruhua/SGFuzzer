@@ -1,0 +1,9 @@
+DAVPRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVide 3
+User-Bgent: ./testRTSPClient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=4}}}}m}}}}}DESeg1or2AudioVideo;unicast;client_povt=50778-50779
+
+ideo;unicast;client_povt=50778-50779
+
+S}}}}}}}}}
+
+PLETUP 

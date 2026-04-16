@@ -1,0 +1,8 @@
+D      AOESCRICE rtsp://12 .0.0.1:8554/mv20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssieoTfst RTSP/2.0
+CSeq:   ac3AudioTest ./testRTSPClientLV(I E556 Streaming Media v2018.08.28ng Media v2018.08.28!ssion: 00002B28
+Range: npt=0.000-
+
+TEARDOWtestRTSPClient (LIVE555 Streaming Media v2018.08 28)
+2B8
+

@@ -1,0 +1,13 @@
+Dh264ESVideoTest127.0.0.1:8554/mpeg1or2AudioVid,oTest TSPR/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018. 8.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.  .E8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClient (LI=   VE555 Streaming Media v 0stRTSPClient (LIVE555 Strgaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GE
+ EARDOWtestRTSPCleint (LIVE555 Streaming Aedia v2018.08.28)
+Session: 00Content-Length:npt=0.000npt=0.000-
+
+PMM=8
+

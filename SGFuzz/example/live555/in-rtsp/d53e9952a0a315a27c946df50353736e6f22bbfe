@@ -1,0 +1,12 @@
+zDESCRIBE1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v201''''''''''''''''''''''''''''''''''''''''OPTIONS'''8.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
++UsD- CRIBE rtsp://127.0.0.1:8554/mpeg1or3AudioVideoTest TSUser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3ku* R>gent: ./testRTSPClient (LIVE555 Streaming Media v20stRTSPClient (LIVCseqE5%  Streaming Media v2118.0er

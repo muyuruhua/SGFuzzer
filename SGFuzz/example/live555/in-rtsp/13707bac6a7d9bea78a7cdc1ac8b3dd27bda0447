@@ -1,0 +1,19 @@
+D )P/AVPESCRIBE Cseqrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 1
+User-Agent: ./testRTSPClient        5 Streaming Iedia v2018.08 .28@
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User@Agent: ./testRTSPClient (LIVE555 2Streami Streaming Media v2018.08.28)
+Transport: RTPIIAVP;unicast;client_port=45GET_PARA M                                  SET_PARAMETER                             ETERssion:$000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+Usg-nerAet: ./tsetRTSPtR       &TSPClien    t (LIVsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/E555t;client_port=45GET_PARAM                                  SET_PARAMETER                             ETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 2
+User-Agent: ./tsetRTSPtR    "Sreaming Media v2018.08.z8)
+Session: 000220B8
+

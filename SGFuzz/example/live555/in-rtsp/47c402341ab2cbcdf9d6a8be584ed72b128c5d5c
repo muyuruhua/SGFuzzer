@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0.0.1:H554/mpeg1or2AudioVideoTest RTSP/1..0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Stre4/mpeg1or2AudioVideoTest/ 2tcakrRTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (IVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=4556ession: 000022B8
+
+PLAY rtsp://1Y rtsp://127.p.0.1:8555
+Sessivn@ 000022B8
+

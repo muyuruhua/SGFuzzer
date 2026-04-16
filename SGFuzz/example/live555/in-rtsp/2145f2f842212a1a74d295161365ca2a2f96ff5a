@@ -1,0 +1,21 @@
+iRange   08.28)
+Accept:% application/sdp
+
+SETUPn rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-AoVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPCllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllient (LIVE555 S----------------treaming Media v20st/ RTSP/1.77777777             70
+CSeq: 5
+User-Agent: ./tesSET_PATCPETERLIVE555 Streami    ng Media v1009.08.28)
+Session: 000022B8
+Rgane: npt=0.000-
+
+TEARDOWN rtsp://12TEARDOWN: ./tesSET_PARAMETERLIVETEARDOWNamooooooooosssssssssss
+CSeq: 4estRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;chP      lient_port=45GET_PAR Streaming Medi0022B8
+
+PLAY rtsp://859.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeqeq n:eossi: 000 RTP/AVP;unicast;client_port=45GET_PAR Streaming Medi0022B8
+
+PLAY rtsp://859.0.0.1:8554/mpeg1or2AudioVideoTesARDOWN rtsp://127.0.0.1:8554/m127.0.0.1peg1or2Audisssssssssssssssssssssssssssssssssssssssssssssssssssoooooooooo ooooooPAUSEt   :/

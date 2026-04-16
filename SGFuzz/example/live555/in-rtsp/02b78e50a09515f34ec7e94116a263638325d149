@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audio ideoTest RTSP/1.0
+CSeq: 2
+User-Ag/ .:enttestRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+
+         SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq:)3
+User-Agent: ./testRTSPClient (LIVE555 Streamg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client]port=45GET_PARAMETERsXXXXXXXXXXXXXXXXXXXXXXXXXXXideoTest/ VideoTest/ RTSP/1.0
+00002 5
+User-Agent: ./testRTSPClient (LIVE555 StoDESCRIBE rtsp://127.0.0.1:8554/mpegng Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_poia v2018.08.28)
+Treaming Media v2018.08.28)
+Session: 0000ransport: RTPI22B8
+Ran

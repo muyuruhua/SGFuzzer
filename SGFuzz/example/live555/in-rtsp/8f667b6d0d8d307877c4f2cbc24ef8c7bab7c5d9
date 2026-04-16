@@ -1,0 +1,8 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent:DwebmFileTest://127.0.0.1:8554/mpeg1orPAUSE2Au    ident: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: appltsp://127.0.0. ./testRTSPClieCseqnt (LIVE555 Streaming Media v2018.08.28)
+Acce    application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1oransport: RTP/AVP1:8554/mp;unicast;client_port=50778-eg1or2AudioVideoTest/ RTSP/1.0
+CS5eq: 07

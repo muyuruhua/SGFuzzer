@@ -1,0 +1,29 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audio,,,,,,,,,,,,,,,,VideoTest RTSP/1.0
+: RTPCSeq: 2
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media v2    08.28)
+Accept: application/sdp
+
+DESCRIBE rtsDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tp://127.0.0.1:8554estRTUser-/127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+: RTPCSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: application/sdp
+
+DESCRIBE rtsDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tp://127.0.0.1:8554estRTUser-AgentLIVE555 StrSETUeaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSPP /r)
+Accept: application/sdp
+
+DESCRIBE rtsDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tp:reaming Media v2018PO8.28).1:8554/mpeg1or2AudioVideoTest RT-/PNQOr nt (LIVE55AgentLIVE555 StrSETUeaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSPP /rreaming Media v2018PO8.28).1:8554/mpeg1or2AudioVideoTest RT-/PNQOr nt (LIVE555 Streaming Media stRTTCPSPClient (LIVE555 Streaming v2018.08Scale:.28)
+Accept: application/sdp
+
+SETUP r

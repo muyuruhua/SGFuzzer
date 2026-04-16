@@ -1,0 +1,24 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 3PLA.0.0.1
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: applicAtRTSP/1.0ion/sdp
+
+SETUP rtsp://127.0.5.1:855/4mpeg1or2Au                               )
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Sgssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpegack2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streami.ng Media v2018.08.28)
+Transport: RTPI000022B8ast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://331.0.0 1:8554/mpeg1or2AudioVide        7.0.0.1P/AVP;unicast;client_port=50778-50779
+
+ RTSP/1.?0
+CSek: 4
+User:Agent: ./testRTSPClientUser-Agent: ./SET_PARAMETERt (LIVE555 Streaming Media vAVP;unicast;client_p          2Au33333d000022B8ioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE110 S5 Streaming M0779
+
+SETUP rtsp:/sp://127.0.0.1             stRT5 SOWN rtsp://127.0.0.1:8555/mpeg3matroskaFileTest3333r2nt

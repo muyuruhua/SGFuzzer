@@ -1,0 +1,42 @@
+D        rtsp://127.0.0.1:Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1RTP:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 000022B8Agent: ./tastRTSPClien(ILtV]E555 Streaming Med0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-TTTTTTTTTTTTT6Length:ient (LIVE555 St8554/mpeg1or2Aud(oVideoTest RTSP/0.0
+CSeq: 2
+Use         ./liveMed/sdp
+
+SETUP rtsp://                                                                            127.+.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022TransportB8
+
+P ia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/tr8554/a       r4AudioVideoTest RTSP/1.0
+CSent (LIVE555 Stream[ng Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554$$$$$$$$$$$$$$$/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTwavAudioTestVE555 Streaming Media v2018.0(.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4estRTSPClientrtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/ (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVPq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient PAUSE110 St8554/mpeg1or2AudioVideoTestideo022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:055  84/mpe        g1or2AudioVideoTest/PSTR /1.0
+CSeq: 6
+User-gARTPent: ./testRTSPClient (LIVE555 Streaming Media];ESCRv2018.08.28)
+Sesons: i00002   IBE rtspt=0.0://127.0  

@@ -1,0 +1,18 @@
+DTEARDOWNrtsp:/ent (LIVE555 Streaming Media v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (        Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_poDAVPRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVe
+eoTest RTSP/1.0
+CSeq: 2
+User(Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/stp
+
+SETUP rtsp://822.0.0.1:8554/mAVP1or2Audioent_poDAVPRIBE rtsp://127.0.0.1:8554/mpeVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testR/M      t (LIVE5U5 SOPTIONSg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=5edia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=455-554rt644=507787
+Sessio-n

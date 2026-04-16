@@ -1,0 +1,21 @@
+DESeg1or2AudioVideo;unicaRAW/RAWnt_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Str  &ming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GETgnea dia f2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDtestRT PClient (LIVE555 Stream  g Media v2018.08.28!
+SessionI: 00002B28
+Range: npt=0.00gent: ./testRRangeTSPClient (LIVE555 St emMignea dia f2018.08.28)
+DRange: npt=0.00127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 StreB8
+Range: np=t0.000-
+p://127.0.0.1:8554pme/g18.0z8.28
+TEAR)
+Session: 000022B8
+DOW
+N rtsp://127.0.0.1:8554/mpeg1oeamiScale:RTP/

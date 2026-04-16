@@ -1,0 +1,21 @@
+ia v3    08.28)
+Accept:% appz t RT/sdp
+
+SETUP rtsp://8.28)
+Accept:% appz t RT/sdp
+
+SETUP rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+TransportETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/t|rack2 RTSP/1.0
+CSer-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudDESCRIBE rtsp://127.30.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C  (  2
+User-Agentrt: RTPIAVP;unicast;client_portlication/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSelientq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streamin=g Media       %".28)
+Transport.2    Transport: RTP/AVP;unicas45GEt;client_port=45

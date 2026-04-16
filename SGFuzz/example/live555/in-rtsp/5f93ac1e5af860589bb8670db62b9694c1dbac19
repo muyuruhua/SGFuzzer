@@ -1,0 +1,9 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Aud127.0.DESAVPBE rtsp://127.0.0.1:8554/mpeg1or2AudioVon: 0000X2B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT0.1 .est/ RTideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Stream (LIVE555 Streaming Media v2018.08.28)
+& 	 Transport: RTP/AVP;unicast;client                                                                                                                  _port=45546-45547
+Session: 0000X2B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT0.1 .est/ RTS

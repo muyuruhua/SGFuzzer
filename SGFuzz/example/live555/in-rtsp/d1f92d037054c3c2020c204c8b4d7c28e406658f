@@ -1,0 +1,14 @@
+D CRIBE rtsp://127.0.0.1:atioj/sdp
+
+SETUPH rtsp://254r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=46TransportGET_PARAMETEDb>CRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+/testRTSPClient (LIVE555 Streaming Med a v2018.08.28)
+Transport: RTPIAVP;unicast;clien/sdRisson: 000022B8
+
+OPTIONSPLAY rtsp://1p
+
+SETU
+
+SETUP rtsp://127.0.G.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq:                           27.0.0.1:8554/mpeg1or2AudioVideoTest/    R 

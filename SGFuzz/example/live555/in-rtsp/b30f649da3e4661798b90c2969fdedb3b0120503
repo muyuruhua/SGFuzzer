@@ -1,0 +1,33 @@
+z t RTSP/1.0
+CSeq: 2User-Agentt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./t]stRTSPClient (LIVE972 Streaming z FGf    Er   Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-79228
+
+SETUP rtsp://128)
+Accept: application/sd/1..ort=50778-0POOD2B8
+Acce
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2 t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AgewebmFileTestnt: ./testRTSPelCint (LIVE972 Str018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POODwebmFileTest2B8
+Accept: application/sdp
+
+SETUP rtsp://064.0.0.1:85 RTSCoDESC    udioTestPClient (LIVE555 Streaming Media v2018.08.28)============================================================================================;=================================
+Transport: RTP/AVP;unicast;client_portm=ing Media v2018.ion:
+CSeq:  000022OPTIONSB8
+
+PLAY rtsp://128.0.0.1:8554/ioTestPClient (LIVE555 Streaming Media v2018.08.28)==============================================================================================================================
+Transport: RTP/AVP;unicast;client_port=ming Media v2018.ion:
+CSeq:  000022OPTIONSB8
+
+PLAY rtsp://128.0.0.1:8554/mpeg1or2AudioVideoRange: npt=9TesSET_Pmpeg1or2AudioVideoRange: npt=9TesSET_PARAMETERCSe

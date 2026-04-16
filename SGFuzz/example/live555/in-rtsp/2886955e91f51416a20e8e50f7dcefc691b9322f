@@ -1,0 +1,21 @@
+DESCRIBE vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSe    q: 5
+User-Agent: ./testi 4
+User-AgenC~    \=eontent-Length:i ent (LIVEunicast;client_port=50778-50779
+
+SETUP rtsp:/000022B8.1:Test/ RTP/AVP;unicast;,lientUser-Agent_port=459:+ />-7METERssion: 000022B8
+
+PLAY rtsp:/ Media v/127.0.554/Am0
+Range: npt=0.000-
+
+TEARDOWN rtsp:/(/127.0nt_port=50778-50779
+
+SETUP rtsp    I%rtsp:/ing Media v2018.08.28)
+Transpast;client_port=50778-50779
+
+SETUP rtsp:/000022B8.1:Test/ RTP/AVP;unicast;iltenc_port=0779h       
+
+SETUP rtsp    I%rtsp:/ing Media v2018.08.28)
+Transpas002p://127.0.0.1:8554/mpeg1or2BHruMAudioVideoTest/track
+1 RTSP/1..
+CS

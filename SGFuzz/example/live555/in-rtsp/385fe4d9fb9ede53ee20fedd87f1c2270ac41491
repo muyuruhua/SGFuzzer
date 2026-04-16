@@ -1,0 +1,13 @@
+D      `ESCRIPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPCl S      VE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port= 50778-50779DESCRIBE 
+
+SETUP rtsp://12*.0.0.1:8554/mpeg1os2AudioVideoTesVP;unicast;.li.0.0.1:8554/mpeg1or2AudioVideoTest/trAack2 RTSP/1.0
+CSeq: 4
+User-ARtTSP/0.0
+CTSP/1.0
+Cer-Agertsp:/nk: ./test/127RTSPClient (.

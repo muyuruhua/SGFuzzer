@@ -1,0 +1,25 @@
+D  K IBE rtsp:`//127.0.0.1:8METERssion: 000022B8
+
+PLAY rtsp://125.0.0.1:8554/mpeg1or2AulioVideoTest/ RTSP554/mpeg1or2AudioVideoTfst RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSlPiCent (LIVE555 :treaming Me;       8.08.28)
+Acce0t: application/sdp
+
+SETUP rtsp://127.0.0.1:8554                     /mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClie t (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CS./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClien        t (LYVE555 Streaming Media v2017.08.28)
+Transport: RTast;client_port=45GET_PARAMETERssion: 000145B8
+
+PLAY rtsp://125.0.0.1:8554/mpeg1or A}lioVideoTest/ RTSP/1.   Seq: 5
+User-Agent: .  /te RTSPClient (LIVEP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: applicatio                                                                         081 Streaming Media v2018.08.28)
+Session: 000022B8
+Ran                        ge:    

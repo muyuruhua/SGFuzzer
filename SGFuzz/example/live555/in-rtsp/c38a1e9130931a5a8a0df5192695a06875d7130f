@@ -1,0 +1,26 @@
+ieaSession: 00/0
+Accept:% application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (L[VE555 Stre@ming Media v2018.08.28)
+TrAnsport.2    Transport: RTP/AVP;uPAUSEnicast;client_port=45546-lient (LIVE555                                                                                                *     Streaming Media v2er-Agent?: ./tesSET_PARAMETERLIVE555 Streaming Media v1009.08.28)
+Session: 000044B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:CSeq://1OPTIONS27.0.0.1t: ./tesSET_PARAMETERLIVE555 @treaming Mekia v1009.00.28)User-Agent
+Session: 0000DESCRIBE22B8
+Ran : enpt-50S
+28)
+Accept: apD   IBE rtsp://127.0.0.1:8554/mpeg1or2AudioViIdeoTest RTSP/1.0
+CSeq: 2
+UserppI  lic  -Agent: ./testRTSPClient (//127.0.0.1:8554/mpeg1or2AudioVide      p
+
+SETUoTest/track2 RTSP/1.0
+C
+User-Agent@ ./testRTSPClient (LIVARDOWN rtsp://127.0.0.1:     8554/P unic:/mpeg1or2Audi/8
+Ra/2nnge: npt=0.000-
+
+TEARIVE5t
+Sessivn@ 000022B8
+

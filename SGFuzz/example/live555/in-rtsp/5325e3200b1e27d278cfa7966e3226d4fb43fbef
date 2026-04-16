@@ -1,0 +1,28 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe                                                                                 .0.1:7108/mpeg1or2AudioVidmoTest/track1 RTSP/1.0
+CSeq 7DESCRIBE rtsp://123.0.0.1:8554/mpe        ioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent:3U:
+78-50779
+
+SETUP rtsp://127108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:8ort=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:8)
+Transport: RTP/AVP;unicast;client_port=50778-25389
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent:MMMMMMM ./testRTSPClient (LIVE555 SG ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicatijn/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AET_PARAMEgent: ./testRTSPClient (LTERa v2018.08IVE555 Streaming Media v2018.08.:8)
+.28)    Tr 

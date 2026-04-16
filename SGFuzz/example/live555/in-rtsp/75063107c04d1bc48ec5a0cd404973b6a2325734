@@ -1,0 +1,35 @@
+ze: npt=9npt=0.0eq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streami~g Media v2018.08.56)
+Accept:[     applicationAVPp
+
+pt:     applicationAVPp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=507785-7097
+
+SETUP rtspAudioVideoTest/track1 RTSP/1.0://127.0.0.1:8554/mpeg1or2AudioVideoTDESCRIBSETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Stigarn me                                                                                     Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=507785-7097
+
+SET|X  tspAudioVideoTest/track1 RTAudioVideoTest/track1 RTSP/1.0://127SP/1.0://127.0.0.1:8554/mpeg1or:8554/mpeg1or2AudioVideoTDESCRIBEk2 RT6P/1.0
+CSeq: 4
+User-Agent: ./tes&tRTSPCliedia v2ssionU 000022B8
+Range: npt=0.000-
+
+OPTIONSN rtsp://1GHQOQOQN:853D984869or2AudioVideoTest/ RTSP/|.0
+CSep: 6
+User-Age-Agent: ./RTSPCent $LIVE555 Streaming Medi2AudioVideoTDESCRIBEk2 RT6P/1.0
+CSeq: 4
+User-Agent: ./tes&tRTSPCliedia v2ssionU 000022B8
+Range: npt=0.000-
+
+OPTIONSN rtsp://1GHQOQOQN:853D984869or2AudioVideoTest/ RTSP/|.0
+CSep: 6
+User-Age-Agent: ./RTSPCent $LIVE555 Streaming Media v2018.08.28)
+T  i$ransport: RTP/AVP;"nicast;client_port=45GET_PARAMETEuRssion: 00T6P/1.0
+CSeq: 4
+User-Agent: ./tes&tRTSPClied5       ia eaming M|dieoTest/ RTSP/1.0
+CSe

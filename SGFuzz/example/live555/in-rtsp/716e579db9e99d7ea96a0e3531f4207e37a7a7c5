@@ -1,0 +1,21 @@
+D	       ESCRIBE rtsp://127.0.0.1:85000022B854/mpeg1omatroskaFileTest RTSP/1.0
+CSeq: 2
+.0.0.1:8t RTSP/1.0
+CSeq: 2
+.0.0.1:8554/mpeg1or2AudioVideoTest/tt: ./testRATSPCl  nt (LIVE555 Streami4444444444444444444444444444444444444444444444444444444444444444444444444444ng Media v3    08.2<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<8)
+Accept: application/  p
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2Au
+CSeq: 3
+User-Agent: ./te{tRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=4557545-464
+Session: 000022B8
+                 
+PLAY rtsp://1 27.0.0.1:855</mpeg1or2Au
+CSeq: 2
+.0.0.1:8554/mpeg1or2AudioVideoTest/tt: ./testRATSPCl  nt (/track1 RTSP/1.0
+CSeq: 3RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 `Streia v20stRTSPC00022B8
+

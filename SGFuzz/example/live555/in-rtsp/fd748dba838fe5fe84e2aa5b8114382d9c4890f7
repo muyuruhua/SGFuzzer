@@ -1,0 +1,11 @@
+z t RTSP/1.0 RTSP/1.0
+CSer-Agent: ./testRTSPClient (LIVE555 Streaminreaming Media v2018.08.28)
+Transport.28)M
+Transport: RTP/AVP;uAVPast;client_port=45546-45547
+Session: 000022B8 
+
+PLAY rtsp://127.0.0.1:8554 mpeg1or2AydioVideoTet/s RTSP/1.0
+CSeq: 5
+SETUPUser-Agent: ./tesARAMETERssion:
+CSeq:  000022OPTIONSAydioVideoTet/s RTSP/1..0.1:8545/mpeg1or2AudioVi  oRange: npt=9Test/ RTSP/1.0
+CSe

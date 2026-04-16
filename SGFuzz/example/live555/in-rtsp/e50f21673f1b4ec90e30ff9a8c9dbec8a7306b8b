@@ -1,0 +1,22 @@
+D      "CESCRIBE rtsp://127.30.0.1:85[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[54/mpeg1or2AudioVideoTest RTSP/1.0
+C  (  2
+User-Age://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTS         PClient (LIVE555 Streaming Media v2018.08.28)
+Session: 010022B8
+Range: npt=0.000-
+
+TEARDOnicast;client_port=50778-50779
+
+SETUP Rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-P/AVP;unicast;client_port=45GET_PARAMETERssieoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCli    (LIVE555 Sretaming Media v2018.08.28)
+Accept: applicaudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (AgenContent-Lengthzient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/1.0
+CS063?.0.0.1:85 RTSCoDESC                     sion: 000022B8
+

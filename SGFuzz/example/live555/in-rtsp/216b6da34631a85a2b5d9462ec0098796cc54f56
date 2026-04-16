@@ -1,0 +1,14 @@
+DETransportsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agen.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tnge: npt=1.000-
+54/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVEpt=0.000-
+
+TEAR0.1:8554/mpeg1or2AudioVi54/mpeg1or2AudioVideoTest/ R?TSP/1.0
+CSeq: 6
+U er-Agent: ./testRTSPClient (LIVE555 StreamiRRRRRRRRRRRRRRRng Media v2018.08.28)
+Session: 000022B8
+

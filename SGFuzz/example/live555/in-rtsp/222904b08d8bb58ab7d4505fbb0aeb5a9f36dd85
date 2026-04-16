@@ -1,0 +1,30 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+U                                                                                   udioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRT5 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtspDESCRIBE rtsp://2oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range:sdp
+
+SETUP rtspDESCRI                                                            udioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRT5 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtspDESCRIBE rtsp://2oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignBE rtsp
+SETUP rtspDESCRIBE rtsp://1oVit0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+UseeoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555  ,8)
+Accept:rtsp://128.0.0.1:8554/mpeg1orPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP2AudioVior2AudioVideoTest/t/sdp
+
+SETUP rtsp:rack1 RTSP/1.0
+CSeq:/ 

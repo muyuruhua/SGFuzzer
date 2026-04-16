@@ -1,0 +1,17 @@
+DESCRI E rtsp://127.0.0.18:554/mpeg1or2AudioVid$oTest RTSP/1.0
+CSeq: 2
+URTSP/1.0ser-Ageni`ast;client_port=50778-50779
+
+SER																																																																															TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-r-                       [___      5
+UTP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 0000Accept
+PLAY r npt=0.000-
+
+				}}}}}}}}}}}}}}}}}}}}																																																																									
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

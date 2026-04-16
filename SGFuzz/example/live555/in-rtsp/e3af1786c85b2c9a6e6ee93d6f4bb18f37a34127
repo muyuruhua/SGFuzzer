@@ -1,0 +1,18 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: .Scale:/testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Trorspnta: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq:TEARDOWN 4
+User-Agent: ./testRTSPClient (LIVE555 Streamin gMedic v2018.08.28)
+Transport: RTP/AVP;unicansport: RTP/AVP;unicast;client_port=45546-45547
+Session: 00002208           .28)
+Transport: RTP/AVP;unicansport: RTJ/AVP;unicast;client_port=45546-45547
+Session: tttttttttttttttttttttttttttttttttttttttttttt000022B8
+
+PLA.0.0.1:8554/mpeg1or2AudioVideoTest/=ng MedAVPv2018.08.28)
+Session: 00/022OPTIONSge: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1oRTPudioVideoTest/ RTSP/0.0
+CSeq: 6
+User-n 000Scale:022B8
+

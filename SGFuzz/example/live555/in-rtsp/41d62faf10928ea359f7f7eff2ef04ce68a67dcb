@@ -1,0 +1,13 @@
+D92  Range: npt=0.00127.0.0.1:8554/mpeg1or2AudioVideoTest RTSPPLAY/1.0
+CSeq: 2
+User-AgSPClient (LIVE555 Stmeraing Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:Range85]4/mpeg1or2AudioVideoTest/track1 RTSP/1.TEARDOWN rtsp://327.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/^.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Stre
+User-Agent: ./testRTSPClient (LIVE555 7-0758S
+28)
+Accept: apppI  lication/sdp
+
+SETUP unic://2nt

@@ -1,0 +1,28 @@
+D       8vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1or2AqdioVideoTest RTSP/0.0 
+CSeq: 2
+U./testRTSPClient (LIVE555 streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testR=SPClient (LIVE555 StreaAudioTest rtsp://127.0.0AVP.1:8554/mpeg1or2AudioVideoTest/ RTSP/2.0   "eq:  
+User-Agent: ./tes://tRTSPClient (LIVE555 Streaming PCliMedia v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+ (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=4MGET_PARAMETERssdon: 000022B8 h
+PLAY rtsp://127.0.0.:18554/mpeg1or2AueioVideoTest/ RTSP/1&0
+CSeq: 5
+User-AgentliveMedia344390ent (LIVE555 St4444444reaming Media v2019.0:.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEbARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVi   !est/ RTSPing Medi: v201722222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222.09.28)
+Transport: RTP/U AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESC                $    six-playNow:on: 000022B8
+

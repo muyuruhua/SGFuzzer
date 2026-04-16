@@ -1,0 +1,19 @@
+DESCRIBE rtsac3AudioTest1:8554/mpeg1or2AudioVideoTesSeq: 4
+User-Agent: ./testRTSPClient (LIVE#555 SOPTIOnSg Media v2018.08.28)
+TransoR :pTtrPIAVP;unicast;client_port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp://127.0.0.a1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming M#dia v2018.08.28)
+SessB8
+Range: npt=0.000-
+mTEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVide018.08.28)
+Session: 00
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.7b      08.28)
+Transport: RTP/AVP;unicast;clieent_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8551.0
+CSeq: 6
+User-? ent: ./testRTSt: RTP/ANP;unicast;reaming Media v2018.08.28)
+Session: 000022B8
+

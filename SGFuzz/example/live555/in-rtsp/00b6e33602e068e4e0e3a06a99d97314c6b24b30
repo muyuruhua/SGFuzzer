@@ -1,0 +1,8 @@
+Do 1     E rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient
+Sesion: 000022B8
+
+PLAY rtsp://127.0.0.1:matroskaFileTest8554/m-eg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: estRTSPC?ient (LI

@@ -1,0 +1,7 @@
+D      B?rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2H2221/UDP  RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 0000TM=Gru- nge: npt=0.000 r  DESCR-
+
+IBE TEARr

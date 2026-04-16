@@ -1,0 +1,41 @@
+D       V   'IBE rtsp://127.0.0.1:8554/mpeg1os2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./testRTSPRange: npt=9Client (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://574.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Straa.ming M?edia v127.0.0.18)
+Transport: RTP/AVP;unicast;client_port=36176-50779
+
+SETUP rtsp://127.0.G.1:8554/mpeg1or2AudioVideoTest/track2 R2,/PN
+CSeq: 2
+UsAr-Agent: ./testRTSPRange: npt=9Client (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://574.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Straa.ming M?edia v127.0.0.18)
+Transport: RTP/AVP;unicast;client_port=36176-50779
+
+SETUP rtsp://127.0.G.1:8554/mpeg1or2AudioVideoTest/track2 R2,/PNQOr
+CSeq: 4
+User-Agent: ./testRTSPDESCRIBELIVE555PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP                                                        PPPPPPPPPPPPPPPPP Streaming Media v2018.08.28)
+Transport: RTPIAVP;sU-egrAentient_port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSe,q:=5
+User Streaming QOr
+CSeq: 4
+User-Agent: ./testRTSPDESCRIBELIVE555PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP Streaming Media v2018.08.28)
+Transport: RTPIAVP;sU-egrAentient_port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSe,q:=5
+User Streaming RTSP/1.0018.08.28)
+Session: 00Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDESC    udi      0022B8matroskaFileTest
+Rang0enp=: t.000DESCR-
+
+IBE TEARr

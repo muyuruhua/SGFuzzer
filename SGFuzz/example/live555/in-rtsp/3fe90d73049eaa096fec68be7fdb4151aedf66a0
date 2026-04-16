@@ -1,0 +1,13 @@
+DESCRIBE rtsp://127.0.0.1:8554/.28)
+Accept: application/sdp
+
+SEtion/sdp
+
+SETUP rtsp://1SET_PARAMETER27.0.0.1:855oVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/A,P;unicast;client_port=50778-50S
+28)
+Ac$cept: application/sdp
+
+SETUP rtsp:j   //127.0.0.1ETUP rtsp://KKKKKKKKKK&KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK127.0.6.1:8554/k2 RTSCoD:8554/k2 RTSCoDESCRIBE rtsp:-/1nt

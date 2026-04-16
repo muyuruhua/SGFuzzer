@@ -1,0 +1,27 @@
+DESCRIBE rtsp://127.0.0.18:55        r2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIV                                                                                                                       E555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0$1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testAcceptient (LIVE555$Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 0);     
+
+PLAY rtsDESCRIBEp://12,.0.0.1:8554/mpeg1or2AudioVideoTest/ RPSP/t_port=50778-501.0
+CSeq: 5
+User-Agent: ./testRUSPClient (LIVE555/testRTSPCli=ent (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1z8554/mpe0
+CSeq: 5
+User-Agent: ./testRUSPClient (LIVE555/testRTSPCli=ent (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1z85g1or2AudioVideoTest/ RTSP/1.0
+CS8-50779eq: 6
++ er-Agent: ./      testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+DSession: 000022B8
+

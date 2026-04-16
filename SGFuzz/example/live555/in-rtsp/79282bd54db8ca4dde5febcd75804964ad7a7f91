@@ -1,0 +1,17 @@
+DESCDE.       tsp:                                                                                                                         /mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Age#nt: ./testRTSPClien.1:8554/mpeg1or2Audtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE55p
+
+SETUP rtsp://1er-Agent: ./testRTSPClient (LIVE555 Streaming Media vion: est/ RTSP/1.0
+CSeq: edia      //127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Age#nt: ./testRTSPClien.1:8554/mpeg1or2Audtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE55p
+
+SETUP rtsp://1er-Agent: ./testRTSPClient (LIVE555 Streaming Media vion: est/ RTS,P/1.0
+CSeq: edia v18.08.27)
+Session: 000022B8
+

@@ -1,0 +1,10 @@
+DRangeESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest TSPR/1.0
+CSeq: 2
+User-Agent: ./testRTTSPClient (LIsiCotnoent-Lengt        h:PLAY rtsp:/client_port=91GET_PARAMETERsTransport011B8
+ 
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent:                                                                                           ./testRTSPC  ent (LIVE555neg                            : npt=0.000npt=0.000-
+
+022B8
+

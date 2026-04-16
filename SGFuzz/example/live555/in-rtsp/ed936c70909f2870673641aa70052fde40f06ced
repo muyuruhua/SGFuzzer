@@ -1,0 +1,14 @@
+ac3AudioTestp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media        v3    08.28)
+Accept: applica/////////////////////////////////////////////tion/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTn: 000022B8
+Range:"npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSDESCRIBESeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming M: RTP/AVnu;Picast;client_port=50778-50S
+28)
+Abcept: apppI  lication/sdp
+
+SETUP unic://2nt

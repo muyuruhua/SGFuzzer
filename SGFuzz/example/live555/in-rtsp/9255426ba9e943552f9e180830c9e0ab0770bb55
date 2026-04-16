@@ -1,0 +1,17 @@
+DESCRIBE rtsp://12   Z9
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming matroskaFileTestMedia v2018.08.2TEARDOWNsport: RTPIAVP;unicast;client_port=90GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVA555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+T AEDOWRNrtsp://127.0.0.127.0.0.1:8554/mpdioVideoTest/ RTSP/1.0
+CeqS: 6
+UsengrB-At: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

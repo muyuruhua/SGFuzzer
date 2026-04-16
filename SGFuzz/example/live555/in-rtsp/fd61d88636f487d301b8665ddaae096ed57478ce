@@ -1,0 +1,29 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779TCP
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVi/eoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSP/lient (LIVE555 Streaming Media v2018.08.28)
+Transpont_port=50778-0PO.D2B8
+Accept: application/sdp
+
+S&TUP rtsp://063.0.0.1:85 RTSCoDESC             port=50778-0PO        six-playNow:on: 00ient_port=45GET_PARAME^ERssion:Scale: 000022Trania v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1  RTSP/OY.
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: R0?/AVP;unicast;client_por|=50778-0PO.D2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85 RTSCoDErt: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 0000        k                                                                             .1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+UstRTSPClient (LIVE555 Streaming Media v2018.08.2er-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.2.0
+GSe

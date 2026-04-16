@@ -1,0 +1,36 @@
+z t RT/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq:$3
+User-Agent: ./testRTSPClient (LIVE972 Streaming Media v2017.08.27)
+Transport: RTP/AVP;unicast;client _      778-50779
+
+SETUP rts(://127.0.0.1:8554/mpeg1or2AudioVideoTest/t|rack2 RTSP/1.0
+CSerST-Rk 2P/1.0
+CSer-Agent: ./testRTSPCAgeD    EIB rtsp://127.0.0.1:8554/mpeg1or2AudioVidRange: npt=91.K
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08Transport.28)
+Accept: application/sdp
+OPTIONS
+SETUP rtsp://127.Dac3Audie   tosT   : application/sdmatroskaFileTest//126.0.0.1:8554/mteg1or2AudioVideoTest/t999999999999999999999rack1 TRSP/1.0
+CSeq                                     : 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v20nt: ./testRTSPClient (ack1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1
+PLAY rtsp://127.0.0.1:8554/mpeg1orNAudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-A]   gent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)#
+Sesskon:  000122B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://254.0.0.1:8554/mpeg1or2Audist/UP rtsp://127.0.0.1:8554/mpeg1or2AudioVLIVE%55 Streaming Media vz18.08.28)~
+Transport: R%TP/AVP;unicast;client_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVid
+Tr2018.08.28)
+ansport: RTP/AVP;u                                                             nicast;client_povt=0.0.1:8554/mpeg1or2Audio
+TransportV:

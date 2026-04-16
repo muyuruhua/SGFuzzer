@@ -1,0 +1,23 @@
+D    ESCRIBE rtsp://12IQOQOQN>8554/mpeg1or2AudioVideoTes
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE55ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SP rtsp://127.0.0.1:8554/mpeg3or2AudioVideoTest/track1 RTSP/1.RAMETERssion: 0000matroskaFileTestp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE798 Streaming Media v2018.08.28)
+Session:  	Jp000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 60
+CSeq: 3
+User-Agent: ./testRTSPClientt;client_port=45GET_PARAMETERssion: 0000matroskaFileTestp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE798 Streaming Media v2018.08.28)
+Session:  	Jp000022B8
+Range: npt=0,.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-AgenHt: ./testRTSPClient (LIVE555 SAreaDESCming MRediA

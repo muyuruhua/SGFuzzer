@@ -1,0 +1,10 @@
+D       8vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0        
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-LeDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v0018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127ngth:ient (LIVE556 St8554/mpeg1or2AudioV.0.0.1:8554/mpeg0or2AudioVideoTest/track1 RTSP/1.0
+CSeq:ideoTest RTSP/0 

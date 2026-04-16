@@ -1,0 +1,13 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-lgent: ./testRTSPClient (LIVE555 Streaming Medi3 v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-TEARDOWN/testRTSPClient (LIVE277 Streaming Media v2018.08.2edia v2018.08.28)
+Sesn soi:000022BRTSP/1.0
+CSeq: 4
+Use8.28)
+Session: 000022B8
+

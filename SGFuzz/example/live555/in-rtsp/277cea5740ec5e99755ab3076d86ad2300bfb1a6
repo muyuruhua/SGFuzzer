@@ -1,0 +1,10 @@
+DESCRIBE rusp://127.0.0.1:8est/ RTSP/1.0
+CSeq: 5
+User-Agen RTSP/1.0
+CSeq2 :
+User-Agent: ./testRTSPClie554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCli\\\\\\\\\\entnt (LIVE555 Streaming Media v2018.08.28)
+Accept: aDESst RTSP/0.0
+CSeq: 2
+User-Agent: ./tdstRTSPClie554/mpeg1or2AudioVideoTest.1:8554p

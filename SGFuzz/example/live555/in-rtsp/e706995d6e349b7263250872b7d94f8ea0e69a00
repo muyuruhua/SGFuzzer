@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554    g1oz2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.185:34/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient :7108/mpeg1or2AudioVideoTest/track1 RTSP/1.0o
+CSeq:`H
+User-Agent: ./testRTSPClien7 (LIVE575 Streaming Media     v2018PO8.28).1DES.RIBE rtsp://127.0.0.1:8554/ +mpeg                               client_port=50778-50779
+
+SETUP rtsp://1
+
+TEARDOWN rtsp://127.0.0.1:8545/mpeg1Aud

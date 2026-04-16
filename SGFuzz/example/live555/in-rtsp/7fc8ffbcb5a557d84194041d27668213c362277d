@@ -1,0 +1,32 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Usre-Agent: ./testRTSPCliAccDE5SCRIBE rtsp://127.0.0.1:8554/mpeg12roAudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+AestRTSPClient (Lt: ./testRTSPClient (LIVE555 Streaming Media#}   MP2T/H2221/UDPv2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN ptsp://127.0.0.st/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (Lt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRpppRRRRR8RR554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+U3er-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session:eptent (LIVE277 Streaming Media v2018.08.28)
+Accept: aacppltiion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVi%%%%deoTest/track1 RTSP/1.0
+CSeq: 3
+User-Ag 00002ent: ./t3C
+User-Agent: .TSPClient (                 LIVE277 Streaming Media 102v8.08.28)
+Accep
+t: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2A,u
+dioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Usgtr-eeAn: ./t aTEARDOWNrack1 RTSP/1.0

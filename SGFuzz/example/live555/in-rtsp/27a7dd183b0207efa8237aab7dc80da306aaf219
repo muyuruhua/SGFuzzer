@@ -1,0 +1,42 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555dp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2SP/1.0RTSPtst/track2 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTon/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2SP/1.0RTSPtst/track1 RTSP/1.0
+CSeq: 3    er-Agent: ./testRTSPCoTesSPCoTest/ OWN rtsp://127.0.0.1:8554/mpeg1or2At: ./testRTSPCl://127.0.0.1:8555/mpeg1or2AudioVidia v2018.08.28)
+     
+ oAccept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2SP/1.0RTSPtst/track1 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTon/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2SP/1.0deoTest/ RTSP/1.0
+CSeq: >
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sessi Streaming Media v2018.08.28)
+     
+ oAccept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2SP/1.0RTSPtst/track2 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTon/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2SP/1.0RTSPtst/track1 RTSP/1.0
+CSeq: 3    er-Agent: ./testRTSPCoTesSPCoTest/ OWN rtsp://127.0.0.1:8554/mpeg1or2At: ./testRTSPCl://127.0.0.1:8555/mpeg1or2AudioVidia v2018.08.28)
+     
+ oAccept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2SP/1.0RTSPtst/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTon/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2SP/1.0deoTest/ RTSP/1.0
+CSeq: >
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

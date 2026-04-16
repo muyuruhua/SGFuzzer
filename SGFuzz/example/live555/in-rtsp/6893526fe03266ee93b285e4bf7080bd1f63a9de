@@ -1,0 +1,9 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSe554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: ;       ienty   _port=45GET_PARAMETERssioCSeq:0022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCliClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

@@ -1,0 +1,13 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0pplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Au                                                  ng Media v2018.0pplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2Au                             wavAud       hioTest                                          [                  dioml      VideoTest/track1 RTSP/1.0RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LX   55 Streamingiead  Mv2018.08.28)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                                                                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TranY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agen 
+

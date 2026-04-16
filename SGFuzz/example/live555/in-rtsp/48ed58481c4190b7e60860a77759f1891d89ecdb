@@ -1,0 +1,14 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: sp://127.0.0.1:855
+Range: npt=0.000-21
+User-Agent: ./testRTSPCli#nt (FileTestsp://127.0.0.1:8554/mpig1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+Use R> ent: ./testRTSPClient (LIVE555 Streami   Media v20$Q      port=45546-455Acceptssion: 000022B8
+
+BPLAY rtsp://127.0.0.1:855
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg2or2AudioVideoTest/ RTSP/1.0
+CSeq: 6 User-Agent: ./testRTSPClient (LIVE555 Streaiing Media v2018.0 .28)
+Session: 000022B8
+

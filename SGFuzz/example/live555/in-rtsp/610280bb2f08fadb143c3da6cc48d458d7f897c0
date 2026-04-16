@@ -1,0 +1,13 @@
+D  0022B8
+RaNge: ESCRIBE rtsp:/ent (LIVE555 Srtaeming Media v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AudioV_port=08GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://273.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIge: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./SET_PARAMETERt (LIVE555 Streamxing Media v2018.08.28)
+Session: 00002  8
+

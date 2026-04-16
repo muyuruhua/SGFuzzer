@@ -1,0 +1,11 @@
+DScale:E rtsmpeg1or2AudioVideoTest/ RTSP/1.0
+CSeqs
+ e:5Ur-Agent: ./tZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZestRTSPClient (LIVE555 Streaming Media v2018.08.28!
+Session: 00002B28
+Range: npt=0.300-
+
+TEARDOWN rtsp://254.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq> 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v        28)-
+Session> 000022B8
+

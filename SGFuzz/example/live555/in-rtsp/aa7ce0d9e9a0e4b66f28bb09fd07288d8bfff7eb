@@ -1,0 +1,42 @@
+DESCRIBE rtsp://127.0.0.18:554/mpeg1or2AudioVident: ./testRTSPCliedia v2018.08.28)
+Transport: RTP/AVP;unicastnt (LIVE555 StrPAUSEg Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.0:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Ses    E_OO0022B8 
+
+PLA.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streamin127.0.0.1g Meransport: RTP/AVP;unicast;client_port=50778-5079
+7
+SETUP rtsp://127.0.0.0:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLA.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streamin127.0.0.1g Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+UseS-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+dia v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554
+Range:/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+UseS-Agent: ./testRTSPClient (LIVE555 StreaminSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_portCseq8.28)
+Seswivn@ 000022B8
+

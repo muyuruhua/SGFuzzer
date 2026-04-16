@@ -1,0 +1,19 @@
+Dr-Ag  E_QPestnt (LIVE555 Streaming Media v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp://128.0.0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.:8)
+Transport                                                                    : RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0RN:8554/mpeg1or2AudioVideoTest/track2 R/sdp
+
+SETUP prst://127.0.5.1:8554/mpeg1or2AudioVideoTestst/track1 RTS                                                                                                              P/1..
+CSeq: 3
+User-Algent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_portET_PARAMETERLIVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWNSET_PARAMBE 

@@ -1,0 +1,12 @@
+D sion]]]E rpsp://12DRange: npt=0.00127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SGTUP rtsp:/TSP/1.0
+CSeq: 5
+User-Agent: ./tewtRTSPClient (LIVE555'9  eaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpe7.0.0.1:8554/mpeg1or2AudioVidg oer

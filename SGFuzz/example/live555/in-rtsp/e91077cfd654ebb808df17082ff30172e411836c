@@ -1,0 +1,10 @@
+D        IBE rtsp://127)
+Transport: RTP/AVP;unicast;client_port=50779-50779webmFileTestsp://127.0.0.1:8554/mpig1or2AudioVideoTestsp://127.0.0.1:8554/mpig1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/trackDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTL est RTSP/1.0
+CSeq: 4
+Usrt: RTP/AVP;unicast;client_povt=50778-50779
+
+RTP/AVP1 RTSP/0.0
+CS/Teq: 3
+User-Agent>_QPtestRTSPCliCP/e/

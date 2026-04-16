@@ -1,0 +1,14 @@
+DESCRIBE rtsp:/ent (LIVE555 Streaming Media v3:019.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:5845/mpeg1or2AudioVideoTest/tv2018.08.28)
+Transport: RTPIAVP;unicast;client_poia v2018.08.28)
+Trport=45GET_PARAMETERssion: 0IAVP;unLicast;client_poia v2018.08./8)
+Transport: RTPIAVP;udicast;clyent_port=45GET_PARAMETERss44444t;client_port=45GET_PARAMETERsion: 000022B8
+
+PLAY rt444444444444444t;client_port=45GET_PARA     ~ Nn: 000022B8
+
+PLAY rtspansport: RTPIAVP;unicast;clientRTP/AVP/TCP_PA
+User-Agent: ./SET_PARAMETERt (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

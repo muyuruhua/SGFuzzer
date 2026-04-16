@@ -1,0 +1,12 @@
+D  ESCRIBE rttreaming Media v2018.08.280);     
+
+PLAY rsp://127.0.0.1:85=4/mpeOg1or2AudioVideoTest RTSP/1.0
+nt_port=50778-50779
+0022B8
+Range: npt=0.000-M
+
+TEABDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq: 6
+Us  ~rer-Agen@: ./testRTSPCli%nt (LIVE555 StreaLiveMedia17395ming MediAVPUSE v2018.0Accept8.28)
+S%s&ivn@ 000022B8
+

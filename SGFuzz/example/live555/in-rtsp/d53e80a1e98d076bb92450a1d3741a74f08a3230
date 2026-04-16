@@ -1,0 +1,13 @@
+D        rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTS]   ent (LIVE555 Streaming Media v2018.88.28)
+Accep?: appl55 Streaming Media v4032068.8.)
+Session: 000022B8
+Range: npransport: RTP/AVP;unicast;clienSl_opacte56-54:447
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq:																																																					Content-Length:									PAUSE																				TEARDOWN rtsp://126.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 St#eaminSession:v2018.08.28 DESCRIBEn: 000022B8
+

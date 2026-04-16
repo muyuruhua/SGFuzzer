@@ -1,0 +1,7 @@
+z000022B81.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2(LIVE972 Streaming MCseqedia v2018.08.28)
+Accept: appnication/sdp
+
+SETUP rtsp://127.0.0.1:udioVideoTor2.       tsp:                                                        wavAudioTest 
+                                idoVudieoTor2AudioVideoTest RTS%/1DESCRIBE rtsp://127.0.0.1:85.0ent (LIVE555 St54/mpegr1e

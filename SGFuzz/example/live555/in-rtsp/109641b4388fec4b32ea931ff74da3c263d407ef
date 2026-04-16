@@ -1,0 +1,68 @@
+DESCRIBE rtsp://127.0.0.1:8514/mpeg1or2Audiocept: applicatig1or2AudioVideoTe
+User-Agent: st;client_t/ RTSP/1.0
+CSport=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0RNEGJJKYmpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: .
+Session: 000022b8
+
+PLAY rtsp://127.0.0RNEGJJKYmpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C  ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C      .0.0.1:8554/mpeg1or2Au   )    Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP000022b8
+
+PLAY rtsp://127.0.0.1FGJJKP  eg1or2AudioVideoTest/ RTS'P/1.0
+CSeq: 5
+User-Agent: ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C  ./0002B28   Test/(RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP000022b8
+
+PLAY rtsp://127&0.0.1:127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./0002B28
+Range:   80.000-
+
+TEARDARAMET	C  ./0002B28   Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP/0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C  ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C      .0.0.1:8554/mpeg1or2Au   )    Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP000022b8
+
+PLAY rtsp://127.0.0.1FGJJKP  eg1or2AudioVideoTest/ RTS'P/1.0
+CSeq: 5
+User-Agent: ./0002B28
+Range: npt=0.000-
+
+TEARDARAMET	C  ./0002B28   Test/(RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP000022b8
+
+PLAY rtsp://127&0.0.1:127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./0002B28
+Range:   80.000-
+
+TEARDARAMET	C  ./0002B28   Test/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSP000022b8
+
+PLAY rtsp://127&0.0.1:8554/msion: 000022B8
+

@@ -1,0 +1,11 @@
+DESCRIBE rts0://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSudioTERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tes{RTSPClient (LIVge: npt=0.000.1:8
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVid%oTest/ RTSP/1.0
+CCeq: nt: ./testRTSPClient (LIVE55 5Sid%oTest/ RTSP/1.0
+C$Ceq: nt: ./testRTSPClient (LIVE55 5Streaming Media v2018.08.28)
+Session: 000022B8
+

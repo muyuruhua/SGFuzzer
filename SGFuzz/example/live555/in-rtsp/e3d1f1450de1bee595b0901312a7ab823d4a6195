@@ -1,0 +1,6 @@
+DESC:g1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-A&gent: ./testRTSPClient (LIVE556 Streaming Mt (LIVE556 Streaming Media v2017.08.28)
+Accept: applicataon/sdp
+
+SETUZ rtsp://127.0.0.1:855CSeq:g1or2AudioVideoTest/track1 RTSP/1DSETUP AOrtsp://127.8.510:..0

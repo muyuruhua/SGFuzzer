@@ -1,0 +1,24 @@
+Doac3AudioTest tsp://12 tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testGET_          )        : ./testi 4
+Useh-Agen8.08.2*8)
+TransContent-Length:ient (LIVE555 St8554/mpeg1or2AudioVideoTest RTSP/0.0Seq: 2
+Userg-eAnt: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming MediNa v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: SET_PARAMETERapplication/sdp
+
+SETUP;client_port=45GET_PARAMETERssion: 000022TransportB8
+
+PLAY rts/2p1:/7.0.  / 8554/mpe1gor2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\28)
+Session: 00002RTSPClient (LIVE
+55 Streaming Media v2018.08.28)
+Ac: 6
+UserSession: 000022B8
+

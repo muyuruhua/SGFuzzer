@@ -1,0 +1,18 @@
+DESCRIBE rtsp://127.0.0.1:8edia v2018.08.28)
+Accept: applTEARDOWN             m         ation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3%User-Agent: ./testRTSPClient (LIVE575 Streaming Media     v2018PO8.28).1DES.RIBE rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/                   Range:              18.08.28)
+Accept: applic                             ation/sdp
+
+SETUP rt//p:s127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 27.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: n
+User-Agent: ,/testRTSPClient (LIVE110 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779webmFileTestsp://127.0.0.1:8554/mpig1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE53%User-Agent: ./testRT                                                                               1.0
+CSeq: 2
+User-AgendioV  e(          ansport: RTP/AVP;unicast;client_port=50778-50779webmFileTestsp://127.0.0.1:8554/mpig1or2                                                       ange: npt=-.000-
+
+TEARDOWN peg1or2Au RTSPQNQOentdi (LoViId

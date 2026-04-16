@@ -1,0 +1,16 @@
+D      d}rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClest/track2 RTSP/1PLAYCSeq: 4
+User-AgentB8
+
+stRTSPClient (LIVE555 Stream ng Media v2U018 .08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+:
+PLA.0.0.1:8reaming Media v2018./testRTSPClient (LIVE555 Streaming Mn       18.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RT7.0.0.1IVE555 Streaming Mn       18.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TCS

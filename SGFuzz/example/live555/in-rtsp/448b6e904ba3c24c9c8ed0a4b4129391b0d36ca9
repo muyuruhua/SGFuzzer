@@ -1,0 +1,8 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./mestRTSPClient (LIVE555 Streaming Media v201(.08.28)
+Transport: RTP/AVP;unicast;client_port=50778RTP779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE286 StRTSP/1.0re=======ideoTest/track2 RTSP/1.0
+CSeq: 4
+U:8554/mpg1eor2AudioVide=t/Teos R

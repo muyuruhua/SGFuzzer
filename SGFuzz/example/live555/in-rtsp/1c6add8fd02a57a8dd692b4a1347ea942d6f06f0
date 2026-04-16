@@ -1,0 +1,11 @@
+z  K
+TSPDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 streaming Medi
+
+SE ./XtestRTSPClient (LIVE555 Strea/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept:       gent: ./testRTSPClient (LIV                                               Au      applicatdioTestion/sdp
+ rtsp:/
+SETUP rt/127.0.0AVPs

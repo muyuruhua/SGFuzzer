@@ -1,0 +1,13 @@
+D+          'IBE rtsp://127.z0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Agent: ./q: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaminw Media v2018.0mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm8.28)
+Transport: RTPIAVP;unicast;clien                                                                                                          t_port=45GET_PARAMETERssion: 000023B8
+
+PLgAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User Streaming RTSP/1.0018.08.28)SETUP
+Session:wavAudioTestroskaFileTest
+Range: npt=0.000DESCR-
+
+IBE TEARr

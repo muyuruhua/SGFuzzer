@@ -1,0 +1,9 @@
+ia v3    08.28)
+Accept:% applicaTIONSsdp
+
+SETUP rtsp://127.0.5.1:8554-   /mpeg1or2Audio                                                                                          VideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.2    Transport: RTP/AVP;unica      VideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPCl/tesSET_PARAMETERLIVE555 Streaming Media v1009.08.2c://2nt

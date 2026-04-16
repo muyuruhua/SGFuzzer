@@ -1,0 +1,19 @@
+DESCRIBE rtsp://127.0.0.1yyyyyyyyyyyyyyyyyyyyyyy.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq:   1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.n.0.1:8554/mpeg1or                            f              2Au33333d000022B8io!ideoTest/ RTSP/1.0
+CSeq: 6
+User-Egent: .t (LIVE555'9  eaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or                            f              2Au33333d000022B8io!ideoTest/ RTSP/1.0
+CSeq: 6
+User-Egent: . Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=4MGET_PARAMETERssion: 000022B8
+
+PLAcceptAY rtsp://127.0.0.:18554/mpeg1or2AudioVideoTest/ RTSP/1Streaming MeEam022BTERss

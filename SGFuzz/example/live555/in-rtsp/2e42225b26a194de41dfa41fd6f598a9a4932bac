@@ -1,0 +1,22 @@
+z 2 t RT/sdp
+
+SETUP rtsp://DESCRIBE rtsp://127.0.0.1:J554/mpeg1or2AudioVide###################127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+UsereAn-gt: ./testRTSPClient (LIVE972 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/t|rack2 RTSP/1.0
+CSer-k2 RTSP##############oTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/s/1.0
+CSer-Agent: ./testR\CseqSPCAgent: ./testRTSPClient (LIVE=55 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: +
+User-Agent:022B8
+
+DEREGISTER 554/mpeg1or2AudioV===track2 RTSP/1.dp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoT0est/trac

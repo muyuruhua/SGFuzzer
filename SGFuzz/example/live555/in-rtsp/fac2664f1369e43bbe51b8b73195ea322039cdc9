@@ -1,0 +1,11 @@
+DESCRIBE rtsp://127.0.0551.84:/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE55r-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.68)
+Transport: RTP/AVP;unicas_port=45546-4554A
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (L7):JJJ_#treaming Media v2JNGQ____8)
+Sess0022B9
+

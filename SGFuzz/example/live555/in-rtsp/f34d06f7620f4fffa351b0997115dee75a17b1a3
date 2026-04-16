@@ -1,0 +1,17 @@
+D    ESCR==:_rtsp://127.0.0.1:8554/mpeg1or2Audio ideo\fst RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClie022B8
+
+PLAY rtY rtsp%//127deoTest/ RTSP/1.0
+CSeq: 6
+User-Agent:        TSPClient (LIVE55nt (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://929.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 S 6  ming Media v2018. 08.28)
+Transport: RTP/AVOPTIONSst;client_port=54179-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/trDSATUP WN ts                                                                       p://086.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRT        SPClient ack2 R(LIVTSP/E55

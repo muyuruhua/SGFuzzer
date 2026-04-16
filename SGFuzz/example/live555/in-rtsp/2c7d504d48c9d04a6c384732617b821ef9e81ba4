@@ -1,0 +1,18 @@
+D        Egent: ./testRTSPClient (LIVE555 Streamicasting Media v2018.                      08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE556 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 42B8
+
+PLAY rtsp://127.0.0.1:8554VE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicasiiii{iiiiiiiiiiiiiiiit;client_poAulioVideoTest/ RTSP/0.0
+CSeq: 5
+UseAuq: 6
+User-Agent: ./testRTSPClient (LnVE555eStr555 Streamia v2018.08.28)
+Session: 000022B8
+

@@ -1,0 +1,16 @@
+D0 Bi    ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVident: ./testRTSPClient (LIVE555 Streaming Med (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Ses    : 000022B8
+
+PLA.0.0.1:8554/mpeg1or2AudioV===============================================================ideoTest/track1 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClP/AVP;unicast;client_port=50778-50779TCP
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 StreAaming Media v1009.08.28)
+Transport: RTP/AVP;unicast;client_[ort=45GET_PARAMETERssion: 000022OPTIONSB8
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp2//127.0.0.1:8554/mpeg1or2AudioVideoTest/ R

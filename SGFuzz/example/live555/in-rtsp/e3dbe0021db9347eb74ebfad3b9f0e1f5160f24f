@@ -1,0 +1,11 @@
+D}g      IBE rtsp://1AudioV-d27.0.0.1:(554/reaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssioCSeq:0022Bq_      Y rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioV-deoTest/ RTSP/H.0
+CCe:6q w* R> treamiCSeq:ng Media v2019.00.28)
+Session: 0000 2B8
+

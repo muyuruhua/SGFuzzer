@@ -1,0 +1,11 @@
+q      UM
+VPtsp://12DESCRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28) 
+Accept: application/4dp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq:TCPSET27.	SETU  BE 
+
+TEATEARDOW 3
+User-AgenN rRLTPt

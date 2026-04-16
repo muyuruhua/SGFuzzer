@@ -1,0 +1,8 @@
+REGISTER DESCRIBE\z t RTSP/1.0
+CSeq:         rtrrrrsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RDESCRIBETSP/1.0
+CSeq: 2LIVE972 Streamii    dia v2018Qv2018.08.2)8poeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018. 8.28)
+Transport: ATP/AVP;unicast;client_port=76G(ET_PARAMETERssion 2:00002OPTIONSB8
+
+PLAY r                                                               PClient (LIVE555 StreamingTSP/1.0
+CSe554/mpeg1oq: 4

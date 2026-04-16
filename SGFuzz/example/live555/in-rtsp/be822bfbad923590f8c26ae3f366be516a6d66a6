@@ -1,0 +1,18 @@
+D       8vtsp://127.0.0.1:8554/mpeg1or2stSP/1.0
+CSeq: 5
+User-Agent: ./testi 4
+User-AgenContent-Length:ient (LIVE555 St8554/mpeg1oli/sdp
+
+SETUP rtsp://127.0.0. 100022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE5:5 Streaming Media v20Cseq8.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARD000022B8://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1GET_PARAMETER.0
+CSeq: 6
+        ntRange: npt=9: ./testRTSPClient (NIVE555 StreamT_PARAMETERssion: 000022Tr    orttRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;unicast;cl'ent_port=50778-0POOD2B8
+Ac

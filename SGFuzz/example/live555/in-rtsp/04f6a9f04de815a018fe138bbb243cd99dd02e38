@@ -1,0 +1,12 @@
+D127.0.1:8554/mpeg1or2AutioVideoTest/ RTSP/1.SET_PAERTE0ARM
+CSeq: 6
+                       User-tnAge: ./testRTS Cl0.0.16BD7546rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SESPClient (LIVE.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Sent: ./testRTSPClUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU55 Streaming Media v2018.08.28)
+Sess-on: 000022B8
+

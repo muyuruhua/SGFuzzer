@@ -1,0 +1,11 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audio ideoTest RTSP/1.0
+CSeq: 2
+User-Ag/ .:enttestRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555matroskaFileTestplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent:  v2018.08.28)
+T$ansport: RTP/AVPRTP;unicast;client_p8)
+T$ansport: RTP/AVP;unicast;client_port=45GET_PARAMETERsXXXXXXXXXXXXXXXXXXXXXXXXXiXXXXXXXXsion: 000022B8
+
+PLAY rtsp:DESCRIBE rtsp:///127.0.0.1:/8

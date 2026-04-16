@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0.0.1127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Aget: n./testRTSPClient (LIVE555 Streaming edia v2018.08.28)Content-Length:                                                       plicationDESCRIBE r%treaming edia v2018.08.28)Content-Length:                                                                                 plication                           dia v1009.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779webmFileTestsp://127.0.0.1:8554/mpig1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streamin8.28)
+Accept:rtsp://128.0.0.1:8554/ peg1or2AudioVior2AudioVideoTest/t/sdp
+
+SETUP rtsp:rac  k1 RTSP/1.0
+CSeq:/ 

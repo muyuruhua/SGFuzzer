@@ -1,0 +1,23 @@
+DESCRIBk2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClien?t (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.eq: 4
+User-Agent: ./testRTSPClien?t (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+P                                                                                                                       LAY rtsp://127.0.0.1:8554/mpeg1or2Auli,oVideoTest/ RTSP/0.0
+CSeq: 5
+UseAudioVi: ./testRTSP tCelin(LIVE555LStreaming Media v2018.08.28)
+Sessi0.0.1:8554/mpeg1or2Auli,oVideoTest/ RTSP/0.0
+CSeq: 5
+UseAudioVi: ./testRTSP tCelin(LIVE555LStreaming Media v2018.08.28)
+Session: 000022B8
+RanSETUPge: npt=0.000-
+
+TEARDOWN rtspH//127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555eStr555 Streamia v2018.08.28)
+Session: 000022B8
+

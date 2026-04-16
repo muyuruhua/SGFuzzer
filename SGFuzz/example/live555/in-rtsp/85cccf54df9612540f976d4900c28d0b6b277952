@@ -1,0 +1,10 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streami   Media      v2018.08.28)
+Accept: applicati8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6AcceptAgent: ./testRTSPClient (LIVE555eStr555 Streamia v21018.08.28)
+Session: 000022B8
+

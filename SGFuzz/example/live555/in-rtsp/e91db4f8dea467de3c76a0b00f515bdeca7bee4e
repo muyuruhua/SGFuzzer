@@ -1,0 +1,9 @@
+D=       rtsp://127.0.0.1:8554/mpeg1or2 udioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: appliRTPion/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./td       lient (LIVE555 Streaming Media v20stRTSPClient (LIVESession: 000022B8
+

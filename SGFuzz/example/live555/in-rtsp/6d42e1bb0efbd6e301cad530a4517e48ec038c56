@@ -1,0 +1,23 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 [treaming MLdia v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp: k254.0.0.1:8554/mpe8)
+Transport: RTP/AVP;g1or2AudioVidDESCRIBE rtsp://127.0.0551.84:/mpeg1or2AudioVideoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE55r-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: ;
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Seort: dTP/AVP;unicast;client_port=50779-50779
+
+SETUP rtsp://127.0.0.1:8554/meoient (LIVE55= Streaming Media v2018.    8)
+Session:peg1or2AudioVid 000022B8
+Range: npt=5.eoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCl000-
+
+TEARDOWN rtsp:/ient (LIVE555r StrT

@@ -1,0 +1,26 @@
+DESCDE.       tsp:            \                                                                                                                  //127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq* 2
+User-Agent: ./testRTSPClien.1:8554/mpeg1or2AudioVideoTor2AudioliveMedia41996/1.0ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://2er-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.2 8) 
+Sessiox: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./teKRKBE
+
+stRTa v2018.08>28)
+aession: est/ RTSP/1.0
+CSeq: ediS1Client $(LIVE555 Streaming Media v2018.08.28)
+aession:[7 est/ RTSP/1.0
+CSeq: edia vL18.08.27)
+Session: Seq: 6
+User-Agent:/ te.KRKBE
+
+stRTS1Client (LIVE555 Streaming Media v2018.08.28)
+aession: est/ RTSP/1.0
+CSeq: edia vL18.08.27)
+Sessi000022B8
+

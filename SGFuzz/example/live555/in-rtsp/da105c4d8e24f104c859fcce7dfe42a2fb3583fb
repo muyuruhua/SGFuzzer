@@ -1,0 +1,17 @@
+DGET_PARAMETERESCRIBE rtsp://127.0.0.1:8554/mpeg1or2A                                            udioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media  MONGQOG.28)
+Accept: application/sdp
+
+SETUP rtsp://128.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RangeRTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/      UMast;client_poO       -50779
+
+SETUP rtsp://126.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1   CSeq: 4
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.8.)280
+Transport: RTP/AVP;unicast;client_port<22GET_2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./teSETUPng Media v2018.08. 28)
+Session: 000022B8
+

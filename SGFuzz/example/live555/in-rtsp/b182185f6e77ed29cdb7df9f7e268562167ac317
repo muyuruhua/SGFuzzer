@@ -1,0 +1,8 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest TSPR/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28DESCRIBE rtsp://127.0.0.1:8554/mpeg                                                                   1or2Aud@ioVideoTest TSPR/1.0
+CSe:
+ q2User-gAent:127.0.0.1
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpTSPClient (LI                                                                 VE277 Streaming Mediega2 

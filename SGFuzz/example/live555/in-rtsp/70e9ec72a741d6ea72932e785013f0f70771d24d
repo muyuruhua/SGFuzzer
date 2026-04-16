@@ -1,0 +1,15 @@
+DESCRIBE rtsp:/ent (LIVE555 Strr2Audio0ideoTest/lRTSP/1.0
+CSeq: 5%wUser-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 																 										000022B8
+Range: npt=0.000-
+
+TEARDOWN AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: .'SET_PARAMETERt (LIVE555 Streaming Media ?v2018.08.TUP rtsp://127.0.0.1:5845/mpeg1or2AudioVidoeeTst/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.:8)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SE28)
+S000022B8ession: 000022B8
+

@@ -1,0 +1,22 @@
+DOPTIONSESCRIBE rtsp://Range: npt=9127.0.0.1:8554/mpeg1or2AudioVideoient_RTSP/1.0
+CSeq: 2
+User-Agent: tRet./sTSPClient (LIVE555 Streaming Media v2018.08.28)
+Acd.h     cept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTdioVedia v201[ession: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0ideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transporv: R
+Transporv: RTP/TP/AVP;unicas$t;client_port=45546-45547
+55ng Media v2018.0ideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transporv: R-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transporv: R
+Transporv: RTP/TP/AVP;unicas$t;client_port=45546-45547
+55 Str,aming Media v201[ession: 000022B8
+

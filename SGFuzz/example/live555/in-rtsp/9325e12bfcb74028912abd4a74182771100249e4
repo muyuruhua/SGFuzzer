@@ -1,0 +1,23 @@
+DESCRIBE rtsp://127.0.0.1PClient (LIVE110 Streaming Media v2018.08.28)
+Accept1 applicaVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.PAUSE554/mpeg1or2AudioVideoTest/tr8554/a       r4AudioVideoTest RTSP/1.0
+CSent (LIVE555 Streaming Media v2018.08.28)
+Accept: applicating Media CSeq:v2017.0edia v2018.08.28)
+Accept: application/sdp
+
+SETUP rts1p2//:7.0.0.1:8554/mpeg1or2Audio @      VideoTest/tr      9SP/1.0
+CSeq: 3
+User-Agent: ./testRTS$Client (LIVD    IBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTesE5dia v2018.08.28)
+Transport: RTP/AVP;unicast;cl/ent:sdp
+
+SETUP rts1p2//:7.0.0.ck1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTS$Clsient (LIVE5dia v2018.08.28)
+Sransport: RTP/AVP;ut_povt=50778-50779
+
+Snicast;cl/ent_povt=50778-50779
+
+SETUP rtsFp://127_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:7554/mpeg1or2AudioVideoTest/track2DmatroskaFileTe RTSP/t 1.0

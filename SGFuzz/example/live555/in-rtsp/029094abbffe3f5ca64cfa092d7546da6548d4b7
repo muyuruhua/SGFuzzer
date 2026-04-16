@@ -1,0 +1,17 @@
+DESCRIBE rtsp://127track1 RTSP/1.0
+CSeq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 StreaAudioTest rtsp://127.0.0AVP.1::554/mpeg1o                                                                                                    r2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz                                                                                                              zzzestRTSPClient (LIVE555 StrNNNNNNNNNNNeam2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClie
+User-Agent: ./testRTSPClient (LIVE277 Streaming Media v2018.08.28)
+Transport:R TP/AVP;unicast;client_port=45GET_PARAM    ETERssion: 000022B8.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:p/48m55eggor2AudioVideoTest/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTSPClient (LIV08.28)
+}essio: 000022B8
+

@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0.1:t (LIVE555 Streaming Media v2018.08.28)
+Session:dia v2018Content-Length:.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mp                                                                                  eg1or2Audist/ RTSP/1.0
+CSeq: 6
+User-Ag
+UsContent-Length:tRTSPClient (LIVE110 Str 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2Audist/ RTSP/1.0
+CSeq: 6
+User-Ag
+UsContent-Length:tRTSPClient (LIVE110 Streaming ?edia v2018.0AudioVideoTest/ 000022B8
+

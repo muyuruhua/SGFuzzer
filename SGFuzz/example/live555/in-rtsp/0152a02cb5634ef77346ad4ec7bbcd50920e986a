@@ -1,0 +1,38 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTGET_PARAMETERE555 streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://126.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+C2eq: 3
+Qser-Agent: ./testRTSPClient (LIVE555 SetAraudioTest rtsp://127.0.0AVP.1:8554/mpeoTest RTSP/0.0
+CSeq: 2
+User-Agent: ./liveMed/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP;client_port=45GET_PARAMEent (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp
+SETUP rtspDESCRIBE rtsp://    t0.0.1:8554/mpeg1or2Audi1oVideoTest/ RTSP/1.0
+CSeq: 6
+UseeoTest/ RTSP/1.0
+CSeq: 5TERssion: 000022TransportB8
+
+PLAY rtsp://127.g1or2AudioVideoTest/ RTSP/1.0eSC:r2AudioVideoTest/ RTSP/1&0
+CSeq: 5
+User-Agent: ./tastRTSPClient (LIV]E960 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1    :8554/mpeguri2doA1oVideoTest/ RTSP/0.0
+CCeq: 6
+User-Agent: ./testRTS Client (LIVE555 Streaming Media v20118.08.28)
+Sessio: 000022B8
+

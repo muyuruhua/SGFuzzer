@@ -1,0 +1,30 @@
+D  ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioViIdeoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08n28)
+Accept: application/sdp
+
+SETUP rtsp://458.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/p1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE%55 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 4
+User-AoI      gent: ./test TSPClient (LIVE490`Streaming Media v2018.08.28)
+Transport: RTP/AVP;uniming Media v1f0t=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/RRangeTSPClient (LIVE555 StremMignea dia f2018.08.28)
+DRange: npt=0.00127.0.0.1:8554/mpe      0,ioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 StreB8
+Range: n RT-Z0000P/1.0
+CSeq.: 5
+URange: npt=9/testRTSPClie!nt (LIVE555  k  Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDORWN rtsp://127.0.0.i1:85eg1or2Audi8
+Range: np00002 =                                                         1B854/mpeg1or2Audi8
+Range: np00002 =                                                         1B8
+

@@ -1,0 +1,10 @@
+DESCRIBE rAVP://127.0.0.1:8554.1:8555/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./test018.08.554/mpeg1or2AudioVideoTest/track1 RTSP/1ort=45546-45547
+Session: 000022b8
+
+testRTSPClient (LIVE555 Streaming Media v2018.08.28)  19
+Ses+siRTSP/1.022B8
+Range: npt=0.000-
+
+TRTPDOWN DAVPESCRIBE rtsp://127.0.rtsp://127.0.0.1:

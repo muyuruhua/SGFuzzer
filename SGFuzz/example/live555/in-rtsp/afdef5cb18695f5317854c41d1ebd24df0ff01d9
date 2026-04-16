@@ -1,0 +1,35 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTes28)
+Transport: RTP/AVP;uni.1:855O/mpeiog1or2AudioVideo000-
+
+TEARDOWN rtsp://127.0.0
+User-Agent: ./testRTSPClient (LIVE555 Streaming Mudia v2018.0 .2AudioVideo000-
+
+TEARDOWN rtwp://127.0.0
+User-Agent:AudioVideo000-
+
+TEARDOWN//127.0.0
+User-Agent: ./testRTSPClient (LIVE554 Streaming Mudia v2018.0 .2AudioVideo000-
+
+TEARDOWN rtwp://127.0.0
+User-Agent:AudioVideo000-
+
+TEARDN rtwp://127.0.0
+UOWN rtwp://127.0.0
+User-Agent: ./testRTSPClie(LIVERange: 555tS ream`ng Mudia v2018.08.28)
+Session555tS ream
+
+nt: ./testRTSPClient (LIVE555 Streaming Mudia v2018.0 .2AudioVideo000-
+
+TEARDOWN rtwp://127.0.0
+User-Agent:AudioVideo000-
+
+TEARDOWN//127.0.0
+User-Agent: ./testRTSPClient (LIVE554 Streaming Mudia v2018.0 .2AudioVideo000-
+
+TEARDOWN rtwp://127.0.0
+User-Agent:AudioVideo000-
+
+TEARDOWN rtwp://127.0.0
+User-Agent: ./t                                                                                                               estRTSPClie(LIVE555tS ream`ng Mudia v2018.08.28)
+Session555tS ream
+

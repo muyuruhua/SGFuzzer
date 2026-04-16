@@ -1,0 +1,28 @@
+D8b      Range: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.ion/sdp
+
+SETUP rtsp          
+SETUP rts  )Xp:/sp://127.0    :8554/mpeg1or2AudioVideoTfs                      (LIVE318 S5                                                                                               #    Streaming unicas 
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0000022B8
+
+PLA27.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.ion/sdp
+
+SETUP rtsp          
+SETUP rtsp:/   /sp://127.0.0.1:8554/mpeg1or2AudioVideoTfs                      (LIVE318 S5                                                                                             #   deoTfst RTSP/1.0000022B8
+
+PLA27.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.ion/sdp
+
+SETUP rtsp          
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfs                      (LIVE318 S5       ]                                                                                      #    Streaming unicas 
+SETUP rtsp:/sp://127p://127.0.0.1:8554/mpeg1or2AudioVid Streaming unicas 
+SETUP rtsp:/sp://127p://127.0.0                                                                                     #   deoTfst RTSP/1.0000022B8
+
+PLA27.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.ion/sdp
+
+SETUP rtsp          
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfs                      (LIVE318 S5       ]                                                                                                                    #    Streaming unicas 
+SETUP rtsp:/sp://127p://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+User-
+

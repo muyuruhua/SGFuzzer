@@ -1,0 +1,11 @@
+DSET_PARAMETERESCRIBE rtsp://127.0.0.1:8554/mpeg1orPAUSE2AudioVldent: ./testRTSPClient (LIVE555 Streaming Media v3    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSPtestRTSPClient (LIVE555 Streamjng Media v1009.08.28)
+Ses$ni:os000022B8
+naRangegRe: npt=0.000-
+
+TEARSETUP000022B827.0.0.1:85_-      1o2AudioVideoTest/ RTSP/1.0
+CSeq: SETUP
+Session: 000022B8
+

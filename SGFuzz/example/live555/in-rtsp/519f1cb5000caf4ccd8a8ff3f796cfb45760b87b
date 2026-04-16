@@ -1,0 +1,12 @@
+DESCRIBE rtsst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Str28)cast;client_port=50778-50S
+977
+ETUp://127.0.0.1:8554/mD            ESCRIBE rtsp://127.0.0.peg1or2Au1:8554/mpeg1or2Au  )   e  Tst RTSP/1.0
+CS q: 2
+User-Agent: ./testRTSPClient (LIVE5g Media v20stRTSPClient (LIVE555 Streaminept: application/sdp
+dioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Str28)cast;client_port=5077
+8-50S
+977SET

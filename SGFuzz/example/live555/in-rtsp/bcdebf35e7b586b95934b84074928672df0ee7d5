@@ -1,0 +1,20 @@
+z t RTSP/1.0
+CSeq: 2User     9' ./testRTSPClient /mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSP;lient (LIVE972 Streaming z FGf    Er   Media v201?8.08.28)
+Transport: RTP/AVP;unicast;client_po BJOHHQ-79228
+
+SETUP rtsp://128)
+Accept: application/sd/1..ort=50778-0POOD2B8
+2018O08.28)
+Accept: applig1or2AudioVideoTest/track1 matroskaFileTestRTSP/1.0
+CSeq: 3
+Ur-seAgent: ./testRTSPClient (LIVE555 Streaming Media v2019.08.28)
+Transport: RTP/AVP;unicas Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=ming Media v2018.ion:
+CSeq:  000022OPTIONSB8
+
+PLAY rtsp://128.0.0.1777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777:855~/mpeg1or2Ant_port=ming Media v2018.ion:
+CSeq:  000022OPTIONSB8
+
+PLAY rtsp://128.0.0.1:854egpm/5ac3AudioTestrA21uodioVideoRange: npt=9TesSET_PARAMETERCSe

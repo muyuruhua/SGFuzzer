@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaminglient (LIVE555 Streaming Media v40B36.08.28)
+Session: 000;022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 St#eaming$Media v2018.08.28 DESCRIBE8.28)'Accept: application/sdAudioVideoTest/ RTSeoTest/P/1.0
+CSeq: 5
+User- rtsp://127.0.0.1Content-Length:Test RTSP/1.0
+CSeq: 2
+Use8!
+Session: 00002Bn: 000022B8
+

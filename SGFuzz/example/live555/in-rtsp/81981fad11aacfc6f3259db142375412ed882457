@@ -1,0 +1,11 @@
+DESCRIBE rtsp://127.0.0.18:554AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.2DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVidRange: npt=91.K
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.18)
+Accept: application/sdp
+
+SETUP rtsp://254.:8554/mpe2AudioVideoTe0g1or2AudioVideoTest/track1 RTSP5 Streaming Media .0$1:8554v201

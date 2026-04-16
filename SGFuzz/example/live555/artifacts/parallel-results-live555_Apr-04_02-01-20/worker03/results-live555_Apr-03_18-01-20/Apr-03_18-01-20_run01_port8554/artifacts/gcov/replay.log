@@ -1,0 +1,8 @@
+[replay-gcov] Corpus: 1 seed(s), 496 discovered inputs (step=5)
+[replay-gcov] Total: 497 files to replay through gcov server on port 9554
+[replay-gcov] Phase 1 done: 1 seed(s) replayed with per-file coverage
+[replay-gcov] Progress: 100/496 discovered inputs replayed
+[replay-gcov] Progress: 200/496 discovered inputs replayed
+[replay-gcov] Progress: 300/496 discovered inputs replayed
+[replay-gcov] Progress: 400/496 discovered inputs replayed
+[replay-gcov] Done. 101 coverage snapshots written to /gcov-out/cov_over_time.csv

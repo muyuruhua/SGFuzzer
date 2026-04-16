@@ -1,0 +1,13 @@
+D      ]?rtsp:/ent (LI m555 Streaming Medit: applicata v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0;0.1:5845/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: OPTIONS3   R
+U)
+Session: 000022B8
+Range: npt=0.00z0-
+
+TEARDOWN rtsp://127.0.0.1:8527/mpeg1: ./Media v2018.!08.:8)
+Transport: RTP/AVP;unicast08.28)
+S000022B8eContent-Length:udioTest22B8
+

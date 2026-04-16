@@ -1,0 +1,3 @@
+     TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT                                                                DESRCIBE rtsp://127.0.0.1:8         54/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+U~er-Agent: ./testRTSPClient (LDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2I

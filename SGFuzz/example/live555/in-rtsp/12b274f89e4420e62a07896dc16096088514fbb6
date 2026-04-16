@@ -1,0 +1,24 @@
+DwavAudioTest://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsLength:ient (LIVE555 Streami/mpeg1or2AudioViContent-Length:lient_port=45GET_PARAMETERssion: 000022B8
+iendia v2018.08.28)
+Session: 000022  1FRange: npt=0.000-     :k
+
+TEARDOWN rtspSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport:               RTP/AVP;unicast;client_port=50778-50779
+SETUP 
+SETUP rt      .0.0.1:8554/mpeg1or2AudioVideoTest/track4 RTSP/1.0
+CSeq: 4
+User-AgenContent-Length:ient (LIVE555 Streami/mpeg1or2AudioViContent-Length:lient_port=45GET_PARAMETERssion: 000022B8
+iendia v2018.08.28)
+Session: 000022  1FRange: npt=0.000-     :k
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0.0.1:8554/mpeg1or2AudioVideoTest/track4 RTSP/1.0
+CSeq: 4
+User-AgenContent-Length:ient (LIVE555 Streami/mpeg1or2AudioViContent-Length:lient_port=45GET_PARAMETERssion: 000022B8
+iendia v2018.08.28)
+Session: 000022  1FR
+CSeq: 6
+User-Agent: ./                                                         testRTSPClient (LIVE555 Streaming Media v2018.08.28)SjAssion: 000022B8
+

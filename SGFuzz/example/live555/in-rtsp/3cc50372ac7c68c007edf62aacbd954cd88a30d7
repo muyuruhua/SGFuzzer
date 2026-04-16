@@ -1,0 +1,56 @@
+DRangeBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UseRange: npt=2estRTSPClient (LIVE110 Streaming MediaRange:  v2018.08.28Wru4cYept: applation/sdp
+
+SETUP rtsp://458.0.0.1:7108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/tra:  v2018.08.28Wru4cYept: applation/sdp
+
+SETUP rtsp://458.0.0.1:7108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Age
+
+SETUP rtsp://458.0.0.1:7108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeDCSeq:ESCRIBE rtsp:~//1272018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioViteeoTds/wavAudioTest RTSP/1.0
+CCseq 5
+UsGET_PARAMETER||||||||||||||||||||||<|estRTSPClient (L27)
+Accept: a2:8554/mpeg1or2AudioViddoTest54/mpeg1or2AudioVideoTest/ )+,/PNQO
+CSeq:
+OPTIONS-Agent: /track1 RTSP/1.0
+CSeq: 3
+User-A#ent: ./testRTSPClient (LIVE555 Streaming Media v201DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTudioVidepeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-AgunRange: npt=9t: ./testRTSPClient (LIVE555 Streaming Media v127.0.0.18)
+Transport: RTP/AVP;unicast;client_port=50q: 3
+U778-50779
+
+SETUP rtsp://iatc1ion/sdp
+
+SETUP rtsp://458.0.0.1:7108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127108/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+U778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg778-50779
+
+SETUP rtsp:/1or2Audi

@@ -1,0 +1,16 @@
+DESCRIBE rtsg Media v20stRTSPClTest/ RPSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPCliDESCRIBE 556 Streaming Media v2018.08.28)
+Sesion: 000022B8
+
+PLAY rContent-Length::851i54/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-dia v2018.08.28)
+Session: 000022]8
+Range: npt=0.000-
+
+TEARDOWU rtsp://127.0.0.1:8554/mpegSETUP1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

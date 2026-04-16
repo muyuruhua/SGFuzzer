@@ -1,0 +1,7 @@
+matros                           %%%999999999999999999999999%%%%%%%%%    =              t/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming MeRange: npt=9dia v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/m                  %                  peg1or2AudioVideoTkest
+

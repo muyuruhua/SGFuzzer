@@ -1,0 +1,40 @@
+D      UPClieContent-Length:eaming M: RTP/AVP;unicast;client_port=50778-50S
+28)
+Ac7ept: a   "  lication/sdp
+
+SEMrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudiwavAudioTestrack1 RTSP/1..
+CSeq: 3
+User-Agent: ./testR RTSPClient (LIVE555 Streaming Media v:2018.08.28)
+Transport.28)
+Transport: RTPB8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVRTSP/1.0
+CSeq: 5
+User-AGET_PARAMETER1:8554/mpeg1or2AudioVideoTest/track1 018.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+TEARDARAMETERssi127.0.0.1:8554/mpeg1or2AudioVideoTest/ R00-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClieContent-Lenger-Agent: ./testR RTSPClient (LIVE555 Streaming Media v:2018.08.28)
+Transport.28)
+Transport: RTPB8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVRTSP/1.0
+CSeq: 5
+User-AGET_PARAMETER1:8554/mpeg1or2AudioVideoTest/track1 018.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+TEARDARAMETERssi127.th:eaming M: RTP/AVP;unicast;client_port=50778-50S
+28)
+Ac7ept: apppI  lication/sdp
+
+SETUP unic://2nt

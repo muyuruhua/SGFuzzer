@@ -1,0 +1,10 @@
+CSeq:DEge: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Age/teKRKBE
+
+stRTSPClient (LIVon: 00Preaming Media v20bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbYSP/1bYSP/1.0
+CSeq: edia v18.08.27)
+Session: 000044e: npt=0B8
+

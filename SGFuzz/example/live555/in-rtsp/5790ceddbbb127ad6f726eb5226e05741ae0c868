@@ -1,0 +1,13 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1orTransport2AudioVdeofiTst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (2AuContent-Length:SP/1.0
+CSeq: 2
+User-Agent: ./testRTS4Client (LIVE555 Streaming MediDESCR   AudioVWdeoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2019.08.28)
+Accept: application/sdp
+
+SETUP rtsp:a v2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.5.1:85//127.0.0.1:8554/mpeg1or2AudioVideoT54/empset/tragc

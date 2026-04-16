@@ -1,0 +1,20 @@
+DESCRIBE
+Us                              er-Agent: ./testRTSPClient (LIVE555 Streaming Media v2    08.28)
+A   WN rt<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<; EPP*OILM0..1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CReq: 6
+User-Agent: ./testRTSPClieOPTIONS
+t (LIVE55RTPtreaming M$ RTP/AVPt_port=50c78-50S0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClieOPTIONSnt (LIVE55RTPtreaming M$ RTP/A                                                                     D       jC6BD7546rtsp://127.0.0.1:8554/mpeg1orN>
+   ) deoTest RTSP/1.0
+CSeq:                              VP;unicast;clien2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+t_port=50778-50S
+28)
+Accept:wa/vAudioTesttion/sSETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./tdp
+
+SETUP unic://estRTSPC2!lient (

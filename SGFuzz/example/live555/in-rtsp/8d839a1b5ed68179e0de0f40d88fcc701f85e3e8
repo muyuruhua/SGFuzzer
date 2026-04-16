@@ -1,0 +1,29 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1omatroskaFiel esTtRTSP/1.0
+CSeq: 2
+User-At. ne:g/tes,RTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/saming Media v2018.08.28)
+Session: 000022B8
+Range: npt.28=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8dp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ,/testRTSPClient (LIVE555 Streaming Media v2017.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+gent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt.2SETUP8=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./test*TSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+

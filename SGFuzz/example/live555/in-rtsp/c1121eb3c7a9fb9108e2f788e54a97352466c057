@@ -1,0 +1,11 @@
+D       YRangeESCRIBE rtsp://127.0.0.1:8554/lication/sdp
+
+SETU& rtsp://127.0.0.1:8553/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeqA0      R>gent: ./testRTSPClient (LIVE554 Streaming Media v20stRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unic5 SRTP/AVP;unic5 Streaming Medi av2018.08.28!.
+SessioGET_PARAMETERRange: npt=0.000lient (LIVE555 Streaming Mediau v20aming Mediau v20IVE555 Streaming Aedia v2018.0-
+
+ EARDOWtestRTSPClient (LIVE5IVE555 Streaming Aedia v1009.0-
+
+ EARDOWtestRTSPClient (LIVE555 Stre18.08.)8
+2Session: 00002

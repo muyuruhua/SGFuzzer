@@ -1,0 +1,20 @@
+D=   IBE rtdioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTContent-Length:55 Streaming Media v2018.08.28)
+ADOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testR=SPClient (LIVE110 Streaming Media v201ccept: application/sdp
+
+SETUP r.1:8554/mpeg1or2tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 /1PTSR.0
+CSeq: 4
+User-*gent: ./testRTSPClient 127.0.0.1:8554/mpeg1or1AudioVideoTest/traSET_PARAMETER        ck1 RTSP/12B8
+
+PL ./testRTSPClient (LIRTP55 Streaimng Media v2Ran  8.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testR=SPClient (LIVE110 Streaming Media v2018.08.28)
+Session: 000022B8
+

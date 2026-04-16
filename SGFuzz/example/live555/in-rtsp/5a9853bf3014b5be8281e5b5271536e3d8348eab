@@ -1,0 +1,18 @@
+DGET_PARAMETE,PPNMHQO.0.1:8554/mpeg1or2AudioVideoTe    TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v201    8.08.28)
+Accept: application/sdp
+
+SETUP@ rtsp://127.0.0.1:855LP  eg1or2AuAdioVideoTest/track1 R: npt=0.040O+   CRIBE rtsp://127x-playNow:4/mpeg1or2AudioV.0.0.1:8554/mpeg1or2Asp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Agent: ./testRT6PClwebm.1:8554/mpeg1or2AspRTSPClient (LIVE555 Streaming Media v20testRTSPClient (LIVE555 Streaming Media RTSP/1.0v2018.08.28)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://-27.0.0.1:8554/mpeg2or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./te  8 RPCTSlient (LIVE555:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Agent: ./testRT6PCl RTSP/1n0
+CCeq: 6
+User-Ag-Ageent:n 

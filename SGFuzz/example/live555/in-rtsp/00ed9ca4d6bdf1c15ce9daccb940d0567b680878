@@ -1,0 +1,15 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeqRDOWN eg1or2AudioVideoTest/track2 RTSP/z t RContent-Length:2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicationAVPp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or21.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming MeCseqv2018.08.28)
+Transport: RTPIAVP;unAudioVideoTicast;client_port=45GET_PARAMETERssion: 000022B8
+est/track
+E555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+S1 RTSP/1.0
+CETUPS 

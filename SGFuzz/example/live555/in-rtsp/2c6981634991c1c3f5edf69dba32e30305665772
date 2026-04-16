@@ -1,0 +1,3 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSDSET_PARAMETERESCRIBE rtsp://127.0.0.1:8554/me:q 2
+User-peg1orPAUSE3AuAgendiot:

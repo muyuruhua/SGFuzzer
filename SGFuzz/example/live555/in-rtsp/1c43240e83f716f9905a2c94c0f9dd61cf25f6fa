@@ -1,0 +1,8 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Use r-Agent: ./sevtRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+dioVideo Test/track2 RTSP/1.0
+CSeq?_Kru* SET_PARAMETERstRTSPClient (LIVE555 Streamlng Media v20                                C                                                         18.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PAR itraSemng MD8b     "Range: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.    [eq: 2
+Ueser-A

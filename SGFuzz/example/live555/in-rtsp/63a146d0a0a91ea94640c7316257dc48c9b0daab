@@ -1,0 +1,16 @@
+DESCRI EBrtsp://127.1.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Awent: ./tesTtSPRClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:0-RTPTEARDOWN rtsp://127.0018.08.28)
+Transport.1:8554/mpeg1        or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+000022B8nt: ./testRTSPClient (LIV8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0PClient (LIVE555 Streaming Media v2018.08.28)
+Se8)
+Transport.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 StreaSession: 000022B8
+

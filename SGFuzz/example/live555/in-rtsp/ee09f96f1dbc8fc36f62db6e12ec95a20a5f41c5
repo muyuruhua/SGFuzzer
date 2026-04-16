@@ -1,0 +1,24 @@
+DPLAYESCRIBE rtsp://127.0.0018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTesest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPCli 1.0
+CSeq: 5
+ent (IVLE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast; 	  client_port=45546-45547
+Session: 000022b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ R%TSP/1.4
+CSeq: 5
+User-Agent: ./testRTSPClient (HIVE555 Streaming Media v2018.08.28t=0)
+Session: 000022B8
+Range: npt=0.1:855ideoTest/ RT'P/0.0 
+CSeq: 5
+UseSession: ./testRTSPC[lient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Range: npt=1.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mp!g2or2AuAVPdioVideoT08.28)
+Session: 000022B8
+

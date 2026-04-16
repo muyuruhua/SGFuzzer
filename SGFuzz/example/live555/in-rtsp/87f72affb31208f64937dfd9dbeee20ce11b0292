@@ -1,0 +1,13 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTS                                                                          P/0.0
+CSeq: 2
+_s -Agent: ./testRT/sdp
+
+SETUP rtsp://127.0.UQ1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+Use r-Agent:.ScaleBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB vBBBBBBBBBBBBBBBBBBBBBBBB:r[  Yg        t (LIVE337 Streaming Media v2018.08Y28
+Session: 0000Content-Length:t=0.000-
+
+TEAR20118.08.28)
+Sessio: 000022B8
+
+TEARDOWN

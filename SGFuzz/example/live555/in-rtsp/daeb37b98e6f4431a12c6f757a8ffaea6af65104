@@ -1,0 +1,43 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Medhia v3    08.28)
+Accept: application/wdp
+
+SETUP rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)2
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_por547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./tesSET_PARAMETERLIVE555 Streaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2Audioe#ia v2018.0VideoTest/ RTSP 1.0
+CSeq: 6
+User-Agent: ./testRTSPClieO___                                                         0778-50Sccept: apppI  lication/sdp
+ES
+TRIBE rtsp://127.0.0.!1:8554/mpeg1n: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE555 Streami/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeqGET_PARAMESETUP: ./testRTSPClient (LIVE555 Streaming Media !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!v2018.08.28)
+Trangenedia v2018.0sport: RTP/AVP;unicast;clientia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg2or2AuoVidideoTest/ RTSP/1.0
+CSeq: 6
+User-Ag1908.28)
+Session                     : 03333333/mpeg1oB8
+UP unwavAudioTestic://2nt

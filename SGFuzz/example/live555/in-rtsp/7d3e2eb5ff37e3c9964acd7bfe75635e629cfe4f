@@ -1,0 +1,9 @@
+DESCRIBE rtsideTso/ teRTSP/1.0
+CSeq:     5
+User-Agent: ./testRSP/TSPCl)ent (LIVE826 Streaming Media v2018nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnNnnnnnnnnnnnnnnnnn.08.2z8)
+Session: 000022B8
+Range: npt=0.000-
+ (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast20118.08.27)
+Sessio: 000022B8
+

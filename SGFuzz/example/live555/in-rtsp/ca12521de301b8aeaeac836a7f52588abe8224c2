@@ -1,0 +1,35 @@
+D   v       8vtsp://127.0.0. AMETERssion: 000022TransportB8
+
+PLAY rtsp://127.0.  / 8554/mpeg1or2AudioViTodeset/ RTSP/0.0
+CSeq: 5
+User-Agent: K  reaming$Media v                                     2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY*
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85?RTSCoDESC                     six-p54/mpeg1or2AudioViTodeset/ RTSP/0.0
+CSeq: 5
+User-Agent: K  reaming$Media v                                     2    16.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY*
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017.09.28)
+Transport: RTP/AVP;unicast;client_port=50778-0POOD2B8ming$Media v                                     2    08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 eq: 5
+User-Agent: K  reaming$Media v                                     2    16.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/OY*
+CSeq: 3
+matroskaFileTeststRTSPClient (LYVE555 Streaming Media v2017
+Accept: application/sdp
+
+SETUP rtsp://063.0.0.1:85?RTSCoDESC                     six-playNow:on: 000090B8
+

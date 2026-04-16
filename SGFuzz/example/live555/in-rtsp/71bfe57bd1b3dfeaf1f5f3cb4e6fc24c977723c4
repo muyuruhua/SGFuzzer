@@ -1,0 +1,16 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1ordeoTest/tAcceptR    TSP/1.0
+CSeq: 4
+User-Agent: ./teer-Aor2AudioVideoTest/ RTSP/1.0
+CSe.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:54/mpeg1ordeoTest/tAcceptR    TSP/1.0
+CSeq: 4
+User-Agent: ./teer-Aor2AudioVideoTest/ RTSP/1.0
+CSe.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:85sport: RTP/AmatroskaFileTestVmatroskaFileTestP;unicast;client_port=50   /1.0
+CSeq: 5
+U$er-Agent:                                                                                                                        ./testRTSPClient (LIVE5CSeq:realing Media v2018.08.28)ession: 000022B8
+

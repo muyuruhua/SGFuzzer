@@ -1,0 +1,9 @@
+DESCRIBE rtspation/sdp
+
+SETUP rtsp://127.0.0$1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testAcceptient (LIVE555 Stream8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CS8-50779eq: 6
+User-Agent: .*testRTSPClientaW36):JJ5 Streaming Media v20*18.08.28)
+Session: 000022B8
+

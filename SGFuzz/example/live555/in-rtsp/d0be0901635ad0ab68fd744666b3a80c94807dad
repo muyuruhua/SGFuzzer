@@ -1,0 +1,9 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/2.0
+CSeq: 2
+User-Ae/ gn.:ttestRTSPClient (LIVE555 Streaming Media v2PClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.rt: RTP/AVP;unicast;client_RTSPClient (LIVE555 Streaming 1edia v2018.08lient_port=50778-50779
+
+SETUP rtsp://127.0.0gth:8.28)
+Sessio.n

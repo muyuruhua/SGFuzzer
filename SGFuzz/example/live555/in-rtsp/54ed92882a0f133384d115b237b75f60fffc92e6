@@ -1,0 +1,14 @@
+DESCRIBE @B      27.0.0.1:8554/mpegDESCRIBE rtsp://127.0.01or2AudioVident: ./testRTSPCliedia v2018.08.28)
+Transport: RTP/AVP;unicastnt (LIVE555 StrPAUSEg Me.1:8dia v2554/mpeg1o018.&208.2 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+UsTransport ./testRTSPClient (LIVE555 Streaming MDESCRIBEedia v2018        
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP############################################################################################ rtsp://127.0.0.wavAudioTestor2AudioTideoTest/track2 *TSP/1.0
+CSeq: 4
+Userpeg1or2AudE555 SRangetreaming Media v2018.08.28)
+Session: 000022B88)
+Transport: RTP/A

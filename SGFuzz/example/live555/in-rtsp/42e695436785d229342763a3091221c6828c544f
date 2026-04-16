@@ -1,0 +1,8 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0User-Agent
+User-Agent: ./                                                   nt_port=+50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudiP/1.0
+CSeq: 6
+User-Agent: .-testRTSPClient (LI VE555eStreaming Media v2018.08.28)
+Session#: 000022B8
+

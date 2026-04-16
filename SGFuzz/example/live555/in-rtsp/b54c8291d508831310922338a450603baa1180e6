@@ -1,0 +1,10 @@
+z t RTSP/1.0
+CSeq: 												G						2
+]ser-Agent: ./testRTSPClient (LIVE555 Stream   _2   a v2018.08.28)
+Accept: aplcpiation/sdp
+
+SETUP rtsp://127.0.0.15:584/mpeg1or8udioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streu   g Media v2018.08.28)
+Transpo/1.0
+CSe

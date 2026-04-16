@@ -1,0 +1,6 @@
+D=SCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudDESCRIBE rtsp://ioVideoTest RTSP/1.0
+CSeq:; 2
+Use r-Agent: ./sevtRTSPClient (LIVE555 Streaming Media v2018.08.127.0.0.21:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Us     8)
+ARAMETE 

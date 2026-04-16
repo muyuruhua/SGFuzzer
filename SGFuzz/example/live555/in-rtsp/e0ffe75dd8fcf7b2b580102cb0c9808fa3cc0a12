@@ -1,0 +1,20 @@
+zG   TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: appl: RTP/AVP;deoTest/track2 RTSP/1.0
+CSer-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.2ication/sdp
+
+SETUP rtsp://127.0.0.1:Scale:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE972 Streimnag Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsaaaaaaaaaaaaaaaaaaaaaa
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Ag     ./testRTSPClient (LIVE972 Streaming Media v2018..28)
+Transpansport: RTP/AVP;uRTSPClient (LIVE972 Streaming :-ERssion: 00008.28)
+Transpansport: RTP/AVP;unicast;client_port=44GET_PAR?2:-Ert=44GET_PAR?2:-ERssion: 000022OPwebmFileTestTIONSB8
+
+PLAY rtsp://128.0.0.1:8554/mRange: npt=9Test/ UTSP/1.0
+CSe

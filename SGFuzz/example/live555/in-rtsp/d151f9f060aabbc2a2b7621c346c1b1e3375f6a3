@@ -1,0 +1,43 @@
+DstdinESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioUP rtsp://127.0.0.1:8=54/mpeg1or22018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:10-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0su<<  E^6
+User-Aor2AudioVideoTest/ RTSP/1.0
+CS5q e:
+User Agent: ./testRTSPClient (La v2018.08.28)
+Seossion: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Aor2AudioVidTSPClient (La v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Aor2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StrealVide.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1..
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport.28)
+Transport: RTP/AVP;unicast;client_port=45546-45547
+Session: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/           1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555'9  eaming Media v1009.08.28)
+Session: 000022B8
+Range: npt=1.100-
+TEARDO            Content-Length:ient (LIVE555 Streaming Media v201                          8.08.28)
+TranspooTest/ RTSP/0.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Strealing Media v2018.08Bi    855RTSP/1.0
+CCeq: 6sUre
+-Agent: ./testRT6PClwebmFileTest5 Streaming Media v2018.08.28)
+Session: 000022B8
+

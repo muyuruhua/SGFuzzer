@@ -1,0 +1,21 @@
+oDESCRIBE rtsp://127.0.
+0.1:8554/mpegng Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_poia v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtspansport: RTPIArt=45GET_PARAMETERssion: 000022B8
+
+PLAY rtspansport: RTPI AY rtsp://127.0.0.1:8554/mpeg1or2AudioVidicast;client_port2D9848690779
+
+SETUP rtsp://127.0PClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_por//127.0.0.1:8554/mpeg1     	04or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: t=45GET_PARAMETERsegng Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_poia v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtspansport: RTPIAVP;unicast;client_port=45GET_PARAMETERsion: 000022B8
+
+PLAY rtspansport: RTPIAVP;unicast;client_port=45GET_PARAMETERssio/tes8
+

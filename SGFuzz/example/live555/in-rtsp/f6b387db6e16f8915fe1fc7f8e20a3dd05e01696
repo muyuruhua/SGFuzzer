@@ -1,0 +1,12 @@
+D  K
+ESCRIBE rtsp://128.0.0.1:8554/mpDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+UsAr-Content-Length:SPCCseqlient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1eRTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVEI55 Streaming Media v2018.08.28!
+Sess RTSP/1.0
+CSeq: 3
+User-Agunt: ./testCPRTSliention: 0000 (LIVE555 Streaming Media v12OPTION2B28S7.0.0

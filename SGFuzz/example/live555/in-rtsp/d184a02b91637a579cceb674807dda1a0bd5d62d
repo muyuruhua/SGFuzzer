@@ -1,0 +1,16 @@
+D8b      Range: npt=9://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.ion/sdp
+
+SETUP rtsp          (LIVE159 S5 Streaming unicas 
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfs                      (LIVE159 S5                                                                                                 Streaming unicas 
+SETUP rtsp:/sp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE554 Streami	  Media v2018.08.28)
+Session: 000011B8
+Range: npt=0.000-
+
+TE RWOANDrtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CCeq: 6
+User-
+

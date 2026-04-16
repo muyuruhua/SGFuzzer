@@ -1,0 +1,12 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTe_4TSP/1.0
+CSeq: 2
+User-Agent: ./testRTSSPClient (LIVES5 rt55eaming Media v2018.08.28)
+Se3ion: 000022B8
+
+PLAY rtsp:Range: npt=98554/mp                            
+
+TEARDOWN rtsp:ac3AudioTest8554/mpeg1or2AudioViduoTest/ RTSP/1.2
+CSeq: 6
+User-Age-Agent: ./RTSPClient (LIVE555 Streaming Media v22AudioV28)
+Session: 000022B8
+

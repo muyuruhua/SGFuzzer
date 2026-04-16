@@ -1,0 +1,9 @@
+DESCRIBE rtsp://12IQOY0551.84:/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE55r-Agent: ./testRTSPClient (LIVE555 Streaming Media/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555r Streaming Media v201  npt=5.000-
+
+TEARDOaming Media v2018.00.28)
+Sessv0n 00@i022B9
+

@@ -1,0 +1,10 @@
+DSATUP WN tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./tia v3   0 08.28)
+Accept: application/sdp
+
+SETU127.0.0.1P rtsp://127.0.5.1:8554/mpeg1or2AudioVideoTest/track1 RTNP/1..
+CSeq: 3
+User-Agent: -./IVE55 PClient (LIVE555 S5 Streaming M0779
+
+SETUP rtsp:/sp://126.0.0.1:8554/mpeg1or2AudioVileoTfst RTSP/1.033333333333333333334r2nt

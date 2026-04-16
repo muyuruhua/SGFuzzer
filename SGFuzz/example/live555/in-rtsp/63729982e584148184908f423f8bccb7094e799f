@@ -1,0 +1,5 @@
+oPLAYRIBE rtsp://127.0.0.1:8554/mpegng Media v2$18.08.28)
+Transport: RTPIAVP;unming Media v2018.0ation/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: DESCRIBE rtsp://127.0.0.1:8554/m3

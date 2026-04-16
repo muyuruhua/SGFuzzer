@@ -1,0 +1,11 @@
+DESCRIBE rtsp://127.0.0.1:855:P RT/AVP;unicast;cli.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 S*treaming /sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTestz t RTSP/1.0
+CSeq: 2
+User-enAgt: ./testRTSPClient (LIVE555 SCSeq: 2
+User-enAgt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: appltrack1 RTSP/1.0
+CSeq: 1or3
+User-Agt (LIVE5562Audi

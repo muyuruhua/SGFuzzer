@@ -1,0 +1,6 @@
+DESeg1or2AudioVideo;unicast;client_povt=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSe28)
+Session: 000022B8
+

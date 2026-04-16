@@ -1,0 +1,17 @@
+Don: 0ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSPSET_PARAMETER/1.0
+Cnt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicatsion: 000023B8t_port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp:/127.0.0.1testRTSPClient (LIVE555 Streamint (LIVE110 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp://12nt: ./tIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSPSET_PARAMETER/1.0
+Cnt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: applicatsion: 000023B8t_port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp:/127.0.0.1testRTSPClient (LIVE555 Streamint (LIVE110 Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000023B8
+
+PLAY rtsp://12nt: ./testRTSPClient (LIVE555 Streaming MeAVPdia v2018.08.28estRTSPClient (LIVE555 Streaming MeAVPdia v2018.08.28)
+Session: 000022B8
+

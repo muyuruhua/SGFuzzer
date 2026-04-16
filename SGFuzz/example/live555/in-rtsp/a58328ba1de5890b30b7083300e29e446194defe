@@ -1,0 +1,18 @@
+D    ESCR*IBE rtsp://127*IBE rtsp://127.0.0.1:J554/mpeg1or2AudioVideoTest RTSP/1.0/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.23)
+Transport: RTP/AVP;unicasDEICRIBE rtsp://127.0.0.1:8554t;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2                  RTSP/1.0ac3A00/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq:ser-Agent: ./twavAudioTestestRTSPCltRTSPClient (LIVE555 Streaming Media v2SETUP01022B88.08.28)
+Session: 0022B8udioTest
+CSeq: 4
+User-Agent: ./test8)
+Transport: DEICRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq:serRTP/AVP;ustdinnica000022B8st;client_port
+
+=45546-455dp
+
+SETUP rAudioVideoTest/track2 RTSP/1

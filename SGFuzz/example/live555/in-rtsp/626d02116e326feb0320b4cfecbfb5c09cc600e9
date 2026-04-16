@@ -1,0 +1,15 @@
+D8b      Range: npt=9://127.0.0.1:85D        ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+C  (  2
+User-Agentrt: RTPIAVP;unicast;client_port=m   45GET_PARAMETERssion; 000022B8
+
+PLAY rtsp://127.0.0.5/5841:mpe   ,2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Sesn0o1: si0022B8
+Range: npt=0.000-
+
+TEARDOnicast;client_port=50778-50779
+54/mpeg1or2AudioVidweoTest RTSP/1.ion/sdp
+
+SETUP rtsp 
+SETUP    

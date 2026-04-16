@@ -1,0 +1,24 @@
+DESideoTest/track2 RTSP/0.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=91092-45547
+Session: 000022B8
+0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018`08.28)
+Transport: RTP/AVP;unicast;cloVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=000022B8
+0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unliveCli/127.0.0.1:8554ent (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unliveMedia27985icast;c/1lient_port=45546-45547
+Session: 000022B8
+
+PLA.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: >/testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45546l45546lic00022BPAUSE8
+

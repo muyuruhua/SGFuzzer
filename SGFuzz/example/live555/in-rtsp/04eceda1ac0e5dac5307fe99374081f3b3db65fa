@@ -1,0 +1,7 @@
+DESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE5D      WDrtsp://127.0.0551.84:/mpeg1or2AudioVideoestRTSPCl
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B55 streaming Media v2018.08.28)
+Acc8
+
+PLAY rtsp:/ept: applicat/1ion

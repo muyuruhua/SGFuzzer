@@ -1,0 +1,6 @@
+DESCRIBE rtsp://User-Agent: ./tAVPRTSPClient (LIVE554 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=46GET_PARAMETERr2AudioVideoTestQdRTSP/1.0
+CSeq: 6
+User-Agent: .TransportClient (LIVE555eStreaming Media v2018.08.28)
+Session: 000022B8
+

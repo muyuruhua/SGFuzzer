@@ -1,0 +1,13 @@
+DmatroskaFileTestAVPRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-AgentContent-Length:ent (LIVE555 Streaming Media v20rt: RTP/AVP;unicast;cli18.88.28)
+Accep?  application/sdp
+/testRTSPClient (LIVE555 Streaming Media v8.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 0000Accept
+PLAY r npt=0.000-
+
+				}}}}}}}}}}}}}}}}}}}}																																																																																		TEARDOWN rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+U-rres-Agt: ./testRTSPClient (LIVE555 St#eaming Media v2018.0             q: 2
+User-AgentCon                                8.28 DESCRIBEn: 000022B8
+

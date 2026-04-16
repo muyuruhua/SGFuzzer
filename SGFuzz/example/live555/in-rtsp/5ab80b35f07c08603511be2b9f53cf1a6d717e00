@@ -1,0 +1,35 @@
+D    ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streamiest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE55s Streaming Media v2018.08.28)
+TrawebmFile                            TestAVP;unicast;c(ient_port5=45GET_PARA
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudaoVideoTest/wavAudioTest RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (L27)
+Acept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wavAudioTest RTSP/1.0*
+CSeq: 5
+User-Agent: .ARDOWN r018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wavAudioTest RTSP/1.0*
+CSeq: 5
+User-Agent: ./testRTSPClipplication/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/wavAudioTest RTSP/1.0
+CSeq: 5       I
+User-Agent: ./testRTSPClient (L54)
+Accept: a1:8554/m/testRTSPClient (LIVE555 Streamingent (L27)
+Accept: a1:8554/m/tesLLLLLLLLLLLLLLLLLLLLLLLLLLLtRTSPClient (LIVE555 Streaming Media v2018.08.28)
+SwebmFileTestession: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:1/02./7.0.1:855RTSP/1.0
+CCeq: 6
+User-Agent: ./testRT6PClwebmFileTest5 Streaming Media v2018.08.28)
+Session: 000022B8
+

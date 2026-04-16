@@ -1,0 +1,27 @@
+DES.RIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accep1t: applic8
+Ra000022B8
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP5 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2000022B88)
+Session: 000022B8
+Range8 npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1t554/mpeg1t=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0A0.1:8554/mpeg1or2AudioVideoTest/ RTSP/0.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Ses ion: 000022B8
+Range: npt=-.000-
+
+TEARDOWN rtsp://127.0.0.1:8554/mpeg1o             r2Audi/ RTSP/1.0
+CCeq:2AudioVident: ././testRTSPClient (LIVE555 Streaming Mudia vdeoTest/track1 RTSP/1.0
+CSeq8
+

@@ -1,0 +1,31 @@
+D 8P/AVPESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCli{{{{{{{{{{Rssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StrEaming Media v2018.08.28)
+Sesn soi:000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8555/mpeg1or2AudioVideoTest/ 4TSP/1.{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{ent (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE555 2Streami Streaming Media v2018.08.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+      -)tsp://127.0.0.1:8554/mpeg1or2AudioViDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AuddeViiooTest RTSP/1.0
+CSeq: 2
+UsdeoTest/ RTSP/1.0
+CSeq: 5
+Uer-Agent: ./tser-Agent: ./testRTSPClient (LIVE555 StrEaming Media v2018.08.28)
+Sesn soi:000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp://127.0.0.1:8555/mpeg1or2AuETUP rtsp://127.0.0.10
+CSea: 6
+User-Agenn: .t/estestRTSPClient (LIFE555 Streaming MTransportedia v2018.08.28)
+Accept: application/sdp
+
+SETUP RTSPClient (LIVE5rtsp://127.0.0

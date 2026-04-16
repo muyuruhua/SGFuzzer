@@ -1,0 +1,17 @@
+DqI  ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2Audio1:8554/mpeg1or2AudioVideoTesz/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE27ETERssion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP+1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2033.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+3:>-DOWN rtsp://063.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CC(LIVE555 StreamiNg Media v2033.08.28!
+Session: 00002B28
+Range: npt=0.000-
+
+3:>- 000022B8
+

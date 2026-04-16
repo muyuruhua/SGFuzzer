@@ -1,0 +1,20 @@
+D000022B8rtsp://127.0.0.1:8554/mpeg1or2AudioVident:port=46-45547
+Session: 0020022B8
+
+SET_PARAMETER PLA.0.0.1:855AY rtsp://127.0.0.1:8554/mpeg1or2,udioVideoTest/ RTSP/1.0
+CSeq: 5
+User-PLAYt: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000022B8
+Rang                                                                  Content-Len th:                                    e: npt=0.000/
+
+TEARDOWN rtsp://127.0.018:.55nsportioVmatroskaFileTest.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE554 Streaming Media v2018.08.28)
+Sessivn@ 000024/m8peg1or2AudioVmatroskaFileTest.0
+CSeq: 6
+User-Agent: ./testRTSPClient (LIVE074  Streaming Media v2018 (LIVE555 Streaming Mee: RTP/A4/m8peg1or2AudioVmatroskaFileTest.0
+CSeq: 6
+User-Agent:nt: ./testRTSPClient (LIVE554 Streaming Media v2018.08.28)
+Sessivn@ 000024/m8peg1or2AudioVmatroskaFileTest.0
+CSeq: 6
+User-Agent: ./testRTSPCr-Agent: ./testRTSPClient (LIVE074  Streaming Media v2018 (LIVE555 Streaming Media v2

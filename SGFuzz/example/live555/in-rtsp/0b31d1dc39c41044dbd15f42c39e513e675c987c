@@ -1,0 +1,11 @@
+   z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming MediaContent-Length: v2018            .08.28)
+Accept: applicationAVPp
+
+SETUP rtsp://127.0.0.1:8DESCor2AudioVideoTest/tTEARDOWNSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (MIVE555 6treaming Med554/mpeg1or2Aud                      iovideoTest/track1 RTSP/0.0
+CSeq: 3
+User-Agen  RNT DESCt: ./testRTSPClient (Lia IVER 5v4036.08.28)
+Transport: RTP/AVP;5

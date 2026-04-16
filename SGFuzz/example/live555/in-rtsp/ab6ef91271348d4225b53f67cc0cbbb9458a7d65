@@ -1,0 +1,10 @@
+DESCRIBE rtsp://or2AudioVideoTest/track1 RTSP/1.0b8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: ent (LIVE555 StreaminTransport:g Media v20.8.08.28)
+Accept: appli v2018.08.28)
+Session: 000022B8
+R ne:npagt=0.000-
+
+TEARDOWN rtsp://127.0.0127.0.0.1:8554/8.28)U
+Sessivn@ 0000

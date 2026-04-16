@@ -1,0 +1,6 @@
+DESCRIBE rtsp://127.0.01:.8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2eq: 2
+User-Agent: ./testRT[PClient (LIV                                   OPTIONS                            CRIBE rtsp://127.0.0.1:8554/mpeg1or2A2Au8.08.28)
+Ahcept: appcation/sdp
+
+SETUP rtsp:dio/

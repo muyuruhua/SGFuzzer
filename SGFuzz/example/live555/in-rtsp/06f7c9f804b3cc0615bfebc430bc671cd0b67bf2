@@ -1,0 +1,10 @@
+DPAUSEoac3AudioTest tsp://12 tsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testGET_PARAMETERCSeq: 3
+User-Agent: .stRTSPClient (LIVEIVE555 Streaming PAUSEMedia v2019.08.28)
+Sesion: 000022B8
+
+PLAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0%
+CSeq: 5
+User-Ag)ent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session:Scale:2BE555 Streaming Media v2018.08.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\^\\\\\\\\\D\\

@@ -1,0 +1,11 @@
+DCSeq:BE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTfst RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdpTransport
+
+SE*UP rtsp://127.0.0.1:8554/mpeg1orDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTesDESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0S
+Ceq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1ort 2AudioVideoRTSPT/1.0

@@ -1,0 +1,21 @@
+DESCRNBE rtsp://127.nt (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (L27)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.1:855N4/mpeg1or2AudioVi2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent:0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Accept: application/sdp
+
+SETUP rtsp://127.0.0.peg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-AgeD2?CRIBE rtsp://123.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+Use~r-Agent: ./testRTnt: ./testRTSPClient (L27)
+AcceSPClient (LIVE555 Streaming Media pt: apv2018.0pli

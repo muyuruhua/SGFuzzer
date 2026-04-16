@@ -1,0 +1,25 @@
+DESS CRIBPLAYE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./*estRTSPClient (LIVE555 streaming Med-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.0              8.28)
+Transport: RTPIAVP;unicast;client_port=45GET_PARAMETERssion: 000022B8
+
+PLAY rtsp://127.0e       .0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08.28)
+Session: 000022B8
+Range: npt=0.000-
+
+TEARDOWN rtsp:7777777777777//127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 6
+User-Agent: ./testRTSPClient (z t RTSP/1.0
+LIVE555 St#eaming Med0 22B8
+Range: npt=5.000-
+
+TEARD1-127.0.0.1127.0.0.1:855reaming Media v20118.08.28)
+Sessio DESCRIBE rtsp://127.0.0.1:8554/ipeg1or2AudioVidmnt:                     4/ipeg1or2AudioVidmnt:                              .
+
+PLAGET_PARAMETERY rtsp://127/testRT

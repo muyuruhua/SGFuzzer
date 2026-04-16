@@ -1,0 +1,20 @@
+D        ESCRIBE rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeqRDac3AudioTestdioVideoTest/track2 RTSP/1.0
+CSeq: 4
+User-Agent: ./testRTSPClient (LAY rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 Streaming Media v2018.08.28)
+Session: 000ept: application/sdp
+
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0
+CSeq: 5
+User-Agent: ./testRTSPClient (LIVE555 StremMignea dia v2018.08. 8)
+Session: 000022B8
+Range:sdp
+
+SETUP rtspDESCRIBE rtsp://1oVideoTest/ RTSP/1.0DESCRIBE rtsp://123.0.
+CSeq: 5
+
+User-Agent: ./testRTSPClient (LI//127.0.0.1:8554/mpeg1or2AudioVideoTest RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSDOWN rtsp://127.matroskaFileTest0.0.1:0.1:8554/mpeg18554/mpeg1or2AudioVileient (LIVE555 St#eaor2Audiom

@@ -1,0 +1,23 @@
+z t RTSP/1.0
+CSeq: 2
+User-Agent: ./testRTSPCliapplication/sdp
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE973 Streaming Media Scale:06.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1;8554/mpeg1or2AudioVideoTest/track1 RTSP/1.0
+CSer-Agent: ./testRTSPClient (L1or2AudioVideoTest/track1 RTSP/1.0
+CSeq: 3
+User-Agent: ./testRTSPClient (LIVE973 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=50778-50779
+
+SETUP rtsp://127.0.0.1:8554/mpeg1or2AudioVideoTest/track1 RTSP/2.0
+CSer-Agent: ./testRTSPClient (LIVE555 Streaming Media v3976.08.28)
+Acce55 Streaming Media v2018.08.28)
+Transport: RTP/AVP;unicast;client_port=45GET_PARAMETERssion:
+CSeq:"  0000127.0.0.1B8W
+
+PLAY rtsp://12Range.0.1:8554/mpeg1or2Aueaming MedioVideoRange: npt=9Test/ RTSP/1.0
+CSe
